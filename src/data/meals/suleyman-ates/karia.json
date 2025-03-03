@@ -1,0 +1,50 @@
+{
+  "surahNumber": "101",
+  "surahName": "Kâria Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Çarpan olay!"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Nedir o çarpan olay?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "O çarpan olayın ne olduğunu sen nereden bileceksin?"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "O gün insanlar, yayılmış pervaneler gibi olur(lar)."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Dağlar atılmış renkli yün gibi olur."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Kimin tartıları ağır gelirse,"
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "O, memmun edici bir hayat içindedir."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Kimin tartıları hafif gelirse,"
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "Onun anası (bağrına atılacağı) haviye(uçurum)dur."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "Onun ne olduğunu sen nereden bileceksin?"
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "Kızgın bir ateştir!"
+    }
+  ]
+}

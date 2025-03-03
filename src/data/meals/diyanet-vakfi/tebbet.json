@@ -1,0 +1,26 @@
+{
+  "surahNumber": "111",
+  "surahName": "Tebbet Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Ebu Leheb'in iki eli kurusun! Kurudu da."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Malı ve kazandıkları ona fayda vermedi."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "O, alevli bir ateşte yanacak."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Odun taşıyıcı olarak karısı da (ateşe girecek)."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Ve boynunda hurma lifinden bükülmüş bir ip olduğu halde."
+    }
+  ]
+}

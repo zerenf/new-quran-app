@@ -1,0 +1,24 @@
+{
+  "kureys": {
+    "surahNumber": "106",
+    "surahNameTr": "Kureyş Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "liîlâfi ḳurayş."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "îlâfihim riḥlete-şşitâi veṣṣayf."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "felya`büdû rabbe hâẕe-lbeyt."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "elleẕî aṭ`amehüm min cû`iv veâmenehüm min ḫavf."
+      }
+    ]
+  }
+}

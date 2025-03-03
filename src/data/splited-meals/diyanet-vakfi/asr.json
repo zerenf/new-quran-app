@@ -1,0 +1,20 @@
+{
+  "asr": {
+    "surahNumber": "103",
+    "surahNameTr": "Asr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Asra yemin ederim ki"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnsan gerçekten ziyan içindedir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Bundan ancak iman edip iyi ameller işleyenler, birbirlerine hakkı tavsiye edenler ve sabrı tavsiye edenler müstesnadır."
+      }
+    ]
+  }
+}

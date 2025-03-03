@@ -1,0 +1,52 @@
+{
+  "duha": {
+    "surahNumber": "93",
+    "surahNameTr": "Duhâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "veḍḍuḥâ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "velleyli iẕâ secâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "mâ vedde`ake rabbüke vemâ ḳalâ."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "velel'âḫiratü ḫayrul leke mine-l'ûlâ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "velesevfe yü`ṭîke rabbüke feterḍâ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "elem yecidke yetîmen feâvâ."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "vevecedeke ḍâllen fehedâ."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "vevecedeke `âilen feagnâ."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "feemme-lyetîme felâ taḳher."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "veemme-ssâile felâ tenher."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "veemmâ bini`meti rabbike feḥaddiŝ."
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "maun": {
+    "surahNumber": "107",
+    "surahNameTr": "Mâûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Dini yalan sayanı gördün mü?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Öksüzü kakıştıran, yoksulu doyurmaya yanaşmayan kimse işte odur."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Vay o namaz kılanların haline ki:"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Onlar kıldıkları namazdan gafildirler."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Onlar gösteriş yaparlar."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Onlar basit şeyleri dahi vermezler."
+      }
+    ]
+  }
+}

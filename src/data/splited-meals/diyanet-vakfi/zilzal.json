@@ -1,0 +1,40 @@
+{
+  "zilzal": {
+    "surahNumber": "99",
+    "surahNameTr": "Zilzâl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Yerküre kendine has sarsıntısıyla sallandığı,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Toprak ağırlıklarını dışarı çıkardığı,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve insan \"Ne oluyor buna!\" dediği vakit,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "İşte o gün (yer) haberlerini anlatır,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Rabbinin ona bildirmesiyle."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "O gün insanlar amellerini görmeleri (karşılığını almaları) için darmadağınık geri dönüp gelirler."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Kim zerre miktarı hayır yapmışsa onu görür."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Kim de zerre miktarı şer işlemişse onu görür."
+      }
+    ]
+  }
+}

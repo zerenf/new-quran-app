@@ -1,0 +1,28 @@
+{
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Fil ashabına Rabbin ne yaptı, neler etti, görmedin mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Düzenlerini boşa çıkarmadı mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve onlara, çeşitli yerlerden bölükbölük, birbiri ardınca kuşlar göndermedi mi?"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onları, balçıktan taşlarla taşladılar."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Onlar da içi boş ekin saplarına, kırılıp ezilmiş samanlara döndüler."
+      }
+    ]
+  }
+}

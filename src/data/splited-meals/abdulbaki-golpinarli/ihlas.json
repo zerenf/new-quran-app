@@ -1,0 +1,24 @@
+{
+  "ihlas": {
+    "surahNumber": "112",
+    "surahNameTr": "İhlâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: O Allah, birdir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Her şey ve herkes, ona muhtaçtır, onun zevali yoktur, birşeye muhtaç değildir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Doğurmaz ve doğmamıştır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve ona, bir tek eşit ve benzer olamaz, yoktur."
+      }
+    ]
+  }
+}

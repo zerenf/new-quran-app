@@ -1,0 +1,32 @@
+{
+  "nas": {
+    "surahNumber": "114",
+    "surahNameTr": "Nâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: \"Sığınırım ben, insanların Rabbine."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnsanların padişahına,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "İnsanların Tanrısına:"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O sinsi vesvesecinin şerrinden."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "O ki insanların göğüslerine (kötü düşünceler) fısıldar."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerek cinlerden, gerek insanlardan (olan bütün vesvesecilerin şerrinden Allah'a sığınırım)."
+      }
+    ]
+  }
+}

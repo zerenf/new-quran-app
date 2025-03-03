@@ -1,0 +1,36 @@
+{
+  "maun": {
+    "surahNumber": "107",
+    "surahNameTr": "Mâûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Din(ahiret cezasın)ı yalanlayan(adam)ı gördün mü?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İşte o, öksüzü iter, kakar;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Yoksulu doyurmağa önayak olmaz."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Şu namaz kılanların vay haline,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ki, onlar namazlarından gaflet ederler (kıldıkları namazın değerini bilmez, ona önem vermezler)."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Onlar gösteriş (için ibadet) yaparlar."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "En ufak bir yardımı esirgerler."
+      }
+    ]
+  }
+}

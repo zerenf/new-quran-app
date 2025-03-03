@@ -1,0 +1,52 @@
+{
+  "duha": {
+    "surahNumber": "93",
+    "surahNameTr": "Duhâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kuşluk vaktine andolsun,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "'Karanlığı iyice çöktüğü' zaman geceye,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Rabbin seni terk etmedi ve darılmadı."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Şüphesiz senin için son olan, ilk olandan (ahiret dünyadan) daha hayırlıdır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Elbette Rabbin sana verecek, böylece sen hoşnut kalacaksın."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bir yetim iken, seni bulup da barındırmadı mı?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve seni yol bilmez iken, 'doğru yola yöneltip iletmedi mi?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Bir yoksul iken seni bulup zengin etmedi mi?"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Öyleyse, sakın yetimi üzüp-kahretme."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "İsteyip-dileneni azarlayıp-çıkışma."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Rabbinin nimetini durmaksızın anlat."
+      }
+    ]
+  }
+}

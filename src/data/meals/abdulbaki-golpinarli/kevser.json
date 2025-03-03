@@ -1,0 +1,18 @@
+{
+  "surahNumber": "108",
+  "surahName": "Kevser Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Şüphe yok ki biziz sana kevseri veren."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Artık namaz kıl Rabbine ve kurban kes sen."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Şüphesiz, sana buğzeden yok mu, odur nesli kesilen."
+    }
+  ]
+}

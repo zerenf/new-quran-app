@@ -1,0 +1,478 @@
+{
+  "surahNumber": "23",
+  "surahName": "Mü'minûn Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "ḳad efleḥa-lmü'minûn."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "elleẕîne hüm fî ṣalâtihim ḫâşi`ûn."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "velleẕîne hüm `ani-llagvi mü`riḍûn."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "velleẕîne hüm lilzekâti fâ`ilûn."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "velleẕîne hüm lifürûcihim ḥâfiżûn."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "illâ `alâ ezvâcihim ev mâ meleket eymânühüm feinnehüm gayru melûmîn."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "femeni-btegâ verâe ẕâlike feülâike hümü-l`âdûn."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "velleẕîne hüm liemânâtihim ve`ahdihim râ`ûn."
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "velleẕîne hüm `alâ ṣalevâtihim yüḥâfiżûn."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "ülâike hümü-lvâriŝûn."
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "elleẕîne yeriŝûne-lfirdevs. hüm fîhâ ḫâlidûn."
+    },
+    {
+      "ayahNumber": "12",
+      "ayahText": "veleḳad ḫalaḳne-l'insâne min sülâletim min ṭîn."
+    },
+    {
+      "ayahNumber": "13",
+      "ayahText": "ŝümme ce`alnâhü nuṭfeten fî ḳarârim mekîn."
+    },
+    {
+      "ayahNumber": "14",
+      "ayahText": "ŝümme ḫalaḳne-nnuṭfete `aleḳaten feḫalaḳne-l`aleḳate muḍgaten feḫalaḳne-lmuḍgate `iżâmen fekesevne-l`iżâme laḥmâ. ŝümme enşe'nâhü ḫalḳan âḫar. fetebârake-llâhü aḥsenü-lḫâliḳîn."
+    },
+    {
+      "ayahNumber": "15",
+      "ayahText": "ŝümme inneküm ba`de ẕâlike lemeyyitûn."
+    },
+    {
+      "ayahNumber": "16",
+      "ayahText": "ŝümme inneküm yevme-lḳiyâmeti tüb`aŝûn."
+    },
+    {
+      "ayahNumber": "17",
+      "ayahText": "veleḳad ḫalaḳnâ fevḳaküm seb`a ṭarâiḳ. vemâ künnâ `ani-lḫalḳi gâfilîn."
+    },
+    {
+      "ayahNumber": "18",
+      "ayahText": "veenzelnâ mine-ssemâi mâem biḳaderin feeskennâhü fi-l'arḍ. veinnâ `alâ ẕehâbim bihî leḳâdirûn."
+    },
+    {
+      "ayahNumber": "19",
+      "ayahText": "feenşe'nâ leküm bihî cennâtim min neḫîliv vea`nâb. leküm fîhâ fevâkihü keŝîratüv veminhâ te'külûn."
+    },
+    {
+      "ayahNumber": "20",
+      "ayahText": "veşeceraten taḫrucü min ṭûri seynâe tembütü biddühni veṣibgil lil'âkilîn."
+    },
+    {
+      "ayahNumber": "21",
+      "ayahText": "veinne leküm fi-l'en`âmi le`ibrah. nüsḳîküm mimmâ fî büṭûnihâ veleküm fîhâ menâfi`u keŝîratüv veminhâ te'külûn."
+    },
+    {
+      "ayahNumber": "22",
+      "ayahText": "ve`aleyhâ ve`ale-lfülki tuḥmelûn."
+    },
+    {
+      "ayahNumber": "23",
+      "ayahText": "veleḳad erselnâ nûḥan ilâ ḳavmihî feḳâle yâ ḳavmi-`büdü-llâhe mâ leküm min ilâhin gayruh. efelâ tetteḳûn."
+    },
+    {
+      "ayahNumber": "24",
+      "ayahText": "feḳâle-lmeleü-lleẕîne keferû min ḳavmihî mâ hâẕâ illâ beşerum miŝlüküm yürîdü ey yetefeḍḍale `aleyküm. velev şâe-llâhü leenzele melâikeh. mâ semi`nâ bihâẕâ fî âbâine-l'evvelîn."
+    },
+    {
+      "ayahNumber": "25",
+      "ayahText": "in hüve illâ racülüm bihî cinnetün feterabbeṣû bihî ḥattâ ḥîn."
+    },
+    {
+      "ayahNumber": "26",
+      "ayahText": "ḳâle rabbi-nṣurnî bimâ keẕẕebûn."
+    },
+    {
+      "ayahNumber": "27",
+      "ayahText": "feevḥaynâ ileyhi eni-ṣne`i-lfülke bia`yüninâ vevaḥyinâ feiẕâ câe emrunâ vefâra-ttennûru feslük fîhâ min küllin zevceyni-ŝneyni veehleke illâ men sebeḳa `aleyhi-lḳavlü minhüm. velâ tüḫâṭibnî fi-lleẕîne żalemû. innehüm mugraḳûn."
+    },
+    {
+      "ayahNumber": "28",
+      "ayahText": "feiẕe-steveyte ente vemem me`ake `ale-lfülki feḳuli-lḥamdü lillâhi-lleẕî neccânâ mine-lḳavmi-żżâlimîn."
+    },
+    {
+      "ayahNumber": "29",
+      "ayahText": "veḳur rabbi enzilnî münzelem mübârakev veente ḫayru-lmünzilîn."
+    },
+    {
+      "ayahNumber": "30",
+      "ayahText": "inne fî ẕâlike leâyâtiv vein künnâ lemübtelîn."
+    },
+    {
+      "ayahNumber": "31",
+      "ayahText": "ŝümme enşe'nâ mim ba`dihim ḳarnen âḫarîn."
+    },
+    {
+      "ayahNumber": "32",
+      "ayahText": "feerselnâ fîhim rasûlem minhüm eni-`büdü-llâhe mâ leküm min ilâhin gayruh. efelâ tetteḳûn."
+    },
+    {
+      "ayahNumber": "33",
+      "ayahText": "veḳâle-lmeleü min ḳavmihi-lleẕîne keferû vekeẕẕebû biliḳâi-l'âḫirati veetrafnâhüm fi-lḥayâti-ddünyâ mâ hâẕâ illâ beşerum miŝlüküm ye'külü mimmâ te'külûne minhü veyeşrabü mimmâ teşrabûn."
+    },
+    {
+      "ayahNumber": "34",
+      "ayahText": "velein eṭa`tüm beşeram miŝleküm inneküm iẕel leḫâsirûn."
+    },
+    {
+      "ayahNumber": "35",
+      "ayahText": "eye`idüküm enneküm iẕâ mittüm veküntüm türâbev ve`iżâmen enneküm muḫracûn."
+    },
+    {
+      "ayahNumber": "36",
+      "ayahText": "heyhâte heyhâte limâ tû`adûn."
+    },
+    {
+      "ayahNumber": "37",
+      "ayahText": "in hiye illâ ḥayâtüne-ddünyâ nemûtü venaḥyâ vemâ naḥnü bimeb`ûŝîn."
+    },
+    {
+      "ayahNumber": "38",
+      "ayahText": "in hüve illâ racülün-fterâ `ale-llâhi keẕibev vemâ naḥnü lehû bimü'minîn."
+    },
+    {
+      "ayahNumber": "39",
+      "ayahText": "ḳâle rabbi-nṣurnî bimâ keẕẕebûn."
+    },
+    {
+      "ayahNumber": "40",
+      "ayahText": "ḳâle `ammâ ḳalîlil leyuṣbiḥunne nâdimîn."
+    },
+    {
+      "ayahNumber": "41",
+      "ayahText": "feeḫaẕethümu-ṣṣayḥatü bilḥaḳḳi fece`alnâhüm guŝââ. febü`del lilḳavmi-żżâlimîn."
+    },
+    {
+      "ayahNumber": "42",
+      "ayahText": "ŝümme enşe'nâ mim ba`dihim ḳurûnen âḫarîn."
+    },
+    {
+      "ayahNumber": "43",
+      "ayahText": "mâ tesbiḳu min ümmetin ecelehâ vemâ yeste'ḫirûn."
+    },
+    {
+      "ayahNumber": "44",
+      "ayahText": "ŝümme erselnâ rusülenâ tetrâ. küllemâ câe ümmeter rasûlühâ keẕẕebûhü feetba`nâ ba`ḍahüm ba`ḍav vece`alnâhüm eḥâdîŝ. febü`del liḳavmil lâ yü'minûn."
+    },
+    {
+      "ayahNumber": "45",
+      "ayahText": "ŝümme erselnâ mûsâ veeḫâhü hârûne biâyâtinâ vesülṭânim mübîn."
+    },
+    {
+      "ayahNumber": "46",
+      "ayahText": "ilâ fir`avne vemeleihî festekberû vekânû ḳavmen `âlîn."
+    },
+    {
+      "ayahNumber": "47",
+      "ayahText": "feḳâlû enü'minü libeşerayni miŝlinâ veḳavmühümâ lenâ `âbidûn."
+    },
+    {
+      "ayahNumber": "48",
+      "ayahText": "fekeẕẕebûhümâ fekânû mine-lmühlekîn."
+    },
+    {
+      "ayahNumber": "49",
+      "ayahText": "veleḳad âteynâ mûse-lkitâbe le`allehüm yehtedûn."
+    },
+    {
+      "ayahNumber": "50",
+      "ayahText": "vece`alne-bne meryeme veümmehû âyetev veâveynâhümâ ilâ rabvetin ẕâti ḳarâriv veme`în."
+    },
+    {
+      "ayahNumber": "51",
+      "ayahText": "yâ eyyühe-rrusülü külû mine-ṭṭayyibâti va`melû ṣâliḥâ. innî bimâ ta`melûne `alîm."
+    },
+    {
+      "ayahNumber": "52",
+      "ayahText": "veinne hâẕihî ümmetüküm ümmetev vâḥidetev veenâ rabbüküm fetteḳûn."
+    },
+    {
+      "ayahNumber": "53",
+      "ayahText": "feteḳaṭṭa`û emrahüm beynehüm zübürâ. küllü ḥizbim bimâ ledeyhim feriḥûn."
+    },
+    {
+      "ayahNumber": "54",
+      "ayahText": "feẕerhüm fî gamratihim ḥattâ ḥîn."
+    },
+    {
+      "ayahNumber": "55",
+      "ayahText": "eyaḥsebûne ennemâ nümiddühüm bihî mim mâliv vebenîn."
+    },
+    {
+      "ayahNumber": "56",
+      "ayahText": "nüsâri`u lehüm fi-lḫayrât. bel lâ yeş`urûn."
+    },
+    {
+      "ayahNumber": "57",
+      "ayahText": "inne-lleẕîne hüm min ḫaşyeti rabbihim müşfiḳûn."
+    },
+    {
+      "ayahNumber": "58",
+      "ayahText": "velleẕîne hüm biâyâti rabbihim yü'minûn."
+    },
+    {
+      "ayahNumber": "59",
+      "ayahText": "velleẕîne hüm birabbihim lâ yüşrikûn."
+    },
+    {
+      "ayahNumber": "60",
+      "ayahText": "velleẕîne yü'tûne mâ âtev veḳulûbühüm veciletün ennehüm ilâ rabbihim râci`ûn."
+    },
+    {
+      "ayahNumber": "61",
+      "ayahText": "ülâike yüsâri`ûne fi-lḫayrâti vehüm lehâ sâbiḳûn."
+    },
+    {
+      "ayahNumber": "62",
+      "ayahText": "velâ nükellifü nefsen illâ vus`ahâ veledeynâ kitâbüy yenṭiḳu bilḥaḳḳi vehüm lâ yużlemûn."
+    },
+    {
+      "ayahNumber": "63",
+      "ayahText": "bel ḳulûbühüm fî gamratim min hâẕâ velehüm a`mâlüm min dûni ẕâlike hüm lehâ `âmilûn."
+    },
+    {
+      "ayahNumber": "64",
+      "ayahText": "ḥattâ iẕâ eḫaẕnâ mütrafîhim bil`aẕâbi iẕâ hüm yec'erûn."
+    },
+    {
+      "ayahNumber": "65",
+      "ayahText": "lâ tec'erü-lyevme inneküm minnâ lâ tünṣarûn."
+    },
+    {
+      "ayahNumber": "66",
+      "ayahText": "ḳad kânet âyâtî tütlâ `aleyküm feküntüm `alâ a`ḳâbiküm tenkisûn."
+    },
+    {
+      "ayahNumber": "67",
+      "ayahText": "müstekbirîne bih. sâmiran tehcürûn."
+    },
+    {
+      "ayahNumber": "68",
+      "ayahText": "efelem yeddebberü-lḳavle em câehüm mâ lem ye'ti âbâehümü-l'evvelîn."
+    },
+    {
+      "ayahNumber": "69",
+      "ayahText": "em lem ya`rifû rasûlehüm fehüm lehû münkirûn."
+    },
+    {
+      "ayahNumber": "70",
+      "ayahText": "em yeḳûlûne bihî cinneh. bel câehüm bilḥaḳḳi veekŝeruhüm lilḥaḳḳi kârihûn."
+    },
+    {
+      "ayahNumber": "71",
+      "ayahText": "velevi-ttebe`a-lḥaḳḳu ehvâehüm lefesedeti-ssemâvâtü vel'arḍu vemen fîhinn. bel eteynâhüm biẕikrihim fehüm `an ẕikrihim mü`riḍûn."
+    },
+    {
+      "ayahNumber": "72",
+      "ayahText": "em tes'elühüm ḫarcen feḫarâcü rabbike ḫayr. vehüve ḫayru-rrâziḳîn."
+    },
+    {
+      "ayahNumber": "73",
+      "ayahText": "veinneke leted`ûhüm ilâ ṣirâṭim müsteḳîm."
+    },
+    {
+      "ayahNumber": "74",
+      "ayahText": "veinne-lleẕîne lâ yü'minûne bil'âḫirati `ani-ṣṣirâṭi lenâkibûn."
+    },
+    {
+      "ayahNumber": "75",
+      "ayahText": "velev raḥimnâhüm vekeşefnâ mâ bihim min ḍurril leleccû fî ṭugyânihim ya`mehûn."
+    },
+    {
+      "ayahNumber": "76",
+      "ayahText": "veleḳad eḫaẕnâhüm bil`aẕâbi feme-stekânû lirabbihim vemâ yeteḍarra`ûn."
+    },
+    {
+      "ayahNumber": "77",
+      "ayahText": "ḥattâ iẕâ fetaḥnâ `aleyhim bâben ẕâ `aẕâbin şedîdin iẕâ hüm fîhi müblisûn."
+    },
+    {
+      "ayahNumber": "78",
+      "ayahText": "vehüve-lleẕî enşee lekümü-ssem`a vel'ebṣâra vel'ef'ideh. ḳalîlem mâ teşkürûn."
+    },
+    {
+      "ayahNumber": "79",
+      "ayahText": "vehüve-lleẕî ẕera'eküm fi-l'arḍi veileyhi tuḥşerûn."
+    },
+    {
+      "ayahNumber": "80",
+      "ayahText": "vehüve-lleẕî yuḥyî veyümîtü velehu-ḫtilâfü-lleyli vennehâr. efelâ ta`ḳilûn."
+    },
+    {
+      "ayahNumber": "81",
+      "ayahText": "bel ḳâlû miŝle mâ ḳâle-l'evvelûn."
+    },
+    {
+      "ayahNumber": "82",
+      "ayahText": "ḳâlû eiẕâ mitnâ vekünnâ türâbev ve`iżâmen einnâ lemeb`ûŝûn."
+    },
+    {
+      "ayahNumber": "83",
+      "ayahText": "leḳad vu`idnâ naḥnü veâbâünâ hâẕâ min ḳablü in hâẕâ illâ esâṭîru-l'evvelîn."
+    },
+    {
+      "ayahNumber": "84",
+      "ayahText": "ḳul limeni-l'arḍu vemen fîhâ in küntüm ta`lemûn."
+    },
+    {
+      "ayahNumber": "85",
+      "ayahText": "seyeḳûlûne lillâh. ḳul efelâ teẕekkerûn."
+    },
+    {
+      "ayahNumber": "86",
+      "ayahText": "ḳul mer rabbü-ssemâvâti-sseb`i verabbü-l`arşi-l`ażîm."
+    },
+    {
+      "ayahNumber": "87",
+      "ayahText": "seyeḳûlûne lillâh. ḳul efelâ tetteḳûn."
+    },
+    {
+      "ayahNumber": "88",
+      "ayahText": "ḳul mem biyedihî melekûtü külli şey'iv vehüve yücîru velâ yücâru `aleyhi in küntüm ta`lemûn."
+    },
+    {
+      "ayahNumber": "89",
+      "ayahText": "seyeḳûlûne lillâh. ḳul feennâ tüsḥarûn."
+    },
+    {
+      "ayahNumber": "90",
+      "ayahText": "bel eteynâhüm bilḥaḳḳi veinnehüm lekâẕibûn."
+    },
+    {
+      "ayahNumber": "91",
+      "ayahText": "me-tteḫaẕe-llâhü miv velediv vemâ kâne me`ahû min ilâhin iẕel leẕehebe küllü ilâhim bimâ ḫaleḳa vele`alâ ba`ḍuhüm `alâ ba`ḍ. sübḥâne-llâhi `ammâ yeṣifûn."
+    },
+    {
+      "ayahNumber": "92",
+      "ayahText": "`âlimi-lgaybi veşşehâdeti fete`âlâ `ammâ yüşrikûn."
+    },
+    {
+      "ayahNumber": "93",
+      "ayahText": "ḳur rabbi immâ türiyennî mâ yû`adûn."
+    },
+    {
+      "ayahNumber": "94",
+      "ayahText": "rabbi felâ tec`alnî fi-lḳavmi-żżâlimîn."
+    },
+    {
+      "ayahNumber": "95",
+      "ayahText": "veinnâ `alâ en nüriyeke mâ ne`idühüm leḳâdirûn."
+    },
+    {
+      "ayahNumber": "96",
+      "ayahText": "idfa` billetî hiye aḥsenü-sseyyieh. naḥnü a`lemü bimâ yeṣifûn."
+    },
+    {
+      "ayahNumber": "97",
+      "ayahText": "veḳur rabbi e`ûẕü bike min hemezâti-şşeyâṭîn."
+    },
+    {
+      "ayahNumber": "98",
+      "ayahText": "vee`ûẕü bike rabbi ey yaḥḍurûn."
+    },
+    {
+      "ayahNumber": "99",
+      "ayahText": "ḥattâ iẕâ câe eḥadehümü-lmevtü ḳâle rabbi-rci`ûn."
+    },
+    {
+      "ayahNumber": "100",
+      "ayahText": "le`allî a`melü ṣâliḥan fîmâ teraktü kellâ. innehâ kelimetün hüve ḳâilühâ. vemiv verâihim berzeḫun ilâ yevmi yüb`aŝûn."
+    },
+    {
+      "ayahNumber": "101",
+      "ayahText": "feiẕâ nüfiḫa fi-ṣṣûri felâ ensâbe beynehüm yevmeiẕiv velâ yetesâelûn."
+    },
+    {
+      "ayahNumber": "102",
+      "ayahText": "femen ŝeḳulet mevâzînühû feülâike hümü-lmüfliḥûn."
+    },
+    {
+      "ayahNumber": "103",
+      "ayahText": "vemen ḫaffet mevâzînühû feülâike-lleẕîne ḫasirû enfüsehüm fî cehenneme ḫâlidûn."
+    },
+    {
+      "ayahNumber": "104",
+      "ayahText": "telfeḥu vucûhehümü-nnâru vehüm fîhâ kâliḥûn."
+    },
+    {
+      "ayahNumber": "105",
+      "ayahText": "elem tekün âyâtî tütlâ `aleyküm feküntüm bihâ tükeẕẕibûn."
+    },
+    {
+      "ayahNumber": "106",
+      "ayahText": "ḳâlû rabbenâ galebet `aleynâ şiḳvetünâ vekünnâ ḳavmen ḍâllîn."
+    },
+    {
+      "ayahNumber": "107",
+      "ayahText": "rabbenâ aḫricnâ minhâ fein `udnâ feinnâ żâlimûn."
+    },
+    {
+      "ayahNumber": "108",
+      "ayahText": "ḳâle-ḫseû fîhâ velâ tükellimûn."
+    },
+    {
+      "ayahNumber": "109",
+      "ayahText": "innehû kâne ferîḳum min `ibâdî yeḳûlûne rabbenâ âmennâ fagfir lenâ verḥamnâ veente ḫayru-rrâḥimîn."
+    },
+    {
+      "ayahNumber": "110",
+      "ayahText": "fetteḫaẕtümûhüm siḫriyyen ḥattâ ensevküm ẕikrî veküntüm minhüm taḍḥakûn."
+    },
+    {
+      "ayahNumber": "111",
+      "ayahText": "innî cezeytühümü-lyevme bimâ ṣaberû ennehüm hümü-lfâizûn."
+    },
+    {
+      "ayahNumber": "112",
+      "ayahText": "ḳâle kem lebiŝtüm fi-l'arḍi `adede sinîn."
+    },
+    {
+      "ayahNumber": "113",
+      "ayahText": "ḳâlû lebiŝnâ yevmen ev ba`ḍa yevmin fes'eli-l`âddîn."
+    },
+    {
+      "ayahNumber": "114",
+      "ayahText": "ḳâle il lebiŝtüm illâ ḳalîlel lev enneküm küntüm ta`lemûn."
+    },
+    {
+      "ayahNumber": "115",
+      "ayahText": "efeḥasibtüm ennemâ ḫalaḳnâküm `abeŝev veenneküm ileynâ lâ türce`ûn."
+    },
+    {
+      "ayahNumber": "116",
+      "ayahText": "fete`âle-llâhü-lmelikü-lḥaḳḳ. lâ ilâhe illâ hû. rabbü-l`arşi-lkerîm."
+    },
+    {
+      "ayahNumber": "117",
+      "ayahText": "vemey yed`u me`a-llâhi ilâhen âḫara lâ bürhâne lehû bihî feinnemâ ḥisâbühû `inde rabbih. innehû lâ yüfliḥu-lkâfirûn."
+    },
+    {
+      "ayahNumber": "118",
+      "ayahText": "veḳur rabbi-gfir verḥam veente ḫayru-rrâḥimîn."
+    }
+  ]
+}

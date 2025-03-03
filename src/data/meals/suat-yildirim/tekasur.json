@@ -1,0 +1,38 @@
+{
+  "surahNumber": "102",
+  "surahName": "Tekâsür Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Dünyalıklarla böbürlenmek, oyaladı sizleri."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Tâ boylayıncaya kadar kabirleri!"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Hayır (geçici dünya zevklerine bağlanmak doğru değil, sakının bundan) ileride bileceksiniz!"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Evet, evet! İleride bileceksiniz!"
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Sakının bundan! Eğer kesin bir tarzda (ilmelyakin) bilseydiniz böyle yapmazdınız."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Siz cehennemi göreceksiniz."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "Evet, evet onu mutlaka gözlerinizle göreceksiniz!"
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Sonra o gün nimetlerden hesaba çekileceksiniz!"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "zilzal": {
+    "surahNumber": "99",
+    "surahNameTr": "Zilzâl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "iẕâ zülzileti-l'arḍu zilzâlehâ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "veaḫraceti-l'arḍu eŝḳâlehâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "veḳâle-l'insânü mâ lehâ."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "yevmeiẕin tüḥaddiŝü aḫbârahâ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "bienne rabbeke evḥâ lehâ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "yevmeiẕiy yaṣdüru-nnâsü eştâtel liyürav a`mâlehüm."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "femey ya`mel miŝḳâle ẕerratin ḫayray yerah."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "vemey ya`mel miŝḳâle ẕerratin şerray yerah."
+      }
+    ]
+  }
+}

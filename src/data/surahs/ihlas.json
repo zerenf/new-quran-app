@@ -1,0 +1,25 @@
+{
+  "ihlas": {
+    "surahNumber": "112",
+    "surahName": "الإخلاص",
+    "surahNameTr": "İhlâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "قُلْ هُوَ اللَّهُ أَحَدٌ"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "اللَّهُ الصَّمَدُ"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "لَمْ يَلِدْ وَلَمْ يُولَدْ"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "وَلَمْ يَكُن لَّهُ كُفُوًا أَحَدٌ"
+      }
+    ]
+  }
+}

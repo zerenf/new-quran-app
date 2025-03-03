@@ -1,0 +1,28 @@
+{
+  "tebbet": {
+    "surahNumber": "111",
+    "surahNameTr": "Tebbet Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Elleri kuruyasıca AbuLeheb ve kendi, kurudu da."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Malı da bir fayda vermedi ona, kazandığı da."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Alevalev yanan bir ateşe atılacaktır o da."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve odun hamalı, karısı da."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hurma lifinden örülmüş bir ip de güzelim boynunda."
+      }
+    ]
+  }
+}

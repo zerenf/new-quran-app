@@ -1,0 +1,33 @@
+{
+  "kafirun": {
+    "surahNumber": "109",
+    "surahName": "الكافرون",
+    "surahNameTr": "Kâfirûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "قُلْ يَا أَيُّهَا الْكَافِرُونَ"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "لَا أَعْبُدُ مَا تَعْبُدُونَ"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "وَلَا أَنَا عَابِدٌ مَّا عَبَدتُّمْ"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "وَلَا أَنتُمْ عَابِدُونَ مَا أَعْبُدُ"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ"
+      }
+    ]
+  }
+}

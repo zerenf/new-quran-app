@@ -1,0 +1,24 @@
+{
+  "ihlas": {
+    "surahNumber": "112",
+    "surahNameTr": "İhlâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: O Allah birdir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Allah Samed'dir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Kendisi doğurmamıştır ve doğurulmamıştır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hiçbir şey O'nun dengi olmamıştır."
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "maun": {
+    "surahNumber": "107",
+    "surahNameTr": "Mâûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Gördüm mü yalanlayanı dini?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İşte budur o kimse ki horlar yetimi."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve doyurmaz da, önayak olmaz da doyurmaya yoksulu."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Vay hallerine o namaz kılanların."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Öylesine namaz kılanların ki namazlarını unuturlar."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ve onlar, bütün işlerini gösteriş için yaparlar."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve zekat vermeyi menederler."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "surahNumber": "102",
+  "surahName": "Tekâsür Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Oyaladı mal-mülk çokluğuyla öğünmek sizleri."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Ziyaret edinceye dek kabirleri."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "İş öyle değil, yakında bilirsiniz."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Sonra da gene iş öyle değil, yakında bilirsiniz."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "İş öyle değil, şüphesiz olarak iyideniyiye bir bilseniz."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Andolsun ki o koca cehennemi göreceksiniz."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "Sonra da andolsun ki gözlerinizle göreceksiniz."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Sonra da andolsun ki o gün nimetlerden soruya çekileceksiniz."
+    }
+  ]
+}

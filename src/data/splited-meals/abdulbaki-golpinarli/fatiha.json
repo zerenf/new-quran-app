@@ -1,0 +1,36 @@
+{
+  "fatiha": {
+    "surahNumber": "1",
+    "surahNameTr": "Fâtiha Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rahman ve rahim Allah adiyle"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Hamd, alemlerin rabbi Allah'a:"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Rahmandır, rahimdir,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "din gününün sahibidir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ancak sana ibadet ederiz ve ancak senden yardım dileriz."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bize doğru yolu göster,"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "nimetlendirdiğin kişilerin yolunu; gazebe uğramışların da değil, sapıkların da"
+      }
+    ]
+  }
+}

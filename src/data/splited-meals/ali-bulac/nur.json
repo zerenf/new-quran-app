@@ -1,0 +1,264 @@
+{
+  "nur": {
+    "surahNumber": "24",
+    "surahNameTr": "Nûr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "(Bu,) İndirdiğimiz ve (hükümlerini) farz kıldığımız bir sûredir. İçinde, umulur ki öğüt alıp düşünürsünüz diye apaçık ayetler indirdik."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Zina eden kadın ve zina eden erkeğin her birine yüzer değnek (celde) vurun. Eğer Allah'a ve ahiret gününe iman ediyorsanız, onlara Allah'ın dini(ni uygulama) konusunda sizi bir acıma tutmasın; onlara uygulanan cezaya mü'minlerden bir grup da şahit bulunsun."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Zina eden erkek, zina eden ya da müşrik olan bir kadından başkasını nikahlayamaz; zina eden kadını da zina eden ya da müşrik olan bir erkekten başkası nikahlayamaz. Bu, mü'minlere haram kılınmıştır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Korunan (iffetli) kadınlara (zina suçu) atan, sonra dört şahid getirmeyenlere de seksen değnek vurun ve onların şahidliklerini ebedi olarak kabul etmeyin. Onlar fasık olanlardır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ancak bundan sonra tevbe eden ve salihçe davrananlar hariç. Çünkü gerçekten Allah, bağışlayandır, esirgeyendir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Kendi eşlerine (zina suçu) atan ve kendileri dışında şahidleri bulunmayanlar ise, onlardan da her birinin şahidliği, Allah adına dört (kere yemin) ile kendisinin hiç şüphesiz doğru söyleyenlerden olduğuna şahidlik etmektir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Beşinci (yemini) ise, eğer yalan söyleyenlerdense, Allah'ın lanetinin muhakkak kendi üzerinde olması(nı kabul etmesi)dir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Onun (kadının) da dört kere Allah adına (yeminle) onun (kocasının) hiç şüphesiz yalan söyleyenlerden olduğuna şahidlik etmesi kendisinden cezayı uzaklaştırır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Beşinci (yemini) ise, eğer o (kocası) doğru söylüyor ise, Allah'ın gazabının muhakkak kendi üzerinde olması(nı kabul etmesi)dır."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Eğer Allah'ın sizin üzerinizde fazlı ve rahmeti olmasaydı ve Allah gerçekten tevbeleri kabul eden hüküm ve hikmet sahibi olmasaydı (ne yapardınız)?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Doğrusu, uydurulmuş bir yalanla gelenler, sizin içinizden birlikte davranan bir topluluktur; siz onu kendiniz için bir şer saymayın, aksine o sizin için bir hayırdır. Onlardan her bir kişiye kazandığı günahtan (bir ceza) vardır. Onlardan (iftiranın) büyüğünü yüklenene ise büyük bir azap vardır."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Onu işittiğiniz zaman, erkek mü'minler ile kadın mü’minlerin kendi nefisleri adına hayırlı bir zanda bulunup: \"Bu, açıkça uydurulmuş iftira bir sözdür\" demeleri gerekmez miydi?"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ona karşı dört şahitle gelmeleri gerekmez miydi? Şahitleri getirmediklerine göre, artık onlar Allah Katında yalancıların ta kendileridir."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Eğer Allah'ın dünyada ve ahirette sizin üzerinizde fazlı ve rahmeti olmasaydı, içine daldığınız dedikodudan dolayı size büyük bir azap dokunurdu."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "O durumda siz onu (iftirayı) dillerinizle aktardınız ve hakkında bilginiz olmayan şeyi ağızlarınızla söylediniz ve bunu kolay sandınız; oysa o Allah Katında çok büyük (bir suç)tür."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Onu işittiğiniz zaman: \"Bu konuda söz söylemek bize yakışmaz. (Allah'ım) Sen Yücesin; bu, büyük bir iftiradır\" demeniz gerekmez miydi?"
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Eğer iman edenlerden iseniz, bunun gibisine bir daha dönmemeniz için Allah size öğüt vermektedir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Allah size ayetleri açıklıyor; Allah bilendir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Çirkin utanmazlıkların (fuhşun) iman edenler içinde yaygınlaşmasından hoşlananlara, dünyada ve ahirette acıklı bir azap vardır. Allah bilir, siz ise bilmiyorsunuz."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Eğer Allah'ın sizin üzerinizde fazlı ve rahmeti olmasaydı ve Allah gerçekten Rauf (şefkat eden ve) Rahim olmasaydı (ne yapardınız)?"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Ey iman edenler, şeytanın adımlarına uymayın. Kim şeytanın adımlarına uyarsa, (bilsin ki) gerçekten o (şeytan) çirkin utanmazlıkları ve kötülüğü emreder. Eğer Allah'ın üzerinizde fazlı ve rahmeti olmasaydı, sizden hiçbiri ebedi olarak temize çıkamazdı. Ancak Allah, dilediğini temize çıkarır. Allah, işitendir, bilendir."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Sizden, faziletli ve varlıklı olanlar, yakınlara, yoksullara ve Allah yolunda hicret edenlere vermekte eksiltme yapmasınlar, affetsinler ve hoşgörsünler. Allah'ın sizi bağışlamasını sevmez misiniz? Allah, bağışlayandır, esirgeyendir."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Namus sahibi, bir şeyden habersiz, mü'min kadınlara (zina suçu) atanlar, dünyada ve ahirette lanetlenmişlerdir. Ve onlar için büyük bir azap vardır."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "O gün, kendi dilleri, elleri ve ayakları aleyhlerinde yaptıklarına dair şahitlikte bulunacaklardır."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "O gün, Allah hak ettikleri cezayı eksiksiz verecektir ve onlar da Allah'ın hiç şüphesiz hak olduğunu bileceklerdir."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Kötü kadınlar, kötü erkeklere; kötü erkekler, kötü kadınlara; iyi ve temiz erkekler, iyi ve temiz kadınlara (yaraşır). Bunlar, onların demekte olduklarından uzaktırlar. Bunlar için bir bağışlanma ve kerim (üstün) bir rızık vardır."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ey iman edenler, evlerinizden başka evlere, yakınlık kurup (izin almadan) ve (ev halkına) selam vermeden girmeyin. Bu sizin için daha hayırlıdır; umulur ki öğüt alıp düşünürsünüz."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Eğer orada kimseyi bulamazsanız, size izin verilinceye kadar artık oraya girmeyin; ve eğer \"Dönün\" denirse, siz de dönün, bu sizin için daha temizdir. Allah yaptıklarınızı bilendir."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "İçinde oturulmayan ve sizin için bir meta (yarar) bulunan evlere girmenizde bir sakınca yoktur. Allah, açığa vurduklarınızı da, sakladıklarınızı da bilir."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Mü'minlere söyle: \"Gözlerini (harama çevirmekten) kaçındırsınlar ve ırzlarını korusunlar. Bu, onlar için daha temizdir. Gerçekten Allah, yaptıklarından haberdardır."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Mü'min kadınlara da söyle: \"Gözlerini (harama çevirmekten) kaçındırsınlar ve ırzlarını korusunlar; süslerini açığa vurmasınlar, ancak kendiliğinden görüneni hariç. Baş örtülerini, yakalarının üstünü (kapatacak şekilde) koysunlar. Süslerini, kendi kocalarından ya da babalarından ya da oğullarından ya da kocalarının oğullarından ya da kendi kardeşlerinden ya da kardeşlerinin oğullarından ya da kız kardeşlerinin oğullarından ya da kendi kadınlarından ya da sağ ellerinin altında bulunanlardan ya da kadına ihtiyacı olmayan (arzusuz veya iktidarsız) hizmetçilerden ya da kadınların henüz mahrem yerlerini tanımayan çocuklardan başkasına göstermesinler. Gizledikleri süsleri bilinsin diye ayaklarını yere vurmasınlar. Hep birlikte Allah'a tevbe edin ey mü'minler, umulur ki felah bulursunuz.\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "İçinizde evli olmayanları, kölelerinizden ve cariyelerinizden salih olanları evlendirin. Eğer fakir iseler Allah, Kendi fazlından onları zengin eder. Allah geniş (nimet sahibi)dir, bilendir."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Nikah (imkanı) bulamayanlar, Allah onları Kendi fazlından zenginleştirinceye kadar iffetli davransınlar. Sağ ellerinizin malik olduğu (köle ve cariyelerden) mükatebe isteyenlere -eğer onlarda bir hayır görüyorsanız- mükatebe yapın. Ve Allah'ın size verdiği malından onlara verin. Dünya hayatının geçici metaını elde etmek için -ırzlarını korumak istiyorlarsa- cariyelerinizi fuhşa zorlamayın. Kim onları (fuhşa) zorlarsa, şüphesiz, onların (fuhşa) zorlanmalarından sonra Allah (onları) bağışlayandır, esirgeyendir."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Andolsun, size açıklayıcı ayetler, sizden önce gelip geçenlerden bir örnek ve takva sahipleri için bir öğüt indirdik."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Allah, göklerin ve yerin nurudur. O'nun nurunun misali, içinde çerağ bulunan bir kandil gibidir; çerağ bir sırça içerisindedir; sırça, sanki incimsi bir yıldızdır ki, doğuya da, batıya da ait olmayan kutlu bir zeytin ağacından yakılır; (bu öyle bir ağaç ki) neredeyse ateş ona dokunmasa da yağı ışık verir. (Bu,) Nur üstüne nurdur. Allah, kimi dilerse onu Kendi nuruna yöneltip-iletir. Allah insanlar için örnekler verir. Allah, herşeyi bilendir."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "(Bu nur,) Allah'ın, onların yüceltilmesine ve isminin zikredilmesine izin verdiği evlerdedir; onların içinde sabah akşam O'nu tesbih ederler."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "(Öyle) Adamlar ki, ne ticaret, ne alış-veriş onları Allah'ı zikretmekten, dosdoğru namazı kılmaktan ve zekatı vermekten 'tutkuya kaptırıp alıkoymaz'; onlar, kalplerin ve gözlerin inkılaba uğrayacağı (dehşetten allak bullak olacağı) günden korkarlar."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Çünkü Allah, yaptıklarının en güzeliyle karşılık verecek ve onlara Kendi fazlından arttıracaktır. Allah, dilediğini hesapsız rızıklandırır."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "İnkar edenler ise; onların amelleri dümdüz bir arazideki seraba benzer; susayan onu bir su sanır. Nihayet ona ulaştığında bir şey bulamaz ve yanında Allah'ı bulur. (Allah da) Onun hesabını tam olarak verir. Allah, hesabı çok seri görendir."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Ya da (inkar edenlerin amelleri) engin bir denizdeki karanlıklara benzer; onun üstünü bir dalga kaplar, onun üstünde bir dalga, onun da üstünde bir bulut vardır. Bir kısmı bir kısmı üzerinde olan karanlıklar; elini çıkardığında onu bile neredeyse göremeyecek. Allah kime nur vermemişse, artık onun için nur yoktur."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Görmedin mi ki, göklerde ve yerde olanlar ve dizi dizi uçan kuşlar, gerçekten Allah'ı tesbih etmektedir. Her biri, kendi duasını ve tesbihini şüphesiz bilmiştir. Allah, onların işlediklerini bilendir."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Göklerin ve yerin mülkü Allah'ındır ve dönüş yalnızca O'nadır."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Görmedin mi ki, Allah bulutları sürmekte, sonra aralarını birleştirmekte, sonra da onları üst üste yığmaktadır; böylece, yağmurun bunların arasından akıp-çıktığını görürsün. Gökten içinde dolu bulunan dağlar (gibi bulutlar) indiriverir, onu dilediğine isabet ettirir de, dilediğinden onu çevirir; şimşeğinin parıltısı neredeyse gözleri kamaştırıp götürüverecektir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Allah, gece ile gündüzü evirip çevirir. Gerçekten bunda basiret sahipleri için birer ibret vardır."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Allah, her canlıyı sudan yarattı. İşte bunlardan kimi karnı üzerinde yürümekte, kimi iki ayağı üzerinde yürümekte, kimi de dört (ayağı) üzerinde yürümektedir. Allah, dilediğini yaratır. Hiç şüphesiz Allah, herşeye güç yetirendir."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Andolsun Biz, açıklayıcı ayetler indirdik. Allah, dilediğini doğru yola yöneltip-iletir."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Onlar derler ki: \"Allah'a ve elçisine iman ettik ve itaat ettik\" sonra bunun ardından onlardan bir grup sırt çevirir. Bunlar iman etmiş değildirler."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Aralarında hükmetmesi için Allah'a ve Resulüne çağrıldıkları zaman, onlardan bir grup yüz çevirir."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Eğer hak lehlerinde ise, ona boyun eğerek gelirler."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Bunların kalplerinde hastalık mı var? Yoksa kuşkuya mı kapıldılar? Yoksa Allah'ın ve elçisinin kendilerine karşı haksızlık yapacağından mı korkuyorlar? Hayır, onlar zalim kimselerdir."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Aralarında hükmetmesi için, Allah'a ve elçisine çağrıldıkları zaman mü'min olanların sözü: \"İşittik ve itaat ettik\" demeleridir. İşte felaha kavuşanlar bunlardır."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Kim Allah'a ve Resûlü’ne itaat ederse ve Allah'tan korkup O'ndan sakınırsa, işte 'kurtuluşa ve mutluluğa' erenler bunlardır."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Yeminlerinin olanca gücüyle Allah'a and içtiler; eğer sen onlara emredersen (savaşa) çıkacaklar diye. De ki: \"And içmeyin, bu bilinen (örf üzere) bir itaattır. Allah, yaptıklarınızdan haberdardır.\""
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "De ki: \"Allah'a itaat edin, Resûl’e itaat edin. Eğer yine yüz çevirirseniz, artık Onun (peygamberin) sorumluluğu kendisine yüklenen, sizin sorumluluğunuz da size yüklenendir. Eğer Ona itaat ederseniz, hidayet bulmuş olursunuz. Elçiye düşen, apaçık bir tebliğden başkası değildir.\""
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Allah, içinizden iman edenlere ve salih amellerde bulunanlara va'detmiştir: Hiç şüphesiz onlardan öncekileri nasıl 'güç ve iktidar sahibi' kıldıysa, onları da yeryüzünde 'güç ve iktidar sahibi' kılacak, kendileri için seçip beğendiği dinlerini kendilerine yerleşik kılıp sağlamlaştıracak ve onları korkularından sonra güvenliğe çevirecektir. Onlar, yalnızca Bana ibadet ederler ve Bana hiçbir şeyi ortak koşmazlar. Kim bundan sonra inkar ederse, işte onlar fasıktır."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Dosdoğru namazı kılın, zekatı verin ve elçiye itaat edin. Umulur ki, rahmete kavuşturulmuş olursunuz."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "İnkara sapanların, yeryüzünde (Allah'ı) aciz bırakacaklarını sanma. Onların son barınma yerleri ateştir. Ne kötü bir dönüştür o."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Ey iman edenler, sağ ellerinizin malik olduğu ile sizden olup da henüz erginlik çağına ermemiş olan (çocuk)lar, (odalarınıza girmek için şu) üç vakitte izin istesinler: Sabah namazından önce, öğleyin üstünüzü çıkardığınız vakit ve yatsı namazından sonra. (Bu) Üçü sizin için mahrem (vakitleri)dir. Bunların dışında size de, onlara da bir sakınca yoktur; onlar yanınızda dolaşabilirler, birbirinizin yanında olabilirsiniz. İşte Allah, size ayetleri böyle açıklamaktadır. Allah bilendir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Sizden olan çocuklar, erginlik çağına erdikleri zaman, kendilerinden öncekilerin izin istediği gibi, bundan böyle izin istesinler. İşte Allah, ayetlerini size böyle açıklar. Allah bilendir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Kadınlardan evliliği ummayıp da oturmakta olanlar, süslerini açığa vurmaksızın (dış) elbiselerini çıkarmalarında kendileri için bir sakınca yoktur. Yine de iffetli davranmaları kendileri için daha hayırlıdır. Allah, işitendir, bilendir."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Kör olana güçlük yoktur, topal olana güçlük yoktur, hasta olana da güçlük yoktur; sizin için de, gerek kendi evlerinizden, gerekse babalarınızın evlerinden, annelerinizin evlerinden, erkek kardeşlerinizin evlerinden, kız kardeşlerinizin evlerinden, amcalarınızın evlerinden, halalarınızın evlerinden, dayılarınızın evlerinden, teyzelerinizin evlerinden, anahtarına malik olduğunuz (yerlerden) ya da dostlarınızın (evlerin)den yemenizde bir güçlük yoktur. Hep birarada veya ayrı ayrı yemenizde de bir günah yoktur. Evlere girdiğiniz vakit, Allah tarafından kutlu, güzel bir yaşama dileği olarak birbirinize selam verin. İşte Allah, size ayetleri böyle açıklar, umulur ki aklınızı kullanırsınız."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Mü'minler o kimselerdir ki, Allah'a ve Resûlü’ne iman edenler, onunla birlikte toplu(mu ilgilendiren) bir iş üzerinde iken, ondan izin alıncaya kadar bırakıp-gitmeyenlerdir. Gerçekten, senden izin alanlar, işte onlar Allah'a ve elçisine iman edenlerdir. Böylelikle, senden kendi bazı işleri için izin istedikleri zaman, dilediklerine izin ver ve onlar için Allah'tan bağışlanma dile. Şüphesiz Allah, bağışlayandır, esirgeyendir."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Elçinin çağırmasını, kendi aranızda kiminizin kimini çağırması gibi saymayın. Allah, sizden bir diğerinizi siper ederek kaçanları gerçekten bilir. Böylece onun emrine aykırı davrananlar, kendilerine bir fitnenin isabet etmesinden veya onlara acı bir azabın çarpmasından sakınsınlar."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Dikkatli olun; göklerde ve yerde olanların hepsi Allah'ındır. O, üzerinde bulunduğunuz şeyi elbette bilir. Ve O'na döndürülecekleri gün, yaptıklarını kendilerine haber verecektir. Allah, herşeyi bilendir."
+      }
+    ]
+  }
+}

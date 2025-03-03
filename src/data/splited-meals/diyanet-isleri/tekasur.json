@@ -1,0 +1,40 @@
+{
+  "tekasur": {
+    "surahNumber": "102",
+    "surahNameTr": "Tekâsür Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Çoğunluk olmak iddianız sizi o kadar meşgul etti ki, mezarları ziyaretle oradakileri de sayacak kadar oldunuz."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hayır; öyle olmayın; yakında bileceksiniz."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hayır; gözünüzü açın; yakında bileceksiniz."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Dikkat edin, şayet yaptığınızın sonucunu kesin olarak bir bilseniz!"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "And olsun ki, cehennemi göreceksiniz."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "And olsun ki, onu gözünüzle kesin olarak göreceksiniz."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra o gün, size verilmiş olan her nimetten sorguya çekileceksiniz."
+      }
+    ]
+  }
+}

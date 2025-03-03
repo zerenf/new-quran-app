@@ -1,0 +1,50 @@
+{
+  "surahNumber": "101",
+  "surahName": "Kâria Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Kaari’a..."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Nedir kaari’a?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Sana o kaaria’yı bildiren nedir?"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "İnsanların, 'her yana dağılmış' pervaneler gibi olacakları gün,"
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Ve dağların 'etrafa saçılmış' renkli yünler gibi olacakları (gün),"
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "İşte, kimin tartıları ağır basarsa,"
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "Artık o, hoşnut olunan bir hayat içindedir."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Kimin tartıları hafif kalırsa,"
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "Artık onun da anası (son durağı) \"haviye\"dir (uçurum)."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "Onun ne olduğunu (mahiyetini) sana bildiren nedir?"
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "O, kızgın bir ateştir."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "tebbet": {
+    "surahNumber": "111",
+    "surahNameTr": "Tebbet Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kurusun Ebû Leheb'in elleri. Zaten de kurudu!"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ona ne malı, ne de yaptığı işler fayda verdi!"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O, alev alev yükselen ateşe girecek,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Eşi de boynunda bükülmüş urgan olarak,o ateşe odun taşıyacak."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Eşi de boynunda bükülmüş urgan olarak,o ateşe odun taşıyacak."
+      }
+    ]
+  }
+}

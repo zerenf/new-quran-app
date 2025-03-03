@@ -1,0 +1,28 @@
+{
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Fil sahiplerine Rabbinin ne ettiğini görmedin mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onların düzenlerini boşa çıkarmadı mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onların üzerine, sert taşlar atan sürülerle kuşlar gönderdi."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Sonunda onları, yenilmiş ekin gibi yaptı."
+      }
+    ]
+  }
+}

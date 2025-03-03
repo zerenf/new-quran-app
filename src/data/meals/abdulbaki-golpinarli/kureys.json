@@ -1,0 +1,22 @@
+{
+  "surahNumber": "106",
+  "surahName": "Kureyş Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Bunu da Kurayş'ın uzlaşması, hallerinin düzene girmesi için yaptı."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Yaz ve kış, alışveriş için göçüp konarak yolculuk ederlerken uzlaşıp düzene girmeleri için."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Artık kulluk edin bu evin Rabbine."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Öyle Rab ki doyurdu da kurtardı sizi açlıktan ve emin etti sizi korkudan."
+    }
+  ]
+}

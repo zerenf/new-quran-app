@@ -1,0 +1,40 @@
+{
+  "tekasur": {
+    "surahNumber": "102",
+    "surahNameTr": "Tekâsür Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "elhâkümü-ttekâŝür."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "ḥattâ zürtümü-lmeḳâbir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "kellâ sevfe ta`lemûn."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "ŝümme kellâ sevfe ta`lemûn."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "kellâ lev ta`lemûne `ilme-lyeḳîn."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "leteravunne-lceḥîm."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "ŝümme leteravunnehâ `ayne-lyeḳîn."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "ŝümme letüs'elünne yevmeiẕin `ani-nne`îm."
+      }
+    ]
+  }
+}

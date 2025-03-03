@@ -1,0 +1,20 @@
+{
+  "nasr": {
+    "surahNumber": "110",
+    "surahNameTr": "Nasr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "iẕâ câe naṣru-llâhi velfetḥ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "veraeyte-nnâse yedḫulûne fî dîni-llâhi efvâcâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "fesebbiḥ biḥamdi rabbike vestagfirh. innehû kâne tevvâbâ."
+      }
+    ]
+  }
+}

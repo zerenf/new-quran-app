@@ -1,0 +1,52 @@
+{
+  "karia": {
+    "surahNumber": "101",
+    "surahNameTr": "Kâria Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "elḳâri`ah."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "me-lḳâri`ah."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "vemâ edrâke me-lḳâri`ah."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "yevme yekûnü-nnâsü kelferâşi-lmebŝûŝ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "vetekûnü-lcibâlü kel`ihni-lmenfûş."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "feemmâ men ŝeḳulet mevâzînüh."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "fehüve fî `îşetir râḍiyeh."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "veemmâ men ḫaffet mevâzînüh."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "feümmühû hâviyeh."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "vemâ edrâke mâ hiyeh."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "nârun ḥâmiyeh."
+      }
+    ]
+  }
+}

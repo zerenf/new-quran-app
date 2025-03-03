@@ -1,24 +1,54 @@
 @import "tailwindcss";
 
-@theme {
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+@font-face {
+	font-family: "Arabic";
+	src: url("/fonts/ScheherazadeNew-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "ArabicBold";
+	src: url("/fonts/ScheherazadeNew-Bold.ttf") format("truetype");
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Nunito";
+	src: url("/fonts/Nunito-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Nunito-Medium";
+	src: url("/fonts/Nunito-Medium.ttf") format("truetype");
+	font-weight: 500;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Nunito-Bold";
+	src: url("/fonts/Nunito-Bold.ttf") format("truetype");
+	font-weight: bold;
+	font-style: normal;
 }
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+	/* colors */
+	--background: #f5f7f8;
+	--green: #0d7c66;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+	/* fonts */
+	--arabic: "Arabic", sans-serif;
+	--arabic-bold: "ArabicBold", sans-serif;
+	--nunito: "Nunito", sans-serif;
+	--nunito-medium: "Nunito-Medium", sans-serif;
+	--nunito-bold: "Nunito-Bold", sans-serif;
 }
 
 body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+	background: var(--background);
+	font-family: var(--nunito);
 }

@@ -1,0 +1,28 @@
+{
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rabbinin Ashab-ı fil'e ettiklerini görmedin mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onların hile ve düzenlerini boşa çıkarmadı mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Üzerlerine ebabili, sürü sürü kuşları salıverdi."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Bunlar onlara pişkin tuğladan yapılmış taşlar atıyorlardı."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Derken onları kurt yeniği ekin yaprağına çeviriverdi."
+      }
+    ]
+  }
+}

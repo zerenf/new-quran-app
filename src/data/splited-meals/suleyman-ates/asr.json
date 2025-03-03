@@ -1,0 +1,20 @@
+{
+  "asr": {
+    "surahNumber": "103",
+    "surahNameTr": "Asr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Asra andolsun ki,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnsan ziyandadır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ancak inanıp iyi işler yapanlar, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler ziyanda değillerdir."
+      }
+    ]
+  }
+}

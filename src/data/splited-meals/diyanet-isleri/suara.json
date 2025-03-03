@@ -1,0 +1,916 @@
+{
+  "suara": {
+    "surahNumber": "26",
+    "surahNameTr": "Şuarâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ta, Sin, Mim."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Bunlar apaçık Kitap'ın ayetleridir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "İnanmıyorlar diye nerdeyse kendini mahvedeceksin."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Biz dilesek onlara gökten bir mucize indiririz de ona boyun eğip kalırlar."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Rahman'dan kendilerine gelen her yeni öğütten mutlaka yüz çevirirler."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Evet, yalanladılar; alay edip durdukları şeylerin haberleri kendilerine ulaşacaktır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Yeryüzüne bakmazlar mı? Orada, bitkilerden nice güzel çiftler yetiştirmişizdir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Şüphesiz bunlarda Allah'ın kudretine işaret vardır, ama çoğu inanmazlar."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Rabbin şüphesiz güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Rabbin Musa'ya: \"Haksızlık eden millete, Firavun'un milletine git\" diye nida etmişti. \"Haksızlıktan sakınmazlar mı?\""
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Rabbin Musa'ya: \"Haksızlık eden millete, Firavun'un milletine git\" diye nida etmişti. \"Haksızlıktan sakınmazlar mı?\""
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum\" demişti."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum\" demişti."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Musa: \"Rabbim! Doğrusu beni yalanlamalarından korkuyorum; göğsüm daralıyor, dilim açılmıyor. Onun için Harun'a da elçilik ver. Onların bana isnat ettikleri bir suç da vardır. Beni öldürmelerinden korkuyorum\" demişti."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Allah: \"Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber dinlemekteyiz. Firavun'a varınız: \"Biz şüphesiz alemlerin Rabbinin elçisiyiz; İsrailoğullarını bizimle beraber gönder, deyiniz\" demişti."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Allah: \"Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber dinlemekteyiz. Firavun'a varınız: \"Biz şüphesiz alemlerin Rabbinin elçisiyiz; İsrailoğullarını bizimle beraber gönder, deyiniz\" demişti."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Allah: \"Hayır; ikiniz mucizelerimizle gidiniz. Doğrusu Biz sizinle beraber dinlemekteyiz. Firavun'a varınız: \"Biz şüphesiz alemlerin Rabbinin elçisiyiz; İsrailoğullarını bizimle beraber gönder, deyiniz\" demişti."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Firavun Musa'ya: \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Firavun Musa'ya: \"Biz seni çocukken yanımıza alıp büyütmedik mi? Hayatının birçok yıllarını aramızda geçirmedin mi? Sonunda yapacağını da yaptın. Sen nankörün birisin\" dedi."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni peygamber yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür\" dedi."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni peygamber yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür\" dedi."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Musa: \"O işi kasden yaptımsa sapıklardan biri sayılırım. Bu yüzden sizden korkunca aranızdan kaçtım. Sonra, Rabbim bana hikmet verip, beni peygamber yaptı. Başıma kaktığın bu nimet, İsrailoğullarını kendine köle ettiğinden ötürüdür\" dedi."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Firavun: \"Alemlerin Rabbi de nedir?\" dedi."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Musa: \"Kesin olarak inanacaksanız, bilin ki O göklerin, yerin ve ikisinin arasında bulunanların Rabbidir\" dedi."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Yanında bulunanlara: \"İşitmiyor musunuz?\" dedi."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "\"O sizin de Rabbiniz, önce geçmiş atalarınızın da Rabbidir\" dedi."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Firavun, çevresindekilere: \"Size gönderilen peygamberiniz şüphesiz delidir\" dedi."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Musa: \"Eğer akledebilen kimselerseniz bilin ki O, doğunun, batının ve ikisinin arasında bulunanların Rabbidir\" dedi."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Firavun: \"Benden başkasını tanrı edinirsen, and olsun ki seni zindanlık ederim\" dedi."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Musa: \"Sana apaçık bir şey getirmiş isem de mi?\" dedi."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Firavun: \"Doğru sözlülerden isen haydi getir\" dedi."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Bunun üzerine Musa değneğini attı, besbelli bir yılan oluverdi."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Elini çıkardı, bakanlara bembeyaz göründü."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Firavun çevresinde bulunan ileri gelenlere: \"Doğrusu bu bilgin bir sihirbaz; sizi sihirle yurdunuzdan çıkarmak istiyor; ne buyurursunuz?\" dedi."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Firavun çevresinde bulunan ileri gelenlere: \"Doğrusu bu bilgin bir sihirbaz; sizi sihirle yurdunuzdan çıkarmak istiyor; ne buyurursunuz?\" dedi."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "\"Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder\" dediler."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "\"Onu ve kardeşini alıkoy, şehirlere, sana bütün bilgin sihirbazları getirecek toplayıcılar gönder\" dediler."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Sihirbazlar, belirli bir günün bildirilen vaktinde toplandılar."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "İnsanlara: \"Siz de toplanır mısınız?\" denildi."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "\"Sihirbazlar üstün gelirlerse biz de onlara uyarız\" dediler."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Sihirbazlar geldiklerinde, Firavun'a; \"Biz üstün gelirsek, şüphesiz bize bir ücret vardır değil mi?\" dediler."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Firavun: \"Evet; o takdirde siz gözde kimselerden olacaksınız\" dedi."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Musa onlara: \"Ne atacaksanız atın\" dedi."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Onlar da iplerini ve değneklerini attılar ve: \"Firavun hakkı için, şüphesiz, biz üstün geleceğiz\" dediler."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Bunun üzerine Musa değneğini attı; onların uydurduklarını yutmağa başlayıverdi."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Bunu gören sihirbazlar secdeye kapanarak: \"Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık\" dediler."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Bunu gören sihirbazlar secdeye kapanarak: \"Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık\" dediler."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Bunu gören sihirbazlar secdeye kapanarak: \"Alemlerin Rabbine, Musa ve Harun'un Rabbine inandık\" dediler."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Firavun: \"Ben size izin vermeden ona iman mı ettiniz? Muhakkak ki o, size sihri öğreten büyüğünüzdür. Şimdi bileceksiniz; ellerinizi ayaklarınızı, and olsun, çaprazlama kestireceğim, hepinizi astıracağım\" dedi."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "İman eden sihirbazlar: \"Zararı yok, biz şüphesiz Rabbimize doneceğiz; inananların ilki olmamızdan ötürü, Rabbimizin kusurlarımızı bize bağışlayacağını umarız\" dediler."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "İman eden sihirbazlar: \"Zararı yok, biz şüphesiz Rabbimize doneceğiz; inananların ilki olmamızdan ötürü, Rabbimizin kusurlarımızı bize bağışlayacağını umarız\" dediler."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Biz Musa'ya: \"Kullarımı geceleyin yola çıkar; şüphesiz takip edileceksiniz\" diye vahyettik."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Bu arada Firavun şehirlere, \"Doğrusu bunlar bizi öfkelendiren döküntü azınlıklardır; hepimiz tedbirli olmalıyız\" diyen münadiler gönderdi."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden ve şerefli makamlardan çıkardık. Böylece oralara İsrailoğullarını mirasçı kıldık."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden ve şerefli makamlardan çıkardık. Böylece oralara İsrailoğullarını mirasçı kıldık."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Ama biz Firavun ve adamlarını bahçelerden, pınar başlarından, hazinelerden ve şerefli makamlardan çıkardık. Böylece oralara İsrailoğullarını mirasçı kıldık."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Firavun ve adamları güneş üzerlerine doğarken onların ardına düştüler."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "İki topluluk birbirini gördüğünde, Musa'nın adamları: \"İşte yakalandık\" dediler."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Musa: \"Hayır; Rabbim benimle beraberdir, bana elbette yol gösterecektir\" dedi."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Bunun üzerine Biz Musa'ya: \"Değneğinle denize vur\" diye vahyettik. Hemen deniz ikiye ayrıldı, her parçası yüce bir dağ gibiydi."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "İşte oraya, geridekileri de yaklaştırdık."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Musa ve beraberinde bulunanların hepsini kurtardık."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "Öbürlerini suda boğduk."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Bunda şüphesiz ders vardır, ama çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Doğrusu Rabbin, güçlü olandır, merhamet edendir."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Onlara İbrahim'in kıssasını anlat."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "İbrahim, babasına ve milletine: \"Nelere tapıyorsunuz?\" demişti."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "\"Putlara tapıyoruz, onlara bağlanıp duruyoruz\" demişlerdi."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "İbrahim: \"Çağırdığınız zaman sizi duyarlar veya size bir fayda ve zarar verirler mi?\" demişti."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "İbrahim: \"Çağırdığınız zaman sizi duyarlar veya size bir fayda ve zarar verirler mi?\" demişti."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "\"Hayır ama, babalarımızı da bu şekilde ibadet ederken bulduk\" demişlerdi."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "İbrahim: \"Eski atalarınızın ve sizin nelere taptıklarınızı görüyor musunuz? Doğrusu onlar benim düşmanımdır. Dostum ancak Alemlerin Rabbidir. Beni yaratan da, doğru yola eriştiren de O'dur. Beni yediren de, içiren de O'dur. Hasta olduğumda bana O şifa verir. Beni öldürecek, sonra da diriltecek O'dur. Ahiret gününde yanılmalarımı bana bağışlamasını umduğum O'dur. Rabbim! Bana hikmet ver ve beni iyiler arasına kat."
+      },
+      {
+        "ayahNumber": "84",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "85",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "86",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "87",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "88",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "89",
+        "ayahText": "Sonrakilerin beni güzel şekilde anmalarını sağla. Beni nimet cennetine varis olanlardan kıl. Babamı da bağışla, o şüphesiz sapıklardandır. İnsanların diriltileceği gün, Allah'a temiz bir kalble gelenden başka kimseye malın ve oğulların fayda vermeyeceği gün, beni rezil etme\" demişti."
+      },
+      {
+        "ayahNumber": "90",
+        "ayahText": "O gün cennet Allah'a karşı gelmekten sakınanlara yaklaştırılır. Cehennem de azgınlara gösterilir."
+      },
+      {
+        "ayahNumber": "91",
+        "ayahText": "O gün cennet Allah'a karşı gelmekten sakınanlara yaklaştırılır. Cehennem de azgınlara gösterilir."
+      },
+      {
+        "ayahNumber": "92",
+        "ayahText": "Onlara: \"Allah'ı bırakıp taptıklarınız nerededir. Size yardım ediyorlar mı veya kendilerine yardımları dokunuyor mu?\" denilir."
+      },
+      {
+        "ayahNumber": "93",
+        "ayahText": "Onlara: \"Allah'ı bırakıp taptıklarınız nerededir. Size yardım ediyorlar mı veya kendilerine yardımları dokunuyor mu?\" denilir."
+      },
+      {
+        "ayahNumber": "94",
+        "ayahText": "Onlar, azgınlar ve İblis'in adamları, hepsi, tepetakla oraya atılırlar."
+      },
+      {
+        "ayahNumber": "95",
+        "ayahText": "Onlar, azgınlar ve İblis'in adamları, hepsi, tepetakla oraya atılırlar."
+      },
+      {
+        "ayahNumber": "96",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "97",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "98",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "99",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "100",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "101",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "102",
+        "ayahText": "Orada putlarıyla çekişerek: \"Vallahi biz apaçık bir sapıklıkta idik; çünkü biz sizi Alemlerin Rabbine eşit tutmuştuk; bizi saptıranlar ancak suçlulardır; şimdi şefaatçimiz, yakın bir dostumuz yoktur; keşke geriye bir dönüşümüz olsa da inananlardan olsak\" derler."
+      },
+      {
+        "ayahNumber": "103",
+        "ayahText": "Bunda şüphesiz bir ders vardır ama çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "104",
+        "ayahText": "Rabbin şüphesiz güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "105",
+        "ayahText": "Nuh'un milleti peygamberlerini yalanladı."
+      },
+      {
+        "ayahNumber": "106",
+        "ayahText": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi."
+      },
+      {
+        "ayahNumber": "107",
+        "ayahText": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi."
+      },
+      {
+        "ayahNumber": "108",
+        "ayahText": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi."
+      },
+      {
+        "ayahNumber": "109",
+        "ayahText": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi."
+      },
+      {
+        "ayahNumber": "110",
+        "ayahText": "Kardeşleri Nuh, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum. Benim ecrim ancak Alemlerin Rabbine aittir. Artık Allah'tan sakının ve bana itaat edin\" dedi."
+      },
+      {
+        "ayahNumber": "111",
+        "ayahText": "\"Sana mı inanacağız? Sana en rezil kimseler uymaktadır\" dediler."
+      },
+      {
+        "ayahNumber": "112",
+        "ayahText": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi."
+      },
+      {
+        "ayahNumber": "113",
+        "ayahText": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi."
+      },
+      {
+        "ayahNumber": "114",
+        "ayahText": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi."
+      },
+      {
+        "ayahNumber": "115",
+        "ayahText": "Nuh: \"Onların yaptıkları hakkında bir bilgim yoktur; hesabları Rabbime aittir, düşünsenize! Ben inananları kovacak değilim. Ben sadece açıkça uyarıcıyım\" dedi."
+      },
+      {
+        "ayahNumber": "116",
+        "ayahText": "\"Ey Nuh! Eğer bu işe son vermezsen, şüphesiz taşlanacaklardan olacaksın\" dediler."
+      },
+      {
+        "ayahNumber": "117",
+        "ayahText": "Nuh: \"Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki inananları kurtar\" dedi."
+      },
+      {
+        "ayahNumber": "118",
+        "ayahText": "Nuh: \"Rabbim! Milletim beni yalanladı. Benimle onların arasında Sen hüküm ver. Beni ve beraberimdeki inananları kurtar\" dedi."
+      },
+      {
+        "ayahNumber": "119",
+        "ayahText": "Bunun üzerine onu ve beraberinde bulunanları, dolu bir gemi içinde taşıyarak kurtardık."
+      },
+      {
+        "ayahNumber": "120",
+        "ayahText": "Sonra de geride kalanları suda boğduk."
+      },
+      {
+        "ayahNumber": "121",
+        "ayahText": "Doğrusu bunda bir ders vardır, ama çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "122",
+        "ayahText": "Rabbin şüphesiz güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "123",
+        "ayahText": "Ad milleti de peygamberleri yalanladı."
+      },
+      {
+        "ayahNumber": "124",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "125",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "126",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "127",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "128",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "129",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "130",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "131",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "132",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "133",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "134",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "135",
+        "ayahText": "Kardeşleri Hud, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Siz her yüksek yere koca bir bina kurup, boş şeyle mi uğraşırsınız? Temelli kalacağınızı umarak sağlam yapılar mı edinirsiniz? Yakaladığınızı zorbaca mı yakalarsınız? Artık Allah'tan sakının ve bana itaat edin. Bildiğiniz şeyleri size verenden sakının; davarları, oğulları, bahçeleri ve akarsuları size O vermiştir. Doğrusu hakkınızda büyük günün azabından korkuyorum\" dedi."
+      },
+      {
+        "ayahNumber": "136",
+        "ayahText": "\"İster öğüt ver, ister öğüt verenlerden olma, bizce birdir."
+      },
+      {
+        "ayahNumber": "137",
+        "ayahText": "Bu durumumuz öncekilerin geleneğidir. Biz azaba uğratılacak da değiliz\" dediler."
+      },
+      {
+        "ayahNumber": "138",
+        "ayahText": "Bu durumumuz öncekilerin geleneğidir. Biz azaba uğratılacak da değiliz\" dediler."
+      },
+      {
+        "ayahNumber": "139",
+        "ayahText": "Böylece onu yalanladılar; Biz de kendilerini yok ettik. Bunda şüphesiz ki ders vardır; ama çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "140",
+        "ayahText": "Doğrusu Rabbin güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "141",
+        "ayahText": "Semud milleti de peygamberleri yalanladı."
+      },
+      {
+        "ayahNumber": "142",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "143",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "144",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "145",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "146",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "147",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "148",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "149",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "150",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "151",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "152",
+        "ayahText": "Kardeşleri Salih onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim; artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Burada bahçelerde, pınar başlarında, ekinler, salkımları sarkmış hurmalıklar arasında güven içinde bırakılır mısınız? Dağlarda ustalıkla evler oyar mısınız? Artık Allah'tan sakının, bana itaat edin. Yeryüzünü ıslah etmeyip, bozgunculuk yapan beyinsizlerin emirlerine itaat etmeyin\" dedi."
+      },
+      {
+        "ayahNumber": "153",
+        "ayahText": "\"Sen şüphesiz büyülenmişin birisin; bizim gibi bir insandan başka birşey değilsin. Eğer doğru sözlü isen bir belge getir\" dediler."
+      },
+      {
+        "ayahNumber": "154",
+        "ayahText": "\"Sen şüphesiz büyülenmişin birisin; bizim gibi bir insandan başka birşey değilsin. Eğer doğru sözlü isen bir belge getir\" dediler."
+      },
+      {
+        "ayahNumber": "155",
+        "ayahText": "Salih: \" İşte belge bu devedir. Kuyudan su içmek hakkı belirli bir gün onun ve belirli bir gün de sizindir; sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar\" dedi."
+      },
+      {
+        "ayahNumber": "156",
+        "ayahText": "Salih: \" İşte belge bu devedir. Kuyudan su içmek hakkı belirli bir gün onun ve belirli bir gün de sizindir; sakın ona bir kötülük yapmayın, yoksa sizi büyük günün azabı yakalar\" dedi."
+      },
+      {
+        "ayahNumber": "157",
+        "ayahText": "Onlar ise deveyi kestiler; ama pişman da oldular."
+      },
+      {
+        "ayahNumber": "158",
+        "ayahText": "Bunun üzerine onları azap yakaladı. Doğrusu bunda bir ders vardır, fakat çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "159",
+        "ayahText": "Rabbin şüphesiz güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "160",
+        "ayahText": "Lut milleti de peygamberleri yalanladı."
+      },
+      {
+        "ayahNumber": "161",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "162",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "163",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "164",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "165",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "166",
+        "ayahText": "Kardeşleri Lut, onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Buna karşı sizden bir ücret istemiyorum; benim ecrim ancak Alemlerin Rabbine aittir. Rabbinizin sizin için yarattığı eşleri bırakıp da, insanlar arasında, erkeklere mi yaklaşıyorsunuz? Doğrusu siz azmış bir milletsiniz\" dedi."
+      },
+      {
+        "ayahNumber": "167",
+        "ayahText": "\"Ey Lut! Bu sözlerinden vazgeçmezsen, mutlaka kovulacaksın\" dediler."
+      },
+      {
+        "ayahNumber": "168",
+        "ayahText": "Lut: \"Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunların yapageldiği kötülükten kurtar\" dedi."
+      },
+      {
+        "ayahNumber": "169",
+        "ayahText": "Lut: \"Doğrusu yaptığınıza çok kızanlardanım. Rabbim! Beni ve ailemi bunların yapageldiği kötülükten kurtar\" dedi."
+      },
+      {
+        "ayahNumber": "170",
+        "ayahText": "Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık."
+      },
+      {
+        "ayahNumber": "171",
+        "ayahText": "Bunun üzerine geride kalan yaşlı bir kadın dışında, onu ve ailesini, hepsini kurtardık."
+      },
+      {
+        "ayahNumber": "172",
+        "ayahText": "Diğerlerini yerle bir ettik."
+      },
+      {
+        "ayahNumber": "173",
+        "ayahText": "Üzerlerine de yağmur yağdırdık. Uyarılan fakat yola gelmeyenlerin yağmuru ne kötü idi!"
+      },
+      {
+        "ayahNumber": "174",
+        "ayahText": "Şüphesiz bunda bir ders vardır, ama çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "175",
+        "ayahText": "Doğrusu Rabbin güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "176",
+        "ayahText": "Ormanlık yerde oturanlar, Eykeliler de peygamberleri yalanladı."
+      },
+      {
+        "ayahNumber": "177",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "178",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "179",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "180",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "181",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "182",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "183",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "184",
+        "ayahText": "Şuayb onlara: \"Allah'a karşı gelmekten sakınmaz mısınız? Doğrusu ben size gönderilmiş güvenilir bir elçiyim. Artık Allah'tan sakının ve bana itaat edin. Ben buna karşı sizden bir ücret istemiyorum, benim ecrim ancak Alemlerin Rabbine aittir. Ölçüyü tam yapın, eksiltenlerden olmayın. Doğru terazi ile tartın. İnsanların hakkını azaltmayın. Yeryüzünde bozgunculuk yaparak karışıklık çıkarmayın. Sizi ve daha önceki nesilleri yaratandan korkun\" dedi."
+      },
+      {
+        "ayahNumber": "185",
+        "ayahText": "\"Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür\" dediler."
+      },
+      {
+        "ayahNumber": "186",
+        "ayahText": "\"Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür\" dediler."
+      },
+      {
+        "ayahNumber": "187",
+        "ayahText": "\"Sen ancak büyülenmişin birisin. Bizim gibi bir insandan başka bir şey değilsin. Doğrusu seni yalancılardan sanıyoruz. Eğer doğru sözlü isen göğün bir parçasını üstümüze düşür\" dediler."
+      },
+      {
+        "ayahNumber": "188",
+        "ayahText": "Şuayb: \"Rabbim yaptıklarınızı çok iyi bilir\" dedi."
+      },
+      {
+        "ayahNumber": "189",
+        "ayahText": "Ama onu yalanladılar. Bunun üzerine onları bulutlu bir günün azabı yakaladı. Gerçekten o gün, azabı büyük bir gündü."
+      },
+      {
+        "ayahNumber": "190",
+        "ayahText": "Doğrusu bunda bir ders vardır. Fakat çoğu inanmamıştır."
+      },
+      {
+        "ayahNumber": "191",
+        "ayahText": "Rabbin şüphesiz güçlüdür, merhametlidir."
+      },
+      {
+        "ayahNumber": "192",
+        "ayahText": "Şüphesiz Kuran Alemlerin Rabbinin indirmesidir."
+      },
+      {
+        "ayahNumber": "193",
+        "ayahText": "Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir."
+      },
+      {
+        "ayahNumber": "194",
+        "ayahText": "Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir."
+      },
+      {
+        "ayahNumber": "195",
+        "ayahText": "Apaçık Arap diliyle, uyaranlardan olman için onu Cebrail senin kalbine indirmiştir."
+      },
+      {
+        "ayahNumber": "196",
+        "ayahText": "O, daha öncekilerin kitabında da zikredilmiştir."
+      },
+      {
+        "ayahNumber": "197",
+        "ayahText": "İsrailoğulları bilginlerinin bunu bilmeye bir delilleri yok muydu?"
+      },
+      {
+        "ayahNumber": "198",
+        "ayahText": "Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusaydı yine de ona inanmazlardı."
+      },
+      {
+        "ayahNumber": "199",
+        "ayahText": "Biz Kuran'ı Arapça bilmeyen kimselerden birine indirseydik de o bunları okusaydı yine de ona inanmazlardı."
+      },
+      {
+        "ayahNumber": "200",
+        "ayahText": "Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görmedikçe ona inanmazlar. Bu azap onlara haberleri olmadan geliverecektir."
+      },
+      {
+        "ayahNumber": "201",
+        "ayahText": "Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görmedikçe ona inanmazlar. Bu azap onlara haberleri olmadan geliverecektir."
+      },
+      {
+        "ayahNumber": "202",
+        "ayahText": "Suçluların kalblerine Kuran'ı böylece sokarız da, can yakıcı azabı görmedikçe ona inanmazlar. Bu azap onlara haberleri olmadan geliverecektir."
+      },
+      {
+        "ayahNumber": "203",
+        "ayahText": "O zaman \"Erteye bırakılmaz mıyız?\" derler."
+      },
+      {
+        "ayahNumber": "204",
+        "ayahText": "Bizim azabımızı mı acele istiyorlardı?"
+      },
+      {
+        "ayahNumber": "205",
+        "ayahText": "Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit edildikleri şey başlarına gelse, kendilerine verilmiş olan nimetler onlara bir fayda sağlar mı?"
+      },
+      {
+        "ayahNumber": "206",
+        "ayahText": "Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit edildikleri şey başlarına gelse, kendilerine verilmiş olan nimetler onlara bir fayda sağlar mı?"
+      },
+      {
+        "ayahNumber": "207",
+        "ayahText": "Söylesene, Biz onlara yıllar yılı nimetler vermiş olsak, sonra da tehdit edildikleri şey başlarına gelse, kendilerine verilmiş olan nimetler onlara bir fayda sağlar mı?"
+      },
+      {
+        "ayahNumber": "208",
+        "ayahText": "Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz."
+      },
+      {
+        "ayahNumber": "209",
+        "ayahText": "Hiçbir kent halkını kendilerine öğüt veren uyarıcılar gelmeden yok etmedik. Biz zalim değiliz."
+      },
+      {
+        "ayahNumber": "210",
+        "ayahText": "Kuran'ı şeytanlar indirmemiştir."
+      },
+      {
+        "ayahNumber": "211",
+        "ayahText": "Bu onlara düşmez, zaten güçleri de yetmez."
+      },
+      {
+        "ayahNumber": "212",
+        "ayahText": "Doğrusu onlar vahyi dinlemekten uzak tutulmuşlardır."
+      },
+      {
+        "ayahNumber": "213",
+        "ayahText": "O halde sakın Allah'ın yanında başka tanrı tutup ona yalvarma, yoksa azap göreceklerden olursun."
+      },
+      {
+        "ayahNumber": "214",
+        "ayahText": "Önce en yakın hısımlarını uyar."
+      },
+      {
+        "ayahNumber": "215",
+        "ayahText": "Sana uyan müminleri kanatların altına al."
+      },
+      {
+        "ayahNumber": "216",
+        "ayahText": "Sana başkaldırırlarsa: \"Yaptıklarınızdan uzağım\" de."
+      },
+      {
+        "ayahNumber": "217",
+        "ayahText": "Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir."
+      },
+      {
+        "ayahNumber": "218",
+        "ayahText": "Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir."
+      },
+      {
+        "ayahNumber": "219",
+        "ayahText": "Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir."
+      },
+      {
+        "ayahNumber": "220",
+        "ayahText": "Senin kalkıp namaz kılanlar arasında bulunduğunu gören, güçlü ve merhametli olan Allah'a güven. Doğrusu O işitir ve bilir."
+      },
+      {
+        "ayahNumber": "221",
+        "ayahText": "\"Şeytanların kime indiğini size haber vereyim mi?\" de."
+      },
+      {
+        "ayahNumber": "222",
+        "ayahText": "Onlar, günahkar iftiracıların hepsine iner."
+      },
+      {
+        "ayahNumber": "223",
+        "ayahText": "Bunlar şeytanlara kulak verirler, çoğu yalancıdırlar."
+      },
+      {
+        "ayahNumber": "224",
+        "ayahText": "O şairlere gelince; onlara azgınlar uyar."
+      },
+      {
+        "ayahNumber": "225",
+        "ayahText": "Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını yaptık dediklerini görmez misin?"
+      },
+      {
+        "ayahNumber": "226",
+        "ayahText": "Onların her vadide şaşkın şaşkın dolaştıklarını ve yapmadıklarını yaptık dediklerini görmez misin?"
+      },
+      {
+        "ayahNumber": "227",
+        "ayahText": "Ancak inanıp yararlı iş işleyenler, Allah'ı çok çok ananlar ve haksızlığa uğratıldıklarında haklarını alanlar bunun dışındadır. Haksızlık eden kimseler nasıl bir yıkılışla yıkılacaklarını anlayacaklardır."
+      }
+    ]
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "kevser": {
+    "surahNumber": "108",
+    "surahName": "الكوثر",
+    "surahNameTr": "Kevser Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "فَصَلِّ لِرَبِّكَ وَانْحَرْ"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ"
+      }
+    ]
+  }
+}

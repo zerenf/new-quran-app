@@ -1,0 +1,50 @@
+{
+  "surahNumber": "100",
+  "surahName": "Âdiyât Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "vel`âdiyâti ḍabḥâ."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "felmûriyâti ḳadḥâ."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "felmügîrâti ṣubḥâ."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "feeŝerne bihî naḳ`â."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "fevesaṭne bihî cem`â."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "inne-l'insâne lirabbihî lekenûd."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "veinnehû `alâ ẕâlike leşehîd."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "veinnehû liḥubbi-lḫayri leşedîd."
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "efelâ ya`lemü iẕâ bü`ŝira mâ fi-lḳubûr."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "veḥuṣṣile mâ fi-ṣṣudûr."
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "inne rabbehüm bihim yevmeiẕil leḫabîr."
+    }
+  ]
+}

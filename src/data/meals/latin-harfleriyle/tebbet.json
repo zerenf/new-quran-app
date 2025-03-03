@@ -1,0 +1,26 @@
+{
+  "surahNumber": "111",
+  "surahName": "Tebbet Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "tebbet yedâ ebî lehebiv vetebb."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "mâ agnâ `anhü mâlühû vemâ keseb."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "seyaṣlâ nâran ẕâte leheb."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "vemraetüh. ḥammâlete-lḥaṭab."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "fî cîdihâ ḥablüm mim mesed."
+    }
+  ]
+}

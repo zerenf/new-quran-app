@@ -1,0 +1,22 @@
+{
+  "surahNumber": "106",
+  "surahName": "Kureyş Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "(Hiç değilse kendilerini) Kureyş’i ‘bir araya getirip anlaştırdığı’"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Yaz ve kış yolculuğunda onları (güvenliğe kavuşturduğu ya da başkalarıyla) ısındırıp yakınlaştırdığı için,"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Şu Ev (Ka’be’n)in Rabbine kulluk etsinler;"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Ki O, kendilerini açlıktan (kurtarıp) doyuran ve korkudan güvenliğe kavuşturandır."
+    }
+  ]
+}

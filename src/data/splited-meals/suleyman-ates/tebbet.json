@@ -1,0 +1,28 @@
+{
+  "tebbet": {
+    "surahNumber": "111",
+    "surahNameTr": "Tebbet Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ebuleheb'in iki eli kurusun (yok olsun o); zaten yok oldu ya."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ne malı, ne de kazandığı onu (Allah'ın kahrından) kurtaramadı."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Alevli bir ateşe girecektir (o)."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Karısı da, odun hamalı olarak."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Boynunda hurma lifinden bir ip olacaktır."
+      }
+    ]
+  }
+}

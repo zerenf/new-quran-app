@@ -1,0 +1,38 @@
+{
+  "surahNumber": "94",
+  "surahName": "İnşirâh Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "elem neşraḥ leke ṣadrak."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "veveḍa`nâ `anke vizrak."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "elleẕî enḳaḍa żahrak."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "verafa`nâ leke ẕikrak."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "feinne me`a-l`usri yüsrâ."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "inne me`a-l`usri yüsrâ."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "feiẕâ feragte fenṣab."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "veilâ rabbike fergab."
+    }
+  ]
+}

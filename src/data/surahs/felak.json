@@ -1,0 +1,29 @@
+{
+  "felak": {
+    "surahNumber": "113",
+    "surahName": "الفلق",
+    "surahNameTr": "Felâk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "مِن شَرِّ مَا خَلَقَ"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+      }
+    ]
+  }
+}

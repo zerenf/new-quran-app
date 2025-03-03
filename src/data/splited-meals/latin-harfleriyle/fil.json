@@ -1,0 +1,28 @@
+{
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "elem tera keyfe fe`ale rabbüke biaṣḥâbi-lfîl."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "elem yec`al keydehüm fî taḍlîl."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "veersele `aleyhim ṭayran ebâbîl."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "termîhim biḥicâratim min siccîl."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "fece`alehüm ke`aṣfim me'kûl."
+      }
+    ]
+  }
+}

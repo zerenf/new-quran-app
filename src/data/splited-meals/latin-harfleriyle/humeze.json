@@ -1,0 +1,44 @@
+{
+  "humeze": {
+    "surahNumber": "104",
+    "surahNameTr": "Hümeze Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "veylül likülli hümezetil lümezeh."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "elleẕî ceme`a mâlev ve`addedeh."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "yaḥsebü enne mâlehû aḫledeh."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "kellâ leyümbeẕenne fi-lḥuṭameh."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "vemâ edrâke me-lḥuṭameh."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "nâru-llâhi-lmûḳadeh."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "elletî teṭṭali`u `ale-l'ef'ideh."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "innehâ `aleyhim mü'ṣadeh."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "fî `amedim mümeddedeh."
+      }
+    ]
+  }
+}

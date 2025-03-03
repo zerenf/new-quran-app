@@ -1,0 +1,40 @@
+{
+  "tekasur": {
+    "surahNumber": "102",
+    "surahNameTr": "Tekâsür Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Çokluk yarışı, sizi oyaladı,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Nihayet kabirleri ziyaret ettiniz (kabre girinceye kadar mal artırmağa çalıştınız)."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hayır (olmaz bu), yakında bileceksiniz (hatanızı)!"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Yine hayır, yakında bileceksiniz (hatanızı)!"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hayır, (gerçeği) kesin bilgi ile bilseydiniz;"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Mutlaka cehennemi görür (oun varlığını gözle görmüş gibi kabul eder)diniz."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Sonra onu kesin olarak gözle göreceksiniz."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra o gün, (size verilen) ni'metten sorulacaksınız."
+      }
+    ]
+  }
+}

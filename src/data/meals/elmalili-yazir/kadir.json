@@ -1,0 +1,26 @@
+{
+  "surahNumber": "97",
+  "surahName": "Kadir Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Biz o (Kur'ân)nu Kadir gecesinde indirdik."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Kadir gecesinin ne olduğunu sen nereden bileceksin?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Kadir gecesi bin aydan daha hayırlıdır."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Melekler ve Ruh (Cebrail veya Ruh adındaki melek) o gece Rablerinin izniyle, her iş için inerler."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "O gece, tanyeri ağarıncaya kadar süren bir selâmettir."
+    }
+  ]
+}

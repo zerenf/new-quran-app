@@ -1,0 +1,192 @@
+{
+  "naziat": {
+    "surahNumber": "79",
+    "surahNameTr": "Nâziât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "vennâzi`âti garḳâ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "vennâşiṭâti neşṭâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "vessâbiḥâti sebḥâ."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "fessâbiḳâti sebḳâ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "felmüdebbirâti emrâ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "yevme tercüfü-rrâcifeh."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "tetbe`uhe-rrâdifeh."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "ḳulûbüy yevmeiẕiv vâcifeh."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "ebṣâruhâ ḫâşi`ah."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "yeḳûlûne einnâ lemerdûdûne fi-lḥâfirah."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "eiẕâ künnâ `iżâmen neḫirah."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "ḳâlû tilke iẕen kerratün ḫâsirah."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "feinnemâ hiye zecratüv vâḥideh."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "feiẕâ hüm bissâhirah."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "hel etâke ḥadîŝü mûsâ."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "iẕ nâdâhü rabbühû bilvâdi-lmüḳaddesi ṭuvâ."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "iẕheb ilâ fir`avne innehû ṭagâ."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "feḳul hel leke ilâ en tezekkâ."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "veehdiyeke ilâ rabbike fetaḫşâ."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "feerâhü-l'âyete-lkübrâ."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "fekeẕẕebe ve`aṣâ."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "ŝümme edbera yes`â."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "feḥaşera fenâdâ."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "feḳâle ene rabbükümü-l'a`lâ."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "feeḫaẕehü-llâhü nekâle-l'âḫirati vel'ûlâ."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "inne fî ẕâlike le`ibratel limey yaḫşâ."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "eentüm eşeddü ḫalḳan emi-ssemâü. benâhâ."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "rafe`a semkehâ fesevvâhâ."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "veagṭaşe leylehâ veaḫrace ḍuḥâhâ."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "vel'arḍa ba`de ẕâlike deḥâhâ."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "aḫrace minhâ mâehâ vemer`âhâ."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "velcibâle ersâhâ."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "metâ`al leküm velien`âmiküm."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "feiẕâ câeti-ṭṭâmmetü-lkübrâ."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "yevme yeteẕekkeru-l'insânü mâ se`â."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "vebürrizeti-lceḥîmü limey yerâ."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "feemmâ men ṭagâ."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "veâŝera-lḥayâte-ddünyâ."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "feinne-lceḥîme hiye-lme'vâ."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "veemmâ men ḫâfe meḳâme rabbihî venehe-nnefse `ani-lhevâ."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "feinne-lcennete hiye-lme'vâ."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "yes'elûneke `ani-ssâ`ati eyyâne mürsâhâ."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "fîme ente min ẕikrâhâ."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "ilâ rabbike müntehâhâ."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "innemâ ente münẕiru mey yaḫşâhâ."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "keennehüm yevme yeravnehâ lem yelbeŝû illâ `aşiyyeten ev ḍuḥâhâ."
+      }
+    ]
+  }
+}

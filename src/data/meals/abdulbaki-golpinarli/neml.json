@@ -1,0 +1,378 @@
+{
+  "surahNumber": "27",
+  "surahName": "Neml Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Ta sin, bunlardır Kur'an'ın, gerçekle batılı açıklayan kitabın ayetleri."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Doğru yolu gösterir ve müjdedir inananlara."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "O inananlara ki namazlarını kılarlar, zekatlarını verirler ve onlardır ahirete adamakıllı inananlar."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Âhirete inanmayanların işledikleri işleri bezedik de artık onlar, şaşkın bir halde kalakaldılar."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Onlar, o kişilerdir ki onlarındır kötü azap ve onlardır ahirette en fazla ziyan edenlerin ta kendileri."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Ve şüphe yok ki sen, Kur'an'ı, hüküm ve hikmet sahibinin, her şeyi bilenin katından almadasın."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "An o zamanı, hani Musa, eşine demişti: Gerçekten de ben bir ateş görüyorum, ya gider, size bir haber getiririm oradan, yahut bir kor getiririm de ısınırsınız."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Oraya gelince nida edildi: Ateşteki melekler de gerçekten kutlanmıştır, çevresindeki Musa da ve münezzehtir noksan sıfatlardan alemlerin Rabbi Allah."
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "Ey Musa, gerçek olan şey şu ki: Benim üstün olan, hüküm ve hikmet sahibi Allah."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "Ve at sopanı. Musa, sopayı tıpkı bir yılan gibi kıvranıyor görünce arkasını dönüp kaçmıştı ve geriye de dönmemişti. Ey Musa dendi, korkma, şüphe yok, ben öyle bir mabudum ki korkmazlar benim katımda peygamberler."
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "Ancak zulmeden korkar; fakat kötülükten sonra onu iyiliğe döndürene gelince, hiç şüphe yok ki ben suçları örterim, rahimim."
+    },
+    {
+      "ayahNumber": "12",
+      "ayahText": "Ve elini koynuna sok da bir hastalık yüzünden olmaksızın bembeyaz, parıl parıl parlar bir halde çıksın; bu, Firavun'la kavmine gösterilen dokuz delil içindedir; şüphe yok ki onlar, buyruktan çıkmış bir topluluktur."
+    },
+    {
+      "ayahNumber": "13",
+      "ayahText": "Delillerimiz, gözle görünür bir surette onlara gösterilince bu, apaçık bir büyü dediler."
+    },
+    {
+      "ayahNumber": "14",
+      "ayahText": "Kendileri de bunlara adamakıllı inandıkları, bunları iyice bilip anladıkları halde zulümle, ululanmayla inadına inkar ettiler; bak da gör, bozguncuların sonları ne oldu."
+    },
+    {
+      "ayahNumber": "15",
+      "ayahText": "Ve andolsun ki biz, Davud'a ve Süleyman'a bilgi verdik ve hamdolsun Allah'a ki dediler, bizi inanan kullarının çoğundan üstün etti."
+    },
+    {
+      "ayahNumber": "16",
+      "ayahText": "Ve Süleyman, Davud'un mirasçısı oldu ve ey insanlar dedi, bize kuşdili öğretildi ve her şeye ait bilgi verildi bize; şüphe yok ki bu, elbette apaçık bir lütuf ve ihsandır."
+    },
+    {
+      "ayahNumber": "17",
+      "ayahText": "Ve Süleyman'ın, cinlerden, insanlardan ve kuşlardan meydana gelen orduları toplandı ve her takım, yerli yerince karar etti."
+    },
+    {
+      "ayahNumber": "18",
+      "ayahText": "Sonunda bir karınca vadisine geldikleri zaman bir karınca, ey karıncalar dedi, yuvalarınıza girin de Süleyman ve orduları, bilmeden çiğnemesinler sizi."
+    },
+    {
+      "ayahNumber": "19",
+      "ayahText": "Süleyman, onun sözünü duyunca hafifçe güldü de Rabbim dedi, bana ve anamla babama verdiğin nimetlere şükretmemi ve razı olacağın iyi işlerde bulunmamı ilham et bana ve rahmetinle, beni temiz kullarının arasına kat."
+    },
+    {
+      "ayahNumber": "20",
+      "ayahText": "Kuşları araştırdı da ne oldu dedi, hüthüdü görmüyorum, yoksa bir yere mi gidip gizlendi?"
+    },
+    {
+      "ayahNumber": "21",
+      "ayahText": "Ona şiddetli bir surette azap edeceğim, yahut onu kestireceğim, yahut da bana, neden bulunmadığının sebebini açıklayan bir delil gösterir."
+    },
+    {
+      "ayahNumber": "22",
+      "ayahText": "Derken hüthüt, çok geçmeden geldi de dedi ki: Senin henüz bilmediğin birşeyi öğrendim ve sana doğru bir haberle Sebe'den geliyorum."
+    },
+    {
+      "ayahNumber": "23",
+      "ayahText": "Orada, onlara bir kadının hükümdar olduğunu gördüm ve kendisine her şey verilmiş ve bir de çok büyük tahtı var."
+    },
+    {
+      "ayahNumber": "24",
+      "ayahText": "Onu ve kavmini, Allah'ı bırakıp güneşe secde eder buldum ve Şeytan, yaptıklarını bezemiş de yoldan çıkarmış onları ve onlar, doğru yolu bulamıyorlar."
+    },
+    {
+      "ayahNumber": "25",
+      "ayahText": "Ve bunu da, göklerde ve yeryüzünde gizli olan şeyleri meydana çıkaran ve neyi gizliyorlar, neyi açığa vuruyorlarsa hepsini bilen Allah'a secde etmemek için yapıyorlar."
+    },
+    {
+      "ayahNumber": "26",
+      "ayahText": "Öyle bir Allah ki yoktur ondan başka tapacak ve pek büyük Arşın da sahibi."
+    },
+    {
+      "ayahNumber": "27",
+      "ayahText": "Süleyman, bakayım dedi, doğru mu söyledin, yoksa yalancılardan mısın?"
+    },
+    {
+      "ayahNumber": "28",
+      "ayahText": "Git, şu mektubumu götür, ver onlara, sonra biraz çekil onlardan, bak bakalım, ne cevap verecekler?"
+    },
+    {
+      "ayahNumber": "29",
+      "ayahText": "Sebe hükümdarı, ey ulular dedi, bana pek güzel bir mektup geldi;"
+    },
+    {
+      "ayahNumber": "30",
+      "ayahText": "O, gerçekten de Süleyman'dan geliyor ve gerçekten de içinde şunlar yazılı: Rahman ve rahim Allah Adıyla."
+    },
+    {
+      "ayahNumber": "31",
+      "ayahText": "Bana karşı yücelik davasına girişmeyin ve teslim olarak gelin bana."
+    },
+    {
+      "ayahNumber": "32",
+      "ayahText": "Ey ulular dedi, şu işi ne yapacağım, bana bir rey verin, sizi çağırmadan kesin bir karar vermedim."
+    },
+    {
+      "ayahNumber": "33",
+      "ayahText": "Biz dediler; güçlükuvvetli ve şiddetli savaşır bir topluluğuz, fakat emir senin, ne yapacaksan sen düşün, yap."
+    },
+    {
+      "ayahNumber": "34",
+      "ayahText": "Dedi ki: Padişahlar, bir şehre girdiler mi, o şehri harap ederler ve halkının yücelerini aşağılık bir hale getirirler ve bunlar da böyle yapacaklar."
+    },
+    {
+      "ayahNumber": "35",
+      "ayahText": "Onlara bir armağan göndereyim de bakalım elçiler, dönüp ne cevap getirecekler?"
+    },
+    {
+      "ayahNumber": "36",
+      "ayahText": "Elçiler, Süleyman'a gelince Süleyman, bana dedi, mal göndererek yardım mı ediyorsunuz? Allah'ın bana verdikleri, sizin getirdiklerinizden daha da hayırlı, fakat siz, armağanınızla sevinir, övünürsünüz."
+    },
+    {
+      "ayahNumber": "37",
+      "ayahText": "Dön, git onlara, öyle bir orduyla geleceğim ki karşı duramayacaklar ve oradan, horhakir bir halde çıkaracağım onları, aşağılık bir hale gelecek onlar."
+    },
+    {
+      "ayahNumber": "38",
+      "ayahText": "Ey ulular dedi, onlar, bana teslim olup gelmeden onun tahtını kim getirebilir bana?"
+    },
+    {
+      "ayahNumber": "39",
+      "ayahText": "Cinlerden bir ifrit, sen yerinden kalkmadan dedi, ben onu sana getiririm ve şüphe yok ki ben, elbette güvenilecek bir kuvvete sahibim."
+    },
+    {
+      "ayahNumber": "40",
+      "ayahText": "Kitaba ait bir bilgiye sahib olansa ben dedi, gözünü yumup açmadan onu getiririm sana. Derken baktı ki taht yanında durmada, onu görünce bu dedi, Rabbimin lutfundan, ihsanından, şükür mü edeceğim, nankör mü olacağım, beni sınamak istiyor. Fakat şükreden, mutlaka kendisini faydalandırmış olur ve nankörlük edene gelince hiç şüphe yok ki Rabbim, kullarından müstağnidir, onlara karşı lütuf ve kerem sahibidir."
+    },
+    {
+      "ayahNumber": "41",
+      "ayahText": "Süleyman, tahtının şeklini değiştirin dedi, bakalım tanıyacak mı, tanımıyacak mı?"
+    },
+    {
+      "ayahNumber": "42",
+      "ayahText": "Hükümdar gelince, tahtın bumuydu dendi, o da ona pek benziyor zaten daha önce de Süleyman'ın peygamberliğini bilmiş, anlamıştık ve teslim olmuştuk dedi."
+    },
+    {
+      "ayahNumber": "43",
+      "ayahText": "Allah'ı bırakıp da kulluk ettiği şeyler, onu yoldan çıkarmıştı; şüphe yok ki o, kafirler topluluğundandı."
+    },
+    {
+      "ayahNumber": "44",
+      "ayahText": "Ona, saraya gir dendi. Billur döşemeyi görünce derin bir su sandı ve bacaklarını sıvadı. Süleyman, bu dedi, billur döşenmiş düz bir saha. Bunun üzerine o da Rabbim dedi, ben kendime zulmettim ve teslim oldum Süleyman'la beraber alemlerin Rabbi Allah'a."
+    },
+    {
+      "ayahNumber": "45",
+      "ayahText": "Ve andolsun ki biz, Semud kavmine, Allah'a kulluk edin diye kardeşleri Salih'i göndermiştik. O zaman onlar, birbiriyle çekişen, birbirine düşmanlık eden iki fırkaya ayrılmışlardı."
+    },
+    {
+      "ayahNumber": "46",
+      "ayahText": "Ey kavmim dedi, iyilikten önce ne diye çarçabuk kötülüğü istersiniz? Ne olur, Allah'tan yarlıganma dileseniz de merhamete layık olsanız."
+    },
+    {
+      "ayahNumber": "47",
+      "ayahText": "Biz dediler, seninle ve yanında bulunanlarla uğrusuzluğa uğramadayız. O, uğradığınız uğursuzluk, Allah katından gelmede; hatta siz, sınanmakta olan bir topluluksunuz dedi."
+    },
+    {
+      "ayahNumber": "48",
+      "ayahText": "Şehirde dokuz kişi vardı ki yeryüzünde bozgunculuk ediyorlar, düzene hiç yanaşmıyorlardı."
+    },
+    {
+      "ayahNumber": "49",
+      "ayahText": "Allah adına, aralarında yemin ederek dediler ki: Bir gece Salih'i de, ailesini de öldürelim, sonra velisine, onu öldürmediğimiz gibi öldüreni de bilmiyoruz ve şüphe yok ki doğru söylüyoruz deriz."
+    },
+    {
+      "ayahNumber": "50",
+      "ayahText": "Onlar, bir düzendir kurdular, biz de düzenlerine bir cezadır verdik, fakat onlar, anlamıyorlardı bunu, haberleri bile yoktu bundan."
+    },
+    {
+      "ayahNumber": "51",
+      "ayahText": "Düzenlerinin sonucu ne oldu, bak da gör; şüphe yok ki biz, onları da, topluluklarını da tamamıyla helak ettik."
+    },
+    {
+      "ayahNumber": "52",
+      "ayahText": "İşte zulümleri yüzünden bomboş kalmış evleri; şüphe yok ki bunda, bilen topluluğa bir delil var."
+    },
+    {
+      "ayahNumber": "53",
+      "ayahText": "Ve inanıp çekinenleri kurtardık biz."
+    },
+    {
+      "ayahNumber": "54",
+      "ayahText": "Ve Lut'u da göndermiştik de o zaman, kavmine demişti ki: Çirkin bir iş işlemedesiniz ve siz de onun çirkinliğini görüyorsunuz."
+    },
+    {
+      "ayahNumber": "55",
+      "ayahText": "Kadınları bırakıp da şehvetle erkeklerle mi temas edeceksiniz, hatta siz, bilgisiz bir topluluksunuz."
+    },
+    {
+      "ayahNumber": "56",
+      "ayahText": "Kavminin cevabı, Lut'u ve soyunu şehrinizden çıkarın, hiç şüphe yok ki onlar, temizliğe pek düşkün bir topluluk sözünden başka bir söz değildi."
+    },
+    {
+      "ayahNumber": "57",
+      "ayahText": "Derken, onu ve ailesini kurtardık, ancak karısını kurtarmadık, onun, geri kalanlarla kalmasını takdir etmiştik."
+    },
+    {
+      "ayahNumber": "58",
+      "ayahText": "Ve onlara öylesine bir yağmur yağdırdık ki, korkutulanlara yağan yağmur, ne de kötü yağmurdur."
+    },
+    {
+      "ayahNumber": "59",
+      "ayahText": "De ki: Hamd Allah'a ve esenlik, seçtiği kullarına; Allah mı daha hayırlıdır, ona şirk koştukları şeyler mi?"
+    },
+    {
+      "ayahNumber": "60",
+      "ayahText": "Gökleri ve yeryüzünü yaratan ve size gökten yağmur yağdıran mı hayırlı? Biz, o yağmurla, ağacını bile bitiremiyeceğiniz nice güzelim bahçelerdeki nebatları bitirmedeyiz; Allah'la beraber bir başka mabut var mı? Hayır, siz, yoldan sapmış kişilersiniz."
+    },
+    {
+      "ayahNumber": "61",
+      "ayahText": "Yoksa yeryüzünü, karar edilecek bir saha olarak yaratan ve yerin üstünden ırmaklar akıtan ve orada sağlam dağlar halkeden ve iki denizin arasına bir sınır çeken mi hayırlı? Allah'la beraber bir başka mabut var mı? Hayır, onların çoğu bilmez."
+    },
+    {
+      "ayahNumber": "62",
+      "ayahText": "Yoksa darda kalana, dua ettiği zaman icabet eden ve kötülüğü gideren ve sizi, yeryüzüne sahip kılan mı hayırlı? Allah'la beraber bir başka mabut var mı? Ne de az düşünmedesiniz."
+    },
+    {
+      "ayahNumber": "63",
+      "ayahText": "Yoksa karanın ve denizin karanlıklarında sizi doğru yola sevkeden ve rahmetinden önce müjde olarak rüzgarları yollayan mı hayırlı? Allah'la beraber bir başka mabut var mı? Yücedir, münezzehtir Allah, onların şirk koştuklarından."
+    },
+    {
+      "ayahNumber": "64",
+      "ayahText": "Yoksa daima halkı yaratıp duran, sonra da yeniden halkeden ve sizi, gökten ve yeryüzünden rızıklandıran mı hayırlı? Allah'la beraber bir başka mabut var mı? De ki: Gösterin delillerinizi doğru söylüyorsanız."
+    },
+    {
+      "ayahNumber": "65",
+      "ayahText": "De ki: Göklerde ve yeryüzünde bulunanların hiçbiri, gizli şeyi bilemez, ancak Allah bilir ve onlar da ne vakit tekrar diriltileceklerini bilemezler"
+    },
+    {
+      "ayahNumber": "66",
+      "ayahText": "Hayır, onların bilgileri, bu dünyadayken, ahirete ulaşamaz; hayır, onlar, ahiret hakkında şüphe içindedir; hayır, onlar ahiret hususunda kördür."
+    },
+    {
+      "ayahNumber": "67",
+      "ayahText": "Ve kafir olanlar, derler ki: Biz ve atalarımız, toprak olduktan sonra mı mezarlarımızdan çıkarılacağız?"
+    },
+    {
+      "ayahNumber": "68",
+      "ayahText": "Andolsun ki bu, bize de vaadedilmiştir, daha önce atalarımıza da vaadedilmişti; fakat bu, gelip geçenlere ait bir masal ancak."
+    },
+    {
+      "ayahNumber": "69",
+      "ayahText": "De ki: Gezin yeryüzünde de bakın, görün, ne olmuş mücrimlerin sonu."
+    },
+    {
+      "ayahNumber": "70",
+      "ayahText": "Ve üzülme onlar için ve daralma kurdukları düzenlerden."
+    },
+    {
+      "ayahNumber": "71",
+      "ayahText": "Ve derler ki: Bu vait, ne vakit yerine gelecek doğru söylüyorsanız."
+    },
+    {
+      "ayahNumber": "72",
+      "ayahText": "De ki: Çarçabuk gelip çatmasını dilediğiniz o azabın birazcığı neredeyse gelmek üzere size."
+    },
+    {
+      "ayahNumber": "73",
+      "ayahText": "Ve şüphe yok ki Rabbin, insanlara lütuf ve ihsan sahibidir, fakat çoğu şükretmez."
+    },
+    {
+      "ayahNumber": "74",
+      "ayahText": "Ve şüphe yok ki Rabbin, gönüllerinde gizlediklerini de bilir elbette, açığa vurduklarını da."
+    },
+    {
+      "ayahNumber": "75",
+      "ayahText": "Gökte ve yeryüzünde hiçbir gizli şey yoktur ki apaçık kitapta tespit edilmemiş olsun."
+    },
+    {
+      "ayahNumber": "76",
+      "ayahText": "Şüphe yok ki bu Kur'an, İsrailoğullarına, ihtilafa düştükleri birçok şeyleri anlatmadadır."
+    },
+    {
+      "ayahNumber": "77",
+      "ayahText": "Ve şüphe yok ki Kur'an, elbette hidayettir ve rahmettir inananlara."
+    },
+    {
+      "ayahNumber": "78",
+      "ayahText": "Şüphe yok ki Rabbin, hükmüyle, aralarında takdir ettiğini yerine getirecektir ve odur üstün olan ve bilen."
+    },
+    {
+      "ayahNumber": "79",
+      "ayahText": "Ve artık dayan Allah'a, şüphe yok ki sen, apaçık gerçek yoldasın."
+    },
+    {
+      "ayahNumber": "80",
+      "ayahText": "Şüphe yok ki sen, ölüye duyuramazsın ve arkalarını çevirip giderlerken çağırsan da sağırlara sesini işittiremezsin."
+    },
+    {
+      "ayahNumber": "81",
+      "ayahText": "Ve köre, sapıklığından döndürüp doğru yolu gösteremezsin sen; ancak delillerimize inanan kişiye duyurursun sesini ve onlardır gerçekten de Müslüman olanlar."
+    },
+    {
+      "ayahNumber": "82",
+      "ayahText": "Sözün, onlar hakkında yerine geleceği, tahakkuk edeceği zaman gelip çatınca yeryüzünden, onlara bir mahluk çıkarırız ki o, konuşur onlarla ve gerçekten de insanlar, delillerimize adamakıllı inanmazlar der."
+    },
+    {
+      "ayahNumber": "83",
+      "ayahText": "Ve o gün, her ümmetten, delillerimizi yalanlayan bir topluluğu toplayacağız ve onlar, takımtakım duracaklar."
+    },
+    {
+      "ayahNumber": "84",
+      "ayahText": "Sonunda, onlar geldi mi, delillerimi bir bilgi edinip kavramadığınız halde yalanladınız mı, neydi o yaptığınız der."
+    },
+    {
+      "ayahNumber": "85",
+      "ayahText": "Zulmettiklerinden dolayı o söz, tahakkuk etmiş, başlarına gelmiştir, artık onlar konuşamazlar da."
+    },
+    {
+      "ayahNumber": "86",
+      "ayahText": "Görmezler mi ki biz, şüphe yok ki dinlensinler diye geceyi yarattık, gözlerini açsınlar diye de gündüzü; şüphe yok ki bunda deliller var inanan topluluğa."
+    },
+    {
+      "ayahNumber": "87",
+      "ayahText": "Ve o gün Sur üfürülür de göllerde kimler varsa ve yeryüzünde kimler varsa, Allah'ın dilediğinden başka hepsi, pek şiddetli bir korkuya kapılır ve hepsi de horhakir bir halde onun tapısına gelir."
+    },
+    {
+      "ayahNumber": "88",
+      "ayahText": "Ve görürsün dağları da yerlerinde duruyor sanırsın, halbuki onlar, kıyamette bulut gibi geçip gider, dağılır. Her şeyi, adamakıllı ve yerli yerinde halkeden Allah'ın işidir bu; şüphe yok ki o, ne yapıyorsanız hepsinden de haberdardır."
+    },
+    {
+      "ayahNumber": "89",
+      "ayahText": "Kim, bir iyilikle gelirse yaptığı iyilikten de hayırlı bir mükafat var ona ve onlar, o günün şiddetli korkusundan emindirler."
+    },
+    {
+      "ayahNumber": "90",
+      "ayahText": "Ve kim, bir kötülükle gelirse o çeşit kişiler, yüzüstü cehenneme atılırlar; yaptığınıza karşılık neyse ondan başka bir şeyle mi size ceza verilecek sandınız?"
+    },
+    {
+      "ayahNumber": "91",
+      "ayahText": "Bana, ancak orasını emin bir harem olarak halkeden bu şehrin Rabbine ibadet etmem emredildi ve onundur her şey ve Müslümanlardan olmam emredildi bana."
+    },
+    {
+      "ayahNumber": "92",
+      "ayahText": "Ve Kur'an okumam emredildi. Artık kim doğru yolu bulursa faydası kendisine ait ve kim saparsa artık de ki: Ben ancak korkutanlardanım."
+    },
+    {
+      "ayahNumber": "93",
+      "ayahText": "Ve de ki: Hamd Allah'a, yakında delillerini gösterecek size ve siz de tanıyacaksınız onları ve Rabbin, ne yaptığınızdan gafil değildir."
+    }
+  ]
+}

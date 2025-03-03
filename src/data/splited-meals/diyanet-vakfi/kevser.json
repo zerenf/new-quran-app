@@ -1,0 +1,20 @@
+{
+  "kevser": {
+    "surahNumber": "108",
+    "surahNameTr": "Kevser Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "(Resulum!) Kuşkusuz biz sana Kevser'i verdik."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Şimdi sen Rabbine kulluk et ve kurban kes."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Asıl sonu kesik olan, şüphesiz sana hınç besleyendir."
+      }
+    ]
+  }
+}

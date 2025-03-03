@@ -1,0 +1,40 @@
+{
+  "tekasur": {
+    "surahNumber": "102",
+    "surahNameTr": "Tekâsür Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Çokluk kuruntusu sizi o derece oyaladı ki,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Nihayet kabirleri ziyaret ettiniz."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hayır! Yakında bileceksiniz!"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Elbette yakında bileceksiniz!"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Gerçek öyle değil! Kesin bilgi ile bilmiş olsaydınız,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Mutlaka cehennem ateşini görürdünüz."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Sonra ahirette onu çıplak gözle göreceksiniz."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Nihayet o gün (dünyada yararlandığınız) nimetlerden elbette ve elbette hesaba çekileceksiniz."
+      }
+    ]
+  }
+}

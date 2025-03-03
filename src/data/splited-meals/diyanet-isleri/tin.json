@@ -1,0 +1,40 @@
+{
+  "tin": {
+    "surahNumber": "95",
+    "surahNameTr": "Tîn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "İncir ve zeytine and olsun,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "And olsun Sina dağına,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "And olsun bu güvenli Mekke şehrine ki:"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Biz insanı en güzel şekilde yarattık,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Sonra onu aşağıların en aşağısı kıldık."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Yalnız, inanıp yararlı iş işleyenler bunun dışındadır. Onlara kesintisiz ecir vardır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Öyleyken, sana dini yalan saydırtan nedir?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Allah, hükmedenlerin en iyi hükmedeni değil midir?"
+      }
+    ]
+  }
+}

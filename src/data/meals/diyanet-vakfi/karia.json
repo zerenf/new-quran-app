@@ -1,0 +1,50 @@
+{
+  "surahNumber": "101",
+  "surahName": "Kâria Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Kapı çalan!"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Nedir o kapı çalan?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "O kapı çalanın ne olduğunu bilir misin?"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "İnsanların, ateşin etrafını sarmış pervaneler gibi olur,"
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Dağların da atılmış renkli yüne dönüştüğü gündür (o Karia!)"
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "O gün kimin tartılan ameli ağır gelirse."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "İşte o, hoşnut edici bir yaşayış içinde olur."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Ameli yeğni olana gelince."
+    },
+    {
+      "ayahNumber": "9",
+      "ayahText": "İşte onun anası (yeri, yurdu) Haviye'dir."
+    },
+    {
+      "ayahNumber": "10",
+      "ayahText": "Nedir o (Haviye) bilir misin?"
+    },
+    {
+      "ayahNumber": "11",
+      "ayahText": "Kızgın ateş!"
+    }
+  ]
+}

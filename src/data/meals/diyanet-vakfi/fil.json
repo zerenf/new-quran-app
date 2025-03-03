@@ -1,0 +1,26 @@
+{
+  "surahNumber": "105",
+  "surahName": "Fîl Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Rabbin fil sahiplerine neler etti, görmedin mi?"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Onların kötü planlarını boşa çıkarmadı mı?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Onların üstüne ebabil kuşlarını gönderdi."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "O kuşlar, onların üzerlerine pişkin tuğladan yapılmış taşlar atıyordu."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Böylece Allah onları yenilip çiğnenmiş ekine çevirdi."
+    }
+  ]
+}

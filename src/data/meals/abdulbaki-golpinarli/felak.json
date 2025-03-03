@@ -1,0 +1,26 @@
+{
+  "surahNumber": "113",
+  "surahName": "Felâk Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "De ki: Sığınırım karanlığı yarıp ışıtan sabahın Rabbine."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Yarattığı mahlukların şerrinden."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Çöküp etrafı kapladığı zaman karanlığın şerrinden."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Ve düğümlere üfleyen kadınların şerrinden."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Ve hasetçinin haset ettiği zaman, şerrinden."
+    }
+  ]
+}

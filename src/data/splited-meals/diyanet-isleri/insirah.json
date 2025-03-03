@@ -1,0 +1,40 @@
+{
+  "insirah": {
+    "surahNumber": "94",
+    "surahNameTr": "İnşirâh Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Senin gönlünü açmadık mı?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Belini büken yükünü üzerinden almadık mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Belini büken yükünü üzerinden almadık mı?"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Senin şanını yükseltmedik mi?"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Elbette güçlükle beraber şüphesiz bir kolaylık vardır."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerçekten, güçlükle beraber bir kolaylık vardır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Öyleyse, bir işi bitirince diğerine giriş;"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve ümit edeceğini yalnız Rabbinden iste."
+      }
+    ]
+  }
+}

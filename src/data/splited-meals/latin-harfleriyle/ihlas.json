@@ -1,0 +1,24 @@
+{
+  "ihlas": {
+    "surahNumber": "112",
+    "surahNameTr": "İhlâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "ḳul hüve-llâhü eḥad."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "allâhu-ṣṣamed."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "lem yelid velem yûled."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "velem yekül lehû küfüven eḥad."
+      }
+    ]
+  }
+}

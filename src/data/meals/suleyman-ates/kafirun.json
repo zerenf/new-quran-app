@@ -1,0 +1,30 @@
+{
+  "surahNumber": "109",
+  "surahName": "Kâfirûn Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "De ki: Ey nankörler,"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Ben sizin yaptığınız ibadeti yapmam;"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Siz de benim yaptığım ibadeti yapmazsınız."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Ben asla sizin yapmakta olduğunuz ibadeti yapıcı değilim."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Siz de benim yapmakta olduğum ibadeti yapıcı değilsiniz."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Sizin dininiz size, benim dinim banadır."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "maun": {
+    "surahNumber": "107",
+    "surahNameTr": "Mâûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Dini yalanlayanı gördün mü?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İşte yetimi itip-kakan;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Yoksulu doyurmayı teşvik etmeyen odur."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "İşte (şu) namaz kılanların vay haline,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ki onlar, namazlarında yanılgıdadırlar,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Onlar gösteriş yapmaktadırlar"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve ‘ufacık bir yardımı (veya zekatı) da engellemektedirler."
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "surahNumber": "102",
+  "surahName": "Tekâsür Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Çoklukla övünmek, sizi kabirlere varıncaya kadar oyaladı."
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Çoklukla övünmek, sizi kabirlere varıncaya kadar oyaladı."
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Hayır! Yakında bileceksiniz."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Yine hayır! Yakında bileceksiniz (hatanızı)."
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Hayır! Eğer kesin bilgi ile bilseniz, elbette cehennemi görürsünüz."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Hayır! Eğer kesin bilgi ile bilseniz, elbette cehennemi görürsünüz."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "Sonra, yemin olsun ki, cehennemi yakin gözüyle göreceksiniz."
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Sonra, yemin olsun ki, o gün (size verilen) her nimetten sorulacaksınız"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "tarik": {
+    "surahNumber": "86",
+    "surahNameTr": "Târık Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "vessemâi veṭṭâriḳ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "vemâ edrâke me-ṭṭâriḳ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "ennecmü-ŝŝâḳib."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "in küllü nefsil lemmâ `aleyhâ ḥâfiż."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "felyenżuri-l'insânü mimme ḫuliḳ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "ḫuliḳa mim mâin dâfiḳ."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "yaḫrucü mim beyni-ṣṣulbi vetterâib."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "innehû `alâ rac`ihî leḳâdir."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "yevme tüble-sserâir."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "femâ lehû min ḳuvvetiv velâ nâṣir."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "vessemâi ẕâti-rrac`."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "vel'arḍi ẕâti-ṣṣad`."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "innehû leḳavlün faṣl."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "vemâ hüve bilhezl."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "innehüm yekîdûne keydâ."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "veekîdü keydâ."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "femehhili-lkâfirîne emhilhüm ruveydâ."
+      }
+    ]
+  }
+}

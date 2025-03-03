@@ -1,0 +1,22 @@
+{
+  "surahNumber": "106",
+  "surahName": "Kureyş Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Kureyş'e kolaylaştırıldığı,"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Evet, kış ve yaz seyahatleri onlara kolaylaştırıldığı için,"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "Onlar, şu evin Rabbine kulluk etsinler, ki,"
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Kendilerini açlıktan doyuran ve her çeşit korkudan emin kıldı."
+    }
+  ]
+}

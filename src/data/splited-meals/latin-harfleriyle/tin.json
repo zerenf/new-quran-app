@@ -1,0 +1,40 @@
+{
+  "tin": {
+    "surahNumber": "95",
+    "surahNameTr": "Tîn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "vettîni vezzeytûn."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "veṭûri sînîn."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "vehâẕe-lbeledi-l'emîn."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "leḳad ḫalaḳne-l'insâne fî aḥseni taḳvîm."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "ŝümme radednâhü esfele sâfilîn."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "ille-lleẕîne âmenû ve`amilu-ṣṣâliḥâti felehüm ecrun gayru memnûn."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "femâ yükeẕẕibüke ba`dü biddîn."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "eleyse-llâhü biaḥkemi-lḥâkimîn."
+      }
+    ]
+  }
+}

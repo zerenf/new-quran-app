@@ -1,0 +1,38 @@
+{
+  "surahNumber": "94",
+  "surahName": "İnşirâh Suresi",
+  "ayats": [
+    {
+      "ayahNumber": "1",
+      "ayahText": "Biz senin göğsünü açıp genişletmedik mi?"
+    },
+    {
+      "ayahNumber": "2",
+      "ayahText": "Yükünü senden alıp atmadık mı?"
+    },
+    {
+      "ayahNumber": "3",
+      "ayahText": "O senin belini büken yükü."
+    },
+    {
+      "ayahNumber": "4",
+      "ayahText": "Senin şanını ve ününü yüceltmedik mi?"
+    },
+    {
+      "ayahNumber": "5",
+      "ayahText": "Elbette zorluğun yanında bir kolaylık vardır."
+    },
+    {
+      "ayahNumber": "6",
+      "ayahText": "Gerçekten, zorlukla beraber bir kolaylık daha vardır."
+    },
+    {
+      "ayahNumber": "7",
+      "ayahText": "Boş kaldın mı hemen (başka) işe koyul,"
+    },
+    {
+      "ayahNumber": "8",
+      "ayahText": "Yalnız Rabbine yönel."
+    }
+  ]
+}

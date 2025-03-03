@@ -1,0 +1,32 @@
+{
+  "kafirun": {
+    "surahNumber": "109",
+    "surahNameTr": "Kâfirûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: \"Ey kafirler.\""
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "\"Ben sizin taptıklarınıza tapmam.\""
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "\"Benim taptığıma siz tapacak değilsiniz.\""
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "\"Ben de sizin taptıklarınıza tapacak değilim.\""
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "\"Siz de benim taptığıma tapacak değilsiniz.\""
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "\"Sizin dininiz size, benim dinim bana.\""
+      }
+    ]
+  }
+}
