@@ -120,7 +120,6 @@ const SurahSidebar = () => {
 
 	return (
 		<div className="h-[75vh] w-[300px] flex flex-col relative ">
-			<p className="p-4 text-lg font-semibold">SurahSidebar</p>
 			<div className="flex-1 overflow-y-auto ">
 				{surahs?.map((surah) => (
 					<SurahCard key={surah.number} surah={surah} />

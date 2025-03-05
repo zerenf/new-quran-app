@@ -192,7 +192,7 @@ export default function SurahFilter() {
 	return (
 		<>
 			<div className="flex justify-center">
-				<div className="w-full max-w-2xl mx-3 p-4 sm:p-6 bg-white rounded-lg shadow-md">
+				<div className="w-full max-w-3xl mx-3 p-4 sm:p-6 bg-white rounded-lg shadow-md">
 					<h2 className="text-xl sm:text-2xl font-semibold text-center text-gray-800 mb-4 sm:mb-6">Meal Ara</h2>
 
 					<div className="filter-container">
