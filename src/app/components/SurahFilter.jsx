@@ -1,83 +1,280 @@
 "use client"
 import { useState, useEffect } from "react"
-import axios from "axios"
+import useQuranStore from "../stores/useQuranStore"
+import AyahCard from "./AyahCard"
 
 export default function SurahFilter() {
-	const [surahName, setSurahName] = useState("")
-	const [meal, setMeal] = useState("diyanet-isleri")
-	const [ayah, setAyah] = useState("")
-	const [result, setResult] = useState(null)
+	const [clicked, setClicked] = useState({})
 	const [error, setError] = useState(null)
 
-	const fetchData = async () => {
-		if (!surahName) return
+	const { fetchData, selectedSurah, selectedAyah, selectedMeal, setSelectedSurah, setSelectedAyah, setSelectedMeal, result, mealOwner } =
+		useQuranStore()
 
-		let url = `/api/search/${surahName}?meal=${meal}`
-		if (ayah) {
-			url += `&ayah=${ayah}`
-		}
+	// Sure isimleri dizisi
+	const surahNames = [
+		"Fâtiha",
+		"Bakara",
+		"Âl-i İmran",
+		"Nisâ",
+		"Mâide",
+		"En'âm",
+		"A'râf",
+		"Enfâl",
+		"Tevbe",
+		"Yûnus",
+		"Hûd",
+		"Yûsuf",
+		"Ra'd",
+		"İbrâhîm",
+		"Hicr",
+		"Nahl",
+		"İsrâ",
+		"Kehf",
+		"Meryem",
+		"Tâ-Hâ",
+		"Enbiyâ",
+		"Hac",
+		"Mü'minûn",
+		"Nûr",
+		"Furkân",
+		"Şuarâ",
+		"Neml",
+		"Kasas",
+		"Ankebût",
+		"Rûm",
+		"Lokmân",
+		"Secde",
+		"Ahzâb",
+		"Sebe'",
+		"Fâtır",
+		"Yâsin",
+		"Sâffât",
+		"Sâd",
+		"Zümer",
+		"Mü'min",
+		"Fussilet",
+		"Şûrâ",
+		"Zuhruf",
+		"Duhân",
+		"Câsiye",
+		"Ahkâf",
+		"Muhammed",
+		"Fetih",
+		"Hucurât",
+		"Kâf",
+		"Zâriyât",
+		"Tûr",
+		"Necm",
+		"Kamer",
+		"Rahmân",
+		"Vâkıa",
+		"Hadîd",
+		"Mücâdele",
+		"Haşr",
+		"Mümtehine",
+		"Saff",
+		"Cum'a",
+		"Münâfikûn",
+		"Teğabün",
+		"Talâk",
+		"Tahrîm",
+		"Mülk",
+		"Kalem",
+		"Hâkka",
+		"Meâric",
+		"Nûh",
+		"Cin",
+		"Müzzemmil",
+		"Müddessir",
+		"Kıyamet",
+		"İnsan",
+		"Mürselât",
+		"Nebe'",
+		"Nâziât",
+		"Abese",
+		"Tekvîr",
+		"İnfitâr",
+		"Mutaffifîn",
+		"İnşikâk",
+		"Bürûc",
+		"Târık",
+		"A'lâ",
+		"Ğâşiye",
+		"Fecr",
+		"Beled",
+		"Şems",
+		"Leyl",
+		"Duhâ",
+		"İnşirâh",
+		"Tîn",
+		"Alak",
+		"Kadir",
+		"Beyyine",
+		"Zilzâl",
+		"Adiyât",
+		"Kâria",
+		"Tekâsür",
+		"Asr",
+		"Hümeze",
+		"Fîl",
+		"Kureyş",
+		"Mâûn",
+		"Kevser",
+		"Kâfirûn",
+		"Nasr",
+		"Tebbet",
+		"İhlâs",
+		"Felâk",
+		"Nâs",
+	]
 
-		try {
-			const { data } = await axios.get(url)
-			if (data.success) {
-				setResult(data.result)
-				setError(null)
-			} else {
-				setError(data.error)
+	const mealMap = {
+		"ali-bulac": "Ali Bulaç",
+		"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
+		"diyanet-isleri": "Diyanet İşleri",
+		"diyanet-vakfi": "Diyanet Vakfı",
+		"elmalili-hamdi": "Elmalılı Hamdi Yazır",
+		"suat-yildirim": "Suat Yıldırım",
+		"suleyman-ates": "Süleyman Ateş",
+	}
+
+	// Kopyalama işlemi için fonksiyon
+	const copyToClipboard = (text, ayahNumber) => {
+		if (navigator.clipboard) {
+			navigator.clipboard.writeText(text).catch((err) => console.error("Clipboard API error:", err))
+		} else {
+			const textArea = document.createElement("textarea")
+			textArea.value = text
+			document.body.appendChild(textArea)
+			textArea.select()
+			try {
+				document.execCommand("copy")
+			} catch (err) {
+				console.error("Failed to copy text:", err)
 			}
-		} catch (err) {
-			setError("Veri çekilirken hata oluştu")
+			document.body.removeChild(textArea)
 		}
+
+		setClicked((prev) => ({ ...prev, [ayahNumber]: true }))
+		setTimeout(() => setClicked((prev) => ({ ...prev, [ayahNumber]: false })), 2000)
 	}
 
-	const handleFetchData = () => {
-		fetchData()
-	}
+	useEffect(() => {
+		if (!selectedSurah) return // Kullanıcı sure adı girene kadar istek atma
 
-	// useEffect(() => {
-	// 	fetchData()
-	// }, [surahName, meal, ayah])
+		setError(null) // Yeni istek öncesi hatayı sıfırla
+		fetchData(selectedSurah, selectedMeal, selectedAyah).catch((err) => {
+			if (err?.error === "Geçersiz ayet numarası!") {
+				setError("Ayet bulunamadı!")
+			} else {
+				setError("Bir hata oluştu. Lütfen tekrar deneyin.")
+			}
+		})
+	}, [selectedSurah, selectedMeal, selectedAyah])
+
+	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
+	// console.log("selectedSurah:", selectedSurah)
+	// console.log("result?.arabic?:", result?.arabic)
+	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
 
 	return (
-		<div>
-			<h2>Sure Filtreleme</h2>
-			<label>Sure Adı:</label>
-			<input type="text" value={surahName} onChange={(e) => setSurahName(e.target.value)} placeholder="Örneğin: Al-Fatiha" />
+		<>
+			<div className="flex justify-center">
+				<div className="w-full max-w-md mx-3 p-4 sm:p-6 bg-white rounded-lg shadow-md">
+					<h2 className="text-xl sm:text-2xl font-semibold text-center text-gray-800 mb-4 sm:mb-6">Sure Filtreleme</h2>
 
-			<label>Meal:</label>
-			<input type="text" value={meal} onChange={(e) => setMeal(e.target.value)} placeholder="Örneğin: Diyanet" />
+					<div className="space-y-3 sm:space-y-4">
+						{/* Sure Adı Seçimi */}
+						<div>
+							<label className="block text-sm font-medium text-gray-700 mb-1">Sure Adı:</label>
+							<select
+								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
+								value={selectedSurah}
+								onChange={(e) => setSelectedSurah(e.target.value)}
+							>
+								<option value="">Bir sure seçin</option>
+								{surahNames.map((surah, index) => (
+									<option key={index} value={surah}>
+										{surah}
+									</option>
+								))}
+							</select>
+						</div>
 
-			<label>Ayet Numarası:</label>
-			<input type="number" value={ayah} onChange={(e) => setAyah(e.target.value)} placeholder="Opsiyonel" />
+						{/* Meal Seçimi */}
+						<div>
+							<label className="block text-sm font-medium text-gray-700 mb-1">Meal:</label>
+							<select
+								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
+								value={selectedMeal}
+								onChange={(e) => setSelectedMeal(e.target.value)}
+							>
+								<option value="">Bir meal seçin</option>
+								{Object.entries(mealMap).map(([key, value]) => (
+									<option key={key} value={key}>
+										{value}
+									</option>
+								))}
+							</select>
+						</div>
 
-			<button className="border-2 border-white mx-5 py-1.5 px-3" onClick={handleFetchData}>
-				ara
-			</button>
+						{/* Ayet Numarası Input */}
+						<div>
+							<label className="block text-sm font-medium text-gray-700 mb-1">Ayet Numarası:</label>
+							<input
+								type="number"
+								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
+								value={selectedAyah}
+								onChange={(e) => setSelectedAyah(e.target.value)}
+								placeholder="Opsiyonel"
+							/>
+						</div>
 
-			{error && <p style={{ color: "red" }}>{error}</p>}
+						{/* Ara Butonu */}
+						<div className="text-center">
+							<button
+								className="w-1/3 bg-blue-600 text-white py-1 sm:py-2 px-3 sm:px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-sm sm:text-base"
+								onClick={() => fetchData(selectedSurah, selectedMeal, selectedAyah)}
+							>
+								Ara
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
 
-			{result && (
-				<div>
-					<h3>Sonuç:</h3>
-					{ayah ? (
-						<p>
-							<strong>Ayet {result.meal.ayahNumber}:</strong> {result.meal.ayahText}
-							<br />
-							<strong>Arabic:</strong> {result.arabic.ayahText}
-						</p>
-					) : (
-						<ul>
-							{result.meal.map((item, index) => (
-								<li key={index}>
-									<strong>Ayet {item.ayahNumber}:</strong> {item.ayahText}
-									<br />
-									<strong>Arabic:</strong> {result.arabic[index].ayahText}
-								</li>
-							))}
-						</ul>
-					)}
+			{error && <p className="text-red-500">{error}</p>}
+
+			{result && !error && (
+				<div className="flex justify-center">
+					<div>
+						{/* Eğer sadece tek bir ayet geldiyse doğrudan göster */}
+						{result?.arabic?.arabicResult?.ayahText ? (
+							<AyahCard
+								ayah={result.arabic.arabicResult}
+								meal={result.meal.turkishResult}
+								surahNumber={result.arabic.surahNumber}
+								copyToClipboard={copyToClipboard}
+								clicked={clicked}
+								mealOwner={mealOwner}
+							/>
+						) : (
+							// Eğer tüm sure geldiyse map ile dön
+							result?.arabic?.arabicResult?.map((ayah, index) => (
+								<AyahCard
+									key={ayah.ayahNumber}
+									ayah={ayah}
+									meal={result.meal.turkishResult[index]}
+									surahNumber={result.arabic.surahNumber}
+									copyToClipboard={copyToClipboard}
+									clicked={clicked}
+									mealOwner={mealOwner}
+								/>
+							))
+						)}
+					</div>
 				</div>
 			)}
-		</div>
+		</>
 	)
 }

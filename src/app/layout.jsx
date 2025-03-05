@@ -8,7 +8,14 @@ export const metadata = {
 export default function RootLayout({ children }) {
 	return (
 		<html>
-			<body className=" vsc-initialized">{children}</body>
+			<body className=" vsc-initialized">
+				<div className="w-full flex justify-center items-center my-4 py-3 bg-[#021526]">
+					<h1 className="font-lateef text-[26px] sm:text-[34px] text-background">
+						كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ
+					</h1>
+				</div>
+				{children}
+			</body>
 		</html>
 	)
 }

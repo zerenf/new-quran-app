@@ -23,6 +23,7 @@ export async function GET(req, { params }) {
 		let turkishResult
 		let arabicResult
 		let finalResult
+		const surahNumber = arabicData[surahName].surahNumber
 
 		if (ayah) {
 			if (ayah > turkishAyats.length || ayah > arabichAyats.length) {
@@ -36,8 +37,8 @@ export async function GET(req, { params }) {
 			arabicResult = arabicAyah
 
 			finalResult = {
-				meal: turkishResult,
-				arabic: arabicResult,
+				meal: { turkishResult, surahNumber },
+				arabic: { arabicResult, surahNumber },
 			}
 
 			return NextResponse.json({ success: true, result: finalResult })
@@ -47,8 +48,8 @@ export async function GET(req, { params }) {
 		arabicResult = arabichAyats
 
 		finalResult = {
-			meal: turkishResult,
-			arabic: arabicResult,
+			meal: { turkishResult, surahNumber },
+			arabic: { arabicResult, surahNumber },
 		}
 
 		return NextResponse.json({ success: true, result: finalResult })

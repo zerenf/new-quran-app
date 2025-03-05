@@ -8,6 +8,20 @@
 }
 
 @font-face {
+	font-family: "Ruqaa";
+	src: url("/fonts/ArefRuqaa-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Lateef";
+	src: url("/fonts/Lateef-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
 	font-family: "ArabicBold";
 	src: url("/fonts/ScheherazadeNew-Bold.ttf") format("truetype");
 	font-weight: bold;
@@ -48,7 +62,28 @@
 	--nunito-bold: "Nunito-Bold", sans-serif;
 }
 
+@theme {
+	/* colors */
+	--color-background: #f5f7f8;
+	--color-green-dark: #0d7c66;
+	--color-green: #019267;
+
+	/* fonts */
+	--font-arabic: "Arabic", sans-serif;
+	--font-ruqaa: "Ruqaa", sans-serif;
+	--font-lateef: "Lateef", sans-serif;
+}
+
 body {
 	background: var(--background);
 	font-family: var(--nunito);
+}
+
+.blur {
+	position: absolute;
+	margin-left: 20px;
+	bottom: -9px;
+	height: 30px;
+	width: 260px;
+	background-color: white; /* Arka planı şeffaf yapalım */
 }
