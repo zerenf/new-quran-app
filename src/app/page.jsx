@@ -7,11 +7,11 @@ export default function Home() {
 	return (
 		<>
 			<div className="flex">
-				<div>{/* <SurahSidebar /> */}</div>
+				<div>
+					<SurahSidebar />
+				</div>
 				<div className="mt-14 w-full">
 					<SurahFilter />
-					{/* <QuranSearch /> */}
-					{/* <AyahCard /> */}
 				</div>
 			</div>
 		</>

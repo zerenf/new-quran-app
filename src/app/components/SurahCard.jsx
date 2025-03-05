@@ -1,16 +1,25 @@
 "use client"
 
-import React from "react"
+import React, { useEffect } from "react"
 import useQuranStore from "../stores/useQuranStore"
 
 const SurahCard = ({ surah }) => {
-	const { selectedSurahNumber, setSelectedSurahNumber, fetchMeals, meals } = useQuranStore()
+	const { selectedSurahNumber, setSelectedSurahNumber, fetchMeals, meals, selectedSurah, setSelectedSurah, fetchData, result } =
+		useQuranStore()
+	// console.log("surah.name:", surah.name)
+
+	const handleFetchSurah = () => {
+		fetchData(surah.name)
+	}
+
+	// console.log("result:", result)
+	console.log("selectedSurah:", selectedSurah)
 
 	return (
 		<div
 			className="bg-white flex items-center p-4 h-[70px] m-5 rounded-lg cursor-pointer border-2 border-white hover:border-2 hover:border-green transition duration-500"
 			onClick={() => {
-				setSelectedSurahNumber(surah.number), fetchMeals()
+				setSelectedSurah(surah.name)
 			}}
 		>
 			<div className="flex-shrink-0 w-9 h-9 bg-green rounded-full flex items-center justify-center text-white font-medium">
