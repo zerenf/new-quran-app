@@ -6,28 +6,27 @@ const useQuranStore = create((set, get) => ({
 	selectedAyah: "",
 	result: [],
 	error: null,
-	selectedMeal: "", // Seçilen meal anahtarı
-	mealOwner: "Diyanet İşleri", // Meal sahibinin adı
+	selectedMeal: "diyanet-isleri",
+	mealOwner: "Diyanet İşleri",
 	selectedMealData: null,
 	clicked: {},
 	surahNumber: "",
+	loading: false, // Loading durumu eklendi
 
-	// mealMap objesi
 	mealMap: {
 		"ali-bulac": "Ali Bulaç",
 		"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
 		"diyanet-isleri": "Diyanet İşleri",
 		"diyanet-vakfi": "Diyanet Vakfı",
-		"elmalili-hamdi": "Elmalılı Hamdi Yazır",
+		"elmalili-hamdi-yazir": "Elmalılı Hamdi Yazır",
 		"suat-yildirim": "Suat Yıldırım",
 		"suleyman-ates": "Süleyman Ateş",
 	},
 
-	// selectedMeal değiştiğinde mealOwner'ı güncelle
 	setSelectedMeal: (selectedMeal) => {
 		const { mealMap } = get()
-		const mealOwner = mealMap[selectedMeal] || "Bilinmeyen Meal" // mealMap'ten meal sahibini bul
-		set({ selectedMeal, mealOwner }) // Hem selectedMeal hem de mealOwner'ı güncelle
+		const mealOwner = mealMap[selectedMeal] || "Bilinmeyen Meal"
+		set({ selectedMeal, mealOwner })
 	},
 
 	setSelectedSurah: (selectedSurah) => set({ selectedSurah }),
@@ -35,6 +34,7 @@ const useQuranStore = create((set, get) => ({
 	setResult: (result) => set({ result }),
 	setError: (error) => set({ error }),
 	setSelectedMealData: (selectedMealData) => set({ selectedMealData }),
+	setLoading: (loading) => set({ loading }), // Loading state'i setleme fonksiyonu
 
 	setClicked: (ayahNumber, status) =>
 		set((state) => ({
@@ -44,38 +44,40 @@ const useQuranStore = create((set, get) => ({
 	setSurahNumber: (surahNumber) => set({ surahNumber }),
 
 	fetchData: async (surahName, meal, ayah) => {
-		const { setError, setResult, setSurahNumber } = get()
+		const { setError, setResult, setSurahNumber, setLoading, setSelectedMeal } = get()
 
 		if (!surahName) return
 
-		// Sure ismini backend'in beklediği formata dönüştürme
 		const formattedSurahName = surahName
 			.toLowerCase()
 			.replace(/\s+/g, "-")
-			.replace(/â/g, "a") // â -> a
-			.replace(/î/g, "i") // î -> i
-			.replace(/û/g, "u") // û -> u
-			.replace(/ğ/g, "g") // ğ -> g
-			.replace(/ü/g, "u") // ü -> u
-			.replace(/ş/g, "s") // ş -> s
-			.replace(/ı/g, "i") // ı -> i
-			.replace(/ö/g, "o") // ö -> o
-			.replace(/ç/g, "c") // ç -> c
-			.replace(/[^a-z0-9-]/g, "") // Diğer tüm karakterleri, tireyi hariç tutarak temizle
+			.replace(/â/g, "a")
+			.replace(/î/g, "i")
+			.replace(/û/g, "u")
+			.replace(/ğ/g, "g")
+			.replace(/ü/g, "u")
+			.replace(/ş/g, "s")
+			.replace(/ı/g, "i")
+			.replace(/ö/g, "o")
+			.replace(/ç/g, "c")
+			.replace(/-i-/g, "i-")
+			.replace(/[^a-z0-9]/g, "")
 
 		const formattedMealName = meal
 			.replace(/\s+/g, "-")
 			.toLowerCase()
-			.replace(/â/g, "a") // â -> a
-			.replace(/î/g, "i") // î -> i
-			.replace(/û/g, "u") // û -> u
-			.replace(/ğ/g, "g") // ğ -> g
-			.replace(/ü/g, "u") // ü -> u
-			.replace(/ş/g, "s") // ş -> s
-			.replace(/ı/g, "i") // ı -> i
-			.replace(/ö/g, "o") // ö -> o
-			.replace(/ç/g, "c") // ç -> c
+			.replace(/â/g, "a")
+			.replace(/î/g, "i")
+			.replace(/û/g, "u")
+			.replace(/ğ/g, "g")
+			.replace(/ü/g, "u")
+			.replace(/ş/g, "s")
+			.replace(/ı/g, "i")
+			.replace(/ö/g, "o")
+			.replace(/ç/g, "c")
 			.replace(/[^a-z0-9-]/g, "")
+
+		setSelectedMeal(formattedMealName)
 
 		let url = `/api/search/${formattedSurahName}?meal=${formattedMealName || "diyanet-isleri"}`
 		if (ayah) {
@@ -83,6 +85,7 @@ const useQuranStore = create((set, get) => ({
 		}
 
 		try {
+			setLoading(true) // Veri çekme başlamadan önce yükleniyor durumuna al
 			const { data } = await axios.get(url)
 			if (data.success) {
 				setResult(data.result)
@@ -92,10 +95,11 @@ const useQuranStore = create((set, get) => ({
 			}
 		} catch (err) {
 			setError("Veri çekilirken hata oluştu")
+		} finally {
+			setLoading(false) // İşlem tamamlandığında yükleniyor durumunu kaldır
 		}
 	},
 
-	// Kopyalama işlemi
 	copyToClipboard: (text, ayahNumber) => {
 		if (navigator.clipboard) {
 			navigator.clipboard.writeText(text).catch((err) => {
@@ -114,12 +118,10 @@ const useQuranStore = create((set, get) => ({
 			document.body.removeChild(textArea)
 		}
 
-		// Kopyalama durumunu güncelle
 		set((state) => ({
 			clicked: { ...state.clicked, [ayahNumber]: true },
 		}))
 
-		// 2 saniye sonra kopyalama durumunu sıfırla
 		setTimeout(() => {
 			set((state) => ({
 				clicked: { ...state.clicked, [ayahNumber]: false },

@@ -1,7 +1,7 @@
 import { LuCopy, LuCopyCheck } from "react-icons/lu"
 
 export default function AyahCard({ ayah, meal, surahNumber, copyToClipboard, clicked, mealOwner }) {
-	// console.log("surahNumber:", surahNumber)
+	console.log("mealOwner:", mealOwner)
 	return (
 		<div className="flex flex-col mx-3 bg-white my-4 relative rounded-xl max-w-3xl min-w-[300px]">
 			<button

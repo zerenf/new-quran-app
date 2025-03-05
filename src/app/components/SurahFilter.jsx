@@ -2,13 +2,25 @@
 import { useState, useEffect } from "react"
 import useQuranStore from "../stores/useQuranStore"
 import AyahCard from "./AyahCard"
+import CustomSelect from "./CustomSelect"
+import Spinner from "./Spinner"
 
 export default function SurahFilter() {
 	const [clicked, setClicked] = useState({})
 	const [error, setError] = useState(null)
 
-	const { fetchData, selectedSurah, selectedAyah, selectedMeal, setSelectedSurah, setSelectedAyah, setSelectedMeal, result, mealOwner } =
-		useQuranStore()
+	const {
+		fetchData,
+		selectedSurah,
+		selectedAyah,
+		selectedMeal,
+		setSelectedSurah,
+		setSelectedAyah,
+		setSelectedMeal,
+		result,
+		mealOwner,
+		loading,
+	} = useQuranStore()
 
 	// Sure isimleri dizisi
 	const surahNames = [
@@ -181,49 +193,26 @@ export default function SurahFilter() {
 		<>
 			<div className="flex justify-center">
 				<div className="w-full max-w-md mx-3 p-4 sm:p-6 bg-white rounded-lg shadow-md">
-					<h2 className="text-xl sm:text-2xl font-semibold text-center text-gray-800 mb-4 sm:mb-6">Sure Filtreleme</h2>
+					<h2 className="text-xl sm:text-2xl font-semibold text-center text-gray-800 mb-4 sm:mb-6">Meal Ara</h2>
 
-					<div className="space-y-3 sm:space-y-4">
-						{/* Sure Adı Seçimi */}
+					<div className="filter-container">
 						<div>
-							<label className="block text-sm font-medium text-gray-700 mb-1">Sure Adı:</label>
-							<select
-								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
-								value={selectedSurah}
-								onChange={(e) => setSelectedSurah(e.target.value)}
-							>
-								<option value="">Bir sure seçin</option>
-								{surahNames.map((surah, index) => (
-									<option key={index} value={surah}>
-										{surah}
-									</option>
-								))}
-							</select>
+							<p style={{ fontSize: 14, marginBottom: -10 }}>Sure:</p>
+
+							<CustomSelect options={surahNames} selected={selectedSurah} setSelected={setSelectedSurah} placeholder="Bir sure seçin" />
 						</div>
 
-						{/* Meal Seçimi */}
 						<div>
-							<label className="block text-sm font-medium text-gray-700 mb-1">Meal:</label>
-							<select
-								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
-								value={selectedMeal}
-								onChange={(e) => setSelectedMeal(e.target.value)}
-							>
-								<option value="">Bir meal seçin</option>
-								{Object.entries(mealMap).map(([key, value]) => (
-									<option key={key} value={key}>
-										{value}
-									</option>
-								))}
-							</select>
+							<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
+
+							<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
 						</div>
 
-						{/* Ayet Numarası Input */}
-						<div>
-							<label className="block text-sm font-medium text-gray-700 mb-1">Ayet Numarası:</label>
+						<div className="ayah-input-container">
+							<label className="ayah-label">Ayet Numarası:</label>
 							<input
 								type="number"
-								className="w-full px-2 py-1 sm:px-3 sm:py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500 text-sm sm:text-base"
+								className="ayah-input"
 								value={selectedAyah}
 								onChange={(e) => setSelectedAyah(e.target.value)}
 								placeholder="Opsiyonel"
@@ -231,9 +220,9 @@ export default function SurahFilter() {
 						</div>
 
 						{/* Ara Butonu */}
-						<div className="text-center">
+						<div className="text-center mt-3">
 							<button
-								className="w-1/3 bg-blue-600 text-white py-1 sm:py-2 px-3 sm:px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-sm sm:text-base"
+								className="w-[80px] h-[34px] bg-green text-white py-1 sm:py-2 px-3 sm:px-4 rounded-md hover:bg-green-dark focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-sm sm:text-base"
 								onClick={() => fetchData(selectedSurah, selectedMeal, selectedAyah)}
 							>
 								Ara
@@ -245,7 +234,9 @@ export default function SurahFilter() {
 
 			{error && <p className="text-red-500">{error}</p>}
 
-			{result && !error && (
+			{loading && <Spinner />}
+
+			{!loading && result && !error && (
 				<div className="flex justify-center">
 					<div>
 						{/* Eğer sadece tek bir ayet geldiyse doğrudan göster */}
