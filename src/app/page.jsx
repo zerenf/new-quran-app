@@ -103,7 +103,7 @@ export default function Home() {
 					{/* Sidebar Kontrol Butonu */}
 					<button
 						onClick={toggleSidebar}
-						className="absolute -right-4 top-[14px] w-11 h-11 bg-[#717a84] text-white flex items-center justify-center rounded-full border-2 border-gray-900"
+						className="absolute -right-4 top-6 w-10 h-10 bg-[#717a84] text-white flex items-center justify-center rounded-full"
 					>
 						{isSidebarOpen ? <BsArrowLeftSquare size={24} /> : <BsArrowRightSquare size={24} />}
 					</button>
