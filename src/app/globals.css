@@ -304,14 +304,14 @@ input {
 
 /* Container styling */
 .header-container {
-	width: 100%; /* w-full */
-	position: fixed; /* fixed */
-	top: 0; /* top-0 */
-	display: flex; /* flex */
-	justify-content: center; /* justify-center */
-	align-items: center; /* items-center */
-	padding: 12px 0; /* py-3 */
-	background-color: var(--color-primary); /* bg-[#021526] */
+	width: 100%;
+	position: fixed;
+	top: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 12px 0;
+	background-color: var(--color-primary);
 	min-height: 57px;
 	z-index: 99999;
 }
@@ -324,7 +324,7 @@ input {
 	text-align: center;
 }
 
-@media (max-width: 540px) {
+@media (max-width: 430px) {
 	.header-text {
 		font-size: 22px;
 	}
