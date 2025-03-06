@@ -35,13 +35,13 @@ export default function Home() {
 				{/* Sidebar */}
 				<div
 					className={`bg-[#D9EAFD] sidebar p-1 pt-8 fixed top-14 left-0 h-screen transition-all duration-300 ${
-						isSidebarOpen ? "w-[350px]" : "w-12"
+						isSidebarOpen ? "w-[350px]" : "w-6"
 					}`}
 				>
 					{/* Sidebar Kontrol Butonu */}
 					<button
 						onClick={toggleSidebar}
-						className="absolute -right-4 top-6 w-10 h-10 bg-primary text-grey-dark flex items-center justify-center rounded-full cursor-pointer z-10"
+						className="absolute -right-4 top-3 w-10 h-10 bg-primary text-grey-dark flex items-center justify-center rounded-full cursor-pointer z-10"
 					>
 						{isSidebarOpen ? <FaArrowCircleLeft size={26} /> : <FaArrowCircleRight size={26} />}
 					</button>

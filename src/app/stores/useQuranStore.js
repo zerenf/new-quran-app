@@ -103,7 +103,9 @@ const useQuranStore = create((set, get) => ({
 	},
 
 	fetchAllData: async () => {
-		const { selectedMeal, setSearchResult } = get()
+		const { selectedMeal, setSearchResult, setLoading, setError } = get()
+
+		console.log("selectedMeal:", selectedMeal)
 
 		let url = `/api/meals/${selectedMeal || "diyanet-isleri"}`
 
@@ -111,8 +113,8 @@ const useQuranStore = create((set, get) => ({
 			setLoading(true)
 
 			const { data } = await axios.get(url)
-			if (data.succes) {
-				setSearchResult(data.result)
+			if (data.success) {
+				setSearchResult(data.data)
 				setError(null)
 			} else {
 				setError(data.error)

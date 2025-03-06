@@ -4,6 +4,7 @@ import useQuranStore from "../stores/useQuranStore"
 import AyahCard from "./AyahCard"
 import CustomSelect from "./CustomSelect"
 import Spinner from "./Spinner"
+import Test from "./Test"
 
 export default function SurahFilter({ isSidebarOpen }) {
 	const [clicked, setClicked] = useState({})
@@ -199,8 +200,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 	return (
 		<>
-			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-24`}>
-				<div className="w-auto mx-3 p-3  bg-white rounded-lg shadow-md filter">
+			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-28`}>
+				<div className="w-auto p-3  bg-white rounded-lg shadow-md filter">
 					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Meal Ara</h2>
 
 					<div className="filter-container">
@@ -214,7 +215,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 							<div style={{ margin: "0px 16px" }}>
 								<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
 
-								<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
+								<CustomSelect options={Object.keys(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
 							</div>
 
 							<div className="ayah-input-container">
@@ -224,7 +225,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 									className="ayah-input"
 									value={selectedAyah}
 									onChange={(e) => setSelectedAyah(e.target.value)}
-									placeholder="Opsiyonel"
+									placeholder="İsteğe bağlı..."
 								/>
 							</div>
 
@@ -249,9 +250,13 @@ export default function SurahFilter({ isSidebarOpen }) {
 				</div>
 			</div>
 
+			<div className="flex justify-center my-10">
+				<Test />
+			</div>
+
 			{error && <p className="text-red-500">{error}</p>}
 
-			{loading && <Spinner />}
+			{loading && <Spinner isSidebarOpen={isSidebarOpen} />}
 
 			{!loading && result && !error && (
 				<div className={`flex justify-center ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>

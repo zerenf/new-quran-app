@@ -112,13 +112,14 @@ input {
 }
 
 .filter {
-	margin-left: 75px;
+	margin-left: 30px;
+	margin-right: 8px;
 }
 
 .cards {
 	position: relative;
 	z-index: 1;
-	margin-left: 60px;
+	margin-left: 25px;
 }
 
 .custom-select-container {
@@ -257,12 +258,6 @@ input {
 	border-top: 4px solid transparent; /* border-t-transparent yerine */
 	border-radius: 50%;
 	animation: spin 1s linear infinite;
-}
-
-@media (max-width: 991px) {
-	.spinner {
-		margin-left: 60px;
-	}
 }
 
 /* Spinner animasyonu */

@@ -12,7 +12,7 @@ export async function GET(req, { params }) {
 
 	console.log("surah:", surah)
 
-	const filePath = path.join(process.cwd(), "src", "data", "all-meals", `${mealOwner}.json`)
+	const filePath = path.join(process.cwd(), "src", "data", "all-meals-new", `${mealOwner}.json`)
 
 	try {
 		const data = JSON.parse(await readFile(filePath, "utf-8"))
