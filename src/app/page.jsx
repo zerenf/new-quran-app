@@ -3,6 +3,8 @@ import { useState, useEffect } from "react"
 import SurahSidebar from "./components/SurahSidebar"
 import SurahFilter from "./components/SurahFilter"
 import { BsArrowLeftSquare, BsArrowRightSquare } from "react-icons/bs"
+import { FaArrowCircleRight } from "react-icons/fa"
+import { FaArrowCircleLeft } from "react-icons/fa"
 
 export default function Home() {
 	const [isSidebarOpen, setIsSidebarOpen] = useState(false)
@@ -39,9 +41,9 @@ export default function Home() {
 					{/* Sidebar Kontrol Butonu */}
 					<button
 						onClick={toggleSidebar}
-						className="absolute -right-4 top-6 w-10 h-10 bg-[#717a84] text-white flex items-center justify-center rounded-full"
+						className="absolute -right-4 top-6 w-10 h-10 bg-primary text-grey-dark flex items-center justify-center rounded-full cursor-pointer z-10"
 					>
-						{isSidebarOpen ? <BsArrowLeftSquare size={24} /> : <BsArrowRightSquare size={24} />}
+						{isSidebarOpen ? <FaArrowCircleLeft size={26} /> : <FaArrowCircleRight size={26} />}
 					</button>
 
 					{/* Sidebar İçeriği */}

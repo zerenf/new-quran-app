@@ -119,9 +119,9 @@ const SurahSidebar = ({ toggleSidebar }) => {
 	]
 
 	return (
-		<div className="h-[100vh] w-[330px] flex flex-col relative ">
+		<div className="h-[100vh] w-[338px] flex flex-col relative ">
 			<p className="font-bold text-center text-[#616b76]">TÜM SURE OKU</p>
-			<div className="flex-1 overflow-y-auto ">
+			<div className="flex-1 overflow-y-auto mt-6">
 				{surahs?.map((surah) => (
 					<SurahCard key={surah.number} surah={surah} toggleSidebar={toggleSidebar} />
 				))}
