@@ -1,22 +1,24 @@
 {
-  "surahNumber": "106",
-  "surahName": "Kureyş Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler."
-    }
-  ]
+  "kureys": {
+    "surahNumber": "106",
+    "surahNameTr": "Kureyş Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kureyş kabilesinin yaz ve kış yolculuklarında uzlaşması ve anlaşması sağlanmıştır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Öyleyse kendilerini açken doyuran ve korku içindeyken güven veren bu Ev'in (Kabe'nin) Rabbine kulluk etsinler."
+      }
+    ]
+  }
 }

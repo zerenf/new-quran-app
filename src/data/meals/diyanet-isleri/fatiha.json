@@ -1,34 +1,36 @@
 {
-  "surahNumber": "1",
-  "surahName": "Fâtiha Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Rahman ve Rahim olan Allah'ın adıyla:"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Hamd, Alemlerin Rabbi Allah'a mahsustur."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "O Rahman ve Rahim'dir,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Din Gününün sahibidir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ancak Sana kulluk eder ve yalnız Senden yardım dileriz."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bizi doğru yola eriştir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Nimete erdirdiğin kimselerin yoluna; gazaba uğrayanların, ya da sapıtanların yoluna değil."
-    }
-  ]
+  "fatiha": {
+    "surahNumber": "1",
+    "surahNameTr": "Fâtiha Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rahman ve Rahim olan Allah'ın adıyla:"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Hamd, Alemlerin Rabbi Allah'a mahsustur."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O Rahman ve Rahim'dir,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Din Gününün sahibidir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ancak Sana kulluk eder ve yalnız Senden yardım dileriz."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bizi doğru yola eriştir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Nimete erdirdiğin kimselerin yoluna; gazaba uğrayanların, ya da sapıtanların yoluna değil."
+      }
+    ]
+  }
 }

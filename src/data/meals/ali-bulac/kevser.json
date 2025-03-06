@@ -1,18 +1,20 @@
 {
-  "surahNumber": "108",
-  "surahName": "Kevser Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Şüphesiz, Biz sana Kevser'i verdik."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Şu halde Rabbin için namaz kıl ve kurban kes."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır."
-    }
-  ]
+  "kevser": {
+    "surahNumber": "108",
+    "surahNameTr": "Kevser Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Şüphesiz, Biz sana Kevser'i verdik."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Şu halde Rabbin için namaz kıl ve kurban kes."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Doğrusu, asıl ebter (soyu kesik) olan sana kin duyandır."
+      }
+    ]
+  }
 }

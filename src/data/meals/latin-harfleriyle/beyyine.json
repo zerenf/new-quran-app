@@ -1,38 +1,40 @@
 {
-  "surahNumber": "98",
-  "surahName": "Beyyine Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "lem yeküni-lleẕîne keferû min ehli-lkitâbi velmüşrikîne münfekkîne ḥattâ te'tiyehümü-lbeyyineh."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "rasûlüm mine-llâhi yetlû ṣuḥufem müṭahherah."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "fîhâ kütübün ḳayyimeh."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "vemâ teferraḳa-lleẕîne ûtü-lkitâbe illâ mim ba`di mâ câethümü-lbeyyineh."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "vemâ ümirû illâ liya`büdü-llâhe muḫliṣîne lehü-ddîne ḥunefâe veyüḳîmu-ṣṣalâte veyü'tü-zzekâte veẕâlike dînü-lḳayyimeh."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "inne-lleẕîne keferû min ehli-lkitâbi velmüşrikîne fî nâri cehenneme ḫâlidîne fîhâ. ülâike hüm şerru-lberiyyeh."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "inne-lleẕîne âmenû ve`amilu-ṣṣâliḥâti ülâike hüm ḫayru-lberiyyeh."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "cezâühüm `inde rabbihim cennâtü `adnin tecrî min taḥtihe-l'enhâru ḫâlidîne fîhâ ebedâ. raḍiye-llâhü `anhüm veraḍû `anh. ẕâlike limen ḫaşiye rabbeh."
-    }
-  ]
+  "beyyine": {
+    "surahNumber": "98",
+    "surahNameTr": "Beyyine Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "lem yeküni-lleẕîne keferû min ehli-lkitâbi velmüşrikîne münfekkîne ḥattâ te'tiyehümü-lbeyyineh."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "rasûlüm mine-llâhi yetlû ṣuḥufem müṭahherah."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "fîhâ kütübün ḳayyimeh."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "vemâ teferraḳa-lleẕîne ûtü-lkitâbe illâ mim ba`di mâ câethümü-lbeyyineh."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "vemâ ümirû illâ liya`büdü-llâhe muḫliṣîne lehü-ddîne ḥunefâe veyüḳîmu-ṣṣalâte veyü'tü-zzekâte veẕâlike dînü-lḳayyimeh."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "inne-lleẕîne keferû min ehli-lkitâbi velmüşrikîne fî nâri cehenneme ḫâlidîne fîhâ. ülâike hüm şerru-lberiyyeh."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "inne-lleẕîne âmenû ve`amilu-ṣṣâliḥâti ülâike hüm ḫayru-lberiyyeh."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "cezâühüm `inde rabbihim cennâtü `adnin tecrî min taḥtihe-l'enhâru ḫâlidîne fîhâ ebedâ. raḍiye-llâhü `anhüm veraḍû `anh. ẕâlike limen ḫaşiye rabbeh."
+      }
+    ]
+  }
 }

@@ -1,50 +1,52 @@
 {
-  "surahNumber": "100",
-  "surahName": "Âdiyât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Harıl harıl koşanlara,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "(Nallarıyla) çakarak kıvılcım saçanlara,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "(Ansızın) sabah baskını yapanlara,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Orada tozu dumana katanlara,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Derken orada bir topluluğun ta ortasına girenlere yemin ederim ki,"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Şüphesiz insan, Rabbine karşı pek nankördür."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Şüphesiz buna kendisi de şahittir,"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve o, mal sevgisine de aşırı derecede düşkündür."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Kabirlerde bulunanların diriltilip dışarı atıldığını düşünmez mi?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve kalplerde gizlenenler ortaya konduğu zaman,"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Şüphesiz Rableri o gün onlardan tamamıyle haberdar"
-    }
-  ]
+  "adiyat": {
+    "surahNumber": "100",
+    "surahNameTr": "Âdiyât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Harıl harıl koşanlara,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "(Nallarıyla) çakarak kıvılcım saçanlara,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "(Ansızın) sabah baskını yapanlara,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Orada tozu dumana katanlara,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Derken orada bir topluluğun ta ortasına girenlere yemin ederim ki,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Şüphesiz insan, Rabbine karşı pek nankördür."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Şüphesiz buna kendisi de şahittir,"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve o, mal sevgisine de aşırı derecede düşkündür."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Kabirlerde bulunanların diriltilip dışarı atıldığını düşünmez mi?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve kalplerde gizlenenler ortaya konduğu zaman,"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Şüphesiz Rableri o gün onlardan tamamıyle haberdar"
+      }
+    ]
+  }
 }

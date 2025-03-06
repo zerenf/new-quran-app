@@ -1,86 +1,88 @@
 {
-  "surahNumber": "90",
-  "surahName": "Beled Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Doğurana ve doğurduğuna and olsun ki;"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "İnsanoğlunu, zorluklara katlanacak şekilde yarattık."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "\"Yığın yığın mal tüketmişimdir\" diyor."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "O, kimsenin kendisini görmediğini mi zannediyor?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Biz ona eğri ve doğru iki yolu da göstermedik mi?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ama o, zor geçidi aşmaya girişemedi."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "O zor geçidin ne olduğunu sen bilir misin?"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "O geçit, bir köle ve esir azadetmek,"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Sonra, inanıp birbirlerine sabır tavsiye edenlerden, merhametlilerden olmayı tavsiye edenlerden olmaktır."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "İşte bunlar amel defterleri sağdan verilenlerdir."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ayetlerimizi inkar edenler, işte onlar amel defterleri sollarından verilenlerdir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onlar her yönden ateşle kapatılacaklardır."
-    }
-  ]
+  "beled": {
+    "surahNumber": "90",
+    "surahNameTr": "Beled Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Bu şehre (Mekke'ye) yemin ederim; ki sen bu şehirde oturmuşsun."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Doğurana ve doğurduğuna and olsun ki;"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "İnsanoğlunu, zorluklara katlanacak şekilde yarattık."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "İnsanoğlu, kendisine kimsenin güç yetiremeyeceğini mi sanıyor?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "\"Yığın yığın mal tüketmişimdir\" diyor."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "O, kimsenin kendisini görmediğini mi zannediyor?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Biz onun için iki göz, bir dil ve iki dudak var etmedik mi?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Biz ona eğri ve doğru iki yolu da göstermedik mi?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ama o, zor geçidi aşmaya girişemedi."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "O zor geçidin ne olduğunu sen bilir misin?"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "O geçit, bir köle ve esir azadetmek,"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Yahut, açlık gününde, yakını olan bir öksüzü, yahut toprağa serilmiş bir yoksulu doyurmaktır."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Sonra, inanıp birbirlerine sabır tavsiye edenlerden, merhametlilerden olmayı tavsiye edenlerden olmaktır."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "İşte bunlar amel defterleri sağdan verilenlerdir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ayetlerimizi inkar edenler, işte onlar amel defterleri sollarından verilenlerdir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onlar her yönden ateşle kapatılacaklardır."
+      }
+    ]
+  }
 }

@@ -151,6 +151,9 @@ export default function SurahFilter({ isSidebarOpen }) {
 		"suleyman-ates": "Süleyman Ateş",
 	}
 
+	console.log("mealOwner:", mealOwner)
+	console.log("selectedMeal:", selectedMeal)
+
 	// Kopyalama işlemi için fonksiyon
 	const copyToClipboard = (text, ayahNumber) => {
 		if (navigator.clipboard) {

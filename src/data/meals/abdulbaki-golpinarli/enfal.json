@@ -1,306 +1,308 @@
 {
-  "surahNumber": "8",
-  "surahName": "Enfâl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Sana harp ganimetlerinin hükmünü sorarlar. De ki: Ganimetler, Allah'ın ve Peygamberindir. Artık Allah'tan sakının ve aranızı ıslah edin ve inanmışsanız Allah'a ve Peygamberine itaat edin."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "İnananlar, ancak onlardır ki Allah anılınca yürekleri titrer, onlara ayetleri okununca da inançlarını arttırır ve Rablerine dayanırlar."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Onlardır ki namaz kılarlar ve rızıklandırdığımız şeylerin bir kısmını harcarlar."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Onlardır gerçek inananlar, onlarındır Rableri katında dereceler, yarlıganma ve daimi, bitmeztükenmez rızık."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Nasıl ki Rabbin, seni hak uğruna evinden çıkarmıştı ve şüphe yok ki inananların bir kısmı bundan hoşlanmamıştı."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Hani Allah, o iki bölükten birinin muhakkak sizin olacağını vaad ediyordu da siz, silahı bulunmayanların, elinize düşmesini istiyordunuz. Halbuki Allah, sözleriyle, gerçeği yerine getirmek ve kafirlerin kökünü kesmek istiyordu."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Böylece de suçlular istemese de gerçeği gerçek olarak izhar etmeyi ve batılın boşluğunu bildirmeyi murad etmekteydi."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Hani, siz, Rabbinizden imdat istemiştiniz de Rabbiniz, şüphe yok ki ben, birbiri ardınca binlerce melekle size yardım edeceğim diye duanızı kabul etmişti."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve Allah, bunu ancak bir müjde olarak ve kalpleriniz yatışsın diye yapmıştı. Yardım, ancak Allah'tandır. Şüphe yok ki Allah, üstündür, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden Şeytan'ın pisliğini gidermek, yüreklerinizi sağlamlaştırmak ve ayaklarınızı pekiştirip metanetinizi arttırmak için de gökten bir yağmur yağdırmıştı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Hani Rabbin, şüphe yok ki ben, sizinleyim, inananları sebat ettirin, kafirlerin yüreklerine korku salacağım, hadi vurun boyunlarını, vurun onların ellerine, ayaklarına diye meleklere vahyetmedeydi."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Bu da onların, Allah'a ve Peygamberine karşı gelmelerindendi ve kim, Allah'a ve Peygamberine karşı gelirse bilsin ki Allah'ın cezası, şüphe yok ki pek çetindir."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "İşte tadın şimdi bunu ve şüphe yok ki kafirler için bir de ateşle azap var."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ey inananlar, savaşmak üzere kafirlerle karşılaştınız mı onlara arkanızı dönmeyin."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın gazabına uğrayacaktır, yurdu cehennemdir ve orası, dönüp varılacak ne kötü bir yerdir."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, inananlara güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Böyledir bu ve şüphe yok ki Allah, kafirlerin düzenlerini gevşetir."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Fetih istiyordunuz ya, işte size fetih. Vazgeçerseniz daha hayırlı olur size, fakat savaşa dönerseniz biz de döneriz ve topluluğunuz çok bile olsa hiçbir işinize yaramaz sizin ve şüphe yok ki Allah, inananlarla beraberdir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Ey inananlar, Allah'a ve Peygamberine itaat edin, Kur'an'ı dinlediğiniz halde ondan yüz çevirmeyin."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Ve işittik dedikleri halde duyup kabul etmeyenlere benzemeyin."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Şüphesiz ki yerde yürüyen canlıların Allah katında en kötüsü, aklı, idraki olmayan sağır ve dilsiz mahluklardır."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Allah, onlarda bir hayır olduğunu bilseydi elbette onlara duyururdu. Fakat duyursaydı da gene onlar arkalarını dönerek yüz çevirirlerdi."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ey inananlar, sizi diriltecek, size can verecek şeylere çağırdıkları zaman Allah'a ve Peygambere icabet edin ve bilin ki Allah, hiç şüphe yok, insanın kendisiyle kalbinin arasına girer ve hiç şüphe yok ki onun tapısında toplanacaksınız."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Ve sakının o fitneden ki yalnız zulmedenlerinize gelip çatmaz ve bilin ki şüphesiz Allah'ın cezası pek çetindir."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Hatırlayın o zamanı ki azlıktınız, yeryüzünde hor, aciz tanınanlardandınız, insanların size saldırıp yok etmesinden korkuyordunuz. Derken sizi, şükredesiniz diye yeryurt sahibi etti, yardımıyla kuvvetlendirdi ve tertemiz şeylerle rızıklandırdı."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ey inananlar, Allah'a ve Peygambere hıyanet etmeyin ve bilebile emanetlerinize de hıyanette bulunmayın."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ve bilin ki mallarınız ve evladınız, sizin için bir sınamadır ancak ve şüphe yok ki Allah katındadır büyük mükafat."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ey inananlar, Allah'tan çekinirseniz hayırla şerri ayırt etme kabiliyetini verir size ve suçlarınızı örter, yarlıgar sizi ve Allah, pek büyük bir lütuf ve ihsan sahibidir."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Hani bir zaman, kafir olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Onlara ayetlerimiz okunurken dediler ki: Duyduk, dilersek biz de buna benzer sözler söyleriz ve bu, eskilerin masallarından başka bir şey de değil."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Hani Allah'ım demişlerdi, bu, senin katındansa ve gerçekse başımıza gökten taş yağdır, yahut da bize elemli bir azap ver."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Fakat sen, onların içinde oldukça onları azaplandırmaz ve gene yarlıganma dilerlerken Allah onlara azap vermez."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Ne diye Allah onları azaplandırmasın ki onlar, hizmetine layık olmadıkları halde halkı Mescidi Haram'dan menediyorlar, onun hizmetine layık olanlar, ancak çekinenlerdir, fakat çoğu bilmez bunu."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Tanrı evine karşı namazları, ancak ıslık çalmak ve el çırpmaktan ibaret. Artık kafir olmanıza karşılık tadın azabı."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Şüphe yok ki kafir olanlar, mallarını ancak halkı Allah yolundan alıkoymak için harcarlar. Harcayacaklar da, sonra o harcadıkları mallar, kendilerine bir iç acısı olacak, sonra da alt edilecekler ve kafir olanlar cehenneme götürülecekler, orada toplanacaklar."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Allah pisi temizden ayıracak ve pis olanları yığınyığın birbiri üstüne koyup yığacak ve topunu birden cehenneme atacak; onlardır ziyankarlar."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Kafir olanlara de: Kafirliklerinden vazgeçerlerse geçmiş günahları örtülür, yarlıganır, fakat vazgeçmezler de savaşa kalkışırlarsa şüphe yok ki onlardan önceki hüküm ve kanun yürüyüp gidecektir."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Hiçbir fitne kalmayıncaya ve din, tamamıyla Allah'a münhasır oluncaya dek savaşın onlarla. Savaştan vazgeçerlerse şüphe yok ki Allah, onların yaptıklarını görür."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Ve yüz çevirirlerse artık bilin ki Allah sizin yariniz, yardımcınızdır ve o, ne güzel dosttur, ne güzel yardımcı."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Ve iyice bilin ki ganimet olarak elde ettiğiniz şeyin mutlaka beşte biri Allah'ın ve Peygamberin ve yakınların ve yetimlerin ve yoksulların ve yolda kalmışlarındır. Allah'a inanmışsanız ve hak ile batılın ayrıldığı, yani iki ordunun birbiriyle buluştuğu gün kulumuza indirdiğimize iman etmişseniz ve Allah'ın her şeye gücü yeter."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Hani siz vadinin yakın bir yerindeydiniz, onlar uzak bir kıyısında, kervansa sizden daha aşağı tarafta ve eğer muayyen yerlerde buluşmak üzere sözleşseydiniz gene ihtilafa düşerdiniz. Fakat helak olanın, apaçık bir delil görerek helak olması, diri kalanın da gene apaçık bir delil görerek diri kalması için Allah, olacak bir işi yerine getirmek üzere bunu böyle yaptı ve şüphe yok ki Allah, mutlaka her şeyi duyar, bilir."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Hani Allah, rüyanda sana onların az olduğunu göstermişti; çok gösterseydi ürker, gevşerdiniz ve iş hususunda da çekişe kalkışırdınız. Fakat Allah sizi bundan kurtardı ve şüphe yok ki o, gönüllerdekini bilir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Hani karşılaştığınız zamanda Allah, onları sizin gözünüze az gösterdiği gibi sizi de onlara az göstermişti; çünkü Allah, olacak işi yapacak, yerine getirecekti ve bütün işlerin mercii Allah'tır."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Ey inananlar, bir toplulukla karşılaştınız mı mutlaka sebat edin ve Allah'ı çok anın da kurtulun muradınıza erişin."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Allah'a ve Peygamberine itaat edin, birbirinizle çekişmeyin, sonra zayıflarsınız ve kuvvetiniz kalmaz ve sabredin, şüphe yok ki Allah, sabredenlerle beraberdir."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını bilgisiyle kavramıştır."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Hani o zaman Şeytan, onların yaptıklarını, kendilerine süslü ve hoş göstermişti de bugün insanlardan size üstün olacak yoktur, ben de şüphe yok ki size yardımcıyım demişti. Fakat iki ordu da görününce geri dönüp ben demişti, şüphe yok, sizden uzağım, çünkü ben, sizin görmediklerinizi görmedeyim ve Allah'tan korkmadayım ve Allah'ın cezası pek çetindir."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Hani münafıklarla gönüllerinde hastalık olanlar, bunları dinleri aldatmıştır demişlerdi; halbuki kim Allah'a dayanırsa bilsin ki Allah, şüphe yok ki üstündür, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Melekler, kafirlerin suratlarına ve sırtlarına vura vura canlarını alır ve şiddetle yakıcı azabı tadın derlerken bir görmeliydin onları."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Bu, evvelce ellerinizle kendinize hazırladığınız şeydir ve şüphe yok ki Allah, kullarına zulmetmez."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Firavun'un soyuyla onlardan önce gelip geçenlerin gidişleri gibi hani Allah'ın delillerini inkar edip kafir olmuşlardı da Allah, suçlarına karşılık onları azabına uğratmıştı: Şüphe yok ki Allah, pek kuvvetlidir, azabı da pek çetindir onun."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Bu da, şundan ileri gelir: Şüphe yok ki Allah, bir topluluğa ihsan ettiği nimeti, onlar kendi huylarını değiştirmedikçe değiştirmez ve şüphe yok ki Allah, her şeyi duyar, bilir."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Firavun'un soyuyla onlardan önce gelip geçenlerin gidişleri gibi hani. Rablerinin ayetlerini yalanladılar da suçlarına karşılık helak ettik onları ve Firavun'un soyunu sulara garkettik, hepsi de zalimdi onların."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Allah katında yeryüzünde yürüyen mahlukların en kötüsü kafir olanlardır ve onlar inanmazlar zaten."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Savaşta üst gelirsen onları, izlerini izliyenlere de tesir edecek ve onları da korkutacak bir tarzda cezalandır da bunu ansınlar, ibret alsınlar bundan."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Kafirler, işin geçip gittiğini, kendilerinin unutulduğunu ve bir daha da horlanmayacaklarını, aciz bir hale getirilmeyeceklerini sanmasınlar."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Bir topluluğun hainlikte bulunacağından korkarsan aradaki muahedeyi boz ve bunu, yani iki tarafın da bir sözle bağlı olmadığını onlara bildir. Şüphe yok ki Allah, hainleri sevmez."
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Allah düşmanlarıyla size düşman olanları ve bunlardan başka sizin bilmediğiniz, fakat Allah'ın bildiği düşmanları korkutmak için onlara karşı kullanmak üzere gücünüz yettiği kadar kuvvet ve besili at hazırlayın, Allah yolunda ne harcarsanız size karşılığı tamamıyla ödenecektir ve asla zulme uğramayacaksınız."
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Fakat barışa yanaşırlarsa sen de yanaş ve Allah'a dayan. Şüphe yok ki o, her şeyi duyar, bilir."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Sana karşı bir hile yapmayı dilerler, buna yeltenirlerse hiç şüphe yok ki Allah yeter sana; öyle bir mabuttur ki seni, kendi yardımıyla ve inananlarla kuvvetlendirir."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Onların gönüllerini birleştirmiştir. Yeryüzünde ne varsa hepsini harcasaydın gene de gönüllerini birleştiremezdin onların, fakat Allah, aralarını uzlaştırdı. Şüphe yok ki o, üstündür, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Ey Peygamber, sana da, iman sahiplerinden sana uyanlara da Allah yeter."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Ey Peygamber, inananları savaşa teşvik et. Sizden yirmi tane sabırlı er bulunsa onların iki yüzüne üst gelir ve siz yüz kişi olsanız kafirlerin bin tanesine üst olursunuz, çünkü onlar, hiçbir şeyden anlamaz bir topluluktur."
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "Fakat şimdi Allah size savaştaki hükmü hafifletti ve bildi ki sizde muhakkak bir zaaf var. Artık sizden yüz tane sabır ve sebat sahibi, ikiyüzü yener ve siz bin kişi olsanız Allah'ın izniyle iki binini altedersiniz ve Allah, sabır ve sebat edenlerle beraberdir."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Hiç bir peygamber, yeryüzünde kafirlere üstolup onları iyice kahretmedikçe tutsak almamıştır. Siz, geçici dünya malını istiyorsunuz, Allah'sa ahireti istemekte ve Allah, üstündür, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Allah, bunu helal olarak takdir etmeseydi helal olduğu açıklanmadan tutsaklara karşılık aldığımız para yüzünden pek büyük bir azaba uğrardınız."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Artık elde ettiğiniz ganimeti helal ve temiz olarak yiyin ve çekinin Allah'tan. Şüphe yok ki Allah, suçları örter, rahimdir."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Ey Peygamber, ellerinizde bulunan tutsaklara de ki: Allah, yüreklerinizde bir hayırlı niyet bulunduğunu bilirse size, sizden alınandan daha hayırlısını verir ve suçlarınızı örter ve Allah suçları örter, rahimdir."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Fakat sana hainlik etmeyi kurarlarsa bilsinler ki daha önce Allah'a hainlik etmişlerdi de seni onlara üstetmişti o ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "İnanıp yurtlarından göçenler, mallarıyla, canlarıyla Allah yolunda savaşanlar, bunları yeryurt sahibi edip barındıranlar ve yardımda bulunanlarsa işte bunlar, mirasta birbirlerinin velileridir. İnandıkları halde yurtlarından göçmeyenlere gelince, göçünceye dek onların miraslarında bir hakkınız yoktur. Dine ait bir hususta sizden yardım isterlerse, aranızda bir ahit bulunan topluluğa karşı olmamak şartıyla onlara yardım etmeniz gerektir ve Allah, ne yaparsanız hepsini de görür."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Kafir olanlarsa birbirlerinin dostudur, yardımcısıdır. Birbirinize yardım etmezseniz yeryüzünde bir fitne belirir, büyük bir bozgun meydana gelir."
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "İnananlar ve yurtlarından göçenler, Allah yolunda savaşanlar ve bir de bunları yeryurt sahibi edenler ve yardımda bulunanlarsa onlardır gerçekten inanmış olanlar. Onların hakkıdır yarlıganmak ve sayısız, tükenmez rızık."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Sonradan inanıp göçen ve sizinle beraber savaşanlar da sizdendir. Allah'ın takdirinde sabit olduğu veçhiyle bir kısım akraba, bazı akrabanın mirasında daha ileri bir hakka sahiptir. Şüphe yok ki Allah, her şeyi bilir."
-    }
-  ]
+  "enfal": {
+    "surahNumber": "8",
+    "surahNameTr": "Enfâl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Sana harp ganimetlerinin hükmünü sorarlar. De ki: Ganimetler, Allah'ın ve Peygamberindir. Artık Allah'tan sakının ve aranızı ıslah edin ve inanmışsanız Allah'a ve Peygamberine itaat edin."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnananlar, ancak onlardır ki Allah anılınca yürekleri titrer, onlara ayetleri okununca da inançlarını arttırır ve Rablerine dayanırlar."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onlardır ki namaz kılarlar ve rızıklandırdığımız şeylerin bir kısmını harcarlar."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onlardır gerçek inananlar, onlarındır Rableri katında dereceler, yarlıganma ve daimi, bitmeztükenmez rızık."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Nasıl ki Rabbin, seni hak uğruna evinden çıkarmıştı ve şüphe yok ki inananların bir kısmı bundan hoşlanmamıştı."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerçek, apaçık meydana çıktıktan sonra bile bu hususta, gözleri bakabaka ölüme sürükleniyorlarmış gibi seninle çekişmeye kalkışıyorlardı."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Hani Allah, o iki bölükten birinin muhakkak sizin olacağını vaad ediyordu da siz, silahı bulunmayanların, elinize düşmesini istiyordunuz. Halbuki Allah, sözleriyle, gerçeği yerine getirmek ve kafirlerin kökünü kesmek istiyordu."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Böylece de suçlular istemese de gerçeği gerçek olarak izhar etmeyi ve batılın boşluğunu bildirmeyi murad etmekteydi."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Hani, siz, Rabbinizden imdat istemiştiniz de Rabbiniz, şüphe yok ki ben, birbiri ardınca binlerce melekle size yardım edeceğim diye duanızı kabul etmişti."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve Allah, bunu ancak bir müjde olarak ve kalpleriniz yatışsın diye yapmıştı. Yardım, ancak Allah'tandır. Şüphe yok ki Allah, üstündür, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Hani bir emniyet vermek için sizi hafif bir uykuya daldırmıştı ve sizi arıtmak, sizden Şeytan'ın pisliğini gidermek, yüreklerinizi sağlamlaştırmak ve ayaklarınızı pekiştirip metanetinizi arttırmak için de gökten bir yağmur yağdırmıştı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Hani Rabbin, şüphe yok ki ben, sizinleyim, inananları sebat ettirin, kafirlerin yüreklerine korku salacağım, hadi vurun boyunlarını, vurun onların ellerine, ayaklarına diye meleklere vahyetmedeydi."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Bu da onların, Allah'a ve Peygamberine karşı gelmelerindendi ve kim, Allah'a ve Peygamberine karşı gelirse bilsin ki Allah'ın cezası, şüphe yok ki pek çetindir."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "İşte tadın şimdi bunu ve şüphe yok ki kafirler için bir de ateşle azap var."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ey inananlar, savaşmak üzere kafirlerle karşılaştınız mı onlara arkanızı dönmeyin."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve kim, tekrar savaşmak için bir tarafa çekilmek, yahut bir bölüğe ulaşmak niyetinde olmadan öyle bir günde onlara arka çevirir, dönerse muhakkak Allah'ın gazabına uğrayacaktır, yurdu cehennemdir ve orası, dönüp varılacak ne kötü bir yerdir."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Onları siz öldürmediniz, fakat Allah öldürdü ve attığın zaman sen atmadın, fakat Allah attı ve böylece de kendi katından, inananlara güzel bir nimet vermek, onları denemek istedi. Şüphe yok ki Allah her şeyi duyar, bilir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Böyledir bu ve şüphe yok ki Allah, kafirlerin düzenlerini gevşetir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Fetih istiyordunuz ya, işte size fetih. Vazgeçerseniz daha hayırlı olur size, fakat savaşa dönerseniz biz de döneriz ve topluluğunuz çok bile olsa hiçbir işinize yaramaz sizin ve şüphe yok ki Allah, inananlarla beraberdir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Ey inananlar, Allah'a ve Peygamberine itaat edin, Kur'an'ı dinlediğiniz halde ondan yüz çevirmeyin."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Ve işittik dedikleri halde duyup kabul etmeyenlere benzemeyin."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Şüphesiz ki yerde yürüyen canlıların Allah katında en kötüsü, aklı, idraki olmayan sağır ve dilsiz mahluklardır."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Allah, onlarda bir hayır olduğunu bilseydi elbette onlara duyururdu. Fakat duyursaydı da gene onlar arkalarını dönerek yüz çevirirlerdi."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ey inananlar, sizi diriltecek, size can verecek şeylere çağırdıkları zaman Allah'a ve Peygambere icabet edin ve bilin ki Allah, hiç şüphe yok, insanın kendisiyle kalbinin arasına girer ve hiç şüphe yok ki onun tapısında toplanacaksınız."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Ve sakının o fitneden ki yalnız zulmedenlerinize gelip çatmaz ve bilin ki şüphesiz Allah'ın cezası pek çetindir."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Hatırlayın o zamanı ki azlıktınız, yeryüzünde hor, aciz tanınanlardandınız, insanların size saldırıp yok etmesinden korkuyordunuz. Derken sizi, şükredesiniz diye yeryurt sahibi etti, yardımıyla kuvvetlendirdi ve tertemiz şeylerle rızıklandırdı."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ey inananlar, Allah'a ve Peygambere hıyanet etmeyin ve bilebile emanetlerinize de hıyanette bulunmayın."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ve bilin ki mallarınız ve evladınız, sizin için bir sınamadır ancak ve şüphe yok ki Allah katındadır büyük mükafat."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ey inananlar, Allah'tan çekinirseniz hayırla şerri ayırt etme kabiliyetini verir size ve suçlarınızı örter, yarlıgar sizi ve Allah, pek büyük bir lütuf ve ihsan sahibidir."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Hani bir zaman, kafir olanlar, seni bağlayıp hapsetmek, yahut öldürmek, yahut da yurdundan çıkarmak için düzenlere baş vurmuşlardı. Onlar, bu düzeni kurarken Allah da cezalarını hazırlamadaydı ve Allah hilekarları cezalandıranların en hayırlısıdır."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Onlara ayetlerimiz okunurken dediler ki: Duyduk, dilersek biz de buna benzer sözler söyleriz ve bu, eskilerin masallarından başka bir şey de değil."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Hani Allah'ım demişlerdi, bu, senin katındansa ve gerçekse başımıza gökten taş yağdır, yahut da bize elemli bir azap ver."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Fakat sen, onların içinde oldukça onları azaplandırmaz ve gene yarlıganma dilerlerken Allah onlara azap vermez."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Ne diye Allah onları azaplandırmasın ki onlar, hizmetine layık olmadıkları halde halkı Mescidi Haram'dan menediyorlar, onun hizmetine layık olanlar, ancak çekinenlerdir, fakat çoğu bilmez bunu."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Tanrı evine karşı namazları, ancak ıslık çalmak ve el çırpmaktan ibaret. Artık kafir olmanıza karşılık tadın azabı."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Şüphe yok ki kafir olanlar, mallarını ancak halkı Allah yolundan alıkoymak için harcarlar. Harcayacaklar da, sonra o harcadıkları mallar, kendilerine bir iç acısı olacak, sonra da alt edilecekler ve kafir olanlar cehenneme götürülecekler, orada toplanacaklar."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Allah pisi temizden ayıracak ve pis olanları yığınyığın birbiri üstüne koyup yığacak ve topunu birden cehenneme atacak; onlardır ziyankarlar."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Kafir olanlara de: Kafirliklerinden vazgeçerlerse geçmiş günahları örtülür, yarlıganır, fakat vazgeçmezler de savaşa kalkışırlarsa şüphe yok ki onlardan önceki hüküm ve kanun yürüyüp gidecektir."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Hiçbir fitne kalmayıncaya ve din, tamamıyla Allah'a münhasır oluncaya dek savaşın onlarla. Savaştan vazgeçerlerse şüphe yok ki Allah, onların yaptıklarını görür."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Ve yüz çevirirlerse artık bilin ki Allah sizin yariniz, yardımcınızdır ve o, ne güzel dosttur, ne güzel yardımcı."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Ve iyice bilin ki ganimet olarak elde ettiğiniz şeyin mutlaka beşte biri Allah'ın ve Peygamberin ve yakınların ve yetimlerin ve yoksulların ve yolda kalmışlarındır. Allah'a inanmışsanız ve hak ile batılın ayrıldığı, yani iki ordunun birbiriyle buluştuğu gün kulumuza indirdiğimize iman etmişseniz ve Allah'ın her şeye gücü yeter."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Hani siz vadinin yakın bir yerindeydiniz, onlar uzak bir kıyısında, kervansa sizden daha aşağı tarafta ve eğer muayyen yerlerde buluşmak üzere sözleşseydiniz gene ihtilafa düşerdiniz. Fakat helak olanın, apaçık bir delil görerek helak olması, diri kalanın da gene apaçık bir delil görerek diri kalması için Allah, olacak bir işi yerine getirmek üzere bunu böyle yaptı ve şüphe yok ki Allah, mutlaka her şeyi duyar, bilir."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Hani Allah, rüyanda sana onların az olduğunu göstermişti; çok gösterseydi ürker, gevşerdiniz ve iş hususunda da çekişe kalkışırdınız. Fakat Allah sizi bundan kurtardı ve şüphe yok ki o, gönüllerdekini bilir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Hani karşılaştığınız zamanda Allah, onları sizin gözünüze az gösterdiği gibi sizi de onlara az göstermişti; çünkü Allah, olacak işi yapacak, yerine getirecekti ve bütün işlerin mercii Allah'tır."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Ey inananlar, bir toplulukla karşılaştınız mı mutlaka sebat edin ve Allah'ı çok anın da kurtulun muradınıza erişin."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Allah'a ve Peygamberine itaat edin, birbirinizle çekişmeyin, sonra zayıflarsınız ve kuvvetiniz kalmaz ve sabredin, şüphe yok ki Allah, sabredenlerle beraberdir."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Ülkelerinden böbürlenmek ve halka gösteriş yapmak için çıkanlara ve insanları Allah yolundan menedenlere benzemeyin ve Allah onların bütün yaptıklarını bilgisiyle kavramıştır."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Hani o zaman Şeytan, onların yaptıklarını, kendilerine süslü ve hoş göstermişti de bugün insanlardan size üstün olacak yoktur, ben de şüphe yok ki size yardımcıyım demişti. Fakat iki ordu da görününce geri dönüp ben demişti, şüphe yok, sizden uzağım, çünkü ben, sizin görmediklerinizi görmedeyim ve Allah'tan korkmadayım ve Allah'ın cezası pek çetindir."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Hani münafıklarla gönüllerinde hastalık olanlar, bunları dinleri aldatmıştır demişlerdi; halbuki kim Allah'a dayanırsa bilsin ki Allah, şüphe yok ki üstündür, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Melekler, kafirlerin suratlarına ve sırtlarına vura vura canlarını alır ve şiddetle yakıcı azabı tadın derlerken bir görmeliydin onları."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Bu, evvelce ellerinizle kendinize hazırladığınız şeydir ve şüphe yok ki Allah, kullarına zulmetmez."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Firavun'un soyuyla onlardan önce gelip geçenlerin gidişleri gibi hani Allah'ın delillerini inkar edip kafir olmuşlardı da Allah, suçlarına karşılık onları azabına uğratmıştı: Şüphe yok ki Allah, pek kuvvetlidir, azabı da pek çetindir onun."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Bu da, şundan ileri gelir: Şüphe yok ki Allah, bir topluluğa ihsan ettiği nimeti, onlar kendi huylarını değiştirmedikçe değiştirmez ve şüphe yok ki Allah, her şeyi duyar, bilir."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Firavun'un soyuyla onlardan önce gelip geçenlerin gidişleri gibi hani. Rablerinin ayetlerini yalanladılar da suçlarına karşılık helak ettik onları ve Firavun'un soyunu sulara garkettik, hepsi de zalimdi onların."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Allah katında yeryüzünde yürüyen mahlukların en kötüsü kafir olanlardır ve onlar inanmazlar zaten."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Onlar, kendileriyle ahitleştiğin kimselerdir, sonra her defasında da ahitlerini bozarlar ve onlar, hiç çekinmezler."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Savaşta üst gelirsen onları, izlerini izliyenlere de tesir edecek ve onları da korkutacak bir tarzda cezalandır da bunu ansınlar, ibret alsınlar bundan."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Kafirler, işin geçip gittiğini, kendilerinin unutulduğunu ve bir daha da horlanmayacaklarını, aciz bir hale getirilmeyeceklerini sanmasınlar."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Bir topluluğun hainlikte bulunacağından korkarsan aradaki muahedeyi boz ve bunu, yani iki tarafın da bir sözle bağlı olmadığını onlara bildir. Şüphe yok ki Allah, hainleri sevmez."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Allah düşmanlarıyla size düşman olanları ve bunlardan başka sizin bilmediğiniz, fakat Allah'ın bildiği düşmanları korkutmak için onlara karşı kullanmak üzere gücünüz yettiği kadar kuvvet ve besili at hazırlayın, Allah yolunda ne harcarsanız size karşılığı tamamıyla ödenecektir ve asla zulme uğramayacaksınız."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Fakat barışa yanaşırlarsa sen de yanaş ve Allah'a dayan. Şüphe yok ki o, her şeyi duyar, bilir."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Sana karşı bir hile yapmayı dilerler, buna yeltenirlerse hiç şüphe yok ki Allah yeter sana; öyle bir mabuttur ki seni, kendi yardımıyla ve inananlarla kuvvetlendirir."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Onların gönüllerini birleştirmiştir. Yeryüzünde ne varsa hepsini harcasaydın gene de gönüllerini birleştiremezdin onların, fakat Allah, aralarını uzlaştırdı. Şüphe yok ki o, üstündür, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Ey Peygamber, sana da, iman sahiplerinden sana uyanlara da Allah yeter."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Ey Peygamber, inananları savaşa teşvik et. Sizden yirmi tane sabırlı er bulunsa onların iki yüzüne üst gelir ve siz yüz kişi olsanız kafirlerin bin tanesine üst olursunuz, çünkü onlar, hiçbir şeyden anlamaz bir topluluktur."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "Fakat şimdi Allah size savaştaki hükmü hafifletti ve bildi ki sizde muhakkak bir zaaf var. Artık sizden yüz tane sabır ve sebat sahibi, ikiyüzü yener ve siz bin kişi olsanız Allah'ın izniyle iki binini altedersiniz ve Allah, sabır ve sebat edenlerle beraberdir."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Hiç bir peygamber, yeryüzünde kafirlere üstolup onları iyice kahretmedikçe tutsak almamıştır. Siz, geçici dünya malını istiyorsunuz, Allah'sa ahireti istemekte ve Allah, üstündür, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Allah, bunu helal olarak takdir etmeseydi helal olduğu açıklanmadan tutsaklara karşılık aldığımız para yüzünden pek büyük bir azaba uğrardınız."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Artık elde ettiğiniz ganimeti helal ve temiz olarak yiyin ve çekinin Allah'tan. Şüphe yok ki Allah, suçları örter, rahimdir."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Ey Peygamber, ellerinizde bulunan tutsaklara de ki: Allah, yüreklerinizde bir hayırlı niyet bulunduğunu bilirse size, sizden alınandan daha hayırlısını verir ve suçlarınızı örter ve Allah suçları örter, rahimdir."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Fakat sana hainlik etmeyi kurarlarsa bilsinler ki daha önce Allah'a hainlik etmişlerdi de seni onlara üstetmişti o ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "İnanıp yurtlarından göçenler, mallarıyla, canlarıyla Allah yolunda savaşanlar, bunları yeryurt sahibi edip barındıranlar ve yardımda bulunanlarsa işte bunlar, mirasta birbirlerinin velileridir. İnandıkları halde yurtlarından göçmeyenlere gelince, göçünceye dek onların miraslarında bir hakkınız yoktur. Dine ait bir hususta sizden yardım isterlerse, aranızda bir ahit bulunan topluluğa karşı olmamak şartıyla onlara yardım etmeniz gerektir ve Allah, ne yaparsanız hepsini de görür."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Kafir olanlarsa birbirlerinin dostudur, yardımcısıdır. Birbirinize yardım etmezseniz yeryüzünde bir fitne belirir, büyük bir bozgun meydana gelir."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "İnananlar ve yurtlarından göçenler, Allah yolunda savaşanlar ve bir de bunları yeryurt sahibi edenler ve yardımda bulunanlarsa onlardır gerçekten inanmış olanlar. Onların hakkıdır yarlıganmak ve sayısız, tükenmez rızık."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Sonradan inanıp göçen ve sizinle beraber savaşanlar da sizdendir. Allah'ın takdirinde sabit olduğu veçhiyle bir kısım akraba, bazı akrabanın mirasında daha ileri bir hakka sahiptir. Şüphe yok ki Allah, her şeyi bilir."
+      }
+    ]
+  }
 }

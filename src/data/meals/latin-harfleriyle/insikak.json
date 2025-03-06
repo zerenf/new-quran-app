@@ -1,106 +1,108 @@
 {
-  "surahNumber": "84",
-  "surahName": "İnşikâk Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "iẕe-ssemâü-nşeḳḳat."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "veeẕinet lirabbihâ veḥuḳḳat."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "veiẕe-l'arḍu müddet."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "veelḳat mâ fîhâ veteḫallet."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "veeẕinet lirabbihâ veḥuḳḳat."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "yâ eyyühe-l'insânü inneke kâdiḥun ilâ rabbike kedḥan femülâḳîh."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "feemmâ men ûtiye kitâbehû biyemînih."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "fesevfe yüḥâsebü ḥisâbey yesîrâ."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "veyenḳalibü ilâ ehlihî mesrûrâ."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "veemmâ men ûtiye kitâbehû verâe żahrih."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "fesevfe yed`û ŝübûrâ."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "veyaṣlâ se`îrâ."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "innehû kâne fî ehlihî mesrûrâ."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "innehû żanne el ley yeḥûr."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "belâ. inne rabbehû kâne bihî beṣîrâ."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "felâ uḳsimü bişşefeḳ."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "velleyli vemâ veseḳa."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "velḳameri iẕe-tteseḳa."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "leterkebünne ṭabeḳan `an ṭabaḳ."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "femâ lehüm lâ yü'minûn."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "veiẕâ ḳurie `aleyhimü-lḳur'ânü lâ yescüdûn."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "beli-lleẕîne keferû yükeẕẕibûn."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "vellâhü a`lemü bimâ yû`ûn."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "febeşşirhüm bi`aẕâbin elîm."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "ille-lleẕîne âmenû ve`amilu-ṣṣâliḥâti lehüm ecrun gayru memnûn."
-    }
-  ]
+  "insikak": {
+    "surahNumber": "84",
+    "surahNameTr": "İnşikâk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "iẕe-ssemâü-nşeḳḳat."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "veeẕinet lirabbihâ veḥuḳḳat."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "veiẕe-l'arḍu müddet."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "veelḳat mâ fîhâ veteḫallet."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "veeẕinet lirabbihâ veḥuḳḳat."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "yâ eyyühe-l'insânü inneke kâdiḥun ilâ rabbike kedḥan femülâḳîh."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "feemmâ men ûtiye kitâbehû biyemînih."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "fesevfe yüḥâsebü ḥisâbey yesîrâ."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "veyenḳalibü ilâ ehlihî mesrûrâ."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "veemmâ men ûtiye kitâbehû verâe żahrih."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "fesevfe yed`û ŝübûrâ."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "veyaṣlâ se`îrâ."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "innehû kâne fî ehlihî mesrûrâ."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "innehû żanne el ley yeḥûr."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "belâ. inne rabbehû kâne bihî beṣîrâ."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "felâ uḳsimü bişşefeḳ."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "velleyli vemâ veseḳa."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "velḳameri iẕe-tteseḳa."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "leterkebünne ṭabeḳan `an ṭabaḳ."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "femâ lehüm lâ yü'minûn."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "veiẕâ ḳurie `aleyhimü-lḳur'ânü lâ yescüdûn."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "beli-lleẕîne keferû yükeẕẕibûn."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "vellâhü a`lemü bimâ yû`ûn."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "febeşşirhüm bi`aẕâbin elîm."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "ille-lleẕîne âmenû ve`amilu-ṣṣâliḥâti lehüm ecrun gayru memnûn."
+      }
+    ]
+  }
 }

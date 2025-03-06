@@ -1,50 +1,52 @@
 {
-  "surahNumber": "100",
-  "surahName": "Âdiyât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Soluk soluğa koşan (at)lara andolsun,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "(Tırnaklarıyla) Ateş saçanlara,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Sabah vakti baskın yapanlara."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Derken, orada tozu dumana katanlara,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Bununla bir (düşman) topluluğun orta yerine kadar dalanlara."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Gerçekten insan, Rabbine karşı nankördür."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve gerçekten, kendisi buna şahiddir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Muhakkak o, mal sevgisinden dolayı (bencil ve cimri tutumundan) çok katıdır."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Yine de bilmeyecek mi? Kabirlerde olanların 'deşilip dışa atıldığı,'"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Göğüslerde olanların derlenip-devşirildiği zamanı?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Şüphesiz, o gün Rableri, kendilerinden gerçekten haberdardır."
-    }
-  ]
+  "adiyat": {
+    "surahNumber": "100",
+    "surahNameTr": "Âdiyât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Soluk soluğa koşan (at)lara andolsun,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "(Tırnaklarıyla) Ateş saçanlara,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Sabah vakti baskın yapanlara."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Derken, orada tozu dumana katanlara,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Bununla bir (düşman) topluluğun orta yerine kadar dalanlara."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerçekten insan, Rabbine karşı nankördür."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve gerçekten, kendisi buna şahiddir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Muhakkak o, mal sevgisinden dolayı (bencil ve cimri tutumundan) çok katıdır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Yine de bilmeyecek mi? Kabirlerde olanların 'deşilip dışa atıldığı,'"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Göğüslerde olanların derlenip-devşirildiği zamanı?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Şüphesiz, o gün Rableri, kendilerinden gerçekten haberdardır."
+      }
+    ]
+  }
 }

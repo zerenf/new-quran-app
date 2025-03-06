@@ -1,126 +1,128 @@
 {
-  "surahNumber": "89",
-  "surahName": "Fecr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun ağaran sabaha."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve on geceye."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve çifte ve teke."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ve ışırken geceye."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Bu antta büyük bir şey yok mu aklı başında olana?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Görmedin mi Rabbin neler yaptı Âd'a?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Direklerle dolu İrem'e."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Öylesine bir şehirdi ki yaratılmamıştı eşi şehirler arasında."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve vadileri oyan, kayaları kesen Semud'a."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve direk gibi sağlam kumandanları olan Firavun'a?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Öylesine ki azdılar şehirlerde."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Derken bozgunculuğu çoğalttılar oralarda."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Derken Rabbin de onlara bir azap kamçısıdır, yağdırdı."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Şüphe yok ki Rabbin kullarının yollarında, pusudadır, onları görüp gözetir."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "İnsan, öyle bir mahluktur ki Rabbi, onu sınadı da büyüttü, ve nimetler verdi mi, Rabbim der, layıktım da büyüttün beni."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve fakat sınadı da rızkını daralttı mı, Rabbim der, alçalttı beni."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "İş öyle değil, hayır; siz, ne yetimi ağırlıyorsunuz."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Ve ne birbirinizi, yoksulu doyurmaya teşvik ediyorsunuz."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ve mirası, habbesine dek yiyorsunuz."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Ve malı, alabildiğine seviyorsunuz."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "İş öyle değil, hayır, yer bir kere paramparça olup dümdüz bir hale geldi mi."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Ve Rabbinin emri gelip çattı da melekler, safsaf oldu mu."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ve o gün cehennem, ortaya çıktı mı, insan, öğüt alır, anlar ama öğütün, anlayışın artık ne faydası var ona?"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Keşke der, önceden, daha sağken iyilik etseydim."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Derken o gün öylesine bir azaplandırır onu ki kimsecikler, o çeşit azab edemez."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ve öylesine bağlar onu ki kimsecikler, o çeşit bağlayamaz."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ey iyideniyiye inanmış, şüpheden kurtulmuş can."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Dön Rabbine, ondan razı olarak ve rızasını kazanmış bulunarak."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Artık katıl kullarımın arasına."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Ve gir cennetime."
-    }
-  ]
+  "fecr": {
+    "surahNumber": "89",
+    "surahNameTr": "Fecr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun ağaran sabaha."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve on geceye."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve çifte ve teke."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve ışırken geceye."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Bu antta büyük bir şey yok mu aklı başında olana?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Görmedin mi Rabbin neler yaptı Âd'a?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Direklerle dolu İrem'e."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Öylesine bir şehirdi ki yaratılmamıştı eşi şehirler arasında."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve vadileri oyan, kayaları kesen Semud'a."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve direk gibi sağlam kumandanları olan Firavun'a?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Öylesine ki azdılar şehirlerde."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Derken bozgunculuğu çoğalttılar oralarda."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Derken Rabbin de onlara bir azap kamçısıdır, yağdırdı."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Şüphe yok ki Rabbin kullarının yollarında, pusudadır, onları görüp gözetir."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "İnsan, öyle bir mahluktur ki Rabbi, onu sınadı da büyüttü, ve nimetler verdi mi, Rabbim der, layıktım da büyüttün beni."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve fakat sınadı da rızkını daralttı mı, Rabbim der, alçalttı beni."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "İş öyle değil, hayır; siz, ne yetimi ağırlıyorsunuz."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Ve ne birbirinizi, yoksulu doyurmaya teşvik ediyorsunuz."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ve mirası, habbesine dek yiyorsunuz."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Ve malı, alabildiğine seviyorsunuz."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "İş öyle değil, hayır, yer bir kere paramparça olup dümdüz bir hale geldi mi."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Ve Rabbinin emri gelip çattı da melekler, safsaf oldu mu."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ve o gün cehennem, ortaya çıktı mı, insan, öğüt alır, anlar ama öğütün, anlayışın artık ne faydası var ona?"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Keşke der, önceden, daha sağken iyilik etseydim."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Derken o gün öylesine bir azaplandırır onu ki kimsecikler, o çeşit azab edemez."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ve öylesine bağlar onu ki kimsecikler, o çeşit bağlayamaz."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ey iyideniyiye inanmış, şüpheden kurtulmuş can."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Dön Rabbine, ondan razı olarak ve rızasını kazanmış bulunarak."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Artık katıl kullarımın arasına."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Ve gir cennetime."
+      }
+    ]
+  }
 }

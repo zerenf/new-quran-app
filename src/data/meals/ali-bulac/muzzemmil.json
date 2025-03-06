@@ -1,86 +1,88 @@
 {
-  "surahNumber": "73",
-  "surahName": "Müzzemmil Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ey örtüsüne bürünen,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Az bir kısmı hariç olmak üzere, geceleyin kalk:"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "(Gecenin) Yarısı kadar. Ya da ondan biraz eksilt."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Veya üzerine ilave et. Ve Kur'an'ı belli bir düzen içinde (tertil üzere) oku."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Gerçek şu ki, biz senin üzerine 'oldukça ağır' bir söz (vahy) bırakacağız."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Doğrusu gece neşesi (gece ibadeti, insanın iç dünyasında uyandırdığı) etki bakımından daha kuvvetli, okumak bakımından daha sağlamdır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Çünkü gündüz, senin için uzun uğraşılar vardır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Rabbinin ismini zikret ve herşeyden kendini çekerek yalnızca O'na yönel."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "(Allah,) Doğunun ve batının Rabbidir. O'ndan başka İlah yoktur. Şu halde (yalnızca) O'nu vekil tut."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Onların demelerine karşı sen sabret ve onlardan güzel bir ayrılma tarzıyla (düşünce ve eylem bakımından köklü bir tutum) ile kopup-ayrıl."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Yalanlamakta olan nimet (refah ve servet) sahiplerini sen Bana bırak ve onlara az bir süre tanı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Çünkü Bizim yanımızda bukağılar ve cayır cayır yanan bir ateş vardır:"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Boğazı tıkayıp kalan bir yemek ve acı bir azap vardır."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "(Öyle) Bir gün ki, yeryüzü ve dağlar titremeye-tutulur ve dağlar göçüveren bir kum yığını olur."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Şüphesiz size, üzerinize şahid olacak bir elçi gönderdik; Firavun'a bir elçi gönderdiğimiz gibi."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Fakat Firavun elçiye isyan etti, Biz de onu pek vahim bir tarzda (azapla) yakalayıverdik."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Eğer inkar edecek olursanız, çocukların saçlarını ağartan bir günde kendinizi nasıl koruyacaksınız?"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Bu nedenle gök bile yarılıp-çatlamıştır; (artık) O'nun va'di gerçekleştirilip-yerine getirilmiştir."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Şüphesiz, bu bir öğüttür. Artık dileyen Rabbine bir yol bulabilir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Gerçekten Rabbin, senin gecenin üçte ikisinden biraz eksiğinde, yarısında ve üçte birinde (namaz için) kalktığını bilir; seninle birlikte olanlardan bir topluluğun da (böyle yaptığını bilir). Geceyi ve gündüzü Allah takdir eder. Sizin bunu sayamıyacağınızı bildi, böylece tevbenizi (O'na dönüşünüzü) kabul etti. Şu halde Kur'an'dan kolay geleni okuyun. Allah sizden hastalar olduğunu, başkalarının Allah'ın fazlından aramak için yeryüzünde gezip-dolaşacaklarını ve diğerlerinin Allah yolunda çarpışacaklarını bilmiştir. Öyleyse ondan (Kur'an'dan) kolay geleni okuyun. Namazı dosdoğru kılın, zekatı verin ve Allah'a güzel bir borç verin. Hayır olarak kendi nefisleriniz için önceden takdim ettiğiniz şeyleri daha hayırlı ve daha büyük bir ecir (karşılık) olarak Allah Katında bulursunuz. Allah'tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayandır, çok esirgeyendir."
-    }
-  ]
+  "muzzemmil": {
+    "surahNumber": "73",
+    "surahNameTr": "Müzzemmil Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ey örtüsüne bürünen,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Az bir kısmı hariç olmak üzere, geceleyin kalk:"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "(Gecenin) Yarısı kadar. Ya da ondan biraz eksilt."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Veya üzerine ilave et. Ve Kur'an'ı belli bir düzen içinde (tertil üzere) oku."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Gerçek şu ki, biz senin üzerine 'oldukça ağır' bir söz (vahy) bırakacağız."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Doğrusu gece neşesi (gece ibadeti, insanın iç dünyasında uyandırdığı) etki bakımından daha kuvvetli, okumak bakımından daha sağlamdır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Çünkü gündüz, senin için uzun uğraşılar vardır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Rabbinin ismini zikret ve herşeyden kendini çekerek yalnızca O'na yönel."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "(Allah,) Doğunun ve batının Rabbidir. O'ndan başka İlah yoktur. Şu halde (yalnızca) O'nu vekil tut."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Onların demelerine karşı sen sabret ve onlardan güzel bir ayrılma tarzıyla (düşünce ve eylem bakımından köklü bir tutum) ile kopup-ayrıl."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Yalanlamakta olan nimet (refah ve servet) sahiplerini sen Bana bırak ve onlara az bir süre tanı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Çünkü Bizim yanımızda bukağılar ve cayır cayır yanan bir ateş vardır:"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Boğazı tıkayıp kalan bir yemek ve acı bir azap vardır."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "(Öyle) Bir gün ki, yeryüzü ve dağlar titremeye-tutulur ve dağlar göçüveren bir kum yığını olur."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Şüphesiz size, üzerinize şahid olacak bir elçi gönderdik; Firavun'a bir elçi gönderdiğimiz gibi."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Fakat Firavun elçiye isyan etti, Biz de onu pek vahim bir tarzda (azapla) yakalayıverdik."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Eğer inkar edecek olursanız, çocukların saçlarını ağartan bir günde kendinizi nasıl koruyacaksınız?"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Bu nedenle gök bile yarılıp-çatlamıştır; (artık) O'nun va'di gerçekleştirilip-yerine getirilmiştir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Şüphesiz, bu bir öğüttür. Artık dileyen Rabbine bir yol bulabilir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Gerçekten Rabbin, senin gecenin üçte ikisinden biraz eksiğinde, yarısında ve üçte birinde (namaz için) kalktığını bilir; seninle birlikte olanlardan bir topluluğun da (böyle yaptığını bilir). Geceyi ve gündüzü Allah takdir eder. Sizin bunu sayamıyacağınızı bildi, böylece tevbenizi (O'na dönüşünüzü) kabul etti. Şu halde Kur'an'dan kolay geleni okuyun. Allah sizden hastalar olduğunu, başkalarının Allah'ın fazlından aramak için yeryüzünde gezip-dolaşacaklarını ve diğerlerinin Allah yolunda çarpışacaklarını bilmiştir. Öyleyse ondan (Kur'an'dan) kolay geleni okuyun. Namazı dosdoğru kılın, zekatı verin ve Allah'a güzel bir borç verin. Hayır olarak kendi nefisleriniz için önceden takdim ettiğiniz şeyleri daha hayırlı ve daha büyük bir ecir (karşılık) olarak Allah Katında bulursunuz. Allah'tan mağfiret dileyin. Şüphesiz Allah, çok bağışlayandır, çok esirgeyendir."
+      }
+    ]
+  }
 }

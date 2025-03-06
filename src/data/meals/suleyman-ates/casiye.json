@@ -1,154 +1,156 @@
 {
-  "surahNumber": "45",
-  "surahName": "Câsiye Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ha mim."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kitabın indirilmesi, o üstün, hüküm ve hikmet sahibi Allah tarafındandır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Şüphesiz göklerde ve yerde, inananlar için ibretler vardır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Sizin yaratılışınızda ve (yeryüzünde) yaymakta olduğu canlılarda, kesin olarak inananlar için ibretler vardır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Gecenin ve gündüzün değişmesinde, Allah'ın gökten rızık (sebebi) indirip onunla ölümünden sonra yeri diriltmesinde, rüzgarları estirmesinde düşünen bir toplum için ibretler vardır."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "İşte şunlar, Allah'ın ayetleridir, onları sana gerçek ile okuyoruz. Allah'tan ve O'nun ayetlerinden sonra hangi hadise (söze) inanacaklar?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Her yalancı, günah yüklü kimseye yuh olsun!"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "O, Allah'ın ayetlerinin kendisine okunduğunu işitir de sonra büyüklük taslayarak sanki hiç onları işitmemiş gibi (küfründe) direnir. Onu, acı bir azab ile müjdele."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "O, bizim ayetlerimizden bir şey öğrendiği zaman onunla alay eder. İşte öyleleri için alçaltıcı bir azab vardır."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ötelerinden de cehennem (onları beklemektedir). Ne kazandıkları ve ne de Allah'tan başka edindikleri veliler kendilerine bir yarar sağlayabilir. Onlar için büyük bir azab vardır."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "İşte yol gösterici, bu(Kur'an)dır. Rablerinin ayetlerini tanımayanlar için çok çetin bir azab vardır!"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Allah'tır ki denizi size boyun eğdirdi, ta ki gemiler buyruğuyla denizin içinde akıp gitsin de, siz bu sayede O'nun lutfundan payınızı arayasınız ve şükredesiniz."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Göklerde ve yerde bulunan şeyleri kendisinden (bir lutuf olarak) size boyun eğdirdi. Elbette bunda, düşünen bir toplum için ibretler vardır."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "İnananlara söyle: Allah'ın (ceza) günlerinin geleceğini ummayanları affetsinler ki (Allah), bir toplumu, yaptıklarıyle cezalandırsın."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Kim iyi bir iş yaparsa yararı kendisinedir, kim de kötülük yaparsa zararı kendisinedir. Sonunda Rabbinize döndürüleceksiniz."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Andolsun biz, İsrail oğullarına Kitap, hüküm (hikmet, hükümranlık) ve peygamberlik verdik, onları güzel rızıklarla besledik ve onları alemlere üstün kıldık."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ve onlara bu (din) iş(in)de açık deliller verdik. Onlar kendilerine bilgi geldikten sonra sadece aralarındaki çekememezlik yüzünden ayrılığa düştüler. Şüphesiz, Rabbin kıyamet günü, ayrılığa düştükleri şeylerde onlar arasında hüküm verecektir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Sonra seni de buyruk(umuz)dan bir şeriate (bir hukuk düzenine) koyduk. Sen ona uy, bilmeyenlerin keyiflerine uyma."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Çünkü onlar, Allah'tan (gelecek) hiçbir şeyi senden savamazlar. Zalimler birbirlerinin velisidirler. Allah ise korunanların velisidir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Bu (Kur'an), insanlara kanıtlar(sunmakta)dır; kesin olarak inananlara yol gösterici ve rahmettir."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Yoksa kötülükleri işleyen kimseler, kendilerini, inanıp iyi ameller işleyen kimseler gibi yapacağımızı mı sandılar? Yaşamaları ve ölümleri onlarla bir olacak öyle mi? Ne kötü hüküm veriyorlar!"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Allah, gökleri ve yeri gerçek olarak yaratmıştır ki her can, kazandığıyle cezalandırılsın, kimseye haksızlık edilmez."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Keyfini tanrı edinen ve Allah'ın bir bilgiye göre saptırdığı, kulağını ve kalbini mühürlediği, gözünün üstüne de perde çektiği kimseyi gördün mü? Şimdi ona Allah'tan sonra kim doğru yolu gösterecek? Düşünmüyor musunuz?"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Dediler ki: \"Ne varsa dünya hayatımızdır, başka bir şey yoktur. Ölürüz, yaşarız. Bizi zamandan başkası helak etmiyor.\" Fakat onların bu hususta hiçbir bilgileri yoktur. Onlar sadece zannediyorlar."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Onlara açık açık ayetlerimiz okunduğu zaman: \"Doğru iseniz, babalarımızı getirin\" demelerinden başka bir delilleri olmamıştır."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "De ki: \"Allah sizi yaşatıyor, sonra sizi öldürüyor. Sonra sizi, toplayıp duruşma gününe getirecektir. Bunda asla şüphe yoktur, ama insanların çoğu bilmezler.\""
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Göklerin ve yerin mülkü Allah'ındır. O sa'at başladığı gün, işte o gün (Allah'ın ayetlerini etkisiz bırakmağa çalışan) iptalciler hüsrana uğrayacaktır."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "(O gün) Her ümmeti (Allah'ın huzurunda) toplanmış görürsün. Her ümmet, kendi Kitabına (yaptığı işlerin tutanağı olan amel defterine) çağırılır: \"Bugün yaptıklarınızla cezalandırılacaksınız!\""
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "İşte Kitabımız, aleyhinize gerçeği söylüyor. Çünkü biz, yaptıklarınızı yazıyorduk."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "İnanıp iyi işler yapanlar; Rableri onları rahmetine sokar. İşte apaçık başarı budur."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Ama inkar edenlere gelince (onlara da şöyle denir): \"Ayetlerim size okunurdu, fakat siz büyüklük tasladınız ve suçlu bir toplum oldunuz değil mi?\""
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Allah'ın va'di gerçektir, (Duruşma) sa'at(inin geleceğin)de şüphe yoktur dendiği zaman: \"Sa'at nedir, bilmiyoruz, (onu) sadece (bir kuruntu) sanıyoruz biz ona inanmıyoruz\" demiştiniz ha?!\""
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Yaptıklarının kötülükleri onlara göründü ve alay edip durdukları şey onları kuşattı."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Ve (kendilerine şöyle) denildi: \"Siz, bu gününüzle karşılaşmayı nasıl unuttunuzsa biz de bugün sizi unuttuk. Yeriniz ateştir. Hiçbir yardımcınız da yoktur!\""
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Böyledir, çünkü siz Allah'ın ayetlerini eğlence yaptınız; dünya hayatı sizi aldattı. Artık bugün onlar ne ateşten çıkarılırlar ve ne de kendilerinden Allah'ı memnun etmeğe çalışmaları istenir."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Hamd, göklerin Rabbi, yerin Rabbi ve bütün alemlerin Rabbi olan Allah'a mahsustur."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Göklerde ve yerde ululuk, yalnız O'na aittir. O, azizdir hakimdir."
-    }
-  ]
+  "casiye": {
+    "surahNumber": "45",
+    "surahNameTr": "Câsiye Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ha mim."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kitabın indirilmesi, o üstün, hüküm ve hikmet sahibi Allah tarafındandır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Şüphesiz göklerde ve yerde, inananlar için ibretler vardır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Sizin yaratılışınızda ve (yeryüzünde) yaymakta olduğu canlılarda, kesin olarak inananlar için ibretler vardır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Gecenin ve gündüzün değişmesinde, Allah'ın gökten rızık (sebebi) indirip onunla ölümünden sonra yeri diriltmesinde, rüzgarları estirmesinde düşünen bir toplum için ibretler vardır."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "İşte şunlar, Allah'ın ayetleridir, onları sana gerçek ile okuyoruz. Allah'tan ve O'nun ayetlerinden sonra hangi hadise (söze) inanacaklar?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Her yalancı, günah yüklü kimseye yuh olsun!"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "O, Allah'ın ayetlerinin kendisine okunduğunu işitir de sonra büyüklük taslayarak sanki hiç onları işitmemiş gibi (küfründe) direnir. Onu, acı bir azab ile müjdele."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "O, bizim ayetlerimizden bir şey öğrendiği zaman onunla alay eder. İşte öyleleri için alçaltıcı bir azab vardır."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ötelerinden de cehennem (onları beklemektedir). Ne kazandıkları ve ne de Allah'tan başka edindikleri veliler kendilerine bir yarar sağlayabilir. Onlar için büyük bir azab vardır."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "İşte yol gösterici, bu(Kur'an)dır. Rablerinin ayetlerini tanımayanlar için çok çetin bir azab vardır!"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Allah'tır ki denizi size boyun eğdirdi, ta ki gemiler buyruğuyla denizin içinde akıp gitsin de, siz bu sayede O'nun lutfundan payınızı arayasınız ve şükredesiniz."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Göklerde ve yerde bulunan şeyleri kendisinden (bir lutuf olarak) size boyun eğdirdi. Elbette bunda, düşünen bir toplum için ibretler vardır."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "İnananlara söyle: Allah'ın (ceza) günlerinin geleceğini ummayanları affetsinler ki (Allah), bir toplumu, yaptıklarıyle cezalandırsın."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Kim iyi bir iş yaparsa yararı kendisinedir, kim de kötülük yaparsa zararı kendisinedir. Sonunda Rabbinize döndürüleceksiniz."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Andolsun biz, İsrail oğullarına Kitap, hüküm (hikmet, hükümranlık) ve peygamberlik verdik, onları güzel rızıklarla besledik ve onları alemlere üstün kıldık."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ve onlara bu (din) iş(in)de açık deliller verdik. Onlar kendilerine bilgi geldikten sonra sadece aralarındaki çekememezlik yüzünden ayrılığa düştüler. Şüphesiz, Rabbin kıyamet günü, ayrılığa düştükleri şeylerde onlar arasında hüküm verecektir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Sonra seni de buyruk(umuz)dan bir şeriate (bir hukuk düzenine) koyduk. Sen ona uy, bilmeyenlerin keyiflerine uyma."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Çünkü onlar, Allah'tan (gelecek) hiçbir şeyi senden savamazlar. Zalimler birbirlerinin velisidirler. Allah ise korunanların velisidir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Bu (Kur'an), insanlara kanıtlar(sunmakta)dır; kesin olarak inananlara yol gösterici ve rahmettir."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Yoksa kötülükleri işleyen kimseler, kendilerini, inanıp iyi ameller işleyen kimseler gibi yapacağımızı mı sandılar? Yaşamaları ve ölümleri onlarla bir olacak öyle mi? Ne kötü hüküm veriyorlar!"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Allah, gökleri ve yeri gerçek olarak yaratmıştır ki her can, kazandığıyle cezalandırılsın, kimseye haksızlık edilmez."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Keyfini tanrı edinen ve Allah'ın bir bilgiye göre saptırdığı, kulağını ve kalbini mühürlediği, gözünün üstüne de perde çektiği kimseyi gördün mü? Şimdi ona Allah'tan sonra kim doğru yolu gösterecek? Düşünmüyor musunuz?"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Dediler ki: \"Ne varsa dünya hayatımızdır, başka bir şey yoktur. Ölürüz, yaşarız. Bizi zamandan başkası helak etmiyor.\" Fakat onların bu hususta hiçbir bilgileri yoktur. Onlar sadece zannediyorlar."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Onlara açık açık ayetlerimiz okunduğu zaman: \"Doğru iseniz, babalarımızı getirin\" demelerinden başka bir delilleri olmamıştır."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "De ki: \"Allah sizi yaşatıyor, sonra sizi öldürüyor. Sonra sizi, toplayıp duruşma gününe getirecektir. Bunda asla şüphe yoktur, ama insanların çoğu bilmezler.\""
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Göklerin ve yerin mülkü Allah'ındır. O sa'at başladığı gün, işte o gün (Allah'ın ayetlerini etkisiz bırakmağa çalışan) iptalciler hüsrana uğrayacaktır."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "(O gün) Her ümmeti (Allah'ın huzurunda) toplanmış görürsün. Her ümmet, kendi Kitabına (yaptığı işlerin tutanağı olan amel defterine) çağırılır: \"Bugün yaptıklarınızla cezalandırılacaksınız!\""
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "İşte Kitabımız, aleyhinize gerçeği söylüyor. Çünkü biz, yaptıklarınızı yazıyorduk."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "İnanıp iyi işler yapanlar; Rableri onları rahmetine sokar. İşte apaçık başarı budur."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Ama inkar edenlere gelince (onlara da şöyle denir): \"Ayetlerim size okunurdu, fakat siz büyüklük tasladınız ve suçlu bir toplum oldunuz değil mi?\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Allah'ın va'di gerçektir, (Duruşma) sa'at(inin geleceğin)de şüphe yoktur dendiği zaman: \"Sa'at nedir, bilmiyoruz, (onu) sadece (bir kuruntu) sanıyoruz biz ona inanmıyoruz\" demiştiniz ha?!\""
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Yaptıklarının kötülükleri onlara göründü ve alay edip durdukları şey onları kuşattı."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Ve (kendilerine şöyle) denildi: \"Siz, bu gününüzle karşılaşmayı nasıl unuttunuzsa biz de bugün sizi unuttuk. Yeriniz ateştir. Hiçbir yardımcınız da yoktur!\""
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Böyledir, çünkü siz Allah'ın ayetlerini eğlence yaptınız; dünya hayatı sizi aldattı. Artık bugün onlar ne ateşten çıkarılırlar ve ne de kendilerinden Allah'ı memnun etmeğe çalışmaları istenir."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Hamd, göklerin Rabbi, yerin Rabbi ve bütün alemlerin Rabbi olan Allah'a mahsustur."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Göklerde ve yerde ululuk, yalnız O'na aittir. O, azizdir hakimdir."
+      }
+    ]
+  }
 }

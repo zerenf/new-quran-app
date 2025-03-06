@@ -1,50 +1,52 @@
 {
-  "surahNumber": "100",
-  "surahName": "Âdiyât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun soluya soluya koşanlara."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Tırnaklarıyle bastıkça taştan kıvılcım saçanlara."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Sabah çağı, düşmanı basanlara."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Derken her yanı toza, dumana boğanlara."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Derken düşman topluluğunun ta ortasına dalanlara."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Şüphe yok ki insan, Rabbine karşı pek inatçıdır, pek nankördür."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve şüphe yok ki o, buna tanıktır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve şüphe yok ki insan, hayrına yarıyan malamülke karşı da pek düşkündür, pek nekestir."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Fakat bilmez mi ki kabirlerdekiler, dışarı çıkınca."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve gönüllerdekiler, meydana vurulup bilinince."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Şüphe yok ki Rabbin, o gün, onların her şeyini bilir elbette."
-    }
-  ]
+  "adiyat": {
+    "surahNumber": "100",
+    "surahNameTr": "Âdiyât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun soluya soluya koşanlara."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Tırnaklarıyle bastıkça taştan kıvılcım saçanlara."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Sabah çağı, düşmanı basanlara."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Derken her yanı toza, dumana boğanlara."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Derken düşman topluluğunun ta ortasına dalanlara."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Şüphe yok ki insan, Rabbine karşı pek inatçıdır, pek nankördür."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve şüphe yok ki o, buna tanıktır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve şüphe yok ki insan, hayrına yarıyan malamülke karşı da pek düşkündür, pek nekestir."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Fakat bilmez mi ki kabirlerdekiler, dışarı çıkınca."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve gönüllerdekiler, meydana vurulup bilinince."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Şüphe yok ki Rabbin, o gün, onların her şeyini bilir elbette."
+      }
+    ]
+  }
 }

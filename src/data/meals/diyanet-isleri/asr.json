@@ -1,18 +1,20 @@
 {
-  "surahNumber": "103",
-  "surahName": "Asr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "İkindi vaktine (Asra; çağa) and olsun ki,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "İnsan hiç şüphesiz hüsran içindedir."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır."
-    }
-  ]
+  "asr": {
+    "surahNumber": "103",
+    "surahNameTr": "Asr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "İkindi vaktine (Asra; çağa) and olsun ki,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnsan hiç şüphesiz hüsran içindedir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ancak inanıp yararlı iş işleyenler, birbirlerine gerçeği tavsiye edenler ve sabırlı olmayı tavsiye edenler bunun dışındadır."
+      }
+    ]
+  }
 }

@@ -1,90 +1,92 @@
 {
-  "surahNumber": "92",
-  "surahName": "Leyl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun basınca, geceye."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve ışıyınca, güne."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve erkeği ve dişiyi yaratana."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Şüphe yok ki çalışmanız, elbette çeşitlidir, başkabaşka."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve kim verdi ve çekindiyse."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ve en güzel sözü gerçeklediyse."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Artık ona en kolay yolu kolaylaştırırız."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve ama kim nekeslik etti ve zenginleşmeyi dilediyse."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve en güzel sözü yalanladıysa."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Artık ona da en güç yolu kolaylaştırırız."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ve helak olduğu zaman malı, ona bir fayda vermez."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Şüphe yok ki doğru yolu göstermek, bize düşer."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve şüphe yok ki bizimdir son yaşayış da ve önceki de."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Artık sizi korkuttum alevalev parlayan ateşle."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Oraya da ancak pek bahtsız kişi atılır, yanar."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Öyle ki yalanlamıştır o ve yüzünü döndürmüştür."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ve ondan, ancak, pek ziyade çekinen uzak kalır."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Öylesine ki malını verir de özünü tertemiz bir hale kor."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ve hiçbir kimseden, bir nimetle mükafatlanmayı dilemez."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Yaptığını, ancak yücelerden yüce Rabbinin rızası için yapar."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Ve o da, razı olacaktır ondan."
-    }
-  ]
+  "leyl": {
+    "surahNumber": "92",
+    "surahNameTr": "Leyl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun basınca, geceye."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve ışıyınca, güne."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve erkeği ve dişiyi yaratana."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Şüphe yok ki çalışmanız, elbette çeşitlidir, başkabaşka."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve kim verdi ve çekindiyse."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ve en güzel sözü gerçeklediyse."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Artık ona en kolay yolu kolaylaştırırız."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve ama kim nekeslik etti ve zenginleşmeyi dilediyse."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve en güzel sözü yalanladıysa."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Artık ona da en güç yolu kolaylaştırırız."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ve helak olduğu zaman malı, ona bir fayda vermez."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Şüphe yok ki doğru yolu göstermek, bize düşer."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve şüphe yok ki bizimdir son yaşayış da ve önceki de."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Artık sizi korkuttum alevalev parlayan ateşle."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Oraya da ancak pek bahtsız kişi atılır, yanar."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Öyle ki yalanlamıştır o ve yüzünü döndürmüştür."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ve ondan, ancak, pek ziyade çekinen uzak kalır."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Öylesine ki malını verir de özünü tertemiz bir hale kor."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ve hiçbir kimseden, bir nimetle mükafatlanmayı dilemez."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Yaptığını, ancak yücelerden yüce Rabbinin rızası için yapar."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Ve o da, razı olacaktır ondan."
+      }
+    ]
+  }
 }

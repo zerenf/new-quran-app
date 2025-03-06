@@ -1,126 +1,128 @@
 {
-  "surahNumber": "89",
-  "surahName": "Fecr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun fecre (tan yeri ağarmasına),"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "On geceye,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Çift'e ve tek'e,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Gitmekte olan geceye."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Bu( anıla)n (şeyler)de akıl sahibi için bir yemin var, değil mi? (İşte bunlara andolsun ki kafirler mutlaka azaba uğrayacaklardır!)"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Görmedin mi Rabbin ne yaptı 'Ad(kavmin)e?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Sütunlu İrem'e?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ki ülkeler arasında onun eşi yaratılmamıştı."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Vadi('l-Kura)da kayaları oya(rak evler yapa)n Semud(kavmin)e?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve kazıklar sahibi Fir'avn'a?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Bunlar ülkelerde azmışlardı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Oralarda çok kötülük etmişlerdi."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Bu yüzden Rabbin onların üzerine azab kırbacını çarptı."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Elbette Rabbin gözetleme yerindedir (her an kullarının fiillerini gözetlemektedir)."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Fakat insan öyledir; Rabbi ne zaman kendisini sınayıp ona ikramda bulunur, ona ni'met verirse: \"Rabbim bana ikram etti\" der."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ama Rabbi onu sınayıp rızkını daraltırsa: \"Rabbim beni alçalttı (perişan etti)\" der."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Hayır, doğrusu siz (Allah'tan ikram bekliyorsunuz ama kendiniz) yetime ikram etmiyorsunuz."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Yoksula yedirmeğe teşvik etmiyorsunuz."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Mirası hırsla yutuyorsunuz."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Malı pek çok seviyorsunuz."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Hayır, yer birbiri ardınca sarsılıp dümdüz edildiği zaman,"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Melekler sıra sıra dizili durumda Rabbin geldiği zaman."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ve cehennem de getirildiği zaman. İşte o gün insan anlar, ama artık anlamanın kendisine ne yararı var?"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "(O zaman insan): \"Ah, keşke ben bu hayatım için (iyi işler yapıp) gönderseydim!\" der."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "O gün O'nun yapacağı azabı kimse yapamaz."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ve O'nun vuracağı bağı kimse vuramaz!"
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ey huzura eren nefis!"
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Razı edici ve razı edilmiş olarak Rabbine dön!"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "(İyi) Kullarım arasına gir!"
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Cennetime gir!"
-    }
-  ]
+  "fecr": {
+    "surahNumber": "89",
+    "surahNameTr": "Fecr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun fecre (tan yeri ağarmasına),"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "On geceye,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Çift'e ve tek'e,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Gitmekte olan geceye."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Bu( anıla)n (şeyler)de akıl sahibi için bir yemin var, değil mi? (İşte bunlara andolsun ki kafirler mutlaka azaba uğrayacaklardır!)"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Görmedin mi Rabbin ne yaptı 'Ad(kavmin)e?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Sütunlu İrem'e?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ki ülkeler arasında onun eşi yaratılmamıştı."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Vadi('l-Kura)da kayaları oya(rak evler yapa)n Semud(kavmin)e?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve kazıklar sahibi Fir'avn'a?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Bunlar ülkelerde azmışlardı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Oralarda çok kötülük etmişlerdi."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Bu yüzden Rabbin onların üzerine azab kırbacını çarptı."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Elbette Rabbin gözetleme yerindedir (her an kullarının fiillerini gözetlemektedir)."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Fakat insan öyledir; Rabbi ne zaman kendisini sınayıp ona ikramda bulunur, ona ni'met verirse: \"Rabbim bana ikram etti\" der."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ama Rabbi onu sınayıp rızkını daraltırsa: \"Rabbim beni alçalttı (perişan etti)\" der."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Hayır, doğrusu siz (Allah'tan ikram bekliyorsunuz ama kendiniz) yetime ikram etmiyorsunuz."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Yoksula yedirmeğe teşvik etmiyorsunuz."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Mirası hırsla yutuyorsunuz."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Malı pek çok seviyorsunuz."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Hayır, yer birbiri ardınca sarsılıp dümdüz edildiği zaman,"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Melekler sıra sıra dizili durumda Rabbin geldiği zaman."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ve cehennem de getirildiği zaman. İşte o gün insan anlar, ama artık anlamanın kendisine ne yararı var?"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "(O zaman insan): \"Ah, keşke ben bu hayatım için (iyi işler yapıp) gönderseydim!\" der."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "O gün O'nun yapacağı azabı kimse yapamaz."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ve O'nun vuracağı bağı kimse vuramaz!"
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ey huzura eren nefis!"
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Razı edici ve razı edilmiş olarak Rabbine dön!"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "(İyi) Kullarım arasına gir!"
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Cennetime gir!"
+      }
+    ]
+  }
 }

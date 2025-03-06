@@ -1,86 +1,88 @@
 {
-  "surahNumber": "73",
-  "surahName": "Müzzemmil Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ey örtünüp bürünen (Resulüm)!"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Birazı hariç, geceleri kalk namaz kıl."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "(Gecenin) yarısını (kıl). Yahut bunu biraz azalt."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ya da bunu çoğalt ve Kur'an'ı tane tane oku."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Doğrusu biz sana (taşıması) ağır bir söz vahyedeceğiz."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Zira gündüz vakti, sana uzun bir meşguliyet var."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Rabbinin adını an. Bütün varlığınla O'na yönel."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "O, doğunun da batının da Rabbidir. O'ndan başka ilah yoktur. Öyleyse yalnız O'nun himayesine sığın."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Onların (müşriklerin) söylediklerine katlan ve onlardan güzellikle ayrıl."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Nimet içinde yüzen o yalancıları bana bırak ve onlara biraz mühlet ver."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, var."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Boğazdan geçmez bir yiyecek ve elem verici bir azap var."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "O gün (kıyamet günü) yeryüzü ve dağlar sarsılır; dağlar çöküntü ile akıp giden kum yığınına döner."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Nasıl Firavun'a bir elçi göndermiş idiysek doğrusu size de, hakkınızda şahitlik edecek bir peygamber gönderdik."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ama Firavun o peygambere karşı gelmiş, biz de onu ağır ve çetin bir şekilde muaheze etmiştik."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Peki inkar ederseniz, çocukları ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabileceksiniz?"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Gökyüzü bile onunla (o günün dehşetiyle) yarılacaktır. Allah'ın vadi mutlaka yerine gelir."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "İşte bu (anlatılanlar), şüphesiz bir öğüttür. Artık kim dilerse Rabbine (varan) bir yol tutar."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "(Resulüm!) Senin, gecenin üçte ikisine yakın kısmını, (bazen) yarısını, (bazen de) üçte birini yatmadan (ibadetle) geçirdiğini ve beraberinde bulunanlardan bir topluluğun da (böyle yaptığını) Rabbin elbette biliyor. Gece ve gündüzü (içinde olup bitenleri iyiden iyiye) ölçüp biçen ancak Allah'tır. O sizin, bunu sayamayacağınızı bildiği için, sizi bağışladı. Artık, Kur'an'dan kolayınıza geleni okuyun. Allah bilmektedir ki, içinizde hastalar bulunacak, bir kısmınız Allah'ın lütfundan (rızık) aramaküzere yeryüzünde yol tepecekler, diğer bir kısmınız da Allah yolunda çarpışacaklardır. O halde Kur'an'dan kolayınıza geleni okuyun. Namazı kılın, zekatı verin, Allah'a gönül hoşluğuyla ödünç verin. Kendiniz için önden (dünyada iken) ne iyilik hazırlarsanız Allah katında onu bulursunuz; hem de daha üstün ve mükafatça daha büyük olmak üzere. Allah'tan mağfiret dileyin, şüphesiz Allah çok bağışlayıcı, çok esirgeyicidir."
-    }
-  ]
+  "muzzemmil": {
+    "surahNumber": "73",
+    "surahNameTr": "Müzzemmil Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ey örtünüp bürünen (Resulüm)!"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Birazı hariç, geceleri kalk namaz kıl."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "(Gecenin) yarısını (kıl). Yahut bunu biraz azalt."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ya da bunu çoğalt ve Kur'an'ı tane tane oku."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Doğrusu biz sana (taşıması) ağır bir söz vahyedeceğiz."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Zira gündüz vakti, sana uzun bir meşguliyet var."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Rabbinin adını an. Bütün varlığınla O'na yönel."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "O, doğunun da batının da Rabbidir. O'ndan başka ilah yoktur. Öyleyse yalnız O'nun himayesine sığın."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Onların (müşriklerin) söylediklerine katlan ve onlardan güzellikle ayrıl."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Nimet içinde yüzen o yalancıları bana bırak ve onlara biraz mühlet ver."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Hiç şüphesiz bizim nezdimizde (onlar için hazırlanmış) boyunduruklar, yakıcı bir ateş, var."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Boğazdan geçmez bir yiyecek ve elem verici bir azap var."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "O gün (kıyamet günü) yeryüzü ve dağlar sarsılır; dağlar çöküntü ile akıp giden kum yığınına döner."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Nasıl Firavun'a bir elçi göndermiş idiysek doğrusu size de, hakkınızda şahitlik edecek bir peygamber gönderdik."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ama Firavun o peygambere karşı gelmiş, biz de onu ağır ve çetin bir şekilde muaheze etmiştik."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Peki inkar ederseniz, çocukları ak saçlı ihtiyarlara çevirecek o günden kendinizi nasıl koruyabileceksiniz?"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Gökyüzü bile onunla (o günün dehşetiyle) yarılacaktır. Allah'ın vadi mutlaka yerine gelir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "İşte bu (anlatılanlar), şüphesiz bir öğüttür. Artık kim dilerse Rabbine (varan) bir yol tutar."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "(Resulüm!) Senin, gecenin üçte ikisine yakın kısmını, (bazen) yarısını, (bazen de) üçte birini yatmadan (ibadetle) geçirdiğini ve beraberinde bulunanlardan bir topluluğun da (böyle yaptığını) Rabbin elbette biliyor. Gece ve gündüzü (içinde olup bitenleri iyiden iyiye) ölçüp biçen ancak Allah'tır. O sizin, bunu sayamayacağınızı bildiği için, sizi bağışladı. Artık, Kur'an'dan kolayınıza geleni okuyun. Allah bilmektedir ki, içinizde hastalar bulunacak, bir kısmınız Allah'ın lütfundan (rızık) aramaküzere yeryüzünde yol tepecekler, diğer bir kısmınız da Allah yolunda çarpışacaklardır. O halde Kur'an'dan kolayınıza geleni okuyun. Namazı kılın, zekatı verin, Allah'a gönül hoşluğuyla ödünç verin. Kendiniz için önden (dünyada iken) ne iyilik hazırlarsanız Allah katında onu bulursunuz; hem de daha üstün ve mükafatça daha büyük olmak üzere. Allah'tan mağfiret dileyin, şüphesiz Allah çok bağışlayıcı, çok esirgeyicidir."
+      }
+    ]
+  }
 }

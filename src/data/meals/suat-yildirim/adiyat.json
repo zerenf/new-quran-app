@@ -1,50 +1,52 @@
 {
-  "surahNumber": "100",
-  "surahName": "Âdiyât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Gazilerin nefes nefese koşan,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Koşarken tırnaklarıyla kıvılcımlar saçan,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Sabah erkenden baskın basan,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "O esnada tozu dumana katan,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Derken düşman kuvvetinin ortasına dalan atların hakkı için ki:"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Gerçekten insan, Rabbine karşı çok nankördür!"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Kendisi de buna şahittir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ondaki mal hırsı pek şiddetlidir."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Peki o insan, kendisinin ve malının âkıbetini hâlâ bilip anlamayacak mı?Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Peki o insan, kendisinin ve malının âkıbetini hâlâ bilip anlamayacak mı?Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "İşte bilhassa o gün, Rab'leri, onların bütün yaptıklarından haberdardır."
-    }
-  ]
+  "adiyat": {
+    "surahNumber": "100",
+    "surahNameTr": "Âdiyât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Gazilerin nefes nefese koşan,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Koşarken tırnaklarıyla kıvılcımlar saçan,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Sabah erkenden baskın basan,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O esnada tozu dumana katan,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Derken düşman kuvvetinin ortasına dalan atların hakkı için ki:"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerçekten insan, Rabbine karşı çok nankördür!"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Kendisi de buna şahittir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ondaki mal hırsı pek şiddetlidir."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Peki o insan, kendisinin ve malının âkıbetini hâlâ bilip anlamayacak mı?Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Peki o insan, kendisinin ve malının âkıbetini hâlâ bilip anlamayacak mı?Kabirlerde olanlar diriltilip dışarı atıldığı zaman, sinelerin içinde bulunan her şey derlenip ortaya konulduğu zaman,"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "İşte bilhassa o gün, Rab'leri, onların bütün yaptıklarından haberdardır."
+      }
+    ]
+  }
 }

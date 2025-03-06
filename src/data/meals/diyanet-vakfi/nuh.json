@@ -1,118 +1,120 @@
 {
-  "surahNumber": "71",
-  "surahName": "Nûh Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kendilerine yakıcı bir azap gelmeden önce kavmini uyar, diye Nuh'u kendi kavmine gönderdik."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "\"Ey kavmim dedi, ben sizin için açık bir uyarıcıyım\""
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "\"Allah'a kulluk edin; O'na karşı gelmekten sakının ve bana itaat edin.\""
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "\"Ki Allah bir kısım günahlarınızı bağışlasın ve sizi belli bir vadeye kadar tehir etsin (muahaze etmeden yaşatsın)\" Bilinmeli ki Allah'ın tayin ettiği vade gelince, artık o ertelenmez. Keşke bilseydiniz!\""
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "(Sonra Nuh:) Rabbim! dedi, doğrusu ben kavmimi gece gündüz (imana) davet ettim;"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Fakat benim davetim, ancak kaçmalarını arttırdı."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Gerçekten de, (imana gelmeleri ve böylece) günahlarını bağışlaman için onları ne zaman davet ettiysem, parmaklarını kulaklarına tıkadılar, (beni görmemek için) elbiselerine büründüler, ayak dirediler, kibirlendikçe kibirlendiler."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sonra, ben kendilerine haykırarak davette bulundum."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Sonra, onlarla hem açıktan açığa hem de gizli gizli konuştum."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dedim ki: Rabbinizden mağfiret dileyin; çünkü O çok bağışlayıcıdır."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "(Mağfiret dileyin ki,) üzerinize gökten bol bol yağmur indirsin,"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Mallarınızı ve oğullarınızı çoğaltsın, size bahçeler ihsan etsin, sizin için ırmaklar akıtsın."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Size ne oluyor ki, Allah'a büyüklüğü yakıştıramıyorsunuz?"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Oysa, sizi türlü merhalelerden geçirerek O yaratmıştır."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Görmediniz mi, Allah yedi göğü birbiriyle ahenktar olarak nasıl yaratmış!"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Onların içinde ayı bir nur kılmış, güneşi de bir çerağ yapmıştır."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Allah, sizi de yerden ot (bitirir) gibi bitirmiştir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Sonra sizi yine oraya döndürecek ve sizi yeniden çıkaracaktır."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "\"Allah, yeryüzünü sizin için bir sergi yapmıştır.\""
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "\"Ki, onda geniş yollar edinip dolaşabilesiniz. (diye)."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "(Öğütlerinin fayda vermemesi üzerine) Nuh: Rabbim! dedi, doğrusu bunlar bana karşı geldiler de, malı ve çocuğu kendi ziyanını arttırmaktan başka işe yaramayan kimseye uydular."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Bunlar da, büyük hileler, büyük desiseler kurdular!"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ve dediler ki: Sakın ilahlarınızı bırakmayın; hele Ved'den, Suva'dan, Yeğus'tan, Ye'uk'tan ve Nesr'den asla vazgeçmeyin!"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "(Böylece) onlar gerçekten birçoklarını saptırdılar. (Rabbim!) Sen de bu zalimlerin ancak şaşkınlıklarını arttır!"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Bunlar, günahları yüzünden suda boğuldular, ardından da ateşe sokuldular ve o zaman Allah'a karşı yardımcılar da bulamadılar."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Nuh: \"Rabbim! dedi, yeryüzünde kafirlerden hiç kimseyi bırakma!\""
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "\"Çünkü sen onları bırakırsan kullarını saptırırlar; yalnız ahlaksız, nankör (insanlar) doğururlar (yetiştirirler).\""
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "\"Rabbim! Beni, ana-babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla, zalimlerin de ancak helakini arttır.\""
-    }
-  ]
+  "nuh": {
+    "surahNumber": "71",
+    "surahNameTr": "Nûh Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kendilerine yakıcı bir azap gelmeden önce kavmini uyar, diye Nuh'u kendi kavmine gönderdik."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "\"Ey kavmim dedi, ben sizin için açık bir uyarıcıyım\""
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "\"Allah'a kulluk edin; O'na karşı gelmekten sakının ve bana itaat edin.\""
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "\"Ki Allah bir kısım günahlarınızı bağışlasın ve sizi belli bir vadeye kadar tehir etsin (muahaze etmeden yaşatsın)\" Bilinmeli ki Allah'ın tayin ettiği vade gelince, artık o ertelenmez. Keşke bilseydiniz!\""
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "(Sonra Nuh:) Rabbim! dedi, doğrusu ben kavmimi gece gündüz (imana) davet ettim;"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Fakat benim davetim, ancak kaçmalarını arttırdı."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Gerçekten de, (imana gelmeleri ve böylece) günahlarını bağışlaman için onları ne zaman davet ettiysem, parmaklarını kulaklarına tıkadılar, (beni görmemek için) elbiselerine büründüler, ayak dirediler, kibirlendikçe kibirlendiler."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra, ben kendilerine haykırarak davette bulundum."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Sonra, onlarla hem açıktan açığa hem de gizli gizli konuştum."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dedim ki: Rabbinizden mağfiret dileyin; çünkü O çok bağışlayıcıdır."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "(Mağfiret dileyin ki,) üzerinize gökten bol bol yağmur indirsin,"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Mallarınızı ve oğullarınızı çoğaltsın, size bahçeler ihsan etsin, sizin için ırmaklar akıtsın."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Size ne oluyor ki, Allah'a büyüklüğü yakıştıramıyorsunuz?"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Oysa, sizi türlü merhalelerden geçirerek O yaratmıştır."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Görmediniz mi, Allah yedi göğü birbiriyle ahenktar olarak nasıl yaratmış!"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Onların içinde ayı bir nur kılmış, güneşi de bir çerağ yapmıştır."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Allah, sizi de yerden ot (bitirir) gibi bitirmiştir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Sonra sizi yine oraya döndürecek ve sizi yeniden çıkaracaktır."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "\"Allah, yeryüzünü sizin için bir sergi yapmıştır.\""
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "\"Ki, onda geniş yollar edinip dolaşabilesiniz. (diye)."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "(Öğütlerinin fayda vermemesi üzerine) Nuh: Rabbim! dedi, doğrusu bunlar bana karşı geldiler de, malı ve çocuğu kendi ziyanını arttırmaktan başka işe yaramayan kimseye uydular."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Bunlar da, büyük hileler, büyük desiseler kurdular!"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ve dediler ki: Sakın ilahlarınızı bırakmayın; hele Ved'den, Suva'dan, Yeğus'tan, Ye'uk'tan ve Nesr'den asla vazgeçmeyin!"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "(Böylece) onlar gerçekten birçoklarını saptırdılar. (Rabbim!) Sen de bu zalimlerin ancak şaşkınlıklarını arttır!"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Bunlar, günahları yüzünden suda boğuldular, ardından da ateşe sokuldular ve o zaman Allah'a karşı yardımcılar da bulamadılar."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Nuh: \"Rabbim! dedi, yeryüzünde kafirlerden hiç kimseyi bırakma!\""
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "\"Çünkü sen onları bırakırsan kullarını saptırırlar; yalnız ahlaksız, nankör (insanlar) doğururlar (yetiştirirler).\""
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "\"Rabbim! Beni, ana-babamı, iman etmiş olarak evime girenleri, iman eden erkekleri ve iman eden kadınları bağışla, zalimlerin de ancak helakini arttır.\""
+      }
+    ]
+  }
 }

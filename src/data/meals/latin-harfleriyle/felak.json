@@ -1,26 +1,28 @@
 {
-  "surahNumber": "113",
-  "surahName": "Felâk Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "ḳul e`ûẕü birabbi-lfeleḳ."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "min şerri mâ ḫaleḳ."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "vemin şerri gâsiḳin iẕâ veḳab."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "vemin şerri-nneffâŝâti fi-l`uḳad."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "vemin şerri ḥâsidin iẕâ ḥased."
-    }
-  ]
+  "felak": {
+    "surahNumber": "113",
+    "surahNameTr": "Felâk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "ḳul e`ûẕü birabbi-lfeleḳ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "min şerri mâ ḫaleḳ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "vemin şerri gâsiḳin iẕâ veḳab."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "vemin şerri-nneffâŝâti fi-l`uḳad."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "vemin şerri ḥâsidin iẕâ ḥased."
+      }
+    ]
+  }
 }

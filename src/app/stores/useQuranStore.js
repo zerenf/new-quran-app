@@ -11,7 +11,8 @@ const useQuranStore = create((set, get) => ({
 	selectedMealData: null,
 	clicked: {},
 	surahNumber: "",
-	loading: false, // Loading durumu eklendi
+	loading: false,
+	searchResult: [],
 
 	mealMap: {
 		"ali-bulac": "Ali Bulaç",
@@ -42,6 +43,7 @@ const useQuranStore = create((set, get) => ({
 		})),
 
 	setSurahNumber: (surahNumber) => set({ surahNumber }),
+	setSearchResult: (searchResult) => set({ searchResult }),
 
 	fetchData: async (surahName, meal, ayah) => {
 		const { setError, setResult, setSurahNumber, setLoading, setSelectedMeal } = get()
@@ -97,6 +99,28 @@ const useQuranStore = create((set, get) => ({
 			setError("Veri çekilirken hata oluştu")
 		} finally {
 			setLoading(false) // İşlem tamamlandığında yükleniyor durumunu kaldır
+		}
+	},
+
+	fetchAllData: async () => {
+		const { selectedMeal, setSearchResult } = get()
+
+		let url = `/api/meals/${selectedMeal || "diyanet-isleri"}`
+
+		try {
+			setLoading(true)
+
+			const { data } = await axios.get(url)
+			if (data.succes) {
+				setSearchResult(data.result)
+				setError(null)
+			} else {
+				setError(data.error)
+			}
+		} catch (error) {
+			setError("Veri çekilirken hata oluştu")
+		} finally {
+			setLoading(false)
 		}
 	},
 

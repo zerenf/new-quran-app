@@ -1,318 +1,320 @@
 {
-  "surahNumber": "55",
-  "surahName": "Rahmân Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Çok merhametli(Allah)"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kur'an'ı öğretti."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "İnsanı yarattı."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ona açıklamayı öğretti."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Güneş ve ay bir hesaba göre (hareket etmekte) dir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bitkiler ve ağaçlar secde ederler."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Göğü Allah yükseltti ve mizanı (dengeyi) O koydu."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sakın dengeyi bozmayın."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ölçüyü adaletle tutun ve eksik tartmayın."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Allah, yeri canlılar için yaratmıştır."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Orada meyveler ve salkımlı hurma ağaçları vardır."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Yapraklı daneler ve hoş kokulu bitkiler vardır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Allah insanı, pişmiş çamura benzeyen bir balçıktan yarattı."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Cinleri öz ateşten yarattı."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "O halde, Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "(O,) iki doğunun ve iki batının Rabbidir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "İki denizi birbirine kavuşmak üzere salıvermiştir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Aralarında bir engel vardır, birbirine geçip karışmazlar."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "İkisinden de inci ve mercan çıkar."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Denizde yüce dağlar gibi yükselen gemiler de O'nundur."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Yer yüzünde bulunan her canlı yok olacak."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ancak azamet ve ikram sahibi Rabbinin zatı baki kalacak."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Göklerde ve yerde bulunan herkes, O'ndan ister. O, her an yaratma halindedir."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "O halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Ey insan ve cin! Sizin de hesabınızı ele alacağız."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Hal bu iken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Ey cin ve insan toplulukları! Göklerin ve yerin çerçevesinden çıkıp gitmeye gücünüz yetiyorsa geçin. Ancak büyük bir güçle çıkıp gidebilirsiniz."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Üzerinize ateşten alev ve duman gönderilir de birbirinizi kurtaramaz ve yardımlaşamazsınız."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Gök yarılıp da kızarmış yağ renginde gül gibi olduğu zaman,"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "İşte o gün insana da cine de günahı sorulmaz."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Suçlular, simalarından tanınır, perçemlerinden ve ayaklarından yakalanırlar."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "İşte bu, suçluların yalanladıkları cehennemdir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Onlar, cehennemle kaynar su arasında dolaşır dururlar."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Rabbinin huzurunda durmaktan korkan kimselere iki cennet vardır."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "İki cennet de çeşit çeşit ağaçlarla doludur."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "İkisinde de akıp giden iki kaynak vardır."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "İkisinde de her türlü meyveden çift çift vardır."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Hepsi de örtüleri atlastan minderlere yaslanırlar. İki cennetin de meyvesinin devşirilmesi yakındır."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Oralarda gözlerini yalnız eşlerine çevirmiş güzeller var ki, bunlardan önce onlara ne insan ne de cin dokunmuştur."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Sanki onlar yakut ve mercandırlar."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "İyiliğin karşılığı iyilikten başka bir şey midir?"
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Bu ikisinden başka iki cennet daha vardır."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Bu cennetler koyu yeşildirler."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "İkisinde de durmadan fışkıran iki kaynak vardır."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "İkisinde de her türlü meyveler, hurma ve nar vardır."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "İçlerinde huyu güzel yüzü güzel kadınlar vardır."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Otağlar içinde sahiplerine tahsis edilmiş huriler vardır."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Bunlara onlardan önce ne bir insan ne bir cin dokunmuştur."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Yeşil yastıklara ve harikulade güzel döşemelere yaslanırlar."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "Büyüklük ve ikram sahibi Rabbinin adı yücelerden yücedir."
-    }
-  ]
+  "rahman": {
+    "surahNumber": "55",
+    "surahNameTr": "Rahmân Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Çok merhametli(Allah)"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kur'an'ı öğretti."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "İnsanı yarattı."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ona açıklamayı öğretti."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Güneş ve ay bir hesaba göre (hareket etmekte) dir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bitkiler ve ağaçlar secde ederler."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Göğü Allah yükseltti ve mizanı (dengeyi) O koydu."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sakın dengeyi bozmayın."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ölçüyü adaletle tutun ve eksik tartmayın."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Allah, yeri canlılar için yaratmıştır."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Orada meyveler ve salkımlı hurma ağaçları vardır."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Yapraklı daneler ve hoş kokulu bitkiler vardır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Allah insanı, pişmiş çamura benzeyen bir balçıktan yarattı."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Cinleri öz ateşten yarattı."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "O halde, Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "(O,) iki doğunun ve iki batının Rabbidir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "İki denizi birbirine kavuşmak üzere salıvermiştir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Aralarında bir engel vardır, birbirine geçip karışmazlar."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "İkisinden de inci ve mercan çıkar."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Denizde yüce dağlar gibi yükselen gemiler de O'nundur."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Yer yüzünde bulunan her canlı yok olacak."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ancak azamet ve ikram sahibi Rabbinin zatı baki kalacak."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Göklerde ve yerde bulunan herkes, O'ndan ister. O, her an yaratma halindedir."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "O halde Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Ey insan ve cin! Sizin de hesabınızı ele alacağız."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Hal bu iken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Ey cin ve insan toplulukları! Göklerin ve yerin çerçevesinden çıkıp gitmeye gücünüz yetiyorsa geçin. Ancak büyük bir güçle çıkıp gidebilirsiniz."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Üzerinize ateşten alev ve duman gönderilir de birbirinizi kurtaramaz ve yardımlaşamazsınız."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Gök yarılıp da kızarmış yağ renginde gül gibi olduğu zaman,"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "İşte o gün insana da cine de günahı sorulmaz."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "O halde Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Suçlular, simalarından tanınır, perçemlerinden ve ayaklarından yakalanırlar."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "İşte bu, suçluların yalanladıkları cehennemdir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Onlar, cehennemle kaynar su arasında dolaşır dururlar."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Şimdi Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Rabbinin huzurunda durmaktan korkan kimselere iki cennet vardır."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Öyleyken Rabbinizin nimetlerinden hangisini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "İki cennet de çeşit çeşit ağaçlarla doludur."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Öyleyse Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "İkisinde de akıp giden iki kaynak vardır."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "İkisinde de her türlü meyveden çift çift vardır."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Hepsi de örtüleri atlastan minderlere yaslanırlar. İki cennetin de meyvesinin devşirilmesi yakındır."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Oralarda gözlerini yalnız eşlerine çevirmiş güzeller var ki, bunlardan önce onlara ne insan ne de cin dokunmuştur."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Sanki onlar yakut ve mercandırlar."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "İyiliğin karşılığı iyilikten başka bir şey midir?"
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Bu ikisinden başka iki cennet daha vardır."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Bu cennetler koyu yeşildirler."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "İkisinde de durmadan fışkıran iki kaynak vardır."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "İkisinde de her türlü meyveler, hurma ve nar vardır."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "İçlerinde huyu güzel yüzü güzel kadınlar vardır."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Otağlar içinde sahiplerine tahsis edilmiş huriler vardır."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Bunlara onlardan önce ne bir insan ne bir cin dokunmuştur."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Yeşil yastıklara ve harikulade güzel döşemelere yaslanırlar."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Öyleyken Rabbinizin hangi nimetlerini yalanlayabilirsiniz?"
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "Büyüklük ve ikram sahibi Rabbinin adı yücelerden yücedir."
+      }
+    ]
+  }
 }

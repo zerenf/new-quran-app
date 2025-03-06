@@ -1,186 +1,188 @@
 {
-  "surahNumber": "50",
-  "surahName": "Kâf Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kâf. Şanlı şerefli Kur'ân hakkı için."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Doğrusu, onlar, kendilerinden birinin, uyarıp irşad etmek için gelmesine şaşırdılar da kâfirler: “Bu, ne tuhaf şey!” dediler, “Biz ölüp de toprak olduktan sonra mı dirileceğiz? Bu, aklın alamayacağı kadar uzak bir ihtimal!” [10,2]"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Doğrusu, onlar, kendilerinden birinin, uyarıp irşad etmek için gelmesine şaşırdılar da kâfirler: “Bu, ne tuhaf şey!” dediler, “Biz ölüp de toprak olduktan sonra mı dirileceğiz? Bu, aklın alamayacağı kadar uzak bir ihtimal!” [10,2]"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Biz toprağın, onların bedenlerini (hücre hücre) nasıl çürüttüğünü tafsilatıyla biliriz. Zaten yanımızda her şeyin kayıtlı olduğu şaşmaz bir sicil vardır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Bilakis onlar, kendi önlerine kadar gelen gerçeği yalan saydılar.Artık onlar kararsızlık ve perişanlık içindedirler."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Hiç üzerlerindeki göğe bakmazlar mı? Bakıp da Bizim onu nasıl sağlamca bina ettiğimizi, onda en ufak bir çatlaklık, dengesizlik olmadığını düşünmezler mi? [67,3-4]"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Yeri de döşedik, oraya dengeyi sağlayacak sağlam ulu dağlar yerleştirdik. Orada, gönüller, gözler açan her çeşit bitkiden çiftler bitirdik. [51,49; 36,36]"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Bütün bunları, Allah'a yönelecek her kula Yaradan’ın kudretini hatırlatması, dersler veren birer basiret nişanesi ve ibret numunesi olması için yaptık."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Gökten bereketli bir su indirdik. Onunla bahçeler ve biçilen ekinler, salkım salkım meyveleriyle ulu hurma ağaçları yetiştirdik."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Gökten bereketli bir su indirdik. Onunla bahçeler ve biçilen ekinler, salkım salkım meyveleriyle ulu hurma ağaçları yetiştirdik."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Bütün bunlar kullarımıza rızık vermek içindir. Hem o su ile ölü toprağa hayat verdik.İşte ölmüş insanların mezarlarından çıkışı da böyle olacaktır. [40,57; 46,33; 41,39]"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Biz ilkin yoktan yaratmada bir âcizlik, becerisizlik mi gösterdik ki bu tekrar yaratmada acze düşelim?Hayır! Öyle değil, onlar da böyle olmadığını bilirler. Ama yine de onlar bu yeniden yaratılıştan (dirilmeden) şüphe içindedirler. [30,27]"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "İnsanı Biz yarattık. Onun için, nefsinin kendisine neler fısıldadığını, neler telkin ettiğini de Biz pek iyi biliriz.Çünkü Biz ona şahdamarından daha yakınız."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Zaten onun sağında ve solunda yerleşmiş iki kayıtçı vardır.Ağzından çıkan bir tek söz olmaz ki yanında, bu iş için hazırlanmış gözcü olmasın, onun söylediğini ve yaptığını kaydetmiş olmasın. [82,10-12]"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Zaten onun sağında ve solunda yerleşmiş iki kayıtçı vardır.Ağzından çıkan bir tek söz olmaz ki yanında, bu iş için hazırlanmış gözcü olmasın, onun söylediğini ve yaptığını kaydetmiş olmasın. [82,10-12]"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Vakti geldiğinde ölüm sekeratı başlayınca, can çekiştiği sırada insana “İşte” denir, “senin en çok nefret edip kaçtığın şey!”"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Sûra üfürülür kalk borusu çalar. İşte bu da tehdit edilen azabın günüdür."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "O gün herkes beraberinde bir muhafız, bir de şahit olarak Yüce Divana gelir."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Allah ona buyurur: “Sen bundan gaflet içindeydin. İşte gözünün önünden perdeyi kaldırdık, şimdi artık gözün pek keskindir!” [19,38; 32,12]"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Yanındaki arkadaşı “İşte!” der, “onun defteri! Her ne yapmışsa, burada yazılı!”"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Yanındaki arkadaş: “Ya Rabbî,” der, “onu ben saptırmadım, kendisi zaten haktan iyice uzak bir sapıklık içinde idi.” [14,22]"
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "“Çekişmeyin huzurumda!” buyurur Allah, “Çünkü Ben daha önce gelecek tehlikeyi size bildirmiştim. Benim verdiğim kararlar değiştirilmez. Ben, kullarıma asla zulmetmem!”"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "“Çekişmeyin huzurumda!” buyurur Allah, “Çünkü Ben daha önce gelecek tehlikeyi size bildirmiştim. Benim verdiğim kararlar değiştirilmez. Ben, kullarıma asla zulmetmem!”"
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "O gün cehenneme Biz: “Doldun mu, dedikçe O: “Daha yok mu?” diye iştahını dile getirir. {KM, Süleymanın Meseleleri 30,15-16}"
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Cennet de takvâ sahiplerine yaklaştırılır."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Onlara: “İşte, denir, buydu size vâd edilen mükâfat. Hakka yönelen, koruması gereken her şeyi koruyan, insanların görmediği yerlerde bile Rahman'a hep saygılı olan ve daima Rabbine dönen bir gönül ile gelen herkese bu mükâfat vardır."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Onlara: “İşte, denir, buydu size vâd edilen mükâfat. Hakka yönelen, koruması gereken her şeyi koruyan, insanların görmediği yerlerde bile Rahman'a hep saygılı olan ve daima Rabbine dönen bir gönül ile gelen herkese bu mükâfat vardır."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "“Haydi selâmetle girin oraya, bugün artık ebediyet günüdür.”"
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Orada onlara istedikleri her şey verilir. Nezdimizde bundan da fazlası vardır. [10,26]"
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Kendilerinden önce Biz öyle nesiller helâk ettik ki onlar, bunlardan daha güçlü kuvvetli idiler. Hakimiyetlerini yaymış, şehir şehir dolaşmış, “ölümden kaçıp kurtulacak bir yer yok mu?” diye her tarafı delik deşik etmişlerdi, ama hep eli boş dönmüşlerdi."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Elbette bunda, içinde bir kalb taşıyan veya zihnini derleyip toplayarak can kulağıyla dinleyen kimseler için alacak bir ders vardır."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Biz gökleri, yeri, ikisinin arasındaki bütün varlıkları altı günde yarattık da Bize en ufak bir yorgunluk dokunmadı. [46,33; 40,57]"
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "O halde sen onların söylediklerine karşı sabret. Gerek güneşin doğuşundan, gerek batışından önce Rabbine hamd ederek ibadet et."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Geceleyin de, secdelerin peşinden de Ona ibadet et. [17,79]"
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Münâdînin yakın bir yerden sesleneceği güne kulak ver."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Bütün insanların o sayhayı kesin ve gerçek olarak işitecekleri güne kulak ver. İşte o gün mezarlarından kalkış günüdür."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Muhakkak ki hayatı veren de, hayatı alıp öldüren de Biziz.Evet, herkes Bizim huzurumuza dönecektir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Yerin yarılıp kendilerinin büyük bir hızla mahşer meydanına koşacakları gün, mutlaka gelecektir. Bu diriltip mahşerde toplama Bize göre çok kolaydır. [54,50; 31,28]"
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Biz onların aykırı iddialarını pek iyi biliyoruz, ama sen onları kuvvet kullanarak imana getirecek bir zorba değilsin. Sen sadece uyaran bir elçisin.Senin yapacağın iş, sadece tehdidimden endişe edecek kemseleri Kur'ân ile irşad etmektir. [13,40; 88,21-22; 2,272]"
-    }
-  ]
+  "kaf": {
+    "surahNumber": "50",
+    "surahNameTr": "Kâf Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kâf. Şanlı şerefli Kur'ân hakkı için."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Doğrusu, onlar, kendilerinden birinin, uyarıp irşad etmek için gelmesine şaşırdılar da kâfirler: “Bu, ne tuhaf şey!” dediler, “Biz ölüp de toprak olduktan sonra mı dirileceğiz? Bu, aklın alamayacağı kadar uzak bir ihtimal!” [10,2]"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Doğrusu, onlar, kendilerinden birinin, uyarıp irşad etmek için gelmesine şaşırdılar da kâfirler: “Bu, ne tuhaf şey!” dediler, “Biz ölüp de toprak olduktan sonra mı dirileceğiz? Bu, aklın alamayacağı kadar uzak bir ihtimal!” [10,2]"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Biz toprağın, onların bedenlerini (hücre hücre) nasıl çürüttüğünü tafsilatıyla biliriz. Zaten yanımızda her şeyin kayıtlı olduğu şaşmaz bir sicil vardır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Bilakis onlar, kendi önlerine kadar gelen gerçeği yalan saydılar.Artık onlar kararsızlık ve perişanlık içindedirler."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Hiç üzerlerindeki göğe bakmazlar mı? Bakıp da Bizim onu nasıl sağlamca bina ettiğimizi, onda en ufak bir çatlaklık, dengesizlik olmadığını düşünmezler mi? [67,3-4]"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Yeri de döşedik, oraya dengeyi sağlayacak sağlam ulu dağlar yerleştirdik. Orada, gönüller, gözler açan her çeşit bitkiden çiftler bitirdik. [51,49; 36,36]"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Bütün bunları, Allah'a yönelecek her kula Yaradan’ın kudretini hatırlatması, dersler veren birer basiret nişanesi ve ibret numunesi olması için yaptık."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Gökten bereketli bir su indirdik. Onunla bahçeler ve biçilen ekinler, salkım salkım meyveleriyle ulu hurma ağaçları yetiştirdik."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Gökten bereketli bir su indirdik. Onunla bahçeler ve biçilen ekinler, salkım salkım meyveleriyle ulu hurma ağaçları yetiştirdik."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Bütün bunlar kullarımıza rızık vermek içindir. Hem o su ile ölü toprağa hayat verdik.İşte ölmüş insanların mezarlarından çıkışı da böyle olacaktır. [40,57; 46,33; 41,39]"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Onlardan önce Nûh halkı, Ashab-ı Ress, Semûd, Âd, Firavun halkları. Lût'un hemşehrileri, Ashab-ı Eyke ve Tübba’ halkı da hakkı yalanladılar.Evet onların hepsi peygamberleri yalancı saydılar da tehdidime müstehak oldular, azaba çarptırıldılar."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Biz ilkin yoktan yaratmada bir âcizlik, becerisizlik mi gösterdik ki bu tekrar yaratmada acze düşelim?Hayır! Öyle değil, onlar da böyle olmadığını bilirler. Ama yine de onlar bu yeniden yaratılıştan (dirilmeden) şüphe içindedirler. [30,27]"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "İnsanı Biz yarattık. Onun için, nefsinin kendisine neler fısıldadığını, neler telkin ettiğini de Biz pek iyi biliriz.Çünkü Biz ona şahdamarından daha yakınız."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Zaten onun sağında ve solunda yerleşmiş iki kayıtçı vardır.Ağzından çıkan bir tek söz olmaz ki yanında, bu iş için hazırlanmış gözcü olmasın, onun söylediğini ve yaptığını kaydetmiş olmasın. [82,10-12]"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Zaten onun sağında ve solunda yerleşmiş iki kayıtçı vardır.Ağzından çıkan bir tek söz olmaz ki yanında, bu iş için hazırlanmış gözcü olmasın, onun söylediğini ve yaptığını kaydetmiş olmasın. [82,10-12]"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Vakti geldiğinde ölüm sekeratı başlayınca, can çekiştiği sırada insana “İşte” denir, “senin en çok nefret edip kaçtığın şey!”"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Sûra üfürülür kalk borusu çalar. İşte bu da tehdit edilen azabın günüdür."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "O gün herkes beraberinde bir muhafız, bir de şahit olarak Yüce Divana gelir."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Allah ona buyurur: “Sen bundan gaflet içindeydin. İşte gözünün önünden perdeyi kaldırdık, şimdi artık gözün pek keskindir!” [19,38; 32,12]"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Yanındaki arkadaşı “İşte!” der, “onun defteri! Her ne yapmışsa, burada yazılı!”"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Allah muhafızla şahide veya cehennem görevlisi iki meleğe: “Atın! buyuracak, atın cehenneme, her nankör, inatçı kâfiri: Hayra mani olan, haddi aşıp azan, şüpheye dalanı!Allah'ın yanı sıra başka bir tanrı benimseyeni! Atın onu o çetin azaba!”"
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Yanındaki arkadaş: “Ya Rabbî,” der, “onu ben saptırmadım, kendisi zaten haktan iyice uzak bir sapıklık içinde idi.” [14,22]"
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "“Çekişmeyin huzurumda!” buyurur Allah, “Çünkü Ben daha önce gelecek tehlikeyi size bildirmiştim. Benim verdiğim kararlar değiştirilmez. Ben, kullarıma asla zulmetmem!”"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "“Çekişmeyin huzurumda!” buyurur Allah, “Çünkü Ben daha önce gelecek tehlikeyi size bildirmiştim. Benim verdiğim kararlar değiştirilmez. Ben, kullarıma asla zulmetmem!”"
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "O gün cehenneme Biz: “Doldun mu, dedikçe O: “Daha yok mu?” diye iştahını dile getirir. {KM, Süleymanın Meseleleri 30,15-16}"
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Cennet de takvâ sahiplerine yaklaştırılır."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Onlara: “İşte, denir, buydu size vâd edilen mükâfat. Hakka yönelen, koruması gereken her şeyi koruyan, insanların görmediği yerlerde bile Rahman'a hep saygılı olan ve daima Rabbine dönen bir gönül ile gelen herkese bu mükâfat vardır."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Onlara: “İşte, denir, buydu size vâd edilen mükâfat. Hakka yönelen, koruması gereken her şeyi koruyan, insanların görmediği yerlerde bile Rahman'a hep saygılı olan ve daima Rabbine dönen bir gönül ile gelen herkese bu mükâfat vardır."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "“Haydi selâmetle girin oraya, bugün artık ebediyet günüdür.”"
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Orada onlara istedikleri her şey verilir. Nezdimizde bundan da fazlası vardır. [10,26]"
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Kendilerinden önce Biz öyle nesiller helâk ettik ki onlar, bunlardan daha güçlü kuvvetli idiler. Hakimiyetlerini yaymış, şehir şehir dolaşmış, “ölümden kaçıp kurtulacak bir yer yok mu?” diye her tarafı delik deşik etmişlerdi, ama hep eli boş dönmüşlerdi."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Elbette bunda, içinde bir kalb taşıyan veya zihnini derleyip toplayarak can kulağıyla dinleyen kimseler için alacak bir ders vardır."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Biz gökleri, yeri, ikisinin arasındaki bütün varlıkları altı günde yarattık da Bize en ufak bir yorgunluk dokunmadı. [46,33; 40,57]"
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "O halde sen onların söylediklerine karşı sabret. Gerek güneşin doğuşundan, gerek batışından önce Rabbine hamd ederek ibadet et."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Geceleyin de, secdelerin peşinden de Ona ibadet et. [17,79]"
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Münâdînin yakın bir yerden sesleneceği güne kulak ver."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Bütün insanların o sayhayı kesin ve gerçek olarak işitecekleri güne kulak ver. İşte o gün mezarlarından kalkış günüdür."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Muhakkak ki hayatı veren de, hayatı alıp öldüren de Biziz.Evet, herkes Bizim huzurumuza dönecektir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Yerin yarılıp kendilerinin büyük bir hızla mahşer meydanına koşacakları gün, mutlaka gelecektir. Bu diriltip mahşerde toplama Bize göre çok kolaydır. [54,50; 31,28]"
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Biz onların aykırı iddialarını pek iyi biliyoruz, ama sen onları kuvvet kullanarak imana getirecek bir zorba değilsin. Sen sadece uyaran bir elçisin.Senin yapacağın iş, sadece tehdidimden endişe edecek kemseleri Kur'ân ile irşad etmektir. [13,40; 88,21-22; 2,272]"
+      }
+    ]
+  }
 }

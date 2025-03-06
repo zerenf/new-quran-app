@@ -1,110 +1,112 @@
 {
-  "surahNumber": "88",
-  "surahName": "Ğâşiye Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Her şeyi kaplayacak kıyametin haberi sana gelmedi mi?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "O gün bir takım yüzler zillete bürünmüştür."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Zor işler altında bitkin düşmüştür."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Yakıcı ateşe yaslanırlar."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Kızgın bir kaynaktan içirilirler."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "İnanmış olanların yüzleri, o gün, pırıl pırıldır."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Yaptıklarından hoşnuddurlar."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Yüksek bir cennettedirler."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Orada boş söz işitmezler."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Orada akan kaynak vardır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Orada, yükseltilmiş tahtlar vardır."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Yerleştirilmiş kaseler,"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Sıra sıra yastıklar,"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Serilmiş, yumuşak tüylü halılar vardır."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Sen öğüt ver! Esasen sen sadece bir öğütçüsün."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Sen, onlara zor kullanacak değilsin."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Doğrusu onların dönüşü Bize'dir."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Şüphesiz sonra hesaplarını görmek de Bize düşmektedir."
-    }
-  ]
+  "gasiye": {
+    "surahNumber": "88",
+    "surahNameTr": "Ğâşiye Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Her şeyi kaplayacak kıyametin haberi sana gelmedi mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "O gün bir takım yüzler zillete bürünmüştür."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Zor işler altında bitkin düşmüştür."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Yakıcı ateşe yaslanırlar."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Kızgın bir kaynaktan içirilirler."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Semirtmeyen, açlığı gidermeyen kötü kokulu (kuru) bir dikenden başka yiyecekleri yoktur."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "İnanmış olanların yüzleri, o gün, pırıl pırıldır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Yaptıklarından hoşnuddurlar."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Yüksek bir cennettedirler."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Orada boş söz işitmezler."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Orada akan kaynak vardır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Orada, yükseltilmiş tahtlar vardır."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Yerleştirilmiş kaseler,"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Sıra sıra yastıklar,"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Serilmiş, yumuşak tüylü halılar vardır."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Bu insanlar, devenin nasıl yaratıldığına, göğün nasıl yükseltildiğine, dağların nasıl dikildiğine, yerin nasıl yayıldığına bir bakmazlar mı?"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Sen öğüt ver! Esasen sen sadece bir öğütçüsün."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Sen, onlara zor kullanacak değilsin."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ama kim yüz çevirir, inkar ederse, Allah onu en büyük azaba uğratır."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Doğrusu onların dönüşü Bize'dir."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Şüphesiz sonra hesaplarını görmek de Bize düşmektedir."
+      }
+    ]
+  }
 }

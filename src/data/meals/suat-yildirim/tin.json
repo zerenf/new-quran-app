@@ -1,38 +1,40 @@
 {
-  "surahNumber": "95",
-  "surahName": "Tîn Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "İncir ve zeytin hakkı için!"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Sina dağı, hakkı için!"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Bu emin belde hakkı için ki:"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Biz insanı en mükemmel sûrette yarattık. [30,30]"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Sonra da onu en aşağı derekeye düşürdük."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ancak iman edip güzel ve makbul işler yapanlar müstesnadır. Onlara ise hiç eksilmeyen bir mükâfat vardır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Bütün bunlardan sonra ey insan, senin mahşere ve hesaba inanmana hangi engel kalabilir?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Allah hakimlerin hâkimi değil midir?"
-    }
-  ]
+  "tin": {
+    "surahNumber": "95",
+    "surahNameTr": "Tîn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "İncir ve zeytin hakkı için!"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Sina dağı, hakkı için!"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Bu emin belde hakkı için ki:"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Biz insanı en mükemmel sûrette yarattık. [30,30]"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Sonra da onu en aşağı derekeye düşürdük."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ancak iman edip güzel ve makbul işler yapanlar müstesnadır. Onlara ise hiç eksilmeyen bir mükâfat vardır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Bütün bunlardan sonra ey insan, senin mahşere ve hesaba inanmana hangi engel kalabilir?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Allah hakimlerin hâkimi değil midir?"
+      }
+    ]
+  }
 }

@@ -1,50 +1,52 @@
 {
-  "surahNumber": "93",
-  "surahName": "Duhâ Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kuşluk vaktine andolsun,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Sakinleşen geceye andolsun ki,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Rabbin, seni bırakmadı ve sana darılmadı."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Senin sonun, ilkinden iyi olacaktır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Rabbin, sana verecek ve sen razı olacaksın."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "O, seni yetim bulup barındırmadı mı?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Seni şaşırmış bulup yola iletmedi mi?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Seni fakir bulup zengin etmedi mi?"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Öyleyse sakın öksüzü ezme,"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dilenciyi azarlama."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ve Rabbinin ni'metini anlat."
-    }
-  ]
+  "duha": {
+    "surahNumber": "93",
+    "surahNameTr": "Duhâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kuşluk vaktine andolsun,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Sakinleşen geceye andolsun ki,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Rabbin, seni bırakmadı ve sana darılmadı."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Senin sonun, ilkinden iyi olacaktır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Rabbin, sana verecek ve sen razı olacaksın."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "O, seni yetim bulup barındırmadı mı?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Seni şaşırmış bulup yola iletmedi mi?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Seni fakir bulup zengin etmedi mi?"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Öyleyse sakın öksüzü ezme,"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dilenciyi azarlama."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ve Rabbinin ni'metini anlat."
+      }
+    ]
+  }
 }

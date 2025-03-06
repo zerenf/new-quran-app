@@ -1,118 +1,120 @@
 {
-  "surahNumber": "71",
-  "surahName": "Nûh Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Şüphe yok ki biz, onlara elemli bir azap gelmeden korkut kavmini diye göndermiştik Nuh'u, kavmine."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Demişti ki: Ey kavmin, ben, sizi apaçık bir korkutucuyum."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Gayrı kulluk edin Allah'a ve çekinin ondan ve itaat edin bana da."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Suçlarınızı yarlıgasın ve sizi, muayyen bir vaktedek geciktirsin. Şüphe yok ki Allah'ın takdir ettiği vakit geldi mi gecikmesine imkan yoktur eğer biliyorsanız."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Rabbim demişti, ben kavmimi gece ve gündüz çağırdım."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Benim çağırmam, ancak onların kaçmasını arttırdı."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve gerçekten de ben, onları, sen yarlıgayasın, suçlarını örtesin diye ne vakit çağırdıysam parmaklarıyla kulaklarını tıkadılar ve elbiselerine büründüler ve ısrar ettiler ve ululandıkça ululanmaya kalkıştılar."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sonra onları, gerçekten de yüksek sesle çağırdım."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Sonra açığa vurup yaydım onlara ve gizlice konuştum, davet ettim onları da."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dedim ki: Rabbinizden yarlıganma dileyin, şüphe yok ki o, bütün suçları, tamamıyla örter."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Size gökten faydalı ve bol yağmurlar yollar."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve size, mallar, oğullar vererek yardım eder ve size bağlar, bahçeler halk eder ve ırmaklar yaratır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ne oldu size ki Allah'ın, büyük, ulu ve şerefli bir mabud olduğunu ummuyorsunuz?"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ve halbuki o, sizi haldenhale koyarak halk etmiştir."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Görmez misiniz Allah, nasıl da gökleri yedi kat yaratmıştır."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve o göklerde, aya bir ışık vermiş ve güneşi de, her yanı aydınlatan bir çırağ olarak halk etmiştir."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ve Allah, yeryüzünden size nebatlar bitirmiştir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Sonra da sizi gene oraya yollar ve oradan çıkarır."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ve Allah, yer yüzünü size bir döşeme, bir yaygı olarak yaratmıştır."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Oradaki genişgeniş yollara dalıp gidin diye."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Nuh demişti ki: Rabbim, şüphe yok ki onlar, bana isyan ettiler ve malı ve evladı, ancak ziyanını arttırıp duran kişiye uydular."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Ve pek büyük düzenler kurmaya giriştiler."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ve sakın dediler, mabutlarınızı bırakmayın, hele ne Vedd'i bırakın, ne Suva'ı, ne de Yaguus'u ve Yauk'u ve Nesr'i."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ve andolsun ki bunlar, birçok kişileri doğru yoldan çıkardılar ve zalimlerin, ancak sapıklığını arttır."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Suçları yüzünden de bunlar, sulara boğuldular da ateşe atıldılar, derken Allah'tan başka bir yardımcı da bulamadılar."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ve Nuh, demişti ki: Rabbim, yeryüzünde kafirlerden bir tek kişi bile bırakma."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Şüphe yok ki onları bırakacak olursan kullarını yoldan çıkarırlar ve ancak gerçekten sapan ve iyiden iyiye kafir olan evlatlar yetiştirirler."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Rabbim, benim suçlarımı ört ve anamınbabamın ve inanarak evime kimler girdiyse onların ve erkek, kadın bütün inananların suçlarını ve zalimleri de ancak mahvet, helak vesilelerini arttır onların."
-    }
-  ]
+  "nuh": {
+    "surahNumber": "71",
+    "surahNameTr": "Nûh Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Şüphe yok ki biz, onlara elemli bir azap gelmeden korkut kavmini diye göndermiştik Nuh'u, kavmine."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Demişti ki: Ey kavmin, ben, sizi apaçık bir korkutucuyum."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Gayrı kulluk edin Allah'a ve çekinin ondan ve itaat edin bana da."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Suçlarınızı yarlıgasın ve sizi, muayyen bir vaktedek geciktirsin. Şüphe yok ki Allah'ın takdir ettiği vakit geldi mi gecikmesine imkan yoktur eğer biliyorsanız."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Rabbim demişti, ben kavmimi gece ve gündüz çağırdım."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Benim çağırmam, ancak onların kaçmasını arttırdı."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve gerçekten de ben, onları, sen yarlıgayasın, suçlarını örtesin diye ne vakit çağırdıysam parmaklarıyla kulaklarını tıkadılar ve elbiselerine büründüler ve ısrar ettiler ve ululandıkça ululanmaya kalkıştılar."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra onları, gerçekten de yüksek sesle çağırdım."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Sonra açığa vurup yaydım onlara ve gizlice konuştum, davet ettim onları da."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dedim ki: Rabbinizden yarlıganma dileyin, şüphe yok ki o, bütün suçları, tamamıyla örter."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Size gökten faydalı ve bol yağmurlar yollar."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve size, mallar, oğullar vererek yardım eder ve size bağlar, bahçeler halk eder ve ırmaklar yaratır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ne oldu size ki Allah'ın, büyük, ulu ve şerefli bir mabud olduğunu ummuyorsunuz?"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ve halbuki o, sizi haldenhale koyarak halk etmiştir."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Görmez misiniz Allah, nasıl da gökleri yedi kat yaratmıştır."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve o göklerde, aya bir ışık vermiş ve güneşi de, her yanı aydınlatan bir çırağ olarak halk etmiştir."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ve Allah, yeryüzünden size nebatlar bitirmiştir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Sonra da sizi gene oraya yollar ve oradan çıkarır."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ve Allah, yer yüzünü size bir döşeme, bir yaygı olarak yaratmıştır."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Oradaki genişgeniş yollara dalıp gidin diye."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Nuh demişti ki: Rabbim, şüphe yok ki onlar, bana isyan ettiler ve malı ve evladı, ancak ziyanını arttırıp duran kişiye uydular."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Ve pek büyük düzenler kurmaya giriştiler."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ve sakın dediler, mabutlarınızı bırakmayın, hele ne Vedd'i bırakın, ne Suva'ı, ne de Yaguus'u ve Yauk'u ve Nesr'i."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ve andolsun ki bunlar, birçok kişileri doğru yoldan çıkardılar ve zalimlerin, ancak sapıklığını arttır."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Suçları yüzünden de bunlar, sulara boğuldular da ateşe atıldılar, derken Allah'tan başka bir yardımcı da bulamadılar."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ve Nuh, demişti ki: Rabbim, yeryüzünde kafirlerden bir tek kişi bile bırakma."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Şüphe yok ki onları bırakacak olursan kullarını yoldan çıkarırlar ve ancak gerçekten sapan ve iyiden iyiye kafir olan evlatlar yetiştirirler."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Rabbim, benim suçlarımı ört ve anamınbabamın ve inanarak evime kimler girdiyse onların ve erkek, kadın bütün inananların suçlarını ve zalimleri de ancak mahvet, helak vesilelerini arttır onların."
+      }
+    ]
+  }
 }

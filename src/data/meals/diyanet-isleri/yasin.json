@@ -1,338 +1,340 @@
 {
-  "surahNumber": "36",
-  "surahName": "Yâsin Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ya, Sin."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "And olsun ki, hüküm çoğunun aleyhine gerçekleşmiştir, bunun için artık inanmazlar."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Boyunlarına, çenelerine kadar varan demir halkalar geçirmişizdir, bunun için başları yukarı kalkıktır."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Önlerine ve arkalarına sed çekmişizdir. Gözlerini perdelediğimizden artık göremezler."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Onları uyarsan da uyarmasan da birdir, inanmazlar."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Şüphesiz ölüleri dirilten, işlediklerini ve eserlerini yazan Biziz; herşeyi, apaçık bir kitabda saymışızdır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Onlara iki elçi göndermiştik; onu yalanladıkları için üçüncü biriyle desteklemiştik. Onlar: \"Biz size gönderildik\" demişlerdi."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "\"Siz de ancak bizim gibi birer insansınız. Rahman da bir şey indirmemiştir. Sadece yalan söylüyorsunuz\" dediler."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Elçiler: \"Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen ancak apaçık tebliğdir\" demişlerdi."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Elçiler: \"Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen ancak apaçık tebliğdir\" demişlerdi."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "\"Doğrusu sizin yüzünüzden uğursuzluğa uğradık; vazgeçmezseniz and olsun ki sizi taşlayacağız ve bizden size can yakıcı bir azap dokunacaktır\" dediler."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Elçiler: \"Uğursuzluğunuz kendinizdendir. Bu uğursuzluk size öğüt verildiği için mi? Hayır; siz, aşırı giden bir milletsiniz\" demişlerdi."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Şehrin öbür ucundan koşarak bir adam gelmiş ve şöyle demişti: \"Ey Milletim! Gönderilen elçilere uyun.\""
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\""
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "\"Beni yaratana ne diye kulluk etmeyeyim? Siz de O'na döneceksiniz.\""
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "\"O'nu bırakıp da tanrılar edinir miyim? Eğer Rahman olan Allah bana bir zarar vermek isterse, o tanrıların şefaati bana fayda vermez, beni kurtaramazlar.\""
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "\"Doğrusu o takdirde apaçık bir sapıklık içinde olurum.\""
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "\"Şüphesiz ben Rabbinize inandım, beni dinleyin.\""
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ona \"Cennete gir\" denince, \"Keşke milletim Rabbimin beni bağışladığını ve beni ikrama mazhar olanlardan kıldığını bilseydi!\" demişti."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ona \"Cennete gir\" denince, \"Keşke milletim Rabbimin beni bağışladığını ve beni ikrama mazhar olanlardan kıldığını bilseydi!\" demişti."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Kullara yazıklar olsun! Kendilerine hangi elçi gelse, onu alaya alıyorlardı."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Kendilerinden önce nice nesilleri yok ettiğimizi, onların bir daha kendilerine dönmediklerini görmezler mi?"
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Hepsi huzurumuza getirileceklerdir."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Orada hurmalıklar ve üzüm bağları var ederiz, aralarında pınarlar fışkırtırız."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; şükretmezler mi?"
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Onlara bir delil de gecedir; gündüzü ondan sıyırırız da karanlıkta kalıverirler."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Güneş de yörüngesinde yürüyüp gitmektedir. Bu, güçlü ve bilgin olan Allah'ın kanunudur."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Ay için de sonunda kuru bir hurma dalına döneceği konaklar tayin etmişizdir."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Dilesek, onları suda boğardık; ne yardımlarına koşan bulunur ve ne de kendileri kurtulabilirlerdi."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Ama katımızdan bir rahmet ve bir süreye kadar geçinme olarak onları geri bıraktık."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Onlara: \"Geçmişinizden ve geleceğinizden sakının, belki acınırsınız\" dendiği zaman yüz çevirirler."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Zaten Rabbinin ayetlerinden herhangi biri kendilerine geldiğinde ondan hep yüz çeviregelmişlerdi."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Onlara: \"Allah'ın size verdiği rızıktan sarfedin\" denince inkar edenler inananlara: \"Allah dileseydi doyurabileceği bir kimseyi biz mi doyuralım? Doğrusu siz apaçık bir sapıklıktasınız\" derler."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "\"Doğru sözlü iseniz bildirin bu vaad ne zamandır?\" derler."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Çekişip dururlarken kendilerini yakalayacak bir tek çığlığı beklerler."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "O zaman, artık ne vasiyet edebilirler ne de ailelerine dönebilirler."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Sura üflenince, kabirlerinden Rablerine koşarak çıkarlar."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "\"Vah halimize! Yattığımız yerden bizi kim kaldırdı?\" derler. Onlara: \"İşte Rahman olan Allah'ın vadettiği budur, peygamberler doğru söylemişlerdi\" denir."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Tek bir çığlık kopar, hepsi, hemen huzurumuza getirilmiş olur."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Artık bugün kimseye hiçbir haksızlıkta bulunulmaz. İşlediklerinizden başkasıyla karşılık görmezsiniz."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Doğrusu bugün, cennetlikler eğlenceyle meşguldürler."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Onlar ve eşleri gölgeliklerde, tahtlar üzerine yaslanmışlardır."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Orada meyveler ve her istedikleri onlarındır."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Merhametli olan Rab katından onlara selam vardır."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "And olsun ki, o sizden nice nesilleri saptırmıştı, akletmez miydiniz?"
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "İşte bu, size söz verilen cehennemdir."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Bugün, inkarcılığınıza karşılık oraya girin."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "İşte o gün ağızlarını mühürleriz, Bizimle elleri konuşur, ayakları da yaptıklarına şahidlik eder."
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "Dilesek, gözlerini kör ederdik de yol bulmağa çalışırlardı. Nasıl görebilirlerdi?"
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Dilesek, onları oldukları yerde dondururduk da, ne ileri gidebilirler ve ne de geri dönebilirlerdi."
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Uzun ömürlü yaptığımızın hilkatini tersine çevirmişizdir. Akletmezler mi?"
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Diri olan kimseyi uyarsın ve verilen söz de inkarcıların aleyhine çıksın."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Kudretimizle kendileri için hayvanlar yarattığımızı görmezler mi? Onlara sahip olmaktadırlar."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Onları kendilerinin buyruğuna verdik; bindikleri de, etini yedikleri de vardır."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Onlarda daha nice faydalar, içecekler vardır; şükretmezler mi?"
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Allah'ı bırakıp da, kendilerine yardımı dokunur diye, başka tanrılar edindiler."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Oysa onlar yardım edemezler, ancak kendileri o tanrılara koruyuculuk için nöbet beklerler."
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Bunların sözü seni üzmesin. Biz onların gizlediklerini de, açığa vurduklarını da şüphesiz biliriz."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?"
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?"
-    },
-    {
-      "ayahNumber": "79",
-      "ayahText": "De ki: \"Onları ilk defa yaratan diriltecektir. O, her türlü yaratmayı bilendir.\""
-    },
-    {
-      "ayahNumber": "80",
-      "ayahText": "Yaş ağaçtan size ateş çıkarandır. Ondan ateş yakarsınız."
-    },
-    {
-      "ayahNumber": "81",
-      "ayahText": "Gökleri ve yeri yaratan, kendilerinin benzerini yaratmaya kadir olmaz mı? Elbette olur; çünkü O, yaratan ve bilendir."
-    },
-    {
-      "ayahNumber": "82",
-      "ayahText": "Bir şeyi dilediği zaman, O'nun buyruğu sadece, o şeye \"Ol\" demektir, hemen olur."
-    },
-    {
-      "ayahNumber": "83",
-      "ayahText": "Her şeyin hükümranlığı elinde olan ve sizin de kendisine döneceğiniz Allah münezzehtir."
-    }
-  ]
+  "yasin": {
+    "surahNumber": "36",
+    "surahNameTr": "Yâsin Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ya, Sin."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Kuran'ı Hakim'e and olsun ki, sen doğru yol üzere gönderilmiş peygamberlerdensin."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bu, babaları uyarılmadığından gafil kalmış bir milleti uyarman için güçlü ve merhametli olan Allah'ın indirdiği Kuran'dır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "And olsun ki, hüküm çoğunun aleyhine gerçekleşmiştir, bunun için artık inanmazlar."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Boyunlarına, çenelerine kadar varan demir halkalar geçirmişizdir, bunun için başları yukarı kalkıktır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Önlerine ve arkalarına sed çekmişizdir. Gözlerini perdelediğimizden artık göremezler."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Onları uyarsan da uyarmasan da birdir, inanmazlar."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Sen ancak, Kuran'a uyan ve görmediği halde Rahman'dan korkan kimseyi uyarabilirsin. Artık o kimseyi, bağışlanma ve cömertçe verilecek bir ecirle müjdele."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Şüphesiz ölüleri dirilten, işlediklerini ve eserlerini yazan Biziz; herşeyi, apaçık bir kitabda saymışızdır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "İnsanlara, halkına elçiler gelen şehri mesel olarak anlat:"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Onlara iki elçi göndermiştik; onu yalanladıkları için üçüncü biriyle desteklemiştik. Onlar: \"Biz size gönderildik\" demişlerdi."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "\"Siz de ancak bizim gibi birer insansınız. Rahman da bir şey indirmemiştir. Sadece yalan söylüyorsunuz\" dediler."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Elçiler: \"Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen ancak apaçık tebliğdir\" demişlerdi."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Elçiler: \"Doğrusu Rabbimiz bizim size gönderildiğimizi bilir; bize düşen ancak apaçık tebliğdir\" demişlerdi."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "\"Doğrusu sizin yüzünüzden uğursuzluğa uğradık; vazgeçmezseniz and olsun ki sizi taşlayacağız ve bizden size can yakıcı bir azap dokunacaktır\" dediler."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Elçiler: \"Uğursuzluğunuz kendinizdendir. Bu uğursuzluk size öğüt verildiği için mi? Hayır; siz, aşırı giden bir milletsiniz\" demişlerdi."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Şehrin öbür ucundan koşarak bir adam gelmiş ve şöyle demişti: \"Ey Milletim! Gönderilen elçilere uyun.\""
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "\"Sizden bir ücret istemeyenlere uyun, onlar doğru yoldadırlar.\""
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "\"Beni yaratana ne diye kulluk etmeyeyim? Siz de O'na döneceksiniz.\""
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "\"O'nu bırakıp da tanrılar edinir miyim? Eğer Rahman olan Allah bana bir zarar vermek isterse, o tanrıların şefaati bana fayda vermez, beni kurtaramazlar.\""
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "\"Doğrusu o takdirde apaçık bir sapıklık içinde olurum.\""
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "\"Şüphesiz ben Rabbinize inandım, beni dinleyin.\""
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ona \"Cennete gir\" denince, \"Keşke milletim Rabbimin beni bağışladığını ve beni ikrama mazhar olanlardan kıldığını bilseydi!\" demişti."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ona \"Cennete gir\" denince, \"Keşke milletim Rabbimin beni bağışladığını ve beni ikrama mazhar olanlardan kıldığını bilseydi!\" demişti."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ondan sonra milleti üzerine gökten bir ordu indirmedik; zaten indirecek de değildik; sadece tek bir çığlık.. o kadar, hemen sönüp gittiler."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Kullara yazıklar olsun! Kendilerine hangi elçi gelse, onu alaya alıyorlardı."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Kendilerinden önce nice nesilleri yok ettiğimizi, onların bir daha kendilerine dönmediklerini görmezler mi?"
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Hepsi huzurumuza getirileceklerdir."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "İşte onlara bir delil: Ölü yeri diriltir ve oradan taneler çıkarırız da ondan yerler."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Orada hurmalıklar ve üzüm bağları var ederiz, aralarında pınarlar fışkırtırız."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Onun ve elleriyle yaptıklarının ürünlerini yesinler; şükretmezler mi?"
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Yerin yetiştirdiklerinden, kendilerinden ve daha bilmediklerinden çift çift yaratan Allah münezzehtir."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Onlara bir delil de gecedir; gündüzü ondan sıyırırız da karanlıkta kalıverirler."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Güneş de yörüngesinde yürüyüp gitmektedir. Bu, güçlü ve bilgin olan Allah'ın kanunudur."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Ay için de sonunda kuru bir hurma dalına döneceği konaklar tayin etmişizdir."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Aya erişmek güneşe düşmez. Gece de gündüzü geçemez. Her biri bir yörüngede yürürler."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Onlara bir delil de: Soylarını dolu gemiyle taşımamız ve kendileri için bunun gibi daha nice binekler yaratmış olmamızdır."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Dilesek, onları suda boğardık; ne yardımlarına koşan bulunur ve ne de kendileri kurtulabilirlerdi."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Ama katımızdan bir rahmet ve bir süreye kadar geçinme olarak onları geri bıraktık."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Onlara: \"Geçmişinizden ve geleceğinizden sakının, belki acınırsınız\" dendiği zaman yüz çevirirler."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Zaten Rabbinin ayetlerinden herhangi biri kendilerine geldiğinde ondan hep yüz çeviregelmişlerdi."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Onlara: \"Allah'ın size verdiği rızıktan sarfedin\" denince inkar edenler inananlara: \"Allah dileseydi doyurabileceği bir kimseyi biz mi doyuralım? Doğrusu siz apaçık bir sapıklıktasınız\" derler."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "\"Doğru sözlü iseniz bildirin bu vaad ne zamandır?\" derler."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Çekişip dururlarken kendilerini yakalayacak bir tek çığlığı beklerler."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "O zaman, artık ne vasiyet edebilirler ne de ailelerine dönebilirler."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Sura üflenince, kabirlerinden Rablerine koşarak çıkarlar."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "\"Vah halimize! Yattığımız yerden bizi kim kaldırdı?\" derler. Onlara: \"İşte Rahman olan Allah'ın vadettiği budur, peygamberler doğru söylemişlerdi\" denir."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Tek bir çığlık kopar, hepsi, hemen huzurumuza getirilmiş olur."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Artık bugün kimseye hiçbir haksızlıkta bulunulmaz. İşlediklerinizden başkasıyla karşılık görmezsiniz."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Doğrusu bugün, cennetlikler eğlenceyle meşguldürler."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Onlar ve eşleri gölgeliklerde, tahtlar üzerine yaslanmışlardır."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Orada meyveler ve her istedikleri onlarındır."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Merhametli olan Rab katından onlara selam vardır."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Allah şöyle buyurur: Ey suçlular! Bugün müminlerden ayrılın. Ey insanoğulları! Ben size, şeytana tapmayın, o sizin için apaçık bir düşmandır, Bana kulluk edin, bu doğru yoldur, diye bildirmedim mi?"
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "And olsun ki, o sizden nice nesilleri saptırmıştı, akletmez miydiniz?"
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "İşte bu, size söz verilen cehennemdir."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Bugün, inkarcılığınıza karşılık oraya girin."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "İşte o gün ağızlarını mühürleriz, Bizimle elleri konuşur, ayakları da yaptıklarına şahidlik eder."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "Dilesek, gözlerini kör ederdik de yol bulmağa çalışırlardı. Nasıl görebilirlerdi?"
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Dilesek, onları oldukları yerde dondururduk da, ne ileri gidebilirler ve ne de geri dönebilirlerdi."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Uzun ömürlü yaptığımızın hilkatini tersine çevirmişizdir. Akletmezler mi?"
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Biz ona şiir öğretmedik, zaten ona gerekmezdi. Bu bir öğüt ve apaçık Kuran'dır."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Diri olan kimseyi uyarsın ve verilen söz de inkarcıların aleyhine çıksın."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Kudretimizle kendileri için hayvanlar yarattığımızı görmezler mi? Onlara sahip olmaktadırlar."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Onları kendilerinin buyruğuna verdik; bindikleri de, etini yedikleri de vardır."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Onlarda daha nice faydalar, içecekler vardır; şükretmezler mi?"
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Allah'ı bırakıp da, kendilerine yardımı dokunur diye, başka tanrılar edindiler."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Oysa onlar yardım edemezler, ancak kendileri o tanrılara koruyuculuk için nöbet beklerler."
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Bunların sözü seni üzmesin. Biz onların gizlediklerini de, açığa vurduklarını da şüphesiz biliriz."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?"
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "İnsan kendisini bir nutfeden yarattığımızı görmez mi ki hemen apaçık bir hasım kesilir ve kendi yaratılışını unutur da; \"Çürümüş kemikleri kim yaratacak\" diyerek, Bize misal vermeye kalkar?"
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "De ki: \"Onları ilk defa yaratan diriltecektir. O, her türlü yaratmayı bilendir.\""
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "Yaş ağaçtan size ateş çıkarandır. Ondan ateş yakarsınız."
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "Gökleri ve yeri yaratan, kendilerinin benzerini yaratmaya kadir olmaz mı? Elbette olur; çünkü O, yaratan ve bilendir."
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "Bir şeyi dilediği zaman, O'nun buyruğu sadece, o şeye \"Ol\" demektir, hemen olur."
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "Her şeyin hükümranlığı elinde olan ve sizin de kendisine döneceğiniz Allah münezzehtir."
+      }
+    ]
+  }
 }

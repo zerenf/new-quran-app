@@ -1,42 +1,44 @@
 {
-  "surahNumber": "104",
-  "surahName": "Hümeze Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Arkadan çekiştirip duran, kaş göz hareketleriyle alay eden her kişinin vay haline;"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ki o, mal yığıp biriktiren ve onu saydıkça sayandır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Gerçekten malının kendisini ebedi kılacağını sanıyor."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Hayır; andolsun o, 'hutame'ye atılacaktır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "\"Hutame\"nin ne olduğunu sana bildiren nedir?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Allah'ın tutuşturulmuş ateşidir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ki o, yüreklerin üstüne tırmanıp çıkar."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "O, onların üzerine kilitlenecektir;"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "(Kendileri de) Dikilip-yükseltilmiş sütunlarda (bağlanacaklardır)."
-    }
-  ]
+  "humeze": {
+    "surahNumber": "104",
+    "surahNameTr": "Hümeze Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Arkadan çekiştirip duran, kaş göz hareketleriyle alay eden her kişinin vay haline;"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ki o, mal yığıp biriktiren ve onu saydıkça sayandır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Gerçekten malının kendisini ebedi kılacağını sanıyor."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hayır; andolsun o, 'hutame'ye atılacaktır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "\"Hutame\"nin ne olduğunu sana bildiren nedir?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Allah'ın tutuşturulmuş ateşidir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ki o, yüreklerin üstüne tırmanıp çıkar."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "O, onların üzerine kilitlenecektir;"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "(Kendileri de) Dikilip-yükseltilmiş sütunlarda (bağlanacaklardır)."
+      }
+    ]
+  }
 }

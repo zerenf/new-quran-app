@@ -1,34 +1,36 @@
 {
-  "surahNumber": "1",
-  "surahName": "Fâtiha Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Rahman ve Rahim Allah'ın adıyla"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Alemlerin Rabbi (sahibi, yetiştiricisi) Allah'a hamdolsun."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "(O) Rahman'dır, Rahim'dir."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Din (ceza ve mükafat) gününün sahibidir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "(Ya Rabbi) Ancak sana kulluk eder, ancak Senden yardım isteriz!"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bizi doğru yola ilet:"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "-ni'met verdiğin kimselerin yoluna. Kendilerine gazabedilmiş olanların ve sapmışların yoluna değil. (ya Rabbi)!"
-    }
-  ]
+  "fatiha": {
+    "surahNumber": "1",
+    "surahNameTr": "Fâtiha Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rahman ve Rahim Allah'ın adıyla"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Alemlerin Rabbi (sahibi, yetiştiricisi) Allah'a hamdolsun."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "(O) Rahman'dır, Rahim'dir."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Din (ceza ve mükafat) gününün sahibidir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "(Ya Rabbi) Ancak sana kulluk eder, ancak Senden yardım isteriz!"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bizi doğru yola ilet:"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "-ni'met verdiğin kimselerin yoluna. Kendilerine gazabedilmiş olanların ve sapmışların yoluna değil. (ya Rabbi)!"
+      }
+    ]
+  }
 }

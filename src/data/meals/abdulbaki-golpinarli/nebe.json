@@ -1,166 +1,168 @@
 {
-  "surahNumber": "78",
-  "surahName": "Nebe' Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Neyi birbirlerine sorup dururlar?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Pek ulu haberi."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Öylesine haber ki onlar, bu hususta aykırılığa düşmüşlerdir."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Hayır, bilirler yakında."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Gene de hayır, bilirler yakında."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Yeryüzünü, hazır bir yaygı olarak yaymadık mı?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve dağları, çiviler gibi çaktık."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve sizi, çiftçift yarattık."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve uykunuzu, vakitli bir istirahat zamanı kıldık."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve geceyi, her şeyi örten bir örtü yaptık."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ve gündüzü de geçim zamanı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve üstünüzde, yedi sağlam yapı kurduk."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve yalımyalım yanan bir kandil yarattık."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ve sıkılan bulutlardan şarılşarıl sular akıttık."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Akıttık da o sayede tohumları, otları."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve birbirine sarmaşdolaş bahçeleri, bağları meydana getirdik."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Şüphe yok ki ayırma gününün vakti de tayin edilmiştir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "O gün Sur üfürülür de gelirsiniz bölükbölük."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ve gök açılmış, kapılar haline gelmiştir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "ve dağlar yürütülmüş, seraba dönmüştür."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Şüphe yok ki cehennem pusudadır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Azanlara dönüp varılacak son yerdir."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Yıllar boyunca kalırlar orada."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ne bir serinlik tadarlar, ne içilecek bir şey."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Ancak bir kaynar su, ancak bir kan ve irin."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Bir cezadır ki tam uygun."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Şüphe yok ki onlar, hiçbir soru ummazlardı."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ve delillerimizi boyuna yalanlarlardı."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ve biz her şeyi birbir sayıp yazdık."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Artık tadın, ancak azabınızı arttırırız sizin."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Şüphe yok ki çekinenlere bir kurtuluş, bir kutluluk ve murada eriş yeri var."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Bahçeler, üzümler."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Ve memeleri yeni sertleşmiş yaşıt kızlar."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Ve dopdolu kadeh."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Ne boş bir söz duyarlar orada, ne birbirlerini yalanlama."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Rabbinden, fazlasıyle bir lütuf ve ihsan."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Göklerin ve yeryüzünün ve ikisinin arasındakilerin Rabbidir rahman, onun hitabına nail olmazlar."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "O gün, Ruh ve melekler, saf saf dururlar; konuşamazlar, ancak rahmanın izin verdiği konuşur ve gerçek söyler."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Bugün, gerçektir, artık dileyen, dönüp Rabbinin tapısına varmaya bir vesile edinir."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Şüphe yok ki biz sizi, yakın bir azapla korkutmadayız; o gün kişi, elleriyle hazırladığına bakar ve kafir de ne olurdu der, keşke toprak olaydım."
-    }
-  ]
+  "nebe": {
+    "surahNumber": "78",
+    "surahNameTr": "Nebe' Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Neyi birbirlerine sorup dururlar?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Pek ulu haberi."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Öylesine haber ki onlar, bu hususta aykırılığa düşmüşlerdir."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hayır, bilirler yakında."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Gene de hayır, bilirler yakında."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Yeryüzünü, hazır bir yaygı olarak yaymadık mı?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve dağları, çiviler gibi çaktık."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve sizi, çiftçift yarattık."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve uykunuzu, vakitli bir istirahat zamanı kıldık."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve geceyi, her şeyi örten bir örtü yaptık."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ve gündüzü de geçim zamanı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve üstünüzde, yedi sağlam yapı kurduk."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve yalımyalım yanan bir kandil yarattık."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ve sıkılan bulutlardan şarılşarıl sular akıttık."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Akıttık da o sayede tohumları, otları."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve birbirine sarmaşdolaş bahçeleri, bağları meydana getirdik."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Şüphe yok ki ayırma gününün vakti de tayin edilmiştir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "O gün Sur üfürülür de gelirsiniz bölükbölük."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ve gök açılmış, kapılar haline gelmiştir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "ve dağlar yürütülmüş, seraba dönmüştür."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Şüphe yok ki cehennem pusudadır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Azanlara dönüp varılacak son yerdir."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Yıllar boyunca kalırlar orada."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ne bir serinlik tadarlar, ne içilecek bir şey."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Ancak bir kaynar su, ancak bir kan ve irin."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Bir cezadır ki tam uygun."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Şüphe yok ki onlar, hiçbir soru ummazlardı."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ve delillerimizi boyuna yalanlarlardı."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ve biz her şeyi birbir sayıp yazdık."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Artık tadın, ancak azabınızı arttırırız sizin."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Şüphe yok ki çekinenlere bir kurtuluş, bir kutluluk ve murada eriş yeri var."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Bahçeler, üzümler."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Ve memeleri yeni sertleşmiş yaşıt kızlar."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Ve dopdolu kadeh."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Ne boş bir söz duyarlar orada, ne birbirlerini yalanlama."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Rabbinden, fazlasıyle bir lütuf ve ihsan."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Göklerin ve yeryüzünün ve ikisinin arasındakilerin Rabbidir rahman, onun hitabına nail olmazlar."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "O gün, Ruh ve melekler, saf saf dururlar; konuşamazlar, ancak rahmanın izin verdiği konuşur ve gerçek söyler."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Bugün, gerçektir, artık dileyen, dönüp Rabbinin tapısına varmaya bir vesile edinir."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Şüphe yok ki biz sizi, yakın bir azapla korkutmadayız; o gün kişi, elleriyle hazırladığına bakar ve kafir de ne olurdu der, keşke toprak olaydım."
+      }
+    ]
+  }
 }

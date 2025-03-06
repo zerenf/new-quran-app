@@ -1,22 +1,24 @@
 {
-  "surahNumber": "112",
-  "surahName": "İhlâs Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "De ki: O Allah, birdir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Allah, Samed'dir (herşey O'na muhtaçtır, daimdir, hiçbir şeye ihtiyacı olmayandır)."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "O, doğurmamıştır ve doğurulmamıştır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ve hiçbir şey O'nun dengi değildir."
-    }
-  ]
+  "ihlas": {
+    "surahNumber": "112",
+    "surahNameTr": "İhlâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: O Allah, birdir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Allah, Samed'dir (herşey O'na muhtaçtır, daimdir, hiçbir şeye ihtiyacı olmayandır)."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O, doğurmamıştır ve doğurulmamıştır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve hiçbir şey O'nun dengi değildir."
+      }
+    ]
+  }
 }

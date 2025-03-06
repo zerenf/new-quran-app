@@ -1,86 +1,88 @@
 {
-  "surahNumber": "73",
-  "surahName": "Müzzemmil Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "yâ eyyühe-lmüzzemmil."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "ḳumi-lleyle illâ ḳalîlâ."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "niṣfehû evi-nḳuṣ minhü ḳalîlâ."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "ev zid `aleyhi verattili-lḳur'âne tertîlâ."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "innâ senülḳî `aleyke ḳavlen ŝeḳîlâ."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "inne nâşiete-lleyli hiye eşeddü vaṭ'ev veaḳvemü ḳîlâ."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "inne leke fi-nnehâri sebḥan ṭavîlâ."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "veẕküri-sme rabbike vetebettel ileyhi tebtîlâ."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "rabbü-lmeşriḳi velmagribi lâ ilâhe illâ hüve fetteḫiẕhü vekîlâ."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "vaṣbir `alâ mâ yeḳûlûne vehcürhüm hecran cemîlâ."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "veẕernî velmükeẕẕibîne üli-nna`meti vemehhilhüm ḳalîlâ."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "inne ledeynâ enkâlev veceḥîmâ."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "veṭa`âmen ẕâ guṣṣativ ve`aẕâben elîmâ."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "yevme tercüfü-l'arḍu velcibâlü vekâneti-lcibâlü keŝîbem mehîlâ."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "innâ erselnâ ileyküm rasûlen şâhiden `aleyküm kemâ erselnâ ilâ fir`avne rasûlâ."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "fe`aṣâ fir`avnü-rrasûle feeḫaẕnâhü aḫẕev vebîlâ."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "fekeyfe tetteḳûne in kefertüm yevmey yec`alü-lvildâne şîbâ."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "essemâü münfeṭirum bih. kâne va`dühû mef`ûlâ."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "inne hâẕihî teẕkirah. femen şâe-tteḫaẕe ilâ rabbihî sebîlâ."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "inne rabbeke ya`lemü enneke teḳûmü ednâ min ŝülüŝeyi-lleyli veniṣfehû veŝülüŝehû veṭâifetüm mine-lleẕîne me`ak. vellâhü yüḳaddiru-lleyle vennehâr. `alime el len tuḥṣûhü fetâbe `aleyküm faḳraû mâ teyessera mine-lḳur'ân. `alime en seyekûnü minküm merḍâ veâḫarûne yaḍribûne fi-l'arḍi yebtegûne min faḍli-llâhi veâḫarûne yüḳâtilûne fî sebîli-llâh. faḳraû mâ teyessera minhü veeḳîmu-ṣṣalâte veâtü-zzekâte veaḳriḍü-llâhe ḳarḍan ḥasenâ. vemâ tüḳaddimû lienfüsiküm min ḫayrin tecidûhü `inde-llâhi hüve ḫayrav vea`żame ecrâ. vestagfirü-llâh. inne-llâhe gafûrur raḥîm."
-    }
-  ]
+  "muzzemmil": {
+    "surahNumber": "73",
+    "surahNameTr": "Müzzemmil Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "yâ eyyühe-lmüzzemmil."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "ḳumi-lleyle illâ ḳalîlâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "niṣfehû evi-nḳuṣ minhü ḳalîlâ."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "ev zid `aleyhi verattili-lḳur'âne tertîlâ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "innâ senülḳî `aleyke ḳavlen ŝeḳîlâ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "inne nâşiete-lleyli hiye eşeddü vaṭ'ev veaḳvemü ḳîlâ."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "inne leke fi-nnehâri sebḥan ṭavîlâ."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "veẕküri-sme rabbike vetebettel ileyhi tebtîlâ."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "rabbü-lmeşriḳi velmagribi lâ ilâhe illâ hüve fetteḫiẕhü vekîlâ."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "vaṣbir `alâ mâ yeḳûlûne vehcürhüm hecran cemîlâ."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "veẕernî velmükeẕẕibîne üli-nna`meti vemehhilhüm ḳalîlâ."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "inne ledeynâ enkâlev veceḥîmâ."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "veṭa`âmen ẕâ guṣṣativ ve`aẕâben elîmâ."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "yevme tercüfü-l'arḍu velcibâlü vekâneti-lcibâlü keŝîbem mehîlâ."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "innâ erselnâ ileyküm rasûlen şâhiden `aleyküm kemâ erselnâ ilâ fir`avne rasûlâ."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "fe`aṣâ fir`avnü-rrasûle feeḫaẕnâhü aḫẕev vebîlâ."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "fekeyfe tetteḳûne in kefertüm yevmey yec`alü-lvildâne şîbâ."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "essemâü münfeṭirum bih. kâne va`dühû mef`ûlâ."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "inne hâẕihî teẕkirah. femen şâe-tteḫaẕe ilâ rabbihî sebîlâ."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "inne rabbeke ya`lemü enneke teḳûmü ednâ min ŝülüŝeyi-lleyli veniṣfehû veŝülüŝehû veṭâifetüm mine-lleẕîne me`ak. vellâhü yüḳaddiru-lleyle vennehâr. `alime el len tuḥṣûhü fetâbe `aleyküm faḳraû mâ teyessera mine-lḳur'ân. `alime en seyekûnü minküm merḍâ veâḫarûne yaḍribûne fi-l'arḍi yebtegûne min faḍli-llâhi veâḫarûne yüḳâtilûne fî sebîli-llâh. faḳraû mâ teyessera minhü veeḳîmu-ṣṣalâte veâtü-zzekâte veaḳriḍü-llâhe ḳarḍan ḥasenâ. vemâ tüḳaddimû lienfüsiküm min ḫayrin tecidûhü `inde-llâhi hüve ḫayrav vea`żame ecrâ. vestagfirü-llâh. inne-llâhe gafûrur raḥîm."
+      }
+    ]
+  }
 }

@@ -1,82 +1,84 @@
 {
-  "surahNumber": "96",
-  "surahName": "Alak Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Yaratan Rabbinin adıyla oku!"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "O, insanı pıhtılaşmış kandan (alak'tan) yarattı."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Dönüş şüphesiz Rabbinedir."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Sen, namaz kılan kulu bundan menedeni gördün mü?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Sen, namaz kılan kulu bundan menedeni gördün mü?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Allah'ın her şeyi görmekte olduğunu bilmez mi?"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ama bundan vazgeçmezse, and olsun ki, onu perçeminden,"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Yalancı ve günahkar perçeminden cehenneme sürükleriz."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "O zaman, kafadarlarını çağırsın,"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Biz de zebanileri çağıracağız."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Sakın ona uyma; sen secde et, Rabbine yaklaş."
-    }
-  ]
+  "alak": {
+    "surahNumber": "96",
+    "surahNameTr": "Alak Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Yaratan Rabbinin adıyla oku!"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "O, insanı pıhtılaşmış kandan (alak'tan) yarattı."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Oku! Kalemle öğreten, insana bilmediğini bildiren Rabbin, en büyük kerem sahibidir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ama, insanoğlu kendini müstağni sayarak azgınlık eder."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Dönüş şüphesiz Rabbinedir."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Sen, namaz kılan kulu bundan menedeni gördün mü?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Sen, namaz kılan kulu bundan menedeni gördün mü?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Söyle bakalım, o kul doğru yolda giden veya Allah'a karşı gelmekten sakınmayı buyuran bir kimse olsun; veya söyle, yalanlayıp yüz çeviren birisi olsun"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Allah'ın her şeyi görmekte olduğunu bilmez mi?"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ama bundan vazgeçmezse, and olsun ki, onu perçeminden,"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Yalancı ve günahkar perçeminden cehenneme sürükleriz."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "O zaman, kafadarlarını çağırsın,"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Biz de zebanileri çağıracağız."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Sakın ona uyma; sen secde et, Rabbine yaklaş."
+      }
+    ]
+  }
 }

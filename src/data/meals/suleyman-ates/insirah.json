@@ -1,38 +1,40 @@
 {
-  "surahNumber": "94",
-  "surahName": "İnşirâh Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Biz senin (bunalan) göğsünü açmadık mı (ondaki bunalımları, sıkıntıları giderip, onu ilim, hikmet ve huzur ile genişletmedik mi)?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve atmadık mı senin üzerinden yükünü?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ki (o, ağırlığından) sırtını çatırdatmıştı!"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Senin şanını yükseltmedik mi?"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Muhakkak her güçlükle beraber bir kolaylık vardır."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Evet, her güçlükle beraber bir kolaylık vardır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "O halde (işlerinden) boşaldığın zaman (ibadete) dur."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Rabb'ine niyaz et, yalvar."
-    }
-  ]
+  "insirah": {
+    "surahNumber": "94",
+    "surahNameTr": "İnşirâh Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Biz senin (bunalan) göğsünü açmadık mı (ondaki bunalımları, sıkıntıları giderip, onu ilim, hikmet ve huzur ile genişletmedik mi)?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve atmadık mı senin üzerinden yükünü?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ki (o, ağırlığından) sırtını çatırdatmıştı!"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Senin şanını yükseltmedik mi?"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Muhakkak her güçlükle beraber bir kolaylık vardır."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Evet, her güçlükle beraber bir kolaylık vardır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "O halde (işlerinden) boşaldığın zaman (ibadete) dur."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Rabb'ine niyaz et, yalvar."
+      }
+    ]
+  }
 }

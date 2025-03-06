@@ -1,18 +1,20 @@
 {
-  "surahNumber": "103",
-  "surahName": "Asr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun zamana."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Şüphe yok ki insan, elbette zararda, ziyanda."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ancak inananlar ve iyi işlerde bulunanlar ve birbirlerine gerçeği gözetmeyi ve sabretmeyi tavsiye edenler başka."
-    }
-  ]
+  "asr": {
+    "surahNumber": "103",
+    "surahNameTr": "Asr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun zamana."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Şüphe yok ki insan, elbette zararda, ziyanda."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ancak inananlar ve iyi işlerde bulunanlar ve birbirlerine gerçeği gözetmeyi ve sabretmeyi tavsiye edenler başka."
+      }
+    ]
+  }
 }

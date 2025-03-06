@@ -1,126 +1,128 @@
 {
-  "surahNumber": "67",
-  "surahName": "Mülk Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Mülk elinde bulunan (Allah) ne Yücedir. O, herşeye güç yetirendir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "O, amel (davranış ve eylem) bakımından hanginizin daha iyi (ve güzel) olacağını denemek için ölümü ve hayatı yarattı. O, üstün ve güçlü olandır, çok bağışlayandır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "O, biri diğeriyle 'tam bir uyum’ (mutabakat) içinde yedi gök yaratmış olandır. Rahman (olan Allah)ın yaratmasında hiçbir 'çelişki ve uygunsuzluk’ (tefavüt) göremezsin. İşte gözü(nü) çevirip-gezdir; herhangi bir çatlaklık (bozukluk ve çarpıklık) görüyor musun?"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Sonra gözünü iki kere daha çevirip-gezdir; o göz (uyumsuzluk bulmaktan) umudunu kesmiş bir halde bitkin olarak sana dönecektir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Andolsun, Biz en yakın olan göğü (dünya göğünü) kandillerle süsleyip-donattık ve bunları, şeytanlar için taşlama-birimleri (rücum) kıldık. Onlar için çılgınca yanan ateşin azabını hazırladık."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Rablerini inkar edenler için cehennem azabı vardır. Ne kötü dönüş yeridir o."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "İçine atıldıkları zaman, kaynayıp-feveran ederken onun korkunç homurtusunu işitirler."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Öfkesinin-şiddetinden neredeyse patlayıp parçalanacak. Her bir grup içine atıldığında, bekçileri onlara sorar: \"Size bir uyarıcı gelmedi mi?\""
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Onlar: \"Evet\" derler. \"Bize gerçekten bir uyarıcı geldi. Fakat biz yalanladık ve: “Allah hiçbir şey indirmedi, siz yalnızca büyük bir sapmışlık içindesiniz, dedik.\""
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve derler ki: \"Eğer dinlemiş olsaydık ya da akıl etmiş olsaydık, şu çılgınca yanan ateşin halkı arasında olmayacaktık.\""
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Böylece kendi günahlarını itiraf ettiler. Çılgınca yanan ateşin halkına (Allah'ın rahmetinden) uzaklık olsun."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Gerçek şu ki, Rablerinden gayb ile (O'nu görmedikleri halde) içleri titreyerek-korkanlara gelince; onlar için bir mağfiret (bağışlanma) ve büyük bir ecir vardır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Sözünüzü ister gizleyin, ister açığa vurun. Şüphesiz O, sinelerin özünde saklı duranı bilendir."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "O, yarattığını bilmez mi? O, Latif'tir; Habir'dir."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Sizin için, yeryüzüne boyun eğdiren O'dur. Şu halde onun omuzlarında yürüyün ve O'nun rızkından yiyin. Sonunda gidiş O'nadır."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Gökte olanın sizi yere geçirmeyeceğinden emin misiniz? Bir bakmışsınız ki, o (yeryüzü) sallanıp-çalkalanmaktadır."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Yoksa gökte olanın üzerinize 'taş yağdıran (fırtınalı) bir rüzgar' göndermeyeceğinden emin misiniz? Siz o takdirde Benim uyarmam nasılmış bilip-öğreneceksiniz."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Andolsun, kendilerinden öncekiler de yalanladı. Fakat Beni inkar (etmelerine karşılık verdiğim azap) nasılmış?"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Onlar, üstlerinde dizi dizi kanat açıp kapayarak uçan kuşları görmüyorlar mı? Onları Rahman (olan Allah')tan başkası (boşlukta) tutmuyor. Şüphesiz O, herşeyi hakkıyla görendir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Rahmana karşı size yardım edecek olan kimmiş? Şu sizin ordunuz mu? Kafirler yalnızca bir gurur (kesin bir aldanış) içindedirler."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Eğer O, rızkını tutsa (vermese), rızkınızı verecek olan kimmiş? Hayır; onlar, bir azgınlık ve nefret içinde inatla direniyorlar."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Şu halde yüzükoyun sürünerek yürüyen mi daha çok hidayete erer, yoksa dosdoğru yol üzerinde dümdüz yürümekte olan mı?"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "De ki: \"Sizi inşa eden (yaratan), size kulak, gözler ve gönüller veren O'dur. Ne az şükrediyorsunuz?\""
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "De ki: \"Sizi yeryüzünde üretip-türeten O'dur. Siz O'na toplanıp götürüleceksiniz.\""
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Derler ki: \"Eğer doğru söylüyorsanız, şu tehdit (ettiğiniz azap) ne zamanmış?\""
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "De ki: \"(Bununla ilgili) Bilgi ancak Allah'ın Katındadır. Ben ancak apaçık bir uyarıcıyım.\""
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Nihayet onu pek yakında gördüklerinde, o inkar edenlerin yüzleri kötüleşip-karardı. Ve: \"İşte bu, sizin (gerçekleşmeyecek diye) öne sürüp durduğunuz şeydir\" denildi."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "De ki: \"Haber verir misiniz; eğer Allah, beni ve benimle birlikte olanları yıkıma uğratır ya da bizi esirgerse, (peki) bu durumda kafirleri acı bir azaptan kurtaracak olan kimdir?\""
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "De ki: \"O (Allah) Rahman olan (esirgeyen koruyan)dır; biz O'na iman ettik ve O'na tevekkül ettik. Artık siz kimin açık bir sapmışlık içinde olduğunu pek yakında bileceksiniz.\""
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "De ki: \"Haber verin; eğer suyunuz yerin dibine göçüverecek olsa, bu durumda kim size bir akar su kaynağı getirebilir?"
-    }
-  ]
+  "mulk": {
+    "surahNumber": "67",
+    "surahNameTr": "Mülk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Mülk elinde bulunan (Allah) ne Yücedir. O, herşeye güç yetirendir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "O, amel (davranış ve eylem) bakımından hanginizin daha iyi (ve güzel) olacağını denemek için ölümü ve hayatı yarattı. O, üstün ve güçlü olandır, çok bağışlayandır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O, biri diğeriyle 'tam bir uyum’ (mutabakat) içinde yedi gök yaratmış olandır. Rahman (olan Allah)ın yaratmasında hiçbir 'çelişki ve uygunsuzluk’ (tefavüt) göremezsin. İşte gözü(nü) çevirip-gezdir; herhangi bir çatlaklık (bozukluk ve çarpıklık) görüyor musun?"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Sonra gözünü iki kere daha çevirip-gezdir; o göz (uyumsuzluk bulmaktan) umudunu kesmiş bir halde bitkin olarak sana dönecektir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Andolsun, Biz en yakın olan göğü (dünya göğünü) kandillerle süsleyip-donattık ve bunları, şeytanlar için taşlama-birimleri (rücum) kıldık. Onlar için çılgınca yanan ateşin azabını hazırladık."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Rablerini inkar edenler için cehennem azabı vardır. Ne kötü dönüş yeridir o."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "İçine atıldıkları zaman, kaynayıp-feveran ederken onun korkunç homurtusunu işitirler."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Öfkesinin-şiddetinden neredeyse patlayıp parçalanacak. Her bir grup içine atıldığında, bekçileri onlara sorar: \"Size bir uyarıcı gelmedi mi?\""
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Onlar: \"Evet\" derler. \"Bize gerçekten bir uyarıcı geldi. Fakat biz yalanladık ve: “Allah hiçbir şey indirmedi, siz yalnızca büyük bir sapmışlık içindesiniz, dedik.\""
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve derler ki: \"Eğer dinlemiş olsaydık ya da akıl etmiş olsaydık, şu çılgınca yanan ateşin halkı arasında olmayacaktık.\""
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Böylece kendi günahlarını itiraf ettiler. Çılgınca yanan ateşin halkına (Allah'ın rahmetinden) uzaklık olsun."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Gerçek şu ki, Rablerinden gayb ile (O'nu görmedikleri halde) içleri titreyerek-korkanlara gelince; onlar için bir mağfiret (bağışlanma) ve büyük bir ecir vardır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Sözünüzü ister gizleyin, ister açığa vurun. Şüphesiz O, sinelerin özünde saklı duranı bilendir."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "O, yarattığını bilmez mi? O, Latif'tir; Habir'dir."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Sizin için, yeryüzüne boyun eğdiren O'dur. Şu halde onun omuzlarında yürüyün ve O'nun rızkından yiyin. Sonunda gidiş O'nadır."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Gökte olanın sizi yere geçirmeyeceğinden emin misiniz? Bir bakmışsınız ki, o (yeryüzü) sallanıp-çalkalanmaktadır."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Yoksa gökte olanın üzerinize 'taş yağdıran (fırtınalı) bir rüzgar' göndermeyeceğinden emin misiniz? Siz o takdirde Benim uyarmam nasılmış bilip-öğreneceksiniz."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Andolsun, kendilerinden öncekiler de yalanladı. Fakat Beni inkar (etmelerine karşılık verdiğim azap) nasılmış?"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Onlar, üstlerinde dizi dizi kanat açıp kapayarak uçan kuşları görmüyorlar mı? Onları Rahman (olan Allah')tan başkası (boşlukta) tutmuyor. Şüphesiz O, herşeyi hakkıyla görendir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Rahmana karşı size yardım edecek olan kimmiş? Şu sizin ordunuz mu? Kafirler yalnızca bir gurur (kesin bir aldanış) içindedirler."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Eğer O, rızkını tutsa (vermese), rızkınızı verecek olan kimmiş? Hayır; onlar, bir azgınlık ve nefret içinde inatla direniyorlar."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Şu halde yüzükoyun sürünerek yürüyen mi daha çok hidayete erer, yoksa dosdoğru yol üzerinde dümdüz yürümekte olan mı?"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "De ki: \"Sizi inşa eden (yaratan), size kulak, gözler ve gönüller veren O'dur. Ne az şükrediyorsunuz?\""
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "De ki: \"Sizi yeryüzünde üretip-türeten O'dur. Siz O'na toplanıp götürüleceksiniz.\""
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Derler ki: \"Eğer doğru söylüyorsanız, şu tehdit (ettiğiniz azap) ne zamanmış?\""
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "De ki: \"(Bununla ilgili) Bilgi ancak Allah'ın Katındadır. Ben ancak apaçık bir uyarıcıyım.\""
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Nihayet onu pek yakında gördüklerinde, o inkar edenlerin yüzleri kötüleşip-karardı. Ve: \"İşte bu, sizin (gerçekleşmeyecek diye) öne sürüp durduğunuz şeydir\" denildi."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "De ki: \"Haber verir misiniz; eğer Allah, beni ve benimle birlikte olanları yıkıma uğratır ya da bizi esirgerse, (peki) bu durumda kafirleri acı bir azaptan kurtaracak olan kimdir?\""
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "De ki: \"O (Allah) Rahman olan (esirgeyen koruyan)dır; biz O'na iman ettik ve O'na tevekkül ettik. Artık siz kimin açık bir sapmışlık içinde olduğunu pek yakında bileceksiniz.\""
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "De ki: \"Haber verin; eğer suyunuz yerin dibine göçüverecek olsa, bu durumda kim size bir akar su kaynağı getirebilir?"
+      }
+    ]
+  }
 }

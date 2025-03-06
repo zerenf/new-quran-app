@@ -1,90 +1,92 @@
 {
-  "surahNumber": "92",
-  "surahName": "Leyl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "velleyli iẕâ yagşâ."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "vennehâri iẕâ tecellâ."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "vemâ ḫaleḳa-ẕẕekera vel'ünŝâ."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "inne sa`yeküm leşettâ."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "feemmâ men a`ṭâ vetteḳâ."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "veṣaddeḳa bilḥusnâ."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "fesenüyessiruhû lilyüsrâ."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "veemmâ mem beḫile vestagnâ."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "vekeẕẕebe bilḥusnâ."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "fesenüyessiruhû lil`usrâ."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "vemâ yugnî `anhü mâlühû iẕâ teraddâ."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "inne `aleynâ lelhüdâ."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "veinne lenâ lel'âḫirate vel'ûlâ."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "feenẕertüküm nâran teleżżâ."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "lâ yaṣlâhâ ille-l'eşḳâ."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "elleẕî keẕẕebe vetevellâ."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "veseyücennebühe-l'etḳâ."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "elleẕî yü'tî mâlehû yetezekkâ."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "vemâ lieḥadin `indehû min ni`metin tüczâ."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "ille-btigâe vechi rabbihi-l'a`lâ."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "velesevfe yerḍâ."
-    }
-  ]
+  "leyl": {
+    "surahNumber": "92",
+    "surahNameTr": "Leyl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "velleyli iẕâ yagşâ."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "vennehâri iẕâ tecellâ."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "vemâ ḫaleḳa-ẕẕekera vel'ünŝâ."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "inne sa`yeküm leşettâ."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "feemmâ men a`ṭâ vetteḳâ."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "veṣaddeḳa bilḥusnâ."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "fesenüyessiruhû lilyüsrâ."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "veemmâ mem beḫile vestagnâ."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "vekeẕẕebe bilḥusnâ."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "fesenüyessiruhû lil`usrâ."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "vemâ yugnî `anhü mâlühû iẕâ teraddâ."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "inne `aleynâ lelhüdâ."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "veinne lenâ lel'âḫirate vel'ûlâ."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "feenẕertüküm nâran teleżżâ."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "lâ yaṣlâhâ ille-l'eşḳâ."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "elleẕî keẕẕebe vetevellâ."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "veseyücennebühe-l'etḳâ."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "elleẕî yü'tî mâlehû yetezekkâ."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "vemâ lieḥadin `indehû min ni`metin tüczâ."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "ille-btigâe vechi rabbihi-l'a`lâ."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "velesevfe yerḍâ."
+      }
+    ]
+  }
 }

@@ -1,190 +1,192 @@
 {
-  "surahNumber": "79",
-  "surahName": "Nâziât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun şiddetle çekip alanlara."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve neşeli neşeli yürüyenlere."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve yüze yüze gidenlere."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ve herkesi geçenlere."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve işi tedbirle yapanlara."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "O gün, bir sarsıntıdır, sarsar."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ardından bir sarsıntı daha gelir çatar."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Yürekler, belinleyip korkar."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Gözleri yere dikilir."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Onlar derler ki: Çukura atıldıktan sonra mı dirileceğiz de çıkacağız?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ufalanmış bir kemik yığını haline geldikten sonra mı olacak bu iş?"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Öyleyse derler, bu, pek ziyanlı bir dönüş."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Halbuki o, bir tek haykırış."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Derken onlar dümdüz bir yerde toplanırlar."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Gelmedi mi Musa'ya ait söz sana?"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Hani Rabbi, kutlu Tuva vadisinde nida etmişti ona."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Git Firavun'a, şüphe yok ki o, azdı."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "De ki: İster misin temizlenmeyi."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ve sana Rabbinin yolunu göstereyim de korkasın, saygı duyasın?"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Derken ona en büyük delili göstermişti."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Oysa yalanlamıştı, karşı gelmişti."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Sonra da geri dönmüştü de koşup gitmişti."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Derken halkı toplamıştı da bağırmıştı."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ben, sizin en yüce Rabbinizim demişti."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Derken Allah onu, dünyada da, ahirette de azaplandırarak helak etmişti."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Şüphe yok ki bunda bir ibret var korkanlara."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Sizi yaratmak mı daha güç sizce, yoksa göğü yaratmak mı? Onu kurdu."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Tavanını yücelti, düzüp koştu."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ve gecesini kararttı, kuşluk çağını meydana çıkarttı."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Ve yeryüzünü de bundan sonra yaydı, döşedi."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Oradan suyunu, otlağını çıkarıp meydana getirdi."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Ve dağlarını oturttu."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Sizin ve hayvanlarınızın faydası için."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Derken o pek büyük felaket gelip çatınca."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "İnsan, o gün anlar, hatırlar neye çalıştığını."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Ve cehennem, belirtilir görene."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Artık kim azmışsa."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Dünya yaşayışını üstün tutmuşsa,"
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Artık cehennemdir onun yeriyurdu."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Ve ama kim, Rabbinin durağından korkup da nefsi, dileğinden çekmişse."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Şüphe yok ki cennettir onun yeriyurdu."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Senden sorarlar kıyameti, ne vakit kopacak?"
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Sen, onu ne bilirsin ki ne anlatacaksın?"
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Onun sonu, Rabbine aittir, o bilir."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Sen ancak, korkanı korkutansın."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Onu gördükleri gün, bir akşamcık yaşamışa dönerler, yahut da günün kuşluk çağı."
-    }
-  ]
+  "naziat": {
+    "surahNumber": "79",
+    "surahNameTr": "Nâziât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun şiddetle çekip alanlara."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve neşeli neşeli yürüyenlere."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve yüze yüze gidenlere."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve herkesi geçenlere."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve işi tedbirle yapanlara."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "O gün, bir sarsıntıdır, sarsar."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ardından bir sarsıntı daha gelir çatar."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Yürekler, belinleyip korkar."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Gözleri yere dikilir."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Onlar derler ki: Çukura atıldıktan sonra mı dirileceğiz de çıkacağız?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ufalanmış bir kemik yığını haline geldikten sonra mı olacak bu iş?"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Öyleyse derler, bu, pek ziyanlı bir dönüş."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Halbuki o, bir tek haykırış."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Derken onlar dümdüz bir yerde toplanırlar."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Gelmedi mi Musa'ya ait söz sana?"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Hani Rabbi, kutlu Tuva vadisinde nida etmişti ona."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Git Firavun'a, şüphe yok ki o, azdı."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "De ki: İster misin temizlenmeyi."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ve sana Rabbinin yolunu göstereyim de korkasın, saygı duyasın?"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Derken ona en büyük delili göstermişti."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Oysa yalanlamıştı, karşı gelmişti."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Sonra da geri dönmüştü de koşup gitmişti."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Derken halkı toplamıştı da bağırmıştı."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ben, sizin en yüce Rabbinizim demişti."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Derken Allah onu, dünyada da, ahirette de azaplandırarak helak etmişti."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Şüphe yok ki bunda bir ibret var korkanlara."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Sizi yaratmak mı daha güç sizce, yoksa göğü yaratmak mı? Onu kurdu."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Tavanını yücelti, düzüp koştu."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ve gecesini kararttı, kuşluk çağını meydana çıkarttı."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Ve yeryüzünü de bundan sonra yaydı, döşedi."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Oradan suyunu, otlağını çıkarıp meydana getirdi."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Ve dağlarını oturttu."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Sizin ve hayvanlarınızın faydası için."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Derken o pek büyük felaket gelip çatınca."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "İnsan, o gün anlar, hatırlar neye çalıştığını."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Ve cehennem, belirtilir görene."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Artık kim azmışsa."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Dünya yaşayışını üstün tutmuşsa,"
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Artık cehennemdir onun yeriyurdu."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Ve ama kim, Rabbinin durağından korkup da nefsi, dileğinden çekmişse."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Şüphe yok ki cennettir onun yeriyurdu."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Senden sorarlar kıyameti, ne vakit kopacak?"
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Sen, onu ne bilirsin ki ne anlatacaksın?"
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Onun sonu, Rabbine aittir, o bilir."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Sen ancak, korkanı korkutansın."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Onu gördükleri gün, bir akşamcık yaşamışa dönerler, yahut da günün kuşluk çağı."
+      }
+    ]
+  }
 }

@@ -1,306 +1,308 @@
 {
-  "surahNumber": "39",
-  "surahName": "Zümer Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kitap'ın indirilmesi, güçlü ve Hakim olan Allah katındandır."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Biz sana Kitap'ı gerçekle indirdik. Öyle ise dini Allah için halis kılarak O'na kulluk et."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Dikkat edin, halis din Allah'ındır; O'nu bırakıp da putlardan dostlar edinenler: \"Onlara, bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz\" derler. Doğrusu Allah ayrılığa düştükleri şeylerde aralarında hüküm verecektir. Allah şüphesiz yalancı ve inkarcı kimseyi doğru yola eriştirmez."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Allah çocuk edinmek isteseydi, yaratıklarından dilediğini seçerdi. O münezzehtir, O; gücü her şeye yeten tek Allah'tır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. Dikkat edin, güçlü olan, çok bağışlayan O'dur."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Sizi bir tek nefisten yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka tanrı yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Eğer inkar ederseniz bilin ki Allah sizden müstağnidir. Kullarının inkarından hoşnut olmaz. Eğer şükrederseniz sizden hoşnut olur. Hiçbir günahkar diğerinin günahını yüklenmez. Sonunda dönüşünüz Rabbinizedir; yaptıklarınızı o zaman size haber verir; çünkü O, kalblerde olanı bilir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "İnsanın başına bir sıkıntı gelince Rabbine yönelerek O'na yalvarır. Sonra Allah, katından bir nimet verince önceden kime yalvarmış olduğunu unutuverir; Allah'ın yolundan saptırmak için O'na eşler koşar. De ki: \"İnkarınla az bir müddet zevklen, şüphesiz sen cehennemliksin.\""
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Geceleyin secde ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse inkar eden kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar.\""
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Şöyle de: \"Ey inanan kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız sabredenlere, ecirleri sonsuz olarak ödenecektir.\""
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "De ki: \"Dini Allah'a halis kılarak O'na kulluk etmekle emrolundum.\""
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "\"Ve Müslümanların ilki olmakla emrolundum.\""
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\""
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "De ki: \"Ben, dinimi Allah'a halis kılarak O'na kulluk ederim;"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ey Allah'a eş koşanlar! Siz de O'ndan başka dilediğinize kulluk edin.\" De ki: Hüsrana uğrayanlar kıyamet günü kendilerini ve ailelerini hüsrana sokanlardır. Dikkat edin, işte apaçık hüsran budur."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Onlara üstlerinden kat kat ateş vardır. Allah kullarını bununla korkutur. Ey kullarım, Benden sakının."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Hakkında azap sözü gerçekleşmiş kimseyi, ateşte olanı sen mi kurtaracaksın?"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Fakat, Rablerinden sakınanlara, üst üste bina edilmiş köşkler vardır; altlarından ırmaklar akar. Bu, Allah'ın verdiği sözdür, Allah verdiği sözden caymaz."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Allah'ın gökten bir su indirip, onu yerdeki kaynaklara yerleştiren, sonra onunla çeşitli renklerde ekinler yetiştiren olduğunu görmez misin? Sonra onları kurutur ki sen de onları sapsarı görürsün, sonra da çer çöpe çevirir. Şüphesiz bunlarda, akıl sahipleri için öğüt vardır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Allah kimin gönlünü İslam'a açmışsa, o, Rabbi katından bir nur üzere olmaz mı? Kalbleri Allah'ı anmak hususunda katılaşmış olanlara yazıklar olsun; işte bunlar apaçık sapıklıktadırlar."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Allah, ayetleri birbirine benzeyen ve yer yer tekrar eden Kitap'ı sözlerin en güzeli olarak indirmiştir. Rablerinden korkanların, bu Kitap'tan tüyleri ürperir, sonra hem derileri ve hem de kalbleri Allah'ın zikrine yumuşar ve yatışır. İşte bu Kitap, Allah'ın doğruluk rehberidir, onunla istediğini doğru yola eriştirir. Allah kimi de saptırırsa artık ona yol gösteren bulunmaz."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Kıyamet günü kötü azaptan yüzünü korumaya çalışan kimse, güven içinde olan kimse gibi midir? Zalimlere: \"Kazandıklarınızın karşılığını tadın\" denir."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Onlardan öncekiler de peygamberleri yalanlamışlardı da farkına varmadıkları yerden onlara bir azap çatmıştı."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Allah onlara, dünya hayatında rezilliği tattırdı; ahiret azabı daha büyüktür. Keşke bilseler!"
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "O, eğriliği olmayan, Arapça bir Kuran'dır. Belki sakınırlar."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bilmezler."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Şüphesiz sen de öleceksin, onlar da ölecekler."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Ey insanlar! Sonra siz, kıyamet günü Rabbinizin huzurunda duruşmaya çıkacaksınız."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Allah'a karşı yalan uydurandan, kendisine gelmiş gerçeği yalan sayandan daha zalim olan kimdir? İnkarcılar için cehennemde dur durak olmaz olur mu?"
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Gerçeği getiren ve onu doğrulayanlar, işte onlar, Allah'a karşı gelmekten sakınmış olanlardır."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Onlara, Rablerinin katında diledikleri şeyler vardır, bu, iyilerin mükafatıdır."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Allah, kuluna yetmez mi? Seni O'ndan başka şeylerle korkutuyorlar. Allah'ın, saptırdığını doğru yola koyacak yoktur."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Allah'ın doğru yola eriştirdiğini de saptıracak yoktur. Allah, güçlü olan, öç alabilen değil midir?"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. De ki: \"Öyleyse bana bildirin, Allah bana bir zarar vermek isterse, Allah'ı bırakıp da taptıklarınız, O'nun verdiği zararı giderebilir mi? Yahut bana bir rahmetdilerse, O'nun rahmetini önleyebilir mi?\" De ki: \"Allah bana yeter; güvenenler O'na güvenir.\""
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "De ki: \"Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapacağım. Kendisini rezil edecek azap kime gelecek, kime sürekli azap inecek bileceksiniz.\""
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "De ki: \"Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapacağım. Kendisini rezil edecek azap kime gelecek, kime sürekli azap inecek bileceksiniz.\""
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Doğrusu Biz, insanlar için Kitap'ı gerçekle sana indirdik; kim doğru yolda ise bu kendi lehinedir; sapıtan da kendi aleyhine sapıtmış olur. Sen onlara vekil değilsin."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Allah, öleceklerin ölümleri anında, ölmeyeceklerin de uykuları esnasında ruhlarını alır. Ölmelerine hükmettiği kimselerinkini tutar, diğerlerini bir süreye kadar salıverir. Doğrusu bunda düşünen kimseler için dersler vardır."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Yoksa Allah'tan başka şefaatçiler mi edindiler? De ki: \"Onlar bir şeye sahip olmadıkları, akıl da edemedikleri halde mi şefaat edecekler?\""
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "De ki: \"Bütün şefaat Allah'ın iznine bağlıdır. Göklerin ve yerin hükümranlığı O'nundur. Sonra O'na döneceksiniz.\""
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Allah tek olarak anıldığı zaman, ahirete inanmayanların kalbleri nefretle çarpar, ama Allah'tan başka putlar anıldığı zaman hemen yüzleri güler."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "De ki: \"Ey göklerin, yerin yaratanı, görülmeyeni ve görüleni bilen Allah'ım! Kullarının ayrılığa düştükleri şeyler hakkında aralarında Sen hükmedeceksin.\""
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Yeryüzünde olanların hepsi ve bir misli daha zalimlerin olmuş olsa, kıyamet günündeki kötü azap için fidye verseler kabul edilmez. Allah katından onlara, hiç hesaplamadıkları şeyler beliriverir."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Onlara, işledikleri kötü şeyler belli olur; alaya aldıkları şeyler de kendilerini çepeçevre sarar."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "İnsanın başına bir sıkıntı gelince Bize yalvarır. Sonra katımızdan ona bir nimet verdiğimiz zaman: \"Bu bana bilgimden dolayı verilmiştir\" der. Hayır; o bir imtihandır, fakat çokları bilmezler."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Bunu onlardan öncekiler de söylemişti, ama kazandıkları şeyler onlara fayda vermedi."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Bunun için, işledikleri kötülükler başlarına geldi. Bunlar içinde zulmedenlerin de kazandıkları kötülükler başlarına gelecektir. Bu hususta Allah'ı aciz bırakamazlar."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, inanan kimseler için dersler vardır."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "De ki: \"Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar. Çünkü O, bağışlayandır, merhametlidir.\""
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "\"Rabbinize yönelin. Azap size gelmeden önce O'na teslim olun; sonra yardım görmezsiniz.\""
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "\"Size ansızın, farkına varmadan azap gelmeden önce Rabbinizden size indirilen en güzel söze, Kuran'a uyun.\""
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Kişinin: \"Allah'a karşı aşırı gitmemden ötürü bana yazıklar olsun. Gerçekten ben alaya alanlardandım\" diyeceği günden sakının."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Veya, \"Allah beni doğru yola eriştirseydi sakınanlardan olurdum\" diyeceği, yahut, azabı gördüğünde: \"Keşke benim için dönüş imkanı bulunsa da iyilerden olsam\" diyeceği günden sakının."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Veya, \"Allah beni doğru yola eriştirseydi sakınanlardan olurdum\" diyeceği, yahut, azabı gördüğünde: \"Keşke benim için dönüş imkanı bulunsa da iyilerden olsam\" diyeceği günden sakının."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Ey insanoğlu! Evet; ayetlerim sana gelmişti de onları yalanlamış, büyüklük taslamış ve inkarcılardan olmuştun."
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Allah'a karşı yalan uyduranların, kıyamet günü, yüzlerinin simsiyah olduğunu görürsün. Böbürlenenler için cehennemde bir durak olmaz olur mu?"
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Allah, sakınanları başarılarından ötürü kurtarır. Onlara hiçbir kötülük gelmez; onlar üzülmezler."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Allah her şeyin yaratanıdır. O her şeye Vekil'dir."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Göklerin ve yerin kilitleri O'nundur. Allah'ın ayetlerini inkar edenler, işte onlar hüsrandadırlar."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "De ki: \"Ey cahiller! Bana, Allah'tan başkasına kulluk etmemi mi emredersiniz?\""
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "And olsun ki sana da, senden önceki peygamberlere de vahyolunmuştur: \"And olsun, eğer Allah'a ortak koşarsan işlerin şüphesiz boşa gider ve hüsranda kalanlardan olursun.\""
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "\"Hayır; yalnız Allah'a kulluk et ve şukredenlerden ol.\""
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. O, putperestlerin ortak koşmalarından yüce ve münezzehtir."
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Sura üflenince, Allah'ın dilediği bir yana, göklerde olanlar, yerde olanlar hepsi düşüp ölür. Sonra Sura bir daha üflenince hemen ayağa kalkıp bakışır dururlar."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Yeryüzü Rabbinin nuruyla aydınlanır, kitap açılır, peygamberler ve şahidler getirilir ve onlara haksızlık yapılmadan, aralarında adaletle hüküm verilir."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Her kişiye işlediği ödenir. Esasen Allah onların yaptıklarını en iyi bilendir."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "İnkar edenler, bölük bölük cehenneme sürülür. Oraya vardıklarında kapıları açılır; bekçileri onlara: \"Size içinizden Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı ihtar eden peygamberler gelmedi mi\" derler. \"Evet geldi\" derler. Lakin azap sözü inkarcıların aleyhine gerçekleşir."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Onlara: \"Temelli kalacağınız cehennemin kapılarından girin; böbürlenenlerin durağı ne kötüdür!\" denir."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Rablerine karşı gelmekten sakınanlar, bölük bölük cennete götürülürler. Oraya varıp da kapıları açıldığında, bekçileri onlara: \"Selam size, hoş geldiniz! Temelli olarak buraya girin\" derler."
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Onlar: \"Bize verdiği sözde duran ve bizi bu yere varis kılan Allah'a hamdolsun. Cennette istediğimiz yerde oturabiliriz. Yararlı iş işleyenlerin ecri ne güzelmiş!\" derler."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Melekleri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, Alemlerin Rabbi olan Allah içindir\" denir."
-    }
-  ]
+  "zumer": {
+    "surahNumber": "39",
+    "surahNameTr": "Zümer Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kitap'ın indirilmesi, güçlü ve Hakim olan Allah katındandır."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Biz sana Kitap'ı gerçekle indirdik. Öyle ise dini Allah için halis kılarak O'na kulluk et."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Dikkat edin, halis din Allah'ındır; O'nu bırakıp da putlardan dostlar edinenler: \"Onlara, bizi Allah'a yaklaştırsınlar diye kulluk ediyoruz\" derler. Doğrusu Allah ayrılığa düştükleri şeylerde aralarında hüküm verecektir. Allah şüphesiz yalancı ve inkarcı kimseyi doğru yola eriştirmez."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Allah çocuk edinmek isteseydi, yaratıklarından dilediğini seçerdi. O münezzehtir, O; gücü her şeye yeten tek Allah'tır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Gökleri ve yeri gerçekten yaratan O'dur. Geceyi gündüze dolar, gündüzü geceye dolar. Her biri belirli bir süreye kadar yörüngelerinde yürüyen güneş ve ayı buyruk altında tutar. Dikkat edin, güçlü olan, çok bağışlayan O'dur."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Sizi bir tek nefisten yaratmış, sonra ondan eşini varetmiştir; sizin için hayvanlardan sekiz çift meydana getirmiştir; sizi annelerinizin karınlarında üç türlü karanlık içinde, yaratılıştan yaratılışa geçirerek yaratmıştır; işte bu Rabbiniz olan Allah'tır. Hükümranlık O'nundur, O'ndan başka tanrı yoktur. Öyleyken nasıl olur da O'nu bırakıp başkasına yönelirsiniz?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Eğer inkar ederseniz bilin ki Allah sizden müstağnidir. Kullarının inkarından hoşnut olmaz. Eğer şükrederseniz sizden hoşnut olur. Hiçbir günahkar diğerinin günahını yüklenmez. Sonunda dönüşünüz Rabbinizedir; yaptıklarınızı o zaman size haber verir; çünkü O, kalblerde olanı bilir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "İnsanın başına bir sıkıntı gelince Rabbine yönelerek O'na yalvarır. Sonra Allah, katından bir nimet verince önceden kime yalvarmış olduğunu unutuverir; Allah'ın yolundan saptırmak için O'na eşler koşar. De ki: \"İnkarınla az bir müddet zevklen, şüphesiz sen cehennemliksin.\""
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Geceleyin secde ederek ve ayakta durarak boyun büken, ahiretten çekinen, Rabbinin rahmetini dileyen kimse inkar eden kimse gibi olur mu? De ki: \"Bilenlerle bilmeyenler bir olur mu? Doğrusu ancak akıl sahipleri öğüt alırlar.\""
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Şöyle de: \"Ey inanan kullarım! Rabbinize karşı gelmekten sakının; bu dünyada iyilik yapanlara iyilik vardır. Allah'ın yarattığı yeryüzü geniştir. Yalnız sabredenlere, ecirleri sonsuz olarak ödenecektir.\""
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "De ki: \"Dini Allah'a halis kılarak O'na kulluk etmekle emrolundum.\""
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "\"Ve Müslümanların ilki olmakla emrolundum.\""
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "De ki: \"Rabbime karşı gelirsem, doğrusu büyük günün azabından korkarım.\""
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "De ki: \"Ben, dinimi Allah'a halis kılarak O'na kulluk ederim;"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ey Allah'a eş koşanlar! Siz de O'ndan başka dilediğinize kulluk edin.\" De ki: Hüsrana uğrayanlar kıyamet günü kendilerini ve ailelerini hüsrana sokanlardır. Dikkat edin, işte apaçık hüsran budur."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Onlara üstlerinden kat kat ateş vardır. Allah kullarını bununla korkutur. Ey kullarım, Benden sakının."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Şeytana ve putlara kulluk etmekten kaçınıp, Allah'a yönelenlere, onlara, müjde vardır. Dinleyip de, en güzel söze uyan kullarımı müjdele. İşte Allah'ın doğru yola eriştirdiği onlardır. İşte onlar akıl sahipleridir."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Hakkında azap sözü gerçekleşmiş kimseyi, ateşte olanı sen mi kurtaracaksın?"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Fakat, Rablerinden sakınanlara, üst üste bina edilmiş köşkler vardır; altlarından ırmaklar akar. Bu, Allah'ın verdiği sözdür, Allah verdiği sözden caymaz."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Allah'ın gökten bir su indirip, onu yerdeki kaynaklara yerleştiren, sonra onunla çeşitli renklerde ekinler yetiştiren olduğunu görmez misin? Sonra onları kurutur ki sen de onları sapsarı görürsün, sonra da çer çöpe çevirir. Şüphesiz bunlarda, akıl sahipleri için öğüt vardır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Allah kimin gönlünü İslam'a açmışsa, o, Rabbi katından bir nur üzere olmaz mı? Kalbleri Allah'ı anmak hususunda katılaşmış olanlara yazıklar olsun; işte bunlar apaçık sapıklıktadırlar."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Allah, ayetleri birbirine benzeyen ve yer yer tekrar eden Kitap'ı sözlerin en güzeli olarak indirmiştir. Rablerinden korkanların, bu Kitap'tan tüyleri ürperir, sonra hem derileri ve hem de kalbleri Allah'ın zikrine yumuşar ve yatışır. İşte bu Kitap, Allah'ın doğruluk rehberidir, onunla istediğini doğru yola eriştirir. Allah kimi de saptırırsa artık ona yol gösteren bulunmaz."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Kıyamet günü kötü azaptan yüzünü korumaya çalışan kimse, güven içinde olan kimse gibi midir? Zalimlere: \"Kazandıklarınızın karşılığını tadın\" denir."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Onlardan öncekiler de peygamberleri yalanlamışlardı da farkına varmadıkları yerden onlara bir azap çatmıştı."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Allah onlara, dünya hayatında rezilliği tattırdı; ahiret azabı daha büyüktür. Keşke bilseler!"
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Biz bu Kuran'da insanlara her türlü misali, belki öğüt alırlar diye, and olsun ki verdik."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "O, eğriliği olmayan, Arapça bir Kuran'dır. Belki sakınırlar."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Allah, geçimsiz efendileri olan bir adamla, yalnız bir kişiye bağlı olan bir adamı misal olarak verir. Bu ikisi eşit midir? Övülmek Allah içindir, fakat çoğu bilmezler."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Şüphesiz sen de öleceksin, onlar da ölecekler."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Ey insanlar! Sonra siz, kıyamet günü Rabbinizin huzurunda duruşmaya çıkacaksınız."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Allah'a karşı yalan uydurandan, kendisine gelmiş gerçeği yalan sayandan daha zalim olan kimdir? İnkarcılar için cehennemde dur durak olmaz olur mu?"
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Gerçeği getiren ve onu doğrulayanlar, işte onlar, Allah'a karşı gelmekten sakınmış olanlardır."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Onlara, Rablerinin katında diledikleri şeyler vardır, bu, iyilerin mükafatıdır."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Zira Allah, onların yaptıkları kötülükleri örter, onlara, işledikleri şeylerin en güzel karşılıklarını verir."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Allah, kuluna yetmez mi? Seni O'ndan başka şeylerle korkutuyorlar. Allah'ın, saptırdığını doğru yola koyacak yoktur."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Allah'ın doğru yola eriştirdiğini de saptıracak yoktur. Allah, güçlü olan, öç alabilen değil midir?"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "And olsun ki, onlara, \"Gökleri ve yeri yaratan kimdir?\" diye sorsan: \"Allah'tır\" derler. De ki: \"Öyleyse bana bildirin, Allah bana bir zarar vermek isterse, Allah'ı bırakıp da taptıklarınız, O'nun verdiği zararı giderebilir mi? Yahut bana bir rahmetdilerse, O'nun rahmetini önleyebilir mi?\" De ki: \"Allah bana yeter; güvenenler O'na güvenir.\""
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "De ki: \"Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapacağım. Kendisini rezil edecek azap kime gelecek, kime sürekli azap inecek bileceksiniz.\""
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "De ki: \"Ey milletim! Durumunuzun gerektirdiğini yapın; doğrusu ben de yapacağım. Kendisini rezil edecek azap kime gelecek, kime sürekli azap inecek bileceksiniz.\""
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Doğrusu Biz, insanlar için Kitap'ı gerçekle sana indirdik; kim doğru yolda ise bu kendi lehinedir; sapıtan da kendi aleyhine sapıtmış olur. Sen onlara vekil değilsin."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Allah, öleceklerin ölümleri anında, ölmeyeceklerin de uykuları esnasında ruhlarını alır. Ölmelerine hükmettiği kimselerinkini tutar, diğerlerini bir süreye kadar salıverir. Doğrusu bunda düşünen kimseler için dersler vardır."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Yoksa Allah'tan başka şefaatçiler mi edindiler? De ki: \"Onlar bir şeye sahip olmadıkları, akıl da edemedikleri halde mi şefaat edecekler?\""
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "De ki: \"Bütün şefaat Allah'ın iznine bağlıdır. Göklerin ve yerin hükümranlığı O'nundur. Sonra O'na döneceksiniz.\""
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Allah tek olarak anıldığı zaman, ahirete inanmayanların kalbleri nefretle çarpar, ama Allah'tan başka putlar anıldığı zaman hemen yüzleri güler."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "De ki: \"Ey göklerin, yerin yaratanı, görülmeyeni ve görüleni bilen Allah'ım! Kullarının ayrılığa düştükleri şeyler hakkında aralarında Sen hükmedeceksin.\""
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Yeryüzünde olanların hepsi ve bir misli daha zalimlerin olmuş olsa, kıyamet günündeki kötü azap için fidye verseler kabul edilmez. Allah katından onlara, hiç hesaplamadıkları şeyler beliriverir."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Onlara, işledikleri kötü şeyler belli olur; alaya aldıkları şeyler de kendilerini çepeçevre sarar."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "İnsanın başına bir sıkıntı gelince Bize yalvarır. Sonra katımızdan ona bir nimet verdiğimiz zaman: \"Bu bana bilgimden dolayı verilmiştir\" der. Hayır; o bir imtihandır, fakat çokları bilmezler."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Bunu onlardan öncekiler de söylemişti, ama kazandıkları şeyler onlara fayda vermedi."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Bunun için, işledikleri kötülükler başlarına geldi. Bunlar içinde zulmedenlerin de kazandıkları kötülükler başlarına gelecektir. Bu hususta Allah'ı aciz bırakamazlar."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Allah'ın rızkı dilediğine yaydığını ve kısıp bir ölçüye göre verdiğini bilmezler mi? Doğrusu bunda, inanan kimseler için dersler vardır."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "De ki: \"Ey kendilerine kötülük edip aşırı giden kullarım! Allah'ın rahmetinden umudunuzu kesmeyin. Doğrusu Allah günahların hepsini bağışlar. Çünkü O, bağışlayandır, merhametlidir.\""
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "\"Rabbinize yönelin. Azap size gelmeden önce O'na teslim olun; sonra yardım görmezsiniz.\""
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "\"Size ansızın, farkına varmadan azap gelmeden önce Rabbinizden size indirilen en güzel söze, Kuran'a uyun.\""
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Kişinin: \"Allah'a karşı aşırı gitmemden ötürü bana yazıklar olsun. Gerçekten ben alaya alanlardandım\" diyeceği günden sakının."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Veya, \"Allah beni doğru yola eriştirseydi sakınanlardan olurdum\" diyeceği, yahut, azabı gördüğünde: \"Keşke benim için dönüş imkanı bulunsa da iyilerden olsam\" diyeceği günden sakının."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Veya, \"Allah beni doğru yola eriştirseydi sakınanlardan olurdum\" diyeceği, yahut, azabı gördüğünde: \"Keşke benim için dönüş imkanı bulunsa da iyilerden olsam\" diyeceği günden sakının."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Ey insanoğlu! Evet; ayetlerim sana gelmişti de onları yalanlamış, büyüklük taslamış ve inkarcılardan olmuştun."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Allah'a karşı yalan uyduranların, kıyamet günü, yüzlerinin simsiyah olduğunu görürsün. Böbürlenenler için cehennemde bir durak olmaz olur mu?"
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Allah, sakınanları başarılarından ötürü kurtarır. Onlara hiçbir kötülük gelmez; onlar üzülmezler."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Allah her şeyin yaratanıdır. O her şeye Vekil'dir."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Göklerin ve yerin kilitleri O'nundur. Allah'ın ayetlerini inkar edenler, işte onlar hüsrandadırlar."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "De ki: \"Ey cahiller! Bana, Allah'tan başkasına kulluk etmemi mi emredersiniz?\""
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "And olsun ki sana da, senden önceki peygamberlere de vahyolunmuştur: \"And olsun, eğer Allah'a ortak koşarsan işlerin şüphesiz boşa gider ve hüsranda kalanlardan olursun.\""
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "\"Hayır; yalnız Allah'a kulluk et ve şukredenlerden ol.\""
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Onlar Allah'ı gereği gibi değerlendiremediler. Bütün yeryüzü, kıyamet günü O'nun avucundadır; gökler O'nun kudretiyle dürülmüş olacaktır. O, putperestlerin ortak koşmalarından yüce ve münezzehtir."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Sura üflenince, Allah'ın dilediği bir yana, göklerde olanlar, yerde olanlar hepsi düşüp ölür. Sonra Sura bir daha üflenince hemen ayağa kalkıp bakışır dururlar."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Yeryüzü Rabbinin nuruyla aydınlanır, kitap açılır, peygamberler ve şahidler getirilir ve onlara haksızlık yapılmadan, aralarında adaletle hüküm verilir."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Her kişiye işlediği ödenir. Esasen Allah onların yaptıklarını en iyi bilendir."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "İnkar edenler, bölük bölük cehenneme sürülür. Oraya vardıklarında kapıları açılır; bekçileri onlara: \"Size içinizden Rabbinizin ayetlerini okuyan ve bugüne kavuşacağınızı ihtar eden peygamberler gelmedi mi\" derler. \"Evet geldi\" derler. Lakin azap sözü inkarcıların aleyhine gerçekleşir."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Onlara: \"Temelli kalacağınız cehennemin kapılarından girin; böbürlenenlerin durağı ne kötüdür!\" denir."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Rablerine karşı gelmekten sakınanlar, bölük bölük cennete götürülürler. Oraya varıp da kapıları açıldığında, bekçileri onlara: \"Selam size, hoş geldiniz! Temelli olarak buraya girin\" derler."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Onlar: \"Bize verdiği sözde duran ve bizi bu yere varis kılan Allah'a hamdolsun. Cennette istediğimiz yerde oturabiliriz. Yararlı iş işleyenlerin ecri ne güzelmiş!\" derler."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Melekleri, arşın etrafını çevirmiş oldukları halde, Rablerini hamd ile överken görürsün. Artık insanların aralarında adaletle hüküm olunmuştur. \"Övgü, Alemlerin Rabbi olan Allah içindir\" denir."
+      }
+    ]
+  }
 }

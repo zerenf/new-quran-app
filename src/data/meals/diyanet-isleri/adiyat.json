@@ -1,50 +1,52 @@
 {
-  "surahNumber": "100",
-  "surahName": "Âdiyât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "And olsun Allah yolunda koştukça koşanlara;"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "And olsun kıvılcımlar saçanlara;"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Sabah sabah akına çıkanlara;"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ve tozu dumana katanlara;"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Düşman topluluğunun içine dalanlara ki:"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "İnsan gerçekten Rabbine karşı pek nankördür."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Doğrusu kendisi de bunların hepsine şahittir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Gerçekten mala da pek düşkündür."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Doğrusu Rableri o gün onların her şeyinden haberdardır."
-    }
-  ]
+  "adiyat": {
+    "surahNumber": "100",
+    "surahNameTr": "Âdiyât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "And olsun Allah yolunda koştukça koşanlara;"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "And olsun kıvılcımlar saçanlara;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Sabah sabah akına çıkanlara;"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve tozu dumana katanlara;"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Düşman topluluğunun içine dalanlara ki:"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "İnsan gerçekten Rabbine karşı pek nankördür."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Doğrusu kendisi de bunların hepsine şahittir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Gerçekten mala da pek düşkündür."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "İnsan, kabirlerde bulunanların çıkarılacağı ve kalblerde olanların ortaya konulacağı bir zamanın geleceğini bilmez mi?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Doğrusu Rableri o gün onların her şeyinden haberdardır."
+      }
+    ]
+  }
 }

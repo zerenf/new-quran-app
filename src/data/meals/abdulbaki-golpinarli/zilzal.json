@@ -1,38 +1,40 @@
 {
-  "surahNumber": "99",
-  "surahName": "Zilzâl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Yeryüzü, şiddetli bir depremle sarsılınca."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve yeryüzü, ağırlıklarını çıkarınca."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve insan, ne oluyor ki buna deyince."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "O gün, bütün haberlerini anlatınca."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Çünkü Rabbin, vahyetmiştir, bildirmiştir ona."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "O gün insanlar, gittikleri yerden gelirler, yaptıklarını görmek için."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Artık kim, bir zerre ağırlığı hayır yapmışsa görür onu."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu."
-    }
-  ]
+  "zilzal": {
+    "surahNumber": "99",
+    "surahNameTr": "Zilzâl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Yeryüzü, şiddetli bir depremle sarsılınca."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve yeryüzü, ağırlıklarını çıkarınca."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve insan, ne oluyor ki buna deyince."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O gün, bütün haberlerini anlatınca."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Çünkü Rabbin, vahyetmiştir, bildirmiştir ona."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "O gün insanlar, gittikleri yerden gelirler, yaptıklarını görmek için."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Artık kim, bir zerre ağırlığı hayır yapmışsa görür onu."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve kim, bir zerre ağırlığı şer yapmışsa görür onu."
+      }
+    ]
+  }
 }

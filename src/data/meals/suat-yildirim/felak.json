@@ -1,26 +1,28 @@
 {
-  "surahNumber": "113",
-  "surahName": "Felâk Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "De ki: Sabahın Rabbine sığınırım:"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Yarattığı şeylerin şerrinden,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Karanlığı çöktüğü zaman gecenin şerrinden,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Düğümlere üfleyip büyü yapan büyücü kadınların şerrinden,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve hased ettiği zaman hasetçinin şerrinden."
-    }
-  ]
+  "felak": {
+    "surahNumber": "113",
+    "surahNameTr": "Felâk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: Sabahın Rabbine sığınırım:"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Yarattığı şeylerin şerrinden,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Karanlığı çöktüğü zaman gecenin şerrinden,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Düğümlere üfleyip büyü yapan büyücü kadınların şerrinden,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve hased ettiği zaman hasetçinin şerrinden."
+      }
+    ]
+  }
 }

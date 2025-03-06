@@ -1,86 +1,88 @@
 {
-  "surahNumber": "90",
-  "surahName": "Beled Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun bu şehre."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ki sen oturmadasın bu şehirde."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve babaya ve oğula."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Gerçekten de biz insanı sıkıntı içinde yarattık."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Hiçbir kimsenin, ona gücü yetmez mi sanır?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ben, birçok mal helak ettim der."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Hiçbir kimse, onu görmez mi sanır?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Onun için halketmedik mi iki göz."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve bir dille iki dudak?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve ona iki sarp yol gösterdik."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Derken dayanmadı o yokuşa."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve bilir misin, yokuş nedir?"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Bir kul azat etmek."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Yahut açlık, kıtlık gününde doyurmak."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Yakınlığı olan bir yetimi."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Yahut yerlere döşenmiş bir yoksulu."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Sonra da inananlardan ve birbirlerine sabrı tavsiye edenlerden ve acımayı tavsiye edenlerden olmak."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Onlardır işte sağ taraf ehli."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Delillerimize kafir olanlara gelince: Onlardır sol taraf ehli."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onlaradır kapıları, üstlerine örtülmüş ateş."
-    }
-  ]
+  "beled": {
+    "surahNumber": "90",
+    "surahNameTr": "Beled Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun bu şehre."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ki sen oturmadasın bu şehirde."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve babaya ve oğula."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Gerçekten de biz insanı sıkıntı içinde yarattık."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hiçbir kimsenin, ona gücü yetmez mi sanır?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ben, birçok mal helak ettim der."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Hiçbir kimse, onu görmez mi sanır?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Onun için halketmedik mi iki göz."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve bir dille iki dudak?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve ona iki sarp yol gösterdik."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Derken dayanmadı o yokuşa."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve bilir misin, yokuş nedir?"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Bir kul azat etmek."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Yahut açlık, kıtlık gününde doyurmak."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Yakınlığı olan bir yetimi."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Yahut yerlere döşenmiş bir yoksulu."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Sonra da inananlardan ve birbirlerine sabrı tavsiye edenlerden ve acımayı tavsiye edenlerden olmak."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Onlardır işte sağ taraf ehli."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Delillerimize kafir olanlara gelince: Onlardır sol taraf ehli."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onlaradır kapıları, üstlerine örtülmüş ateş."
+      }
+    ]
+  }
 }

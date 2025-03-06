@@ -1,202 +1,204 @@
 {
-  "surahNumber": "52",
-  "surahName": "Tûr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun Tur'a (Musa'nın vahiy aldığı Sina Dağı'na)."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Satır satır yazılmış Kitaba;"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Yayılmış ince deri üzerine,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ma'mur (bakımlı, şen) Ev (Ka'be'y)e,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Yükseltilmiş tavana (göğe),"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Kaynatılmış denize (bunlara andolsun ki),"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Rabbinin azabı mutlaka vukubulacaktır;"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ona engel olacak bir şey yoktur."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "O gün gök, bir çalkalanış çalkanır,"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dağlar bir yürüyüş yürür ki!.."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Yalanlayanların vay haline o gün!"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "O daldıkları batıl içinde oynayıp duranlar,"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "O gün (şöyle denilerek) cehennem ateşine kakılırlar:"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "İşte yalanlayıp durduğunuz ateş budur!"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "(Nasıl) Şimdi bu, büyümüymüş, yoksa siz mi görmüyor muşsunuz?"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Girin ona, ister dayanın, ister dayanmayın, sizin için birdir. Ancak yaptıklarınıza göre cezalandırılacaksınız."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Korunanlar da cennetlerde, ni'met içindedirler."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Rablerinin kendilerine verdikleriyle sefa sürerler. Rableri onları, cehennem azabından korumuştur."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Yaptıklarınıza karşılık afiyetle yeyin, için;"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Sıra sıra dizilmiş koltuklara yaslanarak. Onları, iri gözlü hurilerle evlendirmişizdir."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Kendileri inanmış, zürriyetleri de imanda kendilerine uymuş olan kimselerin zürriyetlerini de kendilerine katmışızdır; kendi ameller(inin sevab)ından da hiçbir şey eksiltmemişizdir. Herkes kendi kazandığına bağlıdır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Ve onlara canlarının istediği meyvadan ve etten bol bol vermişizdir."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Orada bir kadeh kapışırlar ki içinde ne saçmalama var, ne de günaha sokma."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Çevrelerinde de kendilerine mahsus, sedef içinde saklı inci gibi civanlar dolaşır (hizmet eder)."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Birbirlerine dönmüş soruyorlar:"
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Daha önce biz ailemiz içinde (iken sonumuzdan) korkardık. dediler."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Allah bize lutfetti de bizi o delikçiklere işleyen azabdan korudu."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Biz bundan önce yalnız O'na yalvarır(bizi korumasını O'ndan niyaz eder)dik. Çünkü iyilik eden, esirgeyen O'dur, O."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "(Ey Muhammed), Sen hatırlat, öğüt ver. Rabbinin ni'meti sayesinde sen ne kahinsin, ne de mecnun."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Yoksa onlar (senin hakkında): \"Bir şa'irdir, zamanın felaketlerine çarpılmasını gözetliyoruz\" mu diyorlar?"
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "De ki: \"Gözetleyin, ben de sizinle beraber gözetleyenlerdenim. (Bakalım hangimiz felaketlere çarpılacağız?)\""
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Akılları mı bunu kendilerine emrediyor, yoksa onlar azgın bir topluluk mudur?"
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Yoksa \"Onu uydurdu\" mu diyorlar? Hayır, onlar inanmıyorlar."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Doğru iseler haydi onun gibi bir söz getirsinler."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Yoksa kendileri, hiçbir şey olmadan (raslantı sonucu olarak) mı yaratıldılar? Yoksa yaratanlar kendileri midir?"
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Yoksa gökleri ve yeri mi yarattılar? Hayır, onlar düşünüp de inanmazlar."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Yoksa Rabbinin hazineleri onların yanında mıdır? Yahut hakim olan (her şeyi istedikleri gibi yöneten) kendileri midir?"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Yoksa onların, (göğe çıkıp meleklerin sözlerini ve onlara vahyedileni) dinleyecekleri bir merdivenleri mi var? Öyleyse dinleyenleri, (meleklerin sözlerini dinlediklerine) açık bir delil getirsin."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Yoksa kızlar O'na, oğullar size mi?"
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Yoksa sen onlardan (vahiyleri duyurmana karşı) bir ücret istiyorsun da onlar, ağır bir borç yükü altında mı kalmışlardır?"
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Yoksa gayb (görülmeyen bilgi) kendilerinin yanındadır da kendileri mi (oradan istediklerini) yazıyorlar?"
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Yoksa bir tuzak mı kurmak istiyorlar? Asıl tuzağa düşecek olanlar, o inkar edenlerin kendileridir."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Yoksa onların Allah'tan başka bir tanrısı mı var? Allah'ın şanı onların ortak koştuklarından yücedir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Gökten bir parçanın düştüğünü görseler, (yine inatlarından): \"Üst üste yığılmış bulutlardır\" derler."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Korkudan bayılacakları günlerine kavuşuncaya kadar bırak onları."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "O gün, tuzakları kendilerine hiçbir yarar sağlamaz ve onlara yardım da edilmez."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Zulmedenlere, bundan başka bir azab da vardır. Fakat çokları bilmezler."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Rabbinin hükmüne sabret, çünkü sen, gözlerimizin önündesin (korumamız altındasın), Kalktığın zaman Rabbini övgü ile an."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Gecenin bir kısmında ve yıldızların ardından da O'nu tesbih et."
-    }
-  ]
+  "tur": {
+    "surahNumber": "52",
+    "surahNameTr": "Tûr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun Tur'a (Musa'nın vahiy aldığı Sina Dağı'na)."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Satır satır yazılmış Kitaba;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Yayılmış ince deri üzerine,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ma'mur (bakımlı, şen) Ev (Ka'be'y)e,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Yükseltilmiş tavana (göğe),"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Kaynatılmış denize (bunlara andolsun ki),"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Rabbinin azabı mutlaka vukubulacaktır;"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ona engel olacak bir şey yoktur."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "O gün gök, bir çalkalanış çalkanır,"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dağlar bir yürüyüş yürür ki!.."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Yalanlayanların vay haline o gün!"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "O daldıkları batıl içinde oynayıp duranlar,"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "O gün (şöyle denilerek) cehennem ateşine kakılırlar:"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "İşte yalanlayıp durduğunuz ateş budur!"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "(Nasıl) Şimdi bu, büyümüymüş, yoksa siz mi görmüyor muşsunuz?"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Girin ona, ister dayanın, ister dayanmayın, sizin için birdir. Ancak yaptıklarınıza göre cezalandırılacaksınız."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Korunanlar da cennetlerde, ni'met içindedirler."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Rablerinin kendilerine verdikleriyle sefa sürerler. Rableri onları, cehennem azabından korumuştur."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Yaptıklarınıza karşılık afiyetle yeyin, için;"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Sıra sıra dizilmiş koltuklara yaslanarak. Onları, iri gözlü hurilerle evlendirmişizdir."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Kendileri inanmış, zürriyetleri de imanda kendilerine uymuş olan kimselerin zürriyetlerini de kendilerine katmışızdır; kendi ameller(inin sevab)ından da hiçbir şey eksiltmemişizdir. Herkes kendi kazandığına bağlıdır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Ve onlara canlarının istediği meyvadan ve etten bol bol vermişizdir."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Orada bir kadeh kapışırlar ki içinde ne saçmalama var, ne de günaha sokma."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Çevrelerinde de kendilerine mahsus, sedef içinde saklı inci gibi civanlar dolaşır (hizmet eder)."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Birbirlerine dönmüş soruyorlar:"
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Daha önce biz ailemiz içinde (iken sonumuzdan) korkardık. dediler."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Allah bize lutfetti de bizi o delikçiklere işleyen azabdan korudu."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Biz bundan önce yalnız O'na yalvarır(bizi korumasını O'ndan niyaz eder)dik. Çünkü iyilik eden, esirgeyen O'dur, O."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "(Ey Muhammed), Sen hatırlat, öğüt ver. Rabbinin ni'meti sayesinde sen ne kahinsin, ne de mecnun."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Yoksa onlar (senin hakkında): \"Bir şa'irdir, zamanın felaketlerine çarpılmasını gözetliyoruz\" mu diyorlar?"
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "De ki: \"Gözetleyin, ben de sizinle beraber gözetleyenlerdenim. (Bakalım hangimiz felaketlere çarpılacağız?)\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Akılları mı bunu kendilerine emrediyor, yoksa onlar azgın bir topluluk mudur?"
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Yoksa \"Onu uydurdu\" mu diyorlar? Hayır, onlar inanmıyorlar."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Doğru iseler haydi onun gibi bir söz getirsinler."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Yoksa kendileri, hiçbir şey olmadan (raslantı sonucu olarak) mı yaratıldılar? Yoksa yaratanlar kendileri midir?"
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Yoksa gökleri ve yeri mi yarattılar? Hayır, onlar düşünüp de inanmazlar."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Yoksa Rabbinin hazineleri onların yanında mıdır? Yahut hakim olan (her şeyi istedikleri gibi yöneten) kendileri midir?"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Yoksa onların, (göğe çıkıp meleklerin sözlerini ve onlara vahyedileni) dinleyecekleri bir merdivenleri mi var? Öyleyse dinleyenleri, (meleklerin sözlerini dinlediklerine) açık bir delil getirsin."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Yoksa kızlar O'na, oğullar size mi?"
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Yoksa sen onlardan (vahiyleri duyurmana karşı) bir ücret istiyorsun da onlar, ağır bir borç yükü altında mı kalmışlardır?"
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Yoksa gayb (görülmeyen bilgi) kendilerinin yanındadır da kendileri mi (oradan istediklerini) yazıyorlar?"
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Yoksa bir tuzak mı kurmak istiyorlar? Asıl tuzağa düşecek olanlar, o inkar edenlerin kendileridir."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Yoksa onların Allah'tan başka bir tanrısı mı var? Allah'ın şanı onların ortak koştuklarından yücedir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Gökten bir parçanın düştüğünü görseler, (yine inatlarından): \"Üst üste yığılmış bulutlardır\" derler."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Korkudan bayılacakları günlerine kavuşuncaya kadar bırak onları."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "O gün, tuzakları kendilerine hiçbir yarar sağlamaz ve onlara yardım da edilmez."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Zulmedenlere, bundan başka bir azab da vardır. Fakat çokları bilmezler."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Rabbinin hükmüne sabret, çünkü sen, gözlerimizin önündesin (korumamız altındasın), Kalktığın zaman Rabbini övgü ile an."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Gecenin bir kısmında ve yıldızların ardından da O'nu tesbih et."
+      }
+    ]
+  }
 }

@@ -1,26 +1,28 @@
 {
-  "surahNumber": "97",
-  "surahName": "Kadir Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "innâ enzelnâhü fî leyleti-lḳadr."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "vemâ edrâke mâ leyletü-lḳadr."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "leyletü-lḳadri ḫayrum min elfi şehr."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "tenezzelü-lmelâiketü verrûḥu fîhâ biiẕni rabbihim. min külli emr."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "selâmün. hiye ḥattâ maṭle`i-lfecr."
-    }
-  ]
+  "kadir": {
+    "surahNumber": "97",
+    "surahNameTr": "Kadir Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "innâ enzelnâhü fî leyleti-lḳadr."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "vemâ edrâke mâ leyletü-lḳadr."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "leyletü-lḳadri ḫayrum min elfi şehr."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "tenezzelü-lmelâiketü verrûḥu fîhâ biiẕni rabbihim. min külli emr."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "selâmün. hiye ḥattâ maṭle`i-lfecr."
+      }
+    ]
+  }
 }

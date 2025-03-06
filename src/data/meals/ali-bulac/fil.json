@@ -1,26 +1,28 @@
 {
-  "surahNumber": "105",
-  "surahName": "Fîl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Onların 'tasarladıkları planlarını' boşa çıkarmadı mı?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Onlara 'pişirilip-sertleştirilmiş balçık taşları' atıyorlardı."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Sonunda onları, yenik ekin yaprağı gibi kıldı."
-    }
-  ]
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rabbinin fil sahiplerine neler yaptığını görmedin mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onların 'tasarladıkları planlarını' boşa çıkarmadı mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onların üzerine ebabil (sürü sürü) kuşlarını gönderdi."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onlara 'pişirilip-sertleştirilmiş balçık taşları' atıyorlardı."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Sonunda onları, yenik ekin yaprağı gibi kıldı."
+      }
+    ]
+  }
 }
