@@ -5,9 +5,10 @@ import AyahCard from "./AyahCard"
 import CustomSelect from "./CustomSelect"
 import Spinner from "./Spinner"
 
-export default function SurahFilter() {
+export default function SurahFilter({ isSidebarOpen }) {
 	const [clicked, setClicked] = useState({})
 	const [error, setError] = useState(null)
+	// const [loading, setLoading] = useState(true)
 
 	const {
 		fetchData,
@@ -191,43 +192,41 @@ export default function SurahFilter() {
 
 	return (
 		<>
-			<div className="flex justify-center">
-				<div className="w-full max-w-3xl mx-3 p-4 sm:p-6 bg-white rounded-lg shadow-md">
-					<h2 className="text-xl sm:text-2xl font-semibold text-center text-gray-800 mb-4 sm:mb-6">Meal Ara</h2>
+			<div className={"flex justify-center mt-24"}>
+				<div className="w-full max-w-3xl mx-3 p-3  bg-white rounded-lg shadow-md filter">
+					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Meal Ara</h2>
 
 					<div className="filter-container">
-						<div>
-							<p style={{ fontSize: 14, marginBottom: -10 }}>Sure:</p>
+						<div className="content">
+							<div style={{ margin: "0px 16px" }}>
+								<p style={{ fontSize: 14, marginBottom: -10 }}>Sure:</p>
 
-							<CustomSelect options={surahNames} selected={selectedSurah} setSelected={setSelectedSurah} placeholder="Bir sure seçin" />
+								<CustomSelect options={surahNames} selected={selectedSurah} setSelected={setSelectedSurah} placeholder="Bir sure seçin" />
+							</div>
+
+							<div style={{ margin: "0px 16px" }}>
+								<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
+
+								<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
+							</div>
+
+							<div className="ayah-input-container">
+								<label className="ayah-label">Ayet Numarası:</label>
+								<input
+									type="number"
+									className="ayah-input"
+									value={selectedAyah}
+									onChange={(e) => setSelectedAyah(e.target.value)}
+									placeholder="Opsiyonel"
+								/>
+							</div>
 						</div>
 
-						<div>
-							<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
-
-							<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
-						</div>
-
-						<div className="ayah-input-container">
-							<label className="ayah-label">Ayet Numarası:</label>
-							<input
-								type="number"
-								className="ayah-input"
-								value={selectedAyah}
-								onChange={(e) => setSelectedAyah(e.target.value)}
-								placeholder="Opsiyonel"
-							/>
-						</div>
-
-						{/* Ara Butonu */}
-						<div className="text-center mt-3">
-							<button
-								className="w-[80px] h-[34px] bg-green text-white py-1 sm:py-2 px-3 sm:px-4 rounded-md hover:bg-green-dark focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 text-sm sm:text-base"
-								onClick={() => fetchData(selectedSurah, selectedMeal, selectedAyah)}
-							>
+						{/* <div className="text-center mt-3">
+							<button className="search-button" onClick={() => fetchData(selectedSurah, selectedMeal, selectedAyah)}>
 								Ara
 							</button>
-						</div>
+						</div> */}
 					</div>
 				</div>
 			</div>
@@ -237,8 +236,8 @@ export default function SurahFilter() {
 			{loading && <Spinner />}
 
 			{!loading && result && !error && (
-				<div className="flex justify-center">
-					<div>
+				<div className="flex justify-center cards">
+					<div className="my-10">
 						{/* Eğer sadece tek bir ayet geldiyse doğrudan göster */}
 						{result?.arabic?.arabicResult?.ayahText ? (
 							<AyahCard

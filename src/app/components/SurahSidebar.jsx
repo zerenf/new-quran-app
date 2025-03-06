@@ -1,6 +1,6 @@
 import SurahCard from "./SurahCard"
 
-const SurahSidebar = () => {
+const SurahSidebar = ({ toggleSidebar }) => {
 	const surahs = [
 		{ number: 1, name: "Fâtiha", totalNumber: "7", originType: "Mekki" },
 		{ number: 2, name: "Bakara", totalNumber: "286", originType: "Medeni" },
@@ -119,10 +119,11 @@ const SurahSidebar = () => {
 	]
 
 	return (
-		<div className="h-[75vh] w-[300px] flex flex-col relative ">
+		<div className="h-[100vh] w-[330px] flex flex-col relative ">
+			<p className="font-bold text-center text-[#616b76]">TÜM SURE OKU</p>
 			<div className="flex-1 overflow-y-auto ">
 				{surahs?.map((surah) => (
-					<SurahCard key={surah.number} surah={surah} />
+					<SurahCard key={surah.number} surah={surah} toggleSidebar={toggleSidebar} />
 				))}
 			</div>
 			<div className="blur"></div>

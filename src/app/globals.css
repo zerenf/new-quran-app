@@ -67,7 +67,9 @@
 	--color-background: #f5f7f8;
 	--color-green-dark: #0d7c66;
 	--color-green: #019267;
-	--color-grey: #b4b4b8;
+	--color-grey: #9aa6b2;
+	--color-grey-dark: #616b76;
+	--color-primary: #d9eafd;
 
 	/* fonts */
 	--font-arabic: "Arabic", sans-serif;
@@ -78,6 +80,7 @@
 body {
 	background: var(--background);
 	font-family: var(--nunito);
+	overflow-x: hidden;
 }
 
 .blur {
@@ -89,13 +92,11 @@ body {
 	background-color: white; /* Arka planı şeffaf yapalım */
 }
 
-.filter-container {
+.content {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-}
-
-.filter-container {
+	flex-wrap: wrap;
 }
 
 select,
@@ -106,15 +107,31 @@ input {
 	width: 190px;
 }
 
+.sidebar {
+	z-index: 9;
+}
+
+.filter {
+	margin-left: 75px;
+}
+
+.cards {
+	position: relative;
+	z-index: -1;
+	margin-left: 60px;
+}
+
 .custom-select-container {
 	position: relative;
 	width: 190px;
 	margin: 14px 0;
+	/* z-index: 10; */
 }
 
 .custom-select-box {
 	width: 100%;
 	padding: 8px 12px;
+	margin: 10;
 	border: 1px solid #d1d5db; /* border-gray-300 */
 	border-radius: 6px;
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -124,6 +141,7 @@ input {
 	align-items: center;
 	font-size: 14px;
 	cursor: pointer;
+	position: relative;
 }
 
 .custom-select-box:hover {
@@ -145,9 +163,9 @@ input {
 	border-radius: 6px;
 	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 	margin-top: 4px;
-	z-index: 10;
 	max-height: 190px;
 	overflow-y: auto;
+	z-index: 100;
 }
 
 .custom-dropdown li {
@@ -176,6 +194,12 @@ input {
 .ayah-input-container {
 	display: flex;
 	flex-direction: column;
+	min-height: 78px;
+	padding-top: 1px;
+}
+
+.ayah-input:hover {
+	border-color: var(--color-green-dark); /* Daha belirgin bir hover efekti */
 }
 
 .ayah-label {
@@ -199,6 +223,7 @@ input {
 	font-size: 16px; /* Tarayıcı yakınlaşmasını engellemek için 16px */
 	transform: scale(0.875); /* Metni 14px gibi göstermek için */
 	transform-origin: left top; /* Ölçeklendirmenin sol üstten başlamasını sağlar */
+	cursor: pointer;
 }
 
 .ayah-input:focus {
@@ -231,6 +256,12 @@ input {
 	animation: spin 1s linear infinite;
 }
 
+@media (max-width: 991px) {
+	.spinner {
+		margin-left: 60px;
+	}
+}
+
 /* Spinner animasyonu */
 @keyframes spin {
 	0% {
@@ -238,5 +269,75 @@ input {
 	}
 	100% {
 		transform: rotate(360deg);
+	}
+}
+
+.search-button {
+	width: 80px;
+	height: 34px;
+	background-color: var(--color-green); /* Green */
+	color: white;
+	padding: 6px 12px;
+	border: none;
+	border-radius: 6px;
+	cursor: pointer;
+	font-size: 14px;
+	transition: background-color 0.2s, box-shadow 0.2s;
+}
+
+.search-button:hover {
+	background-color: var(--color-green-dark); /* Darker Green */
+}
+
+.search-button:focus {
+	outline: none;
+	box-shadow: 0 0 4px 2px rgba(59, 130, 246, 0.5); /* Blue focus effect */
+}
+
+@media (min-width: 640px) {
+	/* sm breakpoint */
+	.search-button {
+		padding: 8px 16px;
+		font-size: 16px;
+	}
+}
+
+/* Container styling */
+.header-container {
+	width: 100%; /* w-full */
+	position: fixed; /* fixed */
+	top: 0; /* top-0 */
+	display: flex; /* flex */
+	justify-content: center; /* justify-center */
+	align-items: center; /* items-center */
+	padding: 12px 0; /* py-3 */
+	background-color: var(--color-primary); /* bg-[#021526] */
+	min-height: 57px;
+	z-index: 99999;
+}
+
+/* Heading styling */
+.header-text {
+	font-family: "Lateef", serif; /* font-lateef */
+	font-size: 34px; /* text-[26px] */
+	color: var(--color-grey-dark); /* text-background (assuming background text color) */
+	text-align: center; /* text-center */
+}
+
+@media (max-width: 540px) {
+	.header-text {
+		font-size: 28px; /* sm:text-[34px] */
+	}
+}
+
+@media (max-width: 400px) {
+	.header-text {
+		font-size: 24px; /* sm:text-[34px] */
+	}
+}
+
+@media (max-width: 370px) {
+	.header-text {
+		font-size: 20px; /* sm:text-[34px] */
 	}
 }
