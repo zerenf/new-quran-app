@@ -318,26 +318,20 @@ input {
 
 /* Heading styling */
 .header-text {
-	font-family: "Lateef", serif; /* font-lateef */
-	font-size: 34px; /* text-[26px] */
-	color: var(--color-grey-dark); /* text-background (assuming background text color) */
-	text-align: center; /* text-center */
+	font-family: "Lateef", serif;
+	font-size: 32px;
+	color: var(--color-grey-dark);
+	text-align: center;
 }
 
 @media (max-width: 540px) {
 	.header-text {
-		font-size: 24px; /* sm:text-[34px] */
-	}
-}
-
-@media (max-width: 400px) {
-	.header-text {
-		font-size: 22px; /* sm:text-[34px] */
+		font-size: 22px;
 	}
 }
 
 @media (max-width: 370px) {
 	.header-text {
-		font-size: 20px; /* sm:text-[34px] */
+		font-size: 20px;
 	}
 }
