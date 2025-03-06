@@ -27,9 +27,9 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 			</div>
 			<div className="ml-4 flex-1">
 				<h3 className="text-sm font-medium text-gray-800">{surah.name}</h3>
-				<p className="text-xs text-gray-500">7 Ayet</p>
+				<p className="text-xs text-gray-500"> {surah.totalNumber} </p>
 			</div>
-			<div className="text-sm text-gray-500">Mekke</div>
+			<div className="text-sm text-gray-500">{surah.originType}</div>
 		</div>
 	)
 }
