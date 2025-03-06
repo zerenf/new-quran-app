@@ -192,7 +192,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 	return (
 		<>
-			<div className={"flex justify-center mt-24"}>
+			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-14" : ""} mt-24`}>
 				<div className="w-full max-w-3xl mx-3 p-3  bg-white rounded-lg shadow-md filter">
 					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Meal Ara</h2>
 
@@ -236,7 +236,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 			{loading && <Spinner />}
 
 			{!loading && result && !error && (
-				<div className="flex justify-center cards">
+				<div className={`flex justify-center ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-14" : ""} cards`}>
 					<div className="my-10">
 						{/* Eğer sadece tek bir ayet geldiyse doğrudan göster */}
 						{result?.arabic?.arabicResult?.ayahText ? (
