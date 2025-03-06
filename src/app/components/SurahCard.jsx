@@ -13,7 +13,7 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 	}
 
 	// console.log("result:", result)
-	console.log("selectedSurah:", selectedSurah)
+	// console.log("selectedSurah:", selectedSurah)
 
 	return (
 		<div

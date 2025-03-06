@@ -6,7 +6,7 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 	return (
 		<div className="custom-select-container">
 			<div className="custom-select-box" onClick={() => setIsOpen(!isOpen)}>
-				<span style={{ color: "#B4B4B8" }}>{selected || placeholder}</span>
+				<span style={{ color: "#B4B4B8", fontSize: 16 }}>{selected || placeholder}</span>
 				<svg className="custom-select-icon" viewBox="0 0 20 20" fill="currentColor">
 					<path
 						fillRule="evenodd"
