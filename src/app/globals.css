@@ -104,7 +104,7 @@ input {
 	-webkit-appearance: none;
 	-moz-appearance: none;
 	appearance: none;
-	width: 190px;
+	width: 210px;
 }
 
 .sidebar {
@@ -123,7 +123,7 @@ input {
 
 .custom-select-container {
 	position: relative;
-	width: 190px;
+	width: 210px;
 	margin: 14px 0;
 	/* z-index: 10; */
 }
@@ -163,7 +163,7 @@ input {
 	border-radius: 6px;
 	box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
 	margin-top: 4px;
-	max-height: 190px;
+	max-height: 210px;
 	overflow-y: auto;
 	z-index: 100;
 }
@@ -198,8 +198,9 @@ input {
 	flex-direction: column;
 	min-height: 81px;
 	padding-top: 1px;
-	width: 190px;
+	width: 210px;
 	position: relative;
+	margin: 0 16px;
 	margin-bottom: 1px;
 }
 
@@ -223,7 +224,7 @@ input {
 	transform: scale(0.875); */
 	/* transform-origin: left top;  */
 	cursor: pointer;
-	width: 190px;
+	width: 210px;
 }
 
 .ayah-input:hover {
