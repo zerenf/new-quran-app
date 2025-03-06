@@ -305,8 +305,7 @@ input {
 		font-size: 16px;
 	}
 }
-
-/* Container styling */
+/* Header container */
 .header-container {
 	width: 100%;
 	position: fixed;
@@ -320,6 +319,25 @@ input {
 	z-index: 99999;
 }
 
+/* Logo container */
+.logo-container {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+}
+
+/* Logo styling */
+.logo {
+	width: 40px;
+}
+
+/* Header title container */
+.header-title-container {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+}
+
 /* Heading styling */
 .header-text {
 	font-family: "Lateef", serif;
@@ -331,6 +349,10 @@ input {
 @media (max-width: 500px) {
 	.header-text {
 		font-size: 24px;
+	}
+	.header-title-container {
+		justify-content: end;
+		padding-right: 16px;
 	}
 }
 
