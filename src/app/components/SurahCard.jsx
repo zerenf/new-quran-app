@@ -4,8 +4,17 @@ import React, { useEffect } from "react"
 import useQuranStore from "../stores/useQuranStore"
 
 const SurahCard = ({ surah, toggleSidebar }) => {
-	const { selectedSurahNumber, setSelectedSurahNumber, fetchMeals, meals, selectedSurah, setSelectedSurah, fetchData, result } =
-		useQuranStore()
+	const {
+		selectedSurahNumber,
+		setSelectedSurahNumber,
+		fetchMeals,
+		meals,
+		selectedSurah,
+		setSelectedSurah,
+		setSelectedAyah,
+		fetchData,
+		result,
+	} = useQuranStore()
 	// console.log("surah.name:", surah.name)
 
 	const handleFetchSurah = () => {
@@ -19,7 +28,7 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 		<div
 			className="bg-white flex items-center p-4 h-[70px] m-5 rounded-lg cursor-pointer border-2 border-white hover:border-2 hover:border-green transition duration-500"
 			onClick={() => {
-				setSelectedSurah(surah.name), toggleSidebar()
+				setSelectedSurah(surah.name), toggleSidebar(), setSelectedAyah("")
 			}}
 		>
 			<div className="flex-shrink-0 w-9 h-9 bg-[#9AA6B2] rounded-full flex items-center justify-center text-white font-medium">

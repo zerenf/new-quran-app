@@ -185,6 +185,10 @@ export default function SurahFilter({ isSidebarOpen }) {
 		})
 	}, [selectedSurah, selectedMeal, selectedAyah])
 
+	// useEffect(()=> {
+	// 	fetchData()
+	// })
+
 	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
 	// console.log("selectedSurah:", selectedSurah)
 	// console.log("result?.arabic?:", result?.arabic)
@@ -193,7 +197,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 	return (
 		<>
 			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-24`}>
-				<div className="w-full max-w-3xl mx-3 p-3  bg-white rounded-lg shadow-md filter">
+				<div className="w-auto mx-3 p-3  bg-white rounded-lg shadow-md filter">
 					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Meal Ara</h2>
 
 					<div className="filter-container">
@@ -220,6 +224,17 @@ export default function SurahFilter({ isSidebarOpen }) {
 									placeholder="Opsiyonel"
 								/>
 							</div>
+
+							{/* <div className="ayah-input-container">
+								<label className="ayah-label">Kelime Ara:</label>
+								<input
+									type="text"
+									className="ayah-input"
+									value={selectedAyah}
+									onChange={(e) => setSelectedAyah(e.target.value)}
+									placeholder="Kelime ara..."
+								/>
+							</div> */}
 						</div>
 
 						{/* <div className="text-center mt-3">
