@@ -19,7 +19,6 @@ const useQuranStore = create((set, get) => ({
 		"diyanet-isleri": "Diyanet İşleri",
 		"diyanet-vakfi": "Diyanet Vakfı",
 		"elmalili-hamdi-yazir": "Elmalılı Hamdi Yazır",
-		"suat-yildirim": "Suat Yıldırım",
 		"suleyman-ates": "Süleyman Ateş",
 	},
 
