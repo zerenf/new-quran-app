@@ -215,7 +215,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 							<div style={{ margin: "0px 16px" }}>
 								<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
 
-								<CustomSelect options={Object.keys(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
+								<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
 							</div>
 
 							<div className="ayah-input-container">
