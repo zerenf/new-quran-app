@@ -6,7 +6,7 @@ const useQuranStore = create((set, get) => ({
 	selectedAyah: "",
 	result: [],
 	error: null,
-	selectedMeal: "diyanet-isleri",
+	selectedMeal: "Diyanet İşleri",
 	mealOwner: "Diyanet İşleri",
 	selectedMealData: null,
 	clicked: {},
@@ -14,20 +14,17 @@ const useQuranStore = create((set, get) => ({
 	loading: false,
 	searchResult: [],
 
-	mealMap: {
-		"ali-bulac": "Ali Bulaç",
-		"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
-		"diyanet-isleri": "Diyanet İşleri",
-		"diyanet-vakfi": "Diyanet Vakfı",
-		"elmalili-hamdi-yazir": "Elmalılı Hamdi Yazır",
-		"suat-yildirim": "Suat Yıldırım",
-		"suleyman-ates": "Süleyman Ateş",
-	},
-
+	mealsOwners: [
+		"Ali Bulaç",
+		"Abdulbakî Gölpınarlı",
+		"Diyanet İşleri",
+		"Diyanet Vakfı",
+		"Elmalılı Hamdi Yazır",
+		"Suat Yıldırım",
+		"Süleyman Ateş",
+	],
 	setSelectedMeal: (selectedMeal) => {
-		const { mealMap } = get()
-		const mealOwner = mealMap[selectedMeal] || "Bilinmeyen Meal"
-		set({ selectedMeal, mealOwner })
+		set({ selectedMeal, mealOwner: selectedMeal })
 	},
 
 	setSelectedSurah: (selectedSurah) => set({ selectedSurah }),
@@ -35,7 +32,7 @@ const useQuranStore = create((set, get) => ({
 	setResult: (result) => set({ result }),
 	setError: (error) => set({ error }),
 	setSelectedMealData: (selectedMealData) => set({ selectedMealData }),
-	setLoading: (loading) => set({ loading }), // Loading state'i setleme fonksiyonu
+	setLoading: (loading) => set({ loading }),
 
 	setClicked: (ayahNumber, status) =>
 		set((state) => ({
@@ -46,9 +43,15 @@ const useQuranStore = create((set, get) => ({
 	setSearchResult: (searchResult) => set({ searchResult }),
 
 	fetchData: async (surahName, meal, ayah) => {
-		const { setError, setResult, setSurahNumber, setLoading, setSelectedMeal } = get()
+		const { setError, setResult, setSurahNumber, setLoading, setSelectedMeal, selectedMeal } = get()
 
-		if (!surahName) return
+		if (!surahName) {
+			// Eğer sure seçilmediyse, sadece meal seçimini güncelle
+			setSelectedMeal(meal)
+			return
+		}
+
+		console.log("selectedMeal:", selectedMeal)
 
 		const formattedSurahName = surahName
 			.toLowerCase()
@@ -87,7 +90,7 @@ const useQuranStore = create((set, get) => ({
 		}
 
 		try {
-			setLoading(true) // Veri çekme başlamadan önce yükleniyor durumuna al
+			setLoading(true)
 			const { data } = await axios.get(url)
 			if (data.success) {
 				setResult(data.result)
@@ -98,16 +101,30 @@ const useQuranStore = create((set, get) => ({
 		} catch (err) {
 			setError("Veri çekilirken hata oluştu")
 		} finally {
-			setLoading(false) // İşlem tamamlandığında yükleniyor durumunu kaldır
+			setLoading(false)
 		}
 	},
 
 	fetchAllData: async () => {
-		const { selectedMeal, setSearchResult, setLoading, setError } = get()
+		const { selectedMeal, setSearchResult, setLoading, setError, setSelectedMeal } = get()
 
-		console.log("selectedMeal:", selectedMeal)
+		const formattedMealName = selectedMeal
+			.replace(/\s+/g, "-")
+			.toLowerCase()
+			.replace(/â/g, "a")
+			.replace(/î/g, "i")
+			.replace(/û/g, "u")
+			.replace(/ğ/g, "g")
+			.replace(/ü/g, "u")
+			.replace(/ş/g, "s")
+			.replace(/ı/g, "i")
+			.replace(/ö/g, "o")
+			.replace(/ç/g, "c")
+			.replace(/[^a-z0-9-]/g, "")
 
-		let url = `/api/meals/${selectedMeal || "diyanet-isleri"}`
+		console.log("formattedMealName:", formattedMealName)
+
+		let url = `/api/meals/${formattedMealName || "diyanet-isleri"}`
 
 		try {
 			setLoading(true)

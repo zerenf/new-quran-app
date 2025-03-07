@@ -4,12 +4,15 @@ import useQuranStore from "../stores/useQuranStore"
 import AyahCard from "./AyahCard"
 import CustomSelect from "./CustomSelect"
 import Spinner from "./Spinner"
-import Test from "./Test"
 
 export default function SurahFilter({ isSidebarOpen }) {
 	const [clicked, setClicked] = useState({})
 	const [error, setError] = useState(null)
-	// const [loading, setLoading] = useState(true)
+	const [searchTerm, setSearchTerm] = useState("")
+	const [searchedTerm, setSearchedTerm] = useState("")
+	const [searchError, setSearchError] = useState(false)
+	const [searchStarted, setSearchStarted] = useState(false)
+	const [searchLoading, setSearchLoading] = useState(false)
 
 	const {
 		fetchData,
@@ -22,6 +25,9 @@ export default function SurahFilter({ isSidebarOpen }) {
 		result,
 		mealOwner,
 		loading,
+		searchResult,
+		fetchAllData,
+		mealsOwners,
 	} = useQuranStore()
 
 	// Sure isimleri dizisi
@@ -142,18 +148,15 @@ export default function SurahFilter({ isSidebarOpen }) {
 		"Nâs",
 	]
 
-	const mealMap = {
-		"ali-bulac": "Ali Bulaç",
-		"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
-		"diyanet-isleri": "Diyanet İşleri",
-		"diyanet-vakfi": "Diyanet Vakfı",
-		"elmalili-hamdi": "Elmalılı Hamdi Yazır",
-		"suat-yildirim": "Suat Yıldırım",
-		"suleyman-ates": "Süleyman Ateş",
-	}
-
-	console.log("mealOwner:", mealOwner)
-	console.log("selectedMeal:", selectedMeal)
+	// const mealMap = {
+	// 	"ali-bulac": "Ali Bulaç",
+	// 	"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
+	// 	"diyanet-isleri": "Diyanet İşleri",
+	// 	"diyanet-vakfi": "Diyanet Vakfı",
+	// 	"elmalili-hamdi": "Elmalılı Hamdi Yazır",
+	// 	"suat-yildirim": "Suat Yıldırım",
+	// 	"suleyman-ates": "Süleyman Ateş",
+	// }
 
 	// Kopyalama işlemi için fonksiyon
 	const copyToClipboard = (text, ayahNumber) => {
@@ -167,7 +170,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 			try {
 				document.execCommand("copy")
 			} catch (err) {
-				console.error("Failed to copy text:", err)
+				console.error("Kopyalama başarısız:", err)
 			}
 			document.body.removeChild(textArea)
 		}
@@ -176,10 +179,49 @@ export default function SurahFilter({ isSidebarOpen }) {
 		setTimeout(() => setClicked((prev) => ({ ...prev, [ayahNumber]: false })), 2000)
 	}
 
-	useEffect(() => {
-		if (!selectedSurah) return // Kullanıcı sure adı girene kadar istek atma
+	const handleFetchAllData = async () => {
+		setSearchLoading(true)
+		setSearchStarted(true)
+		if (!searchTerm) {
+			return setSearchError(true)
+		}
+		setSearchError(false)
+		setSearchedTerm(searchTerm)
 
-		setError(null) // Yeni istek öncesi hatayı sıfırla
+		await fetchAllData()
+		setSearchLoading(false)
+	}
+
+	const highlightText = (text, searchTerm) => {
+		if (!searchTerm) return text
+
+		const regex = new RegExp(`(${searchTerm})`, "gi")
+		const parts = text.split(regex)
+
+		return parts.map((part, index) =>
+			part.toLowerCase() === searchTerm.toLowerCase() ? (
+				<span key={index} className="bg-primary text-black font-bold px-1 rounded">
+					{part}
+				</span>
+			) : (
+				part
+			)
+		)
+	}
+
+	const filteredAyats = Object.values(searchResult)
+		.flatMap((surah) => surah.ayats)
+		.filter((ayat) => ayat.ayahText.includes(searchedTerm))
+		.map((ayat) => {
+			return {
+				...ayat,
+			}
+		})
+
+	useEffect(() => {
+		// if (!selectedSurah) return
+
+		setError(null)
 		fetchData(selectedSurah, selectedMeal, selectedAyah).catch((err) => {
 			if (err?.error === "Geçersiz ayet numarası!") {
 				setError("Ayet bulunamadı!")
@@ -189,20 +231,14 @@ export default function SurahFilter({ isSidebarOpen }) {
 		})
 	}, [selectedSurah, selectedMeal, selectedAyah])
 
-	// useEffect(()=> {
-	// 	fetchData()
-	// })
-
-	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
 	// console.log("selectedSurah:", selectedSurah)
-	// console.log("result?.arabic?:", result?.arabic)
-	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
+	console.log("selectedMeal:", selectedMeal)
 
 	return (
 		<>
 			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-28`}>
-				<div className="w-auto p-3  bg-white rounded-lg shadow-md filter">
-					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Meal Ara</h2>
+				<div className="w-auto p-4 bg-white rounded-lg shadow-md filter">
+					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Detaylı Meal Arama</h2>
 
 					<div className="filter-container">
 						<div className="content">
@@ -215,7 +251,13 @@ export default function SurahFilter({ isSidebarOpen }) {
 							<div style={{ margin: "0px 16px" }}>
 								<p style={{ fontSize: 14, marginBottom: -10 }}>Meal:</p>
 
-								<CustomSelect options={Object.values(mealMap)} selected={mealOwner} setSelected={setSelectedMeal} placeholder="Opsiyonel" />
+								<CustomSelect
+									options={mealsOwners}
+									selected={selectedMeal}
+									setSelected={setSelectedMeal}
+									setSearchLoading={setSearchLoading}
+									placeholder="Opsiyonel"
+								/>
 							</div>
 
 							<div className="ayah-input-container">
@@ -229,29 +271,56 @@ export default function SurahFilter({ isSidebarOpen }) {
 								/>
 							</div>
 
-							{/* <div className="ayah-input-container">
-								<label className="ayah-label">Kelime Ara:</label>
+							<div className="ayah-input-container">
+								<label className="ayah-label">Kelime:</label>
 								<input
 									type="text"
 									className="ayah-input"
-									value={selectedAyah}
-									onChange={(e) => setSelectedAyah(e.target.value)}
+									value={searchTerm}
 									placeholder="Kelime ara..."
+									onChange={(e) => setSearchTerm(e.target.value)}
 								/>
-							</div> */}
-						</div>
+								{searchError && <p className="text-red-500">Lütfen bir kelime giriniz.</p>}
+							</div>
 
-						{/* <div className="text-center mt-3">
-							<button className="search-button" onClick={() => fetchData(selectedSurah, selectedMeal, selectedAyah)}>
-								Ara
-							</button>
-						</div> */}
+							<div style={{ margin: "0px 16px" }}>
+								<button
+									className="px-7 py-2 border cursor-pointer bg-green hover:bg-green-dark text-white rounded mb-[-12px] w-[100px]"
+									onClick={handleFetchAllData}
+								>
+									Ara
+								</button>
+							</div>
+						</div>
 					</div>
 				</div>
 			</div>
 
+			{/* Arama Sonuçları */}
 			<div className="flex justify-center my-10">
-				<Test />
+				<div className="mt-4 w-full max-w-2xl ml-[35px]">
+					{searchLoading && <p className="text-gray-500"></p>}
+					{!searchLoading && searchStarted && filteredAyats.length === 0 && (
+						<p className="text-gray-500">Aradığınız kelimeye uygun ayet bulunamadı.</p>
+					)}
+					{!searchLoading &&
+						filteredAyats.length > 0 &&
+						filteredAyats.map((ayat, index) => (
+							<div key={index} className="my-4 mx-3 p-2 bg-white rounded-xl max-w-3xl min-w-[315px]">
+								<div className="w-full h-0.5 bg-green-dark opacity-30 my-3 rounded-full"></div>
+
+								{/* Meal */}
+								<div className="flex flex-col sm:flex-row items-start mt-2">
+									<div className="flex flex-col">
+										<p className="text-[14px] text-gray-500"> {mealOwner} </p>
+										<p className="xs:leading-[35px] text-left text-[14px] sm:text-lg max-w-[600px]">
+											{highlightText(ayat.ayahText, searchedTerm)}
+										</p>
+									</div>
+								</div>
+							</div>
+						))}
+				</div>
 			</div>
 
 			{error && <p className="text-red-500">{error}</p>}

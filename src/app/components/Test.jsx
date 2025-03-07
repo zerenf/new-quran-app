@@ -4,18 +4,22 @@ import useQuranStore from "../stores/useQuranStore"
 const Test = () => {
 	const { searchResult, fetchAllData } = useQuranStore()
 	const [searchTerm, setSearchTerm] = useState("")
-	const [searchedTerm, setSearchedTerm] = useState("") // ✅ Arama işlemi için kullanılan state
+	const [searchedTerm, setSearchedTerm] = useState("")
 	const [error, setError] = useState(false)
-	const [searchStarted, setSearchStarted] = useState(false) // Arama başlatıldığında true olacak
+	const [searchStarted, setSearchStarted] = useState(false)
+	const [loading, setLoading] = useState(false)
 
-	const handleFetchAllData = () => {
+	const handleFetchAllData = async () => {
 		setSearchStarted(true)
 		if (!searchTerm) {
 			return setError(true)
 		}
-		setSearchedTerm(searchTerm) // ✅ Butona basınca arama başlasın
-		fetchAllData()
 		setError(false)
+		setLoading(true)
+		setSearchedTerm(searchTerm)
+
+		await fetchAllData()
+		setLoading(false)
 	}
 
 	const highlightText = (text, searchTerm) => {
@@ -48,7 +52,6 @@ const Test = () => {
 		<div className="flex flex-col items-center gap-4 p-4">
 			<h1 className="text-3xl font-semibold">TEST</h1>
 
-			{/* Arama Kutusu */}
 			<input
 				type="text"
 				placeholder="Kelime ara..."
@@ -58,24 +61,26 @@ const Test = () => {
 			/>
 			{error && <p>Lütfen bir kelime giriniz.</p>}
 
-			{/* Verileri çekme butonu */}
 			<button className="px-6 py-2 border cursor-pointer bg-blue-500 text-white rounded" onClick={handleFetchAllData}>
-				Verileri Getir
+				Ara
 			</button>
 
 			{/* Sonuçları Göster */}
 			<div className="mt-4 w-full max-w-2xl">
-				{searchStarted && filteredAyats?.length === 0 && <p className="text-gray-500">Aradığınız kelimeye uygun ayet bulunamadı.</p>}
-				{filteredAyats?.length > 0 && searchStarted
-					? filteredAyats?.map((ayat, index) => (
-							<div key={index} className="p-4 border rounded my-2">
-								<p className="text-lg font-bold">
-									{ayat.surahName} ({ayat.surahNumber}:{ayat.ayahNumber})
-								</p>
-								<p className="text-gray-700">{highlightText(ayat.ayahText, searchedTerm)}</p>
-							</div>
-					  ))
-					: null}
+				{loading && <p className="text-gray-500"></p>}
+				{!loading && searchStarted && filteredAyats.length === 0 && (
+					<p className="text-gray-500">Aradığınız kelimeye uygun ayet bulunamadı.</p>
+				)}
+				{!loading &&
+					filteredAyats.length > 0 &&
+					filteredAyats.map((ayat, index) => (
+						<div key={index} className="p-4 border rounded my-2">
+							<p className="text-lg font-bold">
+								{ayat.surahName} ({ayat.surahNumber}:{ayat.ayahNumber})
+							</p>
+							<p className="text-gray-700">{highlightText(ayat.ayahText, searchedTerm)}</p>
+						</div>
+					))}
 			</div>
 		</div>
 	)

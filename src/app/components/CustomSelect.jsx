@@ -1,11 +1,16 @@
 import { useState } from "react"
 
-const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz" }) => {
+const CustomSelect = ({ options, selected, setSelected, setSearchLoading, placeholder = "Seçiniz" }) => {
 	const [isOpen, setIsOpen] = useState(false)
 
 	return (
 		<div className="custom-select-container">
-			<div className="custom-select-box" onClick={() => setIsOpen(!isOpen)}>
+			<div
+				className="custom-select-box"
+				onClick={() => {
+					setIsOpen(!isOpen)
+				}}
+			>
 				<span style={{ color: "#B4B4B8", fontSize: 16 }}>{selected || placeholder}</span>
 				<svg className="custom-select-icon" viewBox="0 0 20 20" fill="currentColor">
 					<path
@@ -24,6 +29,7 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 							onClick={() => {
 								setSelected(option)
 								setIsOpen(false)
+								setSearchLoading(true)
 							}}
 						>
 							{option}
