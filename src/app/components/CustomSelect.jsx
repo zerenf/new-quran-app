@@ -29,7 +29,7 @@ const CustomSelect = ({ options, selected, setSelected, setSearchLoading, placeh
 							onClick={() => {
 								setSelected(option)
 								setIsOpen(false)
-								setSearchLoading(true)
+								// setSearchLoading(true)
 							}}
 						>
 							{option}

@@ -27,6 +27,10 @@ const useQuranStore = create((set, get) => ({
 		set({ selectedMeal, mealOwner: selectedMeal })
 	},
 
+	setMealOwner: (mealOwner) => {
+		set({mealOwner})
+	},
+
 	setSelectedSurah: (selectedSurah) => set({ selectedSurah }),
 	setSelectedAyah: (selectedAyah) => set({ selectedAyah }),
 	setResult: (result) => set({ result }),
@@ -82,7 +86,6 @@ const useQuranStore = create((set, get) => ({
 			.replace(/ç/g, "c")
 			.replace(/[^a-z0-9-]/g, "")
 
-		setSelectedMeal(formattedMealName)
 
 		let url = `/api/search/${formattedSurahName}?meal=${formattedMealName || "diyanet-isleri"}`
 		if (ayah) {
@@ -106,7 +109,22 @@ const useQuranStore = create((set, get) => ({
 	},
 
 	fetchAllData: async () => {
-		const { selectedMeal, setSearchResult, setLoading, setError, setSelectedMeal } = get()
+		const { selectedMeal, setSearchResult, setLoading, setError, setSelectedMeal,selectedSurah } = get()
+
+		const formattedSurahName = selectedSurah
+			.toLowerCase()
+			.replace(/\s+/g, "-")
+			.replace(/â/g, "a")
+			.replace(/î/g, "i")
+			.replace(/û/g, "u")
+			.replace(/ğ/g, "g")
+			.replace(/ü/g, "u")
+			.replace(/ş/g, "s")
+			.replace(/ı/g, "i")
+			.replace(/ö/g, "o")
+			.replace(/ç/g, "c")
+			.replace(/-i-/g, "i-")
+			.replace(/[^a-z0-9]/g, "")
 
 		const formattedMealName = selectedMeal
 			.replace(/\s+/g, "-")
