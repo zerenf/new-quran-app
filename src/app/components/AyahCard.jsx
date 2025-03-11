@@ -12,12 +12,13 @@ export default function AyahCard({ ayah, meal, surahName, surahNumber, copyToCli
 			</button>
 
 			<div className="my-10 px-3">
-				<div className="flex flex-row items-start xs:items-center">
+				<div className="flex flex-col  items-start xs:items-center">
 					{/* Arapça Ayet */}
-					<p className="text-green font-bold sm:w-auto p-2 rounded text-[14px] sm:text-lg">
+					<p className="w-full text-green font-bold sm:w-auto p-2 rounded text-[14px] sm:text-lg">
 						{surahName} / {ayah.ayahNumber}
 					</p>
-					<p className="flex-1 text-right leading-[35px] p-2 font-arabic text-[18px] sm:text-lg">{ayah.ayahText}</p>
+
+					<p className="w-full text-right leading-[35px] p-2 font-arabic text-[18px] sm:text-lg">{ayah.ayahText}</p>
 				</div>
 
 				<div className="w-full h-0.5 bg-green-dark opacity-30 my-3 rounded-full"></div>

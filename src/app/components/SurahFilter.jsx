@@ -1,10 +1,11 @@
 "use client"
-import { useState, useEffect } from "react"
+import { useState } from "react"
 import useQuranStore from "../stores/useQuranStore"
 import AyahCard from "./AyahCard"
 import CustomSelect from "./CustomSelect"
 import Spinner from "./Spinner"
 import WordCard from "./WordCard"
+import { PiArrowFatLineLeftLight, PiArrowFatLineRightLight } from "react-icons/pi"
 
 export default function SurahFilter({ isSidebarOpen }) {
 	const [clicked, setClicked] = useState({})
@@ -203,23 +204,23 @@ export default function SurahFilter({ isSidebarOpen }) {
 			.map((ayat) => ({ ...ayat }))
 	}
 
-	const handleNextAyah = async () => {
-		const nextAyah = Number(selectedAyah) + 1
-		setSelectedAyah(nextAyah)
-		const nextAyahData = await fetchData(selectedSurah, selectedMeal, nextAyah)
-
-		if (nextAyahData) {
-			setHasNextAyah(true) // Bir sonraki ayet var
-		} else {
-			setHasNextAyah(false) // Bir sonraki ayet yok
+	const handleNextAyah = () => {
+		if (selectedAyah < result?.arabic?.arabicResult.length) {
+			setSelectedAyah(Number(selectedAyah) + 1)
 		}
 	}
 
-	console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult.length)
+	const handlePreviousAyah = () => {
+		if (selectedAyah > 1) {
+			setSelectedAyah(Number(selectedAyah) - 1)
+		}
+	}
+
+	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
 	// console.log("result?.arabic?.arabicResult?.[selectedAyah - 1]:", result?.arabic?.arabicResult?.[selectedAyah - 1])
 
-	const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
-	console.log("currentAyah:", currentAyah)
+	// const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
+	// console.log("currentAyah:", currentAyah)
 	console.log("selectedAyah:", selectedAyah)
 
 	return (
@@ -323,19 +324,28 @@ export default function SurahFilter({ isSidebarOpen }) {
 				</div>
 			</div>
 
-			{selectedAyah && selectedAyah <= result?.arabic?.arabicResult.length && (
-				<div className="flex justify-center">
-					<div className="w-full max-w-2xl ml-[35px] text-end">
-						<button className="border p-1 cursor-pointer" onClick={handleNextAyah}>
-							İleri
-						</button>
-					</div>
-				</div>
-			)}
-
-			{!searchTerm && !loading && result && !error && (
+			{!loading && result && !error && (
 				<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>
 					<div className="mb-10">
+						{selectedAyah && selectedAyah <= result?.arabic?.arabicResult.length && (
+							<div className="flex justify-center">
+								<div className={`w-full max-w-2xl mr-6 text-end`}>
+									{/* Geri butonu sadece ilk ayette değilse göster */}
+									{selectedAyah > 1 && (
+										<button className="border p-1 cursor-pointer" onClick={handlePreviousAyah}>
+											<PiArrowFatLineLeftLight />
+										</button>
+									)}
+									{/* İleri butonu sadece son ayette değilse göster */}
+									{selectedAyah < result?.arabic?.arabicResult.length && (
+										<button className="border p-1 cursor-pointer ml-2" onClick={handleNextAyah}>
+											<PiArrowFatLineRightLight />
+										</button>
+									)}
+								</div>
+							</div>
+						)}
+
 						{selectedAyah ? (
 							selectedAyah <= result?.arabic?.arabicResult?.length ? (
 								<AyahCard
@@ -348,7 +358,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 									mealOwner={mealOwner}
 								/>
 							) : (
-								<p>Son ayete ulaştınız.</p>
+								<p>Geçersiz ayet numarası.</p>
 							)
 						) : (
 							result?.arabic?.arabicResult?.map((ayah, index) => (
