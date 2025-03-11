@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
 						</p>
 
 						<p className="header-text-meal">
-							Sana bu mübarek Kitab'ı, ayetlerini derin derin düşünsünler ve aklı olanlar öğüt alsınlar diye indirdik.
+							Sana bu mübarek Kitab'ı, ayetlerini derin derin düşünsünler ve aklı olanlar öğüt alsınlar diye indirdik. (38/29)
 						</p>
 					</div>
 				</div>

@@ -35,7 +35,7 @@ export default function Home() {
 				{/* Sidebar */}
 				<div
 					className={`bg-[#D9EAFD] sidebar p-1 pt-8 fixed top-21 left-0 h-screen transition-all duration-300 ${
-						isSidebarOpen ? "w-[320px]" : "w-6"
+						isSidebarOpen ? "w-[335px]" : "w-6"
 					}`}
 				>
 					{/* Sidebar Kontrol Butonu */}

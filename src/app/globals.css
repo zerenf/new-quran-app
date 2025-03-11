@@ -371,9 +371,14 @@ input[type="number"] {
 	margin-right: 16px;
 }
 
-@media (max-width: 1140px) {
+.header-text-meal {
+	margin-right: 10px;
+}
+
+@media (max-width: 1200px) {
 	.header-text-meal {
 		margin-left: 60px;
+		margin-right: 10px;
 	}
 }
 

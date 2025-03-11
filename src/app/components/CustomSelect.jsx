@@ -6,7 +6,7 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 	const [inputFocused, setInputFocused] = useState(false) // Odak durumu için state
 
 	// Arama terimine göre filtreleme
-	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery))
+	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery.toLowerCase()))
 
 	return (
 		<div className="custom-select-container">
