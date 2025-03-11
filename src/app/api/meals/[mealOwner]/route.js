@@ -9,8 +9,10 @@ export async function GET(req, { params }) {
 	const searchParams = req.nextUrl.searchParams
 
 	const surah = searchParams.get("surah")
+	const ayah = searchParams.get("ayah")
 
 	console.log("surah:", surah)
+	console.log("ayah:", ayah)
 
 	const filePath = path.join(process.cwd(), "src", "data", "all-meals-new2", `${mealOwner}.json`)
 
@@ -21,7 +23,6 @@ export async function GET(req, { params }) {
 			const response = data[surah]
 
 			return Response.json({ success: true, data: response })
-
 		}
 
 		return Response.json({ success: true, data })

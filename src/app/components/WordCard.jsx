@@ -1,14 +1,14 @@
 import { LuCopy, LuCopyCheck } from "react-icons/lu"
-const WordCard = ({ ayah, mealOwner, searchTerm, clicked, copyToClipboard, count }) => {
+const WordCard = ({ ayah, mealOwner, searchedTerm, clicked, copyToClipboard, count }) => {
 	// console.log("ayah from word card:", ayah)
-	const highlightText = (text, searchTerm) => {
-		if (!searchTerm) return text
+	const highlightText = (text, searchedTerm) => {
+		if (!searchedTerm) return text
 
-		const regex = new RegExp(`(${searchTerm})`, "gi")
+		const regex = new RegExp(`(${searchedTerm})`, "gi")
 		const parts = text.split(regex)
 
 		return parts.map((part, index) =>
-			part.toLowerCase() === searchTerm.toLowerCase() ? (
+			part.toLowerCase() === searchedTerm.toLowerCase() ? (
 				<span key={index} className="bg-primary text-black font-bold px-1 rounded">
 					{part}
 				</span>
@@ -45,7 +45,7 @@ const WordCard = ({ ayah, mealOwner, searchTerm, clicked, copyToClipboard, count
 							{ayah.surahName} / {ayah.ayahNumber}
 						</p>
 						<p className="text-[14px] text-gray-500"> {mealOwner} </p>
-						<p className="xs:leading-[35px] text-left text-[16px] sm:text-lg max-w-[600px]">{highlightText(ayah.ayahText, searchTerm)}</p>
+						<p className="xs:leading-[35px] text-left text-[16px] sm:text-lg max-w-[600px]">{highlightText(ayah.ayahText, searchedTerm)}</p>
 					</div>
 				</div>
 			</div>

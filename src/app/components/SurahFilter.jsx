@@ -15,6 +15,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 	const [searchError, setSearchError] = useState(false)
 	const [searchStarted, setSearchStarted] = useState(false)
 	const [searchLoading, setSearchLoading] = useState(false)
+	const [hasNextAyah, setHasNextAyah] = useState(false)
+	const [ayah, setAyah] = useState("")
 
 	const {
 		fetchData,
@@ -32,7 +34,6 @@ export default function SurahFilter({ isSidebarOpen }) {
 		mealsOwners,
 	} = useQuranStore()
 
-	// Sure isimleri dizisi
 	const surahNames = [
 		"Fâtiha",
 		"Bakara",
@@ -150,17 +151,6 @@ export default function SurahFilter({ isSidebarOpen }) {
 		"Nâs",
 	]
 
-	// const mealMap = {
-	// 	"ali-bulac": "Ali Bulaç",
-	// 	"abdulbaki-golpinarli": "Abdulbakî Gölpınarlı",
-	// 	"diyanet-isleri": "Diyanet İşleri",
-	// 	"diyanet-vakfi": "Diyanet Vakfı",
-	// 	"elmalili-hamdi": "Elmalılı Hamdi Yazır",
-	// 	"suat-yildirim": "Suat Yıldırım",
-	// 	"suleyman-ates": "Süleyman Ateş",
-	// }
-
-	// Kopyalama işlemi için fonksiyon
 	const copyToClipboard = (text, ayahNumber) => {
 		if (navigator.clipboard) {
 			navigator.clipboard.writeText(text).catch((err) => console.error("Clipboard API error:", err))
@@ -187,18 +177,16 @@ export default function SurahFilter({ isSidebarOpen }) {
 		setSearchError(false)
 
 		if (searchTerm) {
-			console.log("searchTerm girdik:")
+			setSearchedTerm(searchTerm)
 
 			await fetchAllData()
 			setSearchLoading(false)
-			console.log("searchTerm içindeki searchResult:", searchResult)
+
 			return
 		}
 
-		console.log("searchTerm girmedik:")
-
 		setError(null)
-		fetchData(selectedSurah, selectedMeal, selectedAyah)
+		await fetchData(selectedSurah, selectedMeal, selectedAyah)
 
 		setSearchLoading(false)
 	}
@@ -206,36 +194,32 @@ export default function SurahFilter({ isSidebarOpen }) {
 	let filteredAyats
 
 	if (searchResult.ayats) {
-		// Kullanıcı belirli bir sure seçmiş (tek sure formatı)
-		filteredAyats = searchResult.ayats.filter((ayah) => ayah.ayahText.includes(searchTerm)).map((ayah) => ({ ...ayah }))
+		filteredAyats = searchResult.ayats.filter((ayah) => ayah.ayahText.includes(searchedTerm)).map((ayah) => ({ ...ayah }))
 	} else {
-		// Kullanıcı tüm sureleri seçmiş (tüm sureler formatı)
 		filteredAyats = Object.values(searchResult)
 			.flatMap((surah) => surah.ayats)
-			.filter((ayat) => ayat.ayahText.includes(searchTerm))
+			.filter((ayat) => ayat.ayahText.includes(searchedTerm))
 			.map((ayat) => ({ ...ayat }))
 	}
 
-	console.log("filteredAyats:", filteredAyats)
-	console.log("searchResult:", searchResult)
-	console.log("filteredAyats.length:", filteredAyats.length)
+	const handleNextAyah = async () => {
+		const nextAyah = Number(selectedAyah) + 1
+		setSelectedAyah(nextAyah)
+		const nextAyahData = await fetchData(selectedSurah, selectedMeal, nextAyah)
 
-	// useEffect(() => {
-	// 	if (!selectedSurah) return
+		if (nextAyahData) {
+			setHasNextAyah(true) // Bir sonraki ayet var
+		} else {
+			setHasNextAyah(false) // Bir sonraki ayet yok
+		}
+	}
 
-	// 	setError(null)
-	// 	fetchData(selectedSurah, selectedMeal, selectedAyah).catch((err) => {
-	// 		if (err?.error === "Geçersiz ayet numarası!") {
-	// 			setError("Ayet bulunamadı!")
-	// 		} else {
-	// 			setError("Bir hata oluştu. Lütfen tekrar deneyin.")
-	// 		}
-	// 	})
-	// }, [selectedMeal, selectedAyah])
+	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
+	// console.log("result?.arabic?.arabicResult?.[selectedAyah - 1]:", result?.arabic?.arabicResult?.[selectedAyah - 1])
 
-	// console.log("selectedSurah:", selectedSurah)
-	// console.log("selectedMeal:", selectedMeal)
-	// console.log("result:", result)
+	const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
+	console.log("currentAyah:", currentAyah)
+	console.log("selectedAyah:", selectedAyah)
 
 	return (
 		<>
@@ -268,8 +252,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 								<input
 									type="number"
 									className="ayah-input"
-									value={selectedAyah}
-									onChange={(e) => setSelectedAyah(e.target.value)}
+									value={ayah}
+									onChange={(e) => setAyah(e.target.value)}
 									placeholder="İsteğe bağlı..."
 								/>
 							</div>
@@ -304,12 +288,11 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 			{loading && <Spinner isSidebarOpen={isSidebarOpen} />}
 
-			{/* Arama Sonuçları */}
 			<div className="flex justify-center my-10">
 				<div className="mt-4 w-full max-w-2xl ml-[35px]">
 					{filteredAyats.length > 0 && (
 						<div className="mx-2">
-							<span style={{ fontWeight: 900 }}> {searchTerm} </span>
+							<span style={{ fontWeight: 900 }}> {searchedTerm} </span>
 							kelimesi
 							<span style={{ fontWeight: 900 }}> {selectedSurah ? selectedSurah : "Kur'an'da"}</span>
 							{selectedSurah && " suresinde"}
@@ -329,31 +312,42 @@ export default function SurahFilter({ isSidebarOpen }) {
 								key={index}
 								ayah={ayah}
 								mealOwner={mealOwner}
-								searchTerm={searchTerm}
+								searchedTerm={searchedTerm || ""}
 								clicked={clicked}
 								copyToClipboard={copyToClipboard}
-								count={filteredAyats.length}
 							/>
 						))}
 				</div>
 			</div>
 
-			{!loading && result && !error && (
-				<div className={`flex justify-center ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>
-					<div className="my-10">
-						{/* Eğer sadece tek bir ayet geldiyse doğrudan göster */}
-						{result?.arabic?.arabicResult?.ayahText ? (
-							<AyahCard
-								ayah={result.arabic.arabicResult}
-								meal={result.meal.turkishResult}
-								surahNumber={result.arabic.surahNumber}
-								surahName={result.arabic.surahNameTr}
-								copyToClipboard={copyToClipboard}
-								clicked={clicked}
-								mealOwner={mealOwner}
-							/>
+			{selectedAyah && (
+				<div className="flex justify-center">
+					<div className="w-full max-w-2xl ml-[35px] text-end">
+						<button className="border p-1 cursor-pointer" onClick={handleNextAyah}>
+							İleri
+						</button>
+					</div>
+				</div>
+			)}
+
+			{!searchTerm && !loading && result && !error && (
+				<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>
+					<div className="mb-10">
+						{selectedAyah ? (
+							selectedAyah <= result?.arabic?.arabicResult?.length ? (
+								<AyahCard
+									ayah={result.arabic.arabicResult[selectedAyah - 1]}
+									meal={result.meal.turkishResult[selectedAyah - 1]}
+									surahNumber={result.arabic.surahNumber}
+									surahName={result.arabic.surahNameTr}
+									copyToClipboard={copyToClipboard}
+									clicked={clicked}
+									mealOwner={mealOwner}
+								/>
+							) : (
+								<p>Son ayete ulaştınız.</p>
+							)
 						) : (
-							// Eğer tüm sure geldiyse map ile dön
 							result?.arabic?.arabicResult?.map((ayah, index) => (
 								<AyahCard
 									key={ayah.ayahNumber}

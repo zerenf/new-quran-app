@@ -1,5 +1,6 @@
 import { create } from "zustand"
 import axios from "axios"
+import { result } from "lodash"
 
 const useQuranStore = create((set, get) => ({
 	selectedSurah: "",
@@ -28,7 +29,7 @@ const useQuranStore = create((set, get) => ({
 	},
 
 	setMealOwner: (mealOwner) => {
-		set({mealOwner})
+		set({ mealOwner })
 	},
 
 	setSelectedSurah: (selectedSurah) => set({ selectedSurah }),
@@ -47,15 +48,13 @@ const useQuranStore = create((set, get) => ({
 	setSearchResult: (searchResult) => set({ searchResult }),
 
 	fetchData: async (surahName, meal, ayah) => {
-		const { setError, setResult, setSurahNumber, setLoading, setSelectedMeal, selectedMeal } = get()
+		const { setError, result, setResult, setSurahNumber, setLoading, setSelectedMeal, selectedMeal } = get()
 
 		if (!surahName) {
 			// Eğer sure seçilmediyse, sadece meal seçimini güncelle
 			setSelectedMeal(meal)
 			return
 		}
-
-		console.log("selectedMeal:", selectedMeal)
 
 		const formattedSurahName = surahName
 			.toLowerCase()
@@ -86,11 +85,10 @@ const useQuranStore = create((set, get) => ({
 			.replace(/ç/g, "c")
 			.replace(/[^a-z0-9-]/g, "")
 
-
 		let url = `/api/search/${formattedSurahName}?meal=${formattedMealName || "diyanet-isleri"}`
-		if (ayah) {
-			url += `&ayah=${ayah}`
-		}
+		// if (ayah) {
+		// 	url += `&ayah=${ayah}`
+		// }
 
 		try {
 			setLoading(true)
@@ -109,7 +107,7 @@ const useQuranStore = create((set, get) => ({
 	},
 
 	fetchAllData: async () => {
-		const { selectedMeal, setSearchResult, setLoading, setError, setSelectedMeal,selectedSurah } = get()
+		const { selectedMeal, setSearchResult, setLoading, setError, setSelectedMeal, selectedSurah } = get()
 
 		const formattedSurahName = selectedSurah
 			.toLowerCase()
@@ -150,7 +148,7 @@ const useQuranStore = create((set, get) => ({
 			const { data } = await axios.get(url)
 			if (data.success) {
 				setSearchResult(data.data)
-				console.log("data.data:",data.data)
+				console.log("data.data:", data.data)
 				setError(null)
 			} else {
 				setError(data.error)
