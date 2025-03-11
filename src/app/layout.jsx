@@ -14,9 +14,13 @@ export default function RootLayout({ children }) {
 						<img src="/quran-logo.png" alt="Quran Logo" className="logo" />
 					</div>
 					<div className="header-title-container">
-						<h1 className="header-text">
+						<p className="header-text">
 							كِتَابٌ أَنزَلْنَاهُ إِلَيْكَ مُبَارَكٌ لِّيَدَّبَّرُوا آيَاتِهِ وَلِيَتَذَكَّرَ أُولُو الْأَلْبَابِ
-						</h1>
+						</p>
+
+						<p className="header-text-meal">
+							Sana bu mübarek Kitab'ı, ayetlerini derin derin düşünsünler ve aklı olanlar öğüt alsınlar diye indirdik.
+						</p>
 					</div>
 				</div>
 				{children}

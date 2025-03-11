@@ -14,7 +14,7 @@ export default function AyahCard({ ayah, meal, surahName, surahNumber, copyToCli
 			<div className="my-10 px-3">
 				<div className="flex flex-col  items-start xs:items-center">
 					{/* Arapça Ayet */}
-					<p className="w-full text-green font-bold sm:w-auto p-2 rounded text-[14px] sm:text-lg">
+					<p className=" text-green border-b border-green sm:w-auto text-[14px] sm:text-lg">
 						{surahName} / {ayah.ayahNumber}
 					</p>
 
