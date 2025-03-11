@@ -215,7 +215,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		}
 	}
 
-	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
+	console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult.length)
 	// console.log("result?.arabic?.arabicResult?.[selectedAyah - 1]:", result?.arabic?.arabicResult?.[selectedAyah - 1])
 
 	const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
@@ -256,6 +256,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 									value={ayah}
 									onChange={(e) => setAyah(e.target.value)}
 									placeholder="İsteğe bağlı..."
+									min={1}
+									max={result?.arabic?.arabicResult.length}
 								/>
 							</div>
 
@@ -321,7 +323,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 				</div>
 			</div>
 
-			{selectedAyah && (
+			{selectedAyah && selectedAyah <= result?.arabic?.arabicResult.length && (
 				<div className="flex justify-center">
 					<div className="w-full max-w-2xl ml-[35px] text-end">
 						<button className="border p-1 cursor-pointer" onClick={handleNextAyah}>
