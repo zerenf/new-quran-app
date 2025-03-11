@@ -1,29 +1,29 @@
 {
-  "tebbet": {
-    "surahNumber": "111",
-    "surahName": "المسد",
-    "surahNameTr": "Tebbet Suresi",
-    "ayats": [
-      {
-        "ayahNumber": "1",
-        "ayahText": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ"
-      },
-      {
-        "ayahNumber": "2",
-        "ayahText": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ"
-      },
-      {
-        "ayahNumber": "3",
-        "ayahText": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
-      },
-      {
-        "ayahNumber": "4",
-        "ayahText": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ"
-      },
-      {
-        "ayahNumber": "5",
-        "ayahText": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ"
-      }
-    ]
-  }
+	"tebbet": {
+		"surahNumber": "111",
+		"surahName": "المسد",
+		"surahNameTr": "Tebbet",
+		"ayats": [
+			{
+				"ayahNumber": "1",
+				"ayahText": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ"
+			},
+			{
+				"ayahNumber": "2",
+				"ayahText": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ"
+			},
+			{
+				"ayahNumber": "3",
+				"ayahText": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ"
+			},
+			{
+				"ayahNumber": "4",
+				"ayahText": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ"
+			},
+			{
+				"ayahNumber": "5",
+				"ayahText": "فِي جِيدِهَا حَبْلٌ مِّن مَّسَدٍ"
+			}
+		]
+	}
 }

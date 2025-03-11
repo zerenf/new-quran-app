@@ -1,6 +1,6 @@
 import { LuCopy, LuCopyCheck } from "react-icons/lu"
 
-export default function AyahCard({ ayah, meal, surahNumber, copyToClipboard, clicked, mealOwner }) {
+export default function AyahCard({ ayah, meal, surahName, surahNumber, copyToClipboard, clicked, mealOwner }) {
 	// console.log("mealOwner:", mealOwner)
 	return (
 		<div className="flex flex-col mx-2 bg-white my-4 relative rounded-xl max-w-3xl min-w-[300px]">
@@ -15,7 +15,7 @@ export default function AyahCard({ ayah, meal, surahNumber, copyToClipboard, cli
 				<div className="flex flex-row items-start xs:items-center">
 					{/* Arapça Ayet */}
 					<p className="text-green font-bold sm:w-auto p-2 rounded text-[14px] sm:text-lg">
-						{surahNumber}:{ayah.ayahNumber}
+						{surahName} / {ayah.ayahNumber}
 					</p>
 					<p className="flex-1 text-right leading-[35px] p-2 font-arabic text-[18px] sm:text-lg">{ayah.ayahText}</p>
 				</div>

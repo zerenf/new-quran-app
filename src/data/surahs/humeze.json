@@ -1,45 +1,45 @@
 {
-  "humeze": {
-    "surahNumber": "104",
-    "surahName": "الهمزة",
-    "surahNameTr": "Hümeze Suresi",
-    "ayats": [
-      {
-        "ayahNumber": "1",
-        "ayahText": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ"
-      },
-      {
-        "ayahNumber": "2",
-        "ayahText": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
-      },
-      {
-        "ayahNumber": "3",
-        "ayahText": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ"
-      },
-      {
-        "ayahNumber": "4",
-        "ayahText": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ"
-      },
-      {
-        "ayahNumber": "5",
-        "ayahText": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
-      },
-      {
-        "ayahNumber": "6",
-        "ayahText": "نَارُ اللَّهِ الْمُوقَدَةُ"
-      },
-      {
-        "ayahNumber": "7",
-        "ayahText": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ"
-      },
-      {
-        "ayahNumber": "8",
-        "ayahText": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ"
-      },
-      {
-        "ayahNumber": "9",
-        "ayahText": "فِي عَمَدٍ مُّمَدَّدَةٍ"
-      }
-    ]
-  }
+	"humeze": {
+		"surahNumber": "104",
+		"surahName": "الهمزة",
+		"surahNameTr": "Hümeze",
+		"ayats": [
+			{
+				"ayahNumber": "1",
+				"ayahText": "وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ"
+			},
+			{
+				"ayahNumber": "2",
+				"ayahText": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ"
+			},
+			{
+				"ayahNumber": "3",
+				"ayahText": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ"
+			},
+			{
+				"ayahNumber": "4",
+				"ayahText": "كَلَّا ۖ لَيُنبَذَنَّ فِي الْحُطَمَةِ"
+			},
+			{
+				"ayahNumber": "5",
+				"ayahText": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ"
+			},
+			{
+				"ayahNumber": "6",
+				"ayahText": "نَارُ اللَّهِ الْمُوقَدَةُ"
+			},
+			{
+				"ayahNumber": "7",
+				"ayahText": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ"
+			},
+			{
+				"ayahNumber": "8",
+				"ayahText": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ"
+			},
+			{
+				"ayahNumber": "9",
+				"ayahText": "فِي عَمَدٍ مُّمَدَّدَةٍ"
+			}
+		]
+	}
 }

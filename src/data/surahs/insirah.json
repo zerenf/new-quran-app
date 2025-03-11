@@ -1,41 +1,41 @@
 {
-  "insirah": {
-    "surahNumber": "94",
-    "surahName": "الشرح",
-    "surahNameTr": "İnşirâh Suresi",
-    "ayats": [
-      {
-        "ayahNumber": "1",
-        "ayahText": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
-      },
-      {
-        "ayahNumber": "2",
-        "ayahText": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
-      },
-      {
-        "ayahNumber": "3",
-        "ayahText": "الَّذِي أَنقَضَ ظَهْرَكَ"
-      },
-      {
-        "ayahNumber": "4",
-        "ayahText": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
-      },
-      {
-        "ayahNumber": "5",
-        "ayahText": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا"
-      },
-      {
-        "ayahNumber": "6",
-        "ayahText": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
-      },
-      {
-        "ayahNumber": "7",
-        "ayahText": "فَإِذَا فَرَغْتَ فَانصَبْ"
-      },
-      {
-        "ayahNumber": "8",
-        "ayahText": "وَإِلَىٰ رَبِّكَ فَارْغَب"
-      }
-    ]
-  }
+	"insirah": {
+		"surahNumber": "94",
+		"surahName": "الشرح",
+		"surahNameTr": "İnşirâh",
+		"ayats": [
+			{
+				"ayahNumber": "1",
+				"ayahText": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ"
+			},
+			{
+				"ayahNumber": "2",
+				"ayahText": "وَوَضَعْنَا عَنكَ وِزْرَكَ"
+			},
+			{
+				"ayahNumber": "3",
+				"ayahText": "الَّذِي أَنقَضَ ظَهْرَكَ"
+			},
+			{
+				"ayahNumber": "4",
+				"ayahText": "وَرَفَعْنَا لَكَ ذِكْرَكَ"
+			},
+			{
+				"ayahNumber": "5",
+				"ayahText": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا"
+			},
+			{
+				"ayahNumber": "6",
+				"ayahText": "إِنَّ مَعَ الْعُسْرِ يُسْرًا"
+			},
+			{
+				"ayahNumber": "7",
+				"ayahText": "فَإِذَا فَرَغْتَ فَانصَبْ"
+			},
+			{
+				"ayahNumber": "8",
+				"ayahText": "وَإِلَىٰ رَبِّكَ فَارْغَب"
+			}
+		]
+	}
 }

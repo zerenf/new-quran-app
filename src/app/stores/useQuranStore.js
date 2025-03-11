@@ -142,7 +142,7 @@ const useQuranStore = create((set, get) => ({
 
 		console.log("formattedMealName:", formattedMealName)
 
-		let url = `/api/meals/${formattedMealName || "diyanet-isleri"}`
+		let url = `/api/meals/${formattedMealName || "diyanet-isleri"}?surah=${formattedSurahName}`
 
 		try {
 			setLoading(true)
@@ -150,6 +150,7 @@ const useQuranStore = create((set, get) => ({
 			const { data } = await axios.get(url)
 			if (data.success) {
 				setSearchResult(data.data)
+				console.log("data.data:",data.data)
 				setError(null)
 			} else {
 				setError(data.error)

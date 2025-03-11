@@ -1,25 +1,25 @@
 {
-  "kureys": {
-    "surahNumber": "106",
-    "surahName": "قريش",
-    "surahNameTr": "Kureyş Suresi",
-    "ayats": [
-      {
-        "ayahNumber": "1",
-        "ayahText": "لِإِيلَافِ قُرَيْشٍ"
-      },
-      {
-        "ayahNumber": "2",
-        "ayahText": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ"
-      },
-      {
-        "ayahNumber": "3",
-        "ayahText": "فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ"
-      },
-      {
-        "ayahNumber": "4",
-        "ayahText": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ"
-      }
-    ]
-  }
+	"kureys": {
+		"surahNumber": "106",
+		"surahName": "قريش",
+		"surahNameTr": "Kureyş",
+		"ayats": [
+			{
+				"ayahNumber": "1",
+				"ayahText": "لِإِيلَافِ قُرَيْشٍ"
+			},
+			{
+				"ayahNumber": "2",
+				"ayahText": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ"
+			},
+			{
+				"ayahNumber": "3",
+				"ayahText": "فَلْيَعْبُدُوا رَبَّ هَـٰذَا الْبَيْتِ"
+			},
+			{
+				"ayahNumber": "4",
+				"ayahText": "الَّذِي أَطْعَمَهُم مِّن جُوعٍ وَآمَنَهُم مِّنْ خَوْفٍ"
+			}
+		]
+	}
 }
