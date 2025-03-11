@@ -345,7 +345,8 @@ input[type="number"] {
 .logo-container {
 	position: absolute;
 	left: 10px;
-	top: 10px;
+	top: 50%;
+	transform: translateY(-50%);
 }
 
 /* Logo styling */
@@ -382,7 +383,7 @@ input[type="number"] {
 	}
 }
 
-@media (max-width: 780px) {
+@media (max-width: 850px) {
 	.header-text-meal {
 		font-size: 14px;
 	}
