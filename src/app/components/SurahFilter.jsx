@@ -175,6 +175,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		setSearchLoading(true)
 		setSearchStarted(true)
 		setSearchError(false)
+		setSelectedAyah(ayah)
 
 		if (searchTerm) {
 			setSearchedTerm(searchTerm)
