@@ -41,7 +41,7 @@ export default function Home() {
 					{/* Sidebar Kontrol Butonu */}
 					<button
 						onClick={toggleSidebar}
-						className="absolute -right-4 top-13 w-10 h-10 bg-primary text-grey-dark flex items-center justify-center rounded-full cursor-pointer z-10"
+						className="absolute -right-4 top-16 w-10 h-10 bg-primary text-grey-dark flex items-center justify-center rounded-full cursor-pointer z-10"
 					>
 						{isSidebarOpen ? <FaArrowCircleLeft size={26} /> : <FaArrowCircleRight size={26} />}
 					</button>
