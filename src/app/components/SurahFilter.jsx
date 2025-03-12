@@ -197,11 +197,13 @@ export default function SurahFilter({ isSidebarOpen }) {
 	let filteredAyats
 
 	if (searchResult?.ayats) {
-		filteredAyats = searchResult?.ayats?.filter((ayah) => ayah.ayahText.includes(searchedTerm)).map((ayah) => ({ ...ayah }))
+		filteredAyats = searchResult?.ayats
+			?.filter((ayah) => ayah.ayahText.toLowerCase().includes(searchedTerm.toLowerCase()))
+			.map((ayah) => ({ ...ayah }))
 	} else {
 		filteredAyats = Object.values(searchResult)
 			.flatMap((surah) => surah.ayats)
-			.filter((ayat) => ayat.ayahText.includes(searchedTerm))
+			.filter((ayat) => ayat.ayahText.toLowerCase().includes(searchedTerm.toLowerCase()))
 			.map((ayat) => ({ ...ayat }))
 	}
 
