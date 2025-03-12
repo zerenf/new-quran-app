@@ -64,7 +64,7 @@ const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholde
 									key={index}
 									onClick={() => {
 										searchFunc(option)
-										// setSelectedMeal(option)
+										setSelectedMeal(option)
 										setIsOpen(false)
 									}}
 									style={{
