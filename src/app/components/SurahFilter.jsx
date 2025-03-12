@@ -238,7 +238,14 @@ export default function SurahFilter({ isSidebarOpen }) {
 							<div style={{ margin: "0px 16px" }}>
 								<p style={{ fontSize: 14, marginBottom: -10 }}>Sure:</p>
 
-								<CustomSelect options={surahNames} selected={selectedSurah} setSelected={setSelectedSurah} placeholder="Bir sure seçin" />
+								<CustomSelect
+									options={surahNames}
+									selected={selectedSurah}
+									setSelected={setSelectedSurah}
+									placeholder="Bir sure seçin"
+									handleSearch={() => console.log("selam")}
+									isMeal={false}
+								/>
 							</div>
 
 							<div style={{ margin: "0px 16px" }}>
@@ -247,11 +254,12 @@ export default function SurahFilter({ isSidebarOpen }) {
 								<CustomSelect
 									options={mealsOwners}
 									selected={selectedMeal}
-									// setSelected={setSelectedMeal}
+									setSelected={setSelectedMeal}
 									setSearchLoading={setSearchLoading}
 									placeholder="Opsiyonel"
 									setSearchTerm={setSearchTerm}
 									handleSearch={handleSearch}
+									isMeal={true}
 								/>
 							</div>
 
@@ -309,8 +317,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 							kelimesi
 							<span style={{ borderBottom: "1px solid #ccc" }}> {selectedMeal} mealine göre</span>
 							<span style={{ fontWeight: 900 }}> {selectedSurah ? selectedSurah : "Kur'an'da"}</span>
-							{selectedSurah && " suresinin"}
-							{selectedSurah && " suresinin"}
+							{selectedSurah && " suresinde"}
 							<span style={{ fontWeight: 900 }}> {filteredAyats.length} </span>
 							yerde geçmektedir.
 						</div>

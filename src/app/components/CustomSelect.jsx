@@ -1,7 +1,7 @@
 import { useState } from "react"
 import useQuranStore from "../stores/useQuranStore"
 
-const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholder = "Seçiniz", setSearchTerm }) => {
+const CustomSelect = ({ handleSearch, isMeal, options, selected, setSelected, placeholder = "Seçiniz", setSearchTerm }) => {
 	const [isOpen, setIsOpen] = useState(false)
 	const [searchQuery, setSearchQuery] = useState("")
 	const [inputFocused, setInputFocused] = useState(false)
@@ -12,8 +12,12 @@ const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholde
 	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery.toLowerCase()))
 
 	const searchFunc = async (option) => {
-		setSelectedMeal(option)
+		// if (isMeal) {
+		// 	setSelectedMeal(option)
+		// 	handleSearch()
+		// }
 		console.log("selectedMeal:", selectedMeal)
+		console.log("option:", option)
 		handleSearch()
 	}
 
@@ -64,7 +68,8 @@ const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholde
 									key={index}
 									onClick={() => {
 										searchFunc(option)
-										setSelectedMeal(option)
+										setSelected(option)
+										// setSelectedMeal(option)
 										setIsOpen(false)
 									}}
 									style={{
