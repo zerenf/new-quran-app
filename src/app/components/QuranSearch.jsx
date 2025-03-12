@@ -31,7 +31,7 @@ export default function QuranSearch() {
 		"diyanet-isleri": "Diyanet İşleri",
 		"diyanet-vakfi": "Diyanet Vakfı",
 		"elmalili-hamdi": "Elmalılı Hamdi Yazır",
-		"suat-yildirim": "Suat Yıldırım",
+
 		"suleyman-ates": "Süleyman Ateş",
 	}
 
