@@ -333,7 +333,7 @@ input[type="number"] {
 	position: fixed;
 	top: 0;
 	display: flex;
-	justify-content: center;
+	justify-content: flex-end;
 	align-items: center;
 	padding: 12px 0;
 	background-color: var(--color-primary);
@@ -356,7 +356,6 @@ input[type="number"] {
 	display: flex;
 	align-items: center;
 	justify-content: end;
-	width: 100%;
 	flex-wrap: wrap;
 }
 
@@ -375,18 +374,20 @@ input[type="number"] {
 
 @media (max-width: 1200px) {
 	.header-text-meal {
-		margin-left: 100px;
 		margin-right: 10px;
 	}
 }
 
 @media (max-width: 430px) {
+	.header-title-container {
+		width: 300px;
+	}
+
 	.header-text {
 		font-size: 20px;
 	}
 	.header-text-meal {
 		font-size: 12px;
-		margin-left: 100px;
 	}
 }
 
