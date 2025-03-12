@@ -221,7 +221,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 	// const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
 	// console.log("currentAyah:", currentAyah)
-	console.log("selectedAyah:", selectedAyah)
+	// console.log("selectedAyah:", selectedAyah)
 
 	return (
 		<>
