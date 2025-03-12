@@ -35,15 +35,15 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 							placeholder="Ara..."
 							value={searchQuery}
 							onChange={(e) => setSearchQuery(e.target.value)}
-							onFocus={() => setInputFocused(true)} // Odaklandığında
-							onBlur={() => setInputFocused(false)} // Odak kalktığında
+							onFocus={() => setInputFocused(true)}
+							onBlur={() => setInputFocused(false)}
 							style={{
 								width: "90%",
 								padding: "8px",
-								border: `1px solid ${inputFocused ? "#d9eafd" : "#ccc"}`, // Dinamik border rengi
+								border: `1px solid ${inputFocused ? "#d9eafd" : "#ccc"}`,
 								borderRadius: "4px",
 								margin: "4px auto",
-								outline: "none", // Varsayılan mavi outline'ı kaldır
+								outline: "none",
 							}}
 						/>
 					</div>
@@ -58,8 +58,6 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 										setIsOpen(false)
 									}}
 									style={{
-										padding: "8px",
-										cursor: "pointer",
 										backgroundColor: selected === option ? "#f0f0f0" : "white",
 									}}
 								>

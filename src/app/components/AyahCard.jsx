@@ -23,10 +23,10 @@ export default function AyahCard({ ayah, meal, surahName, surahNumber, copyToCli
 				<div className="w-full h-0.5 bg-green-dark opacity-30 my-3 rounded-full"></div>
 
 				{/* Meal */}
-				<div className="flex flex-col sm:flex-row items-start mt-2 relative">
+				<div className="flex flex-col sm:flex-row items-start my-3">
 					<button
 						onClick={() => copyToClipboard(meal.ayahText, meal.ayahNumber + "_meal")}
-						className="ml-2 p-2 bg-gray-100 rounded hover:bg-gray-300 transition cursor-pointer absolute right-0 top-0 m-3"
+						className=" p-2 bg-gray-100 rounded hover:bg-gray-300 transition cursor-pointer absolute right-0 bottom-0 m-3"
 					>
 						{clicked[meal.ayahNumber + "_meal"] ? <LuCopyCheck /> : <LuCopy />}
 					</button>

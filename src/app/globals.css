@@ -184,8 +184,8 @@ input:focus {
 	cursor: pointer;
 }
 
-.custom-dropdown li:hover {
-	background-color: #dbeafe;
+.custom-dropdown ul li:hover {
+	background-color: var(--color-primary) !important;
 }
 
 .custom-dropdown::-webkit-scrollbar {

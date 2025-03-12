@@ -169,7 +169,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		}
 
 		setClicked((prev) => ({ ...prev, [key]: true }))
-		setTimeout(() => setClicked((prev) => ({ ...prev, [key]: false })), 2000)
+		setTimeout(() => setClicked((prev) => ({ ...prev, [key]: false })), 1000)
 	}
 
 	const handleSearch = async () => {
