@@ -1,38 +1,40 @@
 {
-  "surahNumber": "98",
-  "surahName": "Beyyine Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kitap Ehlinden ve müşriklerden inkar edenler, kendilerine apaçık bir delil gelinceye kadar, (bulundukları durumdan) kopup-ayrılacak değillerdi."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "(O delil de) Allah'tan gönderilmiş-bir elçi (ki,) tertemiz sahifeleri okumaktadır;"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Onların içinde dosdoğru 'yazılı-hükümler' vardır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Kitap Ehlinden olanlar, ancak kendilerine apaçık belgeler geldikten sonra fırkalara ayrıldılar."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Oysa onlar, dini yalnızca O'na halis kılan hanifler (Allah'ı birleyenler) olarak sadece Allah'a kulluk etmek, namazı dosdoğru kılmak ve zekatı vermekten başkasıyla emrolunmadılar. İşte en doğru (dimdik ve sapasağlam) din budur."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Şüphesiz, Kitap Ehlinden ve müşriklerden inkar edenler, içinde sürekli kalıcılar olmak üzere cehennem ateşindedirler. İşte onlar, yaratılmışların en kötüleridir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "İman edip salih amellerde bulunanlar ise; işte onlar da, yaratılmışların en hayırlılarıdır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Rableri Katında onların ödülleri, içinde ebedi kalıcılar olmak üzere altından ırmaklar akan Adn cennetleridir. Allah, onlardan razı olmuştur, kendileri de O'ndan razı (hoşnut, memnun) kalmışlardır. İşte bu, Rabbinden 'içi titreyerek korku duyan kimse' içindir."
-    }
-  ]
+  "beyyine": {
+    "surahNumber": "98",
+    "surahNameTr": "Beyyine Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kitap Ehlinden ve müşriklerden inkar edenler, kendilerine apaçık bir delil gelinceye kadar, (bulundukları durumdan) kopup-ayrılacak değillerdi."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "(O delil de) Allah'tan gönderilmiş-bir elçi (ki,) tertemiz sahifeleri okumaktadır;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onların içinde dosdoğru 'yazılı-hükümler' vardır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Kitap Ehlinden olanlar, ancak kendilerine apaçık belgeler geldikten sonra fırkalara ayrıldılar."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Oysa onlar, dini yalnızca O'na halis kılan hanifler (Allah'ı birleyenler) olarak sadece Allah'a kulluk etmek, namazı dosdoğru kılmak ve zekatı vermekten başkasıyla emrolunmadılar. İşte en doğru (dimdik ve sapasağlam) din budur."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Şüphesiz, Kitap Ehlinden ve müşriklerden inkar edenler, içinde sürekli kalıcılar olmak üzere cehennem ateşindedirler. İşte onlar, yaratılmışların en kötüleridir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "İman edip salih amellerde bulunanlar ise; işte onlar da, yaratılmışların en hayırlılarıdır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Rableri Katında onların ödülleri, içinde ebedi kalıcılar olmak üzere altından ırmaklar akan Adn cennetleridir. Allah, onlardan razı olmuştur, kendileri de O'ndan razı (hoşnut, memnun) kalmışlardır. İşte bu, Rabbinden 'içi titreyerek korku duyan kimse' içindir."
+      }
+    ]
+  }
 }

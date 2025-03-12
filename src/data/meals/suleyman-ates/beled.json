@@ -1,86 +1,88 @@
 {
-  "surahNumber": "90",
-  "surahName": "Beled Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Yoo, and içerim bu kente,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ki sen bu şehire girmekte(burada yaşamakta)sın."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve (and içerim) doğurucuya ve doğurduğuna ki,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Biz insanı zorluk arasında yarattık."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "(Gösteriş ve övünme için) \"Ben birçok mal telef ettim\" diyor."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Kimsenin kendisini görmediğini mi sanıyor?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Biz ona vermedik mi: İki göz"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Bir dil, iki dudak?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ona iki tepeyi (anasının iki memesini emmenin veya hayır ve şerrin yolunu) gösterdik."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Fakat o, sarp yokuşa atılamadı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Sarp yokuşun ne olduğunu sen nereden bileceksin?"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Bir boynu (kölelik zincirinden) çözmek,"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Yahut açlık gününde doyurmaktır:"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Akraba olan yetimi,"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Yahut hiçbir şeyi olmayan yoksulu."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Sonra inanıp birbirlerine sabır tavsiye eden ve merhamet tavsiye edenlerden olmak."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "İşte onlar sağın adamlarıdır (Kitabı sağından verilen uğurlu kişilerdir)."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ayetlerimizi tanımayanlar ise solun adamlarıdır (Kitabı solundan verilen uğursuz kişilerdir)."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onlara (kapıları) üzerlerine kilitlenecek bir ateş vardır!"
-    }
-  ]
+  "beled": {
+    "surahNumber": "90",
+    "surahNameTr": "Beled Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Yoo, and içerim bu kente,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ki sen bu şehire girmekte(burada yaşamakta)sın."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve (and içerim) doğurucuya ve doğurduğuna ki,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Biz insanı zorluk arasında yarattık."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "İnsan, hiç kimsenin kendisine güç yetiremeyeceğini mi sanıyor?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "(Gösteriş ve övünme için) \"Ben birçok mal telef ettim\" diyor."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Kimsenin kendisini görmediğini mi sanıyor?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Biz ona vermedik mi: İki göz"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Bir dil, iki dudak?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ona iki tepeyi (anasının iki memesini emmenin veya hayır ve şerrin yolunu) gösterdik."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Fakat o, sarp yokuşa atılamadı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Sarp yokuşun ne olduğunu sen nereden bileceksin?"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Bir boynu (kölelik zincirinden) çözmek,"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Yahut açlık gününde doyurmaktır:"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Akraba olan yetimi,"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Yahut hiçbir şeyi olmayan yoksulu."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Sonra inanıp birbirlerine sabır tavsiye eden ve merhamet tavsiye edenlerden olmak."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "İşte onlar sağın adamlarıdır (Kitabı sağından verilen uğurlu kişilerdir)."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ayetlerimizi tanımayanlar ise solun adamlarıdır (Kitabı solundan verilen uğursuz kişilerdir)."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onlara (kapıları) üzerlerine kilitlenecek bir ateş vardır!"
+      }
+    ]
+  }
 }

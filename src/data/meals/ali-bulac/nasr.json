@@ -1,18 +1,20 @@
 {
-  "surahNumber": "110",
-  "surahName": "Nasr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Allah'ın yardımı ve fetih geldiği zaman,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve insanların Allah'ın dinine dalga dalga girdiklerini gördüğünde,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Hemen Rabbini hamd ile tesbih et ve O'ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir."
-    }
-  ]
+  "nasr": {
+    "surahNumber": "110",
+    "surahNameTr": "Nasr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Allah'ın yardımı ve fetih geldiği zaman,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve insanların Allah'ın dinine dalga dalga girdiklerini gördüğünde,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hemen Rabbini hamd ile tesbih et ve O'ndan mağfiret dile. Çünkü O, tevbeleri çok kabul edendir."
+      }
+    ]
+  }
 }

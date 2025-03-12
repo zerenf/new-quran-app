@@ -1,206 +1,208 @@
 {
-  "surahNumber": "77",
-  "surahName": "Mürselât Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Yıldızların ışığı giderildiği zaman,"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Gök yarıldığı zaman,"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dağlar pamuk gibi atıldığı zaman,"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Peygamberlere ümmetleri hakkında şahidlik vakitleri bildirildiği zaman;"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Bu, hangi güne bırakılmıştı?"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Hüküm gününe bırakılmıştı."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Hüküm gününün ne olduğunu sen nerden bilirsin?"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "O gün yalanlamış olanların vay haline!"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Öncekileri yok etmedik mi? Ardından, sonrakileri de onlara katarız."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Öncekileri yok etmedik mi? Ardından, sonrakileri de onlara katarız."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Suçlulara böyle yaparız."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "O gün, yalanlamış olanların vay haline!."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "O gün yalanlamış olanların vay haline!"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?"
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?"
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Orada yüksek yüksek sabit dağlar var edip size tatlı sular içirmedik mi?"
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Yalanlamış olanların vay o gün haline!"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "İnkarcılara o gün şöyle denir: \"yalanlayıp durduğunuz şeye gidin;\""
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "\"gölge yapmayan ve ateşten de korumayan cehennem dumanının üç kollu gölgesine gidin.\""
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "\"gölge yapmayan ve ateşten de korumayan cehennem dumanının üç kollu gölgesine gidin.\""
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Yalanlamış olanların o gün vay haline!"
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Bu, onların konuşamayacakları gündür."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Onlara izin de verilmez ki özür beyan etsinler."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Yalanlamış olanların o gün vay haline!"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "\"Bu, sizleri ve öncekileri topladığımız hüküm günüdür.\""
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "\"Eğer bir düzeniniz varsa Bana kurun.\""
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Yalanlamış olanların o gün vay haline!."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Allah'a karşı gelmekten sakınmış olanlar, elbette gölgeliklerde ve pınar başlarındadırlar."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Canlarının istediği meyveler arasındadırlar."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Onlara denir ki: \"İşlediklerinize karşılık afiyetle yiyiniz, içiniz.\""
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Biz, iyi davrananlara işte böyle karşılık veririz."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "O gün yalanlamış olanların vay haline"
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "O gün yalanlamış olanların vay haline!"
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Onlara \"Rüku edin\" denildiğinde rükua varmazlar."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "O gün yalanlamış olanların vay haline!"
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Kuran'dan başka hangi söze inanacaklar?"
-    }
-  ]
+  "murselat": {
+    "surahNumber": "77",
+    "surahNameTr": "Mürselât Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Birbiri ardından gönderilenlere ve görevlerine koştukça koşanlara, Allah'ın buyruklarını yaydıkça yayanlara ve hak ile batılın arasını ayırdıkça ayıranlara, kötülüğü önlemek veya uyarmak için vahiy getiren meleklere and olsun ki, size söz verilen kıyamet şüphesiz kopacaktır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Yıldızların ışığı giderildiği zaman,"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Gök yarıldığı zaman,"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dağlar pamuk gibi atıldığı zaman,"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Peygamberlere ümmetleri hakkında şahidlik vakitleri bildirildiği zaman;"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Bu, hangi güne bırakılmıştı?"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Hüküm gününe bırakılmıştı."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Hüküm gününün ne olduğunu sen nerden bilirsin?"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "O gün yalanlamış olanların vay haline!"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Öncekileri yok etmedik mi? Ardından, sonrakileri de onlara katarız."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Öncekileri yok etmedik mi? Ardından, sonrakileri de onlara katarız."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Suçlulara böyle yaparız."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "O gün, yalanlamış olanların vay haline!."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Sizi bayağı bir sudan yaratıp onu belli bir süreye kadar sağlam bir yere yerleştirmedik mi?"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Buna gücümüz yeter; Biz ne güzel güç yetireniz!"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "O gün yalanlamış olanların vay haline!"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?"
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Biz yeryüzünü, dirilerin ve ölülerin toplantı yeri yapmadık mı?"
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Orada yüksek yüksek sabit dağlar var edip size tatlı sular içirmedik mi?"
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Yalanlamış olanların vay o gün haline!"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "İnkarcılara o gün şöyle denir: \"yalanlayıp durduğunuz şeye gidin;\""
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "\"gölge yapmayan ve ateşten de korumayan cehennem dumanının üç kollu gölgesine gidin.\""
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "\"gölge yapmayan ve ateşten de korumayan cehennem dumanının üç kollu gölgesine gidin.\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "O gölgenin saçtığı her bir kıvılcım sanki birer sarı devedir, konak gibi de büyüktür."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Yalanlamış olanların o gün vay haline!"
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Bu, onların konuşamayacakları gündür."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Onlara izin de verilmez ki özür beyan etsinler."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Yalanlamış olanların o gün vay haline!"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "\"Bu, sizleri ve öncekileri topladığımız hüküm günüdür.\""
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "\"Eğer bir düzeniniz varsa Bana kurun.\""
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Yalanlamış olanların o gün vay haline!."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Allah'a karşı gelmekten sakınmış olanlar, elbette gölgeliklerde ve pınar başlarındadırlar."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Canlarının istediği meyveler arasındadırlar."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Onlara denir ki: \"İşlediklerinize karşılık afiyetle yiyiniz, içiniz.\""
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Biz, iyi davrananlara işte böyle karşılık veririz."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "O gün yalanlamış olanların vay haline"
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Yiyiniz, biraz zevkleniniz bakalım, doğrusu sizler suçlularsınız."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "O gün yalanlamış olanların vay haline!"
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Onlara \"Rüku edin\" denildiğinde rükua varmazlar."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "O gün yalanlamış olanların vay haline!"
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Kuran'dan başka hangi söze inanacaklar?"
+      }
+    ]
+  }
 }

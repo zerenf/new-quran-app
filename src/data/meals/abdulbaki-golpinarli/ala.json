@@ -1,82 +1,84 @@
 {
-  "surahNumber": "87",
-  "surahName": "A'lâ Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Tenzih et yücelerden yüce Rabbinin adını."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Bir Rab ki yarattı, derken düzüp koştu."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Bir Rab ki ölçüp biçti, derken doğru yolu buldurdu."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Bir Rab ki otlağı çıkardı."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Derken onu kapkara, kupkuru bir hale döndürdü."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Seni okutacağız da unutmayacaksın."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ancak Allah dilerse o başka; şüphe yok ki o, açığa vurulanı da, gizli kalanı da bilir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve sana, en kolay yolda başarı vereceğiz."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Artık öğüt ver, fayda verirse eğer."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Korkan, öğüt alır."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "En kötü ve bahtsız olan, ondan sakınır."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Öyle bahtsız ki o, pek büyük ataşe atılır, yanar."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Sonra da orada ne ölür, ne dirilir."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Gerçekten de kurtulur, murada erer kendini temizleyen."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ve Rabbinin adını anıp da namaz kılan."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Hayır, siz dünya yaşayışını üstün tutarsınız."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ahiretse daha hayırlıdır ve daha da sürekli."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Şüphe yok ki bu vardı, elbette daha önceki sahifelerde."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "İbrahim'in ve Musa'nın sahifelerinde."
-    }
-  ]
+  "ala": {
+    "surahNumber": "87",
+    "surahNameTr": "A'lâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Tenzih et yücelerden yüce Rabbinin adını."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Bir Rab ki yarattı, derken düzüp koştu."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Bir Rab ki ölçüp biçti, derken doğru yolu buldurdu."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Bir Rab ki otlağı çıkardı."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Derken onu kapkara, kupkuru bir hale döndürdü."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Seni okutacağız da unutmayacaksın."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ancak Allah dilerse o başka; şüphe yok ki o, açığa vurulanı da, gizli kalanı da bilir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve sana, en kolay yolda başarı vereceğiz."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Artık öğüt ver, fayda verirse eğer."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Korkan, öğüt alır."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "En kötü ve bahtsız olan, ondan sakınır."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Öyle bahtsız ki o, pek büyük ataşe atılır, yanar."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Sonra da orada ne ölür, ne dirilir."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Gerçekten de kurtulur, murada erer kendini temizleyen."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ve Rabbinin adını anıp da namaz kılan."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Hayır, siz dünya yaşayışını üstün tutarsınız."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ahiretse daha hayırlıdır ve daha da sürekli."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Şüphe yok ki bu vardı, elbette daha önceki sahifelerde."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "İbrahim'in ve Musa'nın sahifelerinde."
+      }
+    ]
+  }
 }

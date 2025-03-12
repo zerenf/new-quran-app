@@ -1,82 +1,84 @@
 {
-  "surahNumber": "87",
-  "surahName": "A'lâ Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Rabbinin Yüce ismini tesbih et,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ki O, yarattı, 'bir düzen içinde biçim verdi',"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Takdir etti, böylece yol gösterdi,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "'Yemyeşil-otlağı' çıkardı."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ardından onu kuru, kara bir duruma soktu."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Sana okutacağız, sen de unutmayacaksın."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ancak Allah'ın dilediği başka. Çünkü O, açıkta olanı da bilir, saklı duranı da."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve seni kolay olan için başarılı kılacağız."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Şu halde, eğer 'öğüt ve hatırlatma' bir yarar sağlayacaksa, 'öğüt verip hatırlat.'"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Allah'tan ‘İçi titreyerek korkan’ öğüt alır-düşünür."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "'Mutsuz-bedbaht' olan ondan kaçınır."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ki o, en büyük ateşe yollanacaktır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Sonra onun içinde o, ne ölür, ne yaşar."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Doğrusu, temizlenip arınan felah bulmuştur;"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ve Rabbinin ismini zikredip namaz kılan."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Hayır siz, dünya hayatını seçip üstün tutuyorsunuz."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ahiret ise daha hayırlı ve daha süreklidir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Şüphesiz bu, önceki sahifelerde vardır;"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "İbrahim'in ve Musa'nın sahifelerinde."
-    }
-  ]
+  "ala": {
+    "surahNumber": "87",
+    "surahNameTr": "A'lâ Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rabbinin Yüce ismini tesbih et,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ki O, yarattı, 'bir düzen içinde biçim verdi',"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Takdir etti, böylece yol gösterdi,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "'Yemyeşil-otlağı' çıkardı."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ardından onu kuru, kara bir duruma soktu."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Sana okutacağız, sen de unutmayacaksın."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ancak Allah'ın dilediği başka. Çünkü O, açıkta olanı da bilir, saklı duranı da."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve seni kolay olan için başarılı kılacağız."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Şu halde, eğer 'öğüt ve hatırlatma' bir yarar sağlayacaksa, 'öğüt verip hatırlat.'"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Allah'tan ‘İçi titreyerek korkan’ öğüt alır-düşünür."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "'Mutsuz-bedbaht' olan ondan kaçınır."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ki o, en büyük ateşe yollanacaktır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Sonra onun içinde o, ne ölür, ne yaşar."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Doğrusu, temizlenip arınan felah bulmuştur;"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ve Rabbinin ismini zikredip namaz kılan."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Hayır siz, dünya hayatını seçip üstün tutuyorsunuz."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ahiret ise daha hayırlı ve daha süreklidir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Şüphesiz bu, önceki sahifelerde vardır;"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "İbrahim'in ve Musa'nın sahifelerinde."
+      }
+    ]
+  }
 }

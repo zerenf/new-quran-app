@@ -1,26 +1,28 @@
 {
-  "surahNumber": "105",
-  "surahName": "Fîl Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Rabbinin, Fil sahiplerine ne yaptığını görmedin m?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Onların tuzaklarını boşa çıkarmadı mı?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Üzerlerine sürü sürü kuşlar gönderdi,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Onlara çamurdan sertleşmiş taşlar atan (kuşlar)."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Nihayet onları, kurt yeniği ekin yaprağı gibi yaptı."
-    }
-  ]
+  "fil": {
+    "surahNumber": "105",
+    "surahNameTr": "Fîl Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Rabbinin, Fil sahiplerine ne yaptığını görmedin m?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onların tuzaklarını boşa çıkarmadı mı?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Üzerlerine sürü sürü kuşlar gönderdi,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onlara çamurdan sertleşmiş taşlar atan (kuşlar)."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Nihayet onları, kurt yeniği ekin yaprağı gibi yaptı."
+      }
+    ]
+  }
 }

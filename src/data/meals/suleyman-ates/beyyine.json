@@ -1,38 +1,40 @@
 {
-  "surahNumber": "98",
-  "surahName": "Beyyine Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kitap ehlinden ve müşriklerden (hakk'ı) tanımayanlar, kendilerine açık kanıt gelinceye dek (halleri üzere) bırakılacak değillerdi (mutlaka kendilerine açıklama gelecekti)."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "(Yani) Allah tarafından gönderilen ve tertemiz sahifeler okuyan bir elçi."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "O sahifelerde doğru, değerli Kitaplar vardır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Kitap verilmiş olanlar, ancak kendilerine açık kanıt geldikten sonra ayrılığa düştüler."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Oysa kendilerine, dini yalnız Allah'a halis kılıp O'nu birleyerek Allah'a kulluk etmeleri, namazı kılmaları, zekatı vermeleri emredilmişti. İşte doğru din oydu."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Kitap ehlinden ve (Allah'a) ortak koşanlardan olan nankörler, sürekli olarak cehennem ateşindedirler. Onlar, halkın en şerlisidir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "İnanıp iyi işler yapanlar da halkın en hayırlısıdır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Rableri katında onların mükafatı altlarından ırmaklar akan, içinde ebedi kalacakları, Adn cennetleridir. Allah onlardan razı olmuş, onlar da O'ndan razı olmuşlardır. Bu, Rabbine saygı gösterene mahsustur."
-    }
-  ]
+  "beyyine": {
+    "surahNumber": "98",
+    "surahNameTr": "Beyyine Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kitap ehlinden ve müşriklerden (hakk'ı) tanımayanlar, kendilerine açık kanıt gelinceye dek (halleri üzere) bırakılacak değillerdi (mutlaka kendilerine açıklama gelecekti)."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "(Yani) Allah tarafından gönderilen ve tertemiz sahifeler okuyan bir elçi."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O sahifelerde doğru, değerli Kitaplar vardır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Kitap verilmiş olanlar, ancak kendilerine açık kanıt geldikten sonra ayrılığa düştüler."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Oysa kendilerine, dini yalnız Allah'a halis kılıp O'nu birleyerek Allah'a kulluk etmeleri, namazı kılmaları, zekatı vermeleri emredilmişti. İşte doğru din oydu."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Kitap ehlinden ve (Allah'a) ortak koşanlardan olan nankörler, sürekli olarak cehennem ateşindedirler. Onlar, halkın en şerlisidir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "İnanıp iyi işler yapanlar da halkın en hayırlısıdır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Rableri katında onların mükafatı altlarından ırmaklar akan, içinde ebedi kalacakları, Adn cennetleridir. Allah onlardan razı olmuş, onlar da O'ndan razı olmuşlardır. Bu, Rabbine saygı gösterene mahsustur."
+      }
+    ]
+  }
 }

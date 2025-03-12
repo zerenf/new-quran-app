@@ -1,38 +1,40 @@
 {
-  "surahNumber": "102",
-  "surahName": "Tekâsür Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "(Mal, mülk ve servette) Çoklukla övünmek, sizi 'tutkuyla oyalayıp, kendinizden geçirdi.'"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "\"Öyle ki (bu,) mezarı ziyaretinize (kabre gidişinize, ölümünüze) kadar sürdü.\""
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Hayır; ileride bileceksiniz."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Yine hayır; ileride bileceksiniz."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Hayır; eğer siz kesin bir bilgiyle bilmiş olsaydınız,"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Andolsun, o çılgınca yanan ateşi de elbette görecektiniz."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Sonra onu, gerçekten yakîn gözüyle (Ayne'l Yakîn) görmüş olacaksınız."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sonra o gün, nimetten sorguya çekileceksiniz."
-    }
-  ]
+  "tekasur": {
+    "surahNumber": "102",
+    "surahNameTr": "Tekâsür Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "(Mal, mülk ve servette) Çoklukla övünmek, sizi 'tutkuyla oyalayıp, kendinizden geçirdi.'"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "\"Öyle ki (bu,) mezarı ziyaretinize (kabre gidişinize, ölümünüze) kadar sürdü.\""
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hayır; ileride bileceksiniz."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Yine hayır; ileride bileceksiniz."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hayır; eğer siz kesin bir bilgiyle bilmiş olsaydınız,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Andolsun, o çılgınca yanan ateşi de elbette görecektiniz."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Sonra onu, gerçekten yakîn gözüyle (Ayne'l Yakîn) görmüş olacaksınız."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra o gün, nimetten sorguya çekileceksiniz."
+      }
+    ]
+  }
 }

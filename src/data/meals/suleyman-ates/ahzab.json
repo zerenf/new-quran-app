@@ -1,298 +1,300 @@
 {
-  "surahNumber": "33",
-  "surahName": "Ahzâb Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ey peygamber, Allah'tan kork; kafirlere ve münafıklara ita'at etme. Şüphesiz Allah bilendir, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Rabbinden sana vahyedilene uy; muhakkak ki Allah yaptıklarınızı haber almaktadır."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Allah'a dayan; vekil olarak Allah yeter."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Allah, bir adamın (göğüs) boşluğunda iki kalb yaratmadı ve zıhar yaptığınız (sen bana, annemin sırtı gibisin dediğiniz) eşlerinizi, sizin anneleriniz yapmadı; evlatlıklarınızı da sizin öz oğullarınız kılmadı. Bunlar sizin ağızlarınıza gelen sözlerinizdir. Allah gerçeği söyler ve O, doğru yola iletir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Onları babalarının adına bağlayarak çağırın; bu, Allah yanında daha adaletlidir. Eğer babalarını bilmiyorsanız, onlar sizin din kardeşleriniz ve dostlarınızdır. Yanılarak yaptığınızda size bir günah yok, fakat kalblerinizin bile bile yaptığında günah vardır. Allah çok bağışlayan, çok esirgeyendir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Peygamber, mü'minlere canlarından ileridir. Onun eşleri de onların anneleridir. Rahim sahipleri (anne tarafından akrabalar) da Allah'ın Kitabında birbirlerine öteki mü'minlerden ve Muhacirlerden daha yakındırlar. Ancak dostlarınıza bir iyilik yapmanız (bir vasiyyet etmeniz) hariç (yaptığınız o vasiyyet yerine getirilir). Bunlar Kitapta yazılmıştır."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Biz peygamberlerden, (verdiğimiz elçilik görevini yapmak ve hak dine da'vet etmek hususunda) kuvvetle ahidlerini almıştık, senden, Nuh'dan, İbrahim'den, Musa'dan ve Meryem oğlu Îsa'dan, (evet) onlardan sapasağlam söz almıştık."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "(Böyle yaptık) Ki (Allah), o doğrulara doğruluklarından sorsun. Kafirlere de acı bir azab hazırlamıştır."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ey inananlar, Allah'ın size olan ni'metini hatırlayın, hani bir zaman size ordular gelmişti de biz onların üzerine bir rüzgar ve sizin görmediğiniz ordular göndermiştik. Allah, yaptıklarınızı görmekteydi."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Hani onlar üstünüzden ve alt tarafınızdan gelmişlerdi, gözler (şaşkınlıktan ötürü) kaymış, yürekler (korkudan) hançerelere dayanmıştı. Allah hakında türlü zanlarda bulunuyordunuz."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "İşte orada mü'minler denenmiş, şiddetli bir sarsıntı ile sarsılmışlardı."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Münafıklar ve kalblerinde hastalık bulunan kimseler: \"Allah ve Resulü bize sadece boş vaadlerde bulundu.\" diyordu."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Onlardan bir grup da demişti ki: \"Ey Yesrib (Medine) halkı, artık size duracak yer yok, (haydi durmayın, evlerinize) dönün (Yahut: Artık bu dinde durmanız doğru değil, dönün)\". Onlardan bir topluluk da. \"Evlerimiz (sağlam değil), açıktır\" diyerek peygamberden izin istiyordu. Oysa onlar(ın evleri) açık değildi. Sadece kaçmak istiyorlardı."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Eğer (Medine'nin) her yanından onların üzerine giril(ip saldırıl)saydı da kendilerinden (halka) baskı ve işkence yapmaları istenseydi bunu yaparlardı; bunu yapmakta fazla gecikmezlerdi."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Oysa arkalarına dön(üp kaç)mayacaklarına dair Allah'a söz vermişlerdi. Allah'a verilen sözden sorumlu idiler."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "De ki: \"Eğer ölümden veya öldürülmekten kaçıyorsanız, kaçmak size fayda vermez. Kaçsanız bile pek az bir zaman yaşatılırsınız (sonunda yine ölürsünüz).\""
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "De ki: \"Allah size kötülük istese veya size rahmet dilese, sizi O'ndan kim korur? (Allah'ın azabından sizi kim kurtarır, O'nun rahmetine kim engel olur?) Kendilerine Allah'tan başka ne bir dost ne de bir yardımcı bulurlar."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Allah içinizden (savaştan) alıkoyanları ve kardeşlerine: \"Bize gelin!\" diyenleri biliyor. Onlar savaşa pek az gelirler."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "(Geldikleri zaman da) Size karşı cimriler olarak (gelirler). Ama korkulu bir durum olunca onların, üstüne ölüm baygınlığı çökmüş insan gibi, gözleri dönerek sana baktıklarını görürsün. Korku gid(ip de sıra ganimetleri paylaşmağa gel)ince mala düşkünlük göstererek sizi sivri dillerle incitirler. Onlar, (içtenlikle) inanmamışlar, bu yüzden Allah onların işlerini boşa çıkarmıştır. Bu, Allah'a göre kolaydır."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "(Korkaklıklarından ötürü düşman) Orduların(ın Medine'den) gitmediklerini sanıyorlardı. Eğer o ordular (ikinci kez) gelseler, bunlar çölde bedevi Araplar arasında bulunmayı, sizin haberlerinizi (başınıza gelecek olayları) oradan sorup öğrenmeyi arzu ederlerdi. İçinizde bulunsalardı dahi pek az dövüşürlerdi."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Andolsun Allah'ın Elçisinde sizin için Allah'a ve ahiret gününe kavuşmaya inanan ve Allah'ı çok anan kimseler için, (uyulacak) en güzel bir örnek vardır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Mü'minler (düşman) orduları(nı) gördükleri zaman (korkmadılar): \"Bu Allah'ın ve Resulünün, bize va'dettiği(zafer)dir. Allah ve Resulü doğru söylemiştir.\" dediler. Ve bu, onların sadece imanlarını ve teslimiyetlerini artırdı."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Mü'minlerden öyle erkekler var ki, Allah'a verdikleri sözde durdular. Onlardan kimi adağını yerine getirdi, (şehid oluncaya kadar çarpışacaklarını adamışlardı, çarpıştılar ve şehid düştüler), kimi de (şehidlik) beklemektedir; sözlerini asla değiştirmemişlerdir."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ki Allah doğruları, doğruluklarıyle mükafatladırsın, iki yüzlülere de dilerse azabetsin; yahut tevbelerini kabul buyursun. Şüphesiz Allah çok bağışlayandır, çok esirgeyendir."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Allah, inkar edenleri öfkeleriyle geri çevirdi; hiçbir hayra eremediler. Allah savaşta (rüzgar ve meleklerin yardımıyle) mü'minlere yetti. Allah güçlüdür, üstündür."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Kitap ehlinden onlara yardım eden(Kurayza yahudi)lerini de kalelerinden indirdi ve kalblerine korku düşürdü. (Onlardan) Bir kısmını öldürüyordunuz, bir kısmını da esir alıyordunuz."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Onların topraklarını, evlerini, mallarını ve henüz ayak basmadığınız bir toprağı size miras verdi. Allah, her şeye kadirdir."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ey peygamber! Eşlerine söyle: \"Eğer siz, dünya hayatını ve süsünü istiyorsanız, gelin size müt'a (boşanma bedeli) vereyim ve sizi güzellikle salayım.\""
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Eğer siz, Allah'ı, Eçisini ve ahiret yurdunu istiyorsanız, (biliniz ki) Allah, sizden güzel hareket edenlere büyük bir mükafat hazırlamıştır."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Ey peygamber kadınları! Sizden kim açık bir fuhuş (edepsizlik) yaparsa onun için azab iki kat yapılır. Bu, Allah'a göre kolaydır."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Fakat sizden kim Allah'a ve Resulüne ita'ate devam eder ve yararlı iş yaparsa ona da mükafatını iki kez veririz ve onun için bol bir rızık hazırlamışızdır."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Ey peygamber kadınları, siz, kadınlardan herhangi biri gibi değilsiniz. Eğer (Allah'ın buyruğuna karşı gelmekten) korunuyorsanız, sözü yumuşak (kıvrak) bir eda ile söylemeyin ki, kalbinde hastalık bulunan kimse tamah etmesin; güzel, (kuşkudan uzak bir biçimde) söz söyleyin."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Evlerinizde oturun, ilk cahiliye(çağı kadınları)nın açılıp kırıtması gibi açılıp kırıtmayın. Namazı kılın, zekatı verin, Allah'a ve Resulüne ita'at edin. Ey Ehl-i Beyt (ey peygamberin ev halkı), Allah sizden, kiri gidermek ve sizi tertemiz yapmak istiyor."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Evlerinizde okunan Allah ayetlerini ve hikmeti hatırlayın. Şüphesiz Allah latiftir, haber alandır."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Müslüman erkekler ve müslüman kadınlar, mü'min erkekler ve mü'min kadınlar, ta'ate devam eden erkekler ve ta'ate devam eden kadınlar, doğru erkekler ve doğru kadınlar; sabreden erkekler ve sabreden kadınlar, (Allah'a) saygılı erkekler ve saygılı kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını) koruyan kadınlar, Allah'ı çok zikreden erkekler ve zikreden kadınlar; (İşte) Allah bunlar için bağış ve büyük bir mükafat hazırlamıştır."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Allah ve Resulü, bir işte hüküm verdiği zaman, artık inanmış bir erkek ve kadının, o işi kendi isteklerine göre seçme hakkı yoktur. Kim Allah'a ve Resulüne karşı gelirse, apaçık bir sapıklığa düşmüş olur."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Allah'ın ni'met verdiği; senin de kendisine ni'met ver(ip hürriyete kavuştur)duğun kimseye: \"Eşini yanında tut, Allah'tan kork\" diyordun, fakat Allah'ın açığa vuracağı şeyi içinde gizliyordun, insanlardan çekiniyordun; oysa asıl çekinmene layık olan, Allah idi. Zeyd, o kadından ilişiğini kesince biz onu sana nikahladık ki (bundan böyle) evlatlıkları, kadınlarıyle ilişkilerini kestikleri zaman o kadınlarla evlenmek hususunda mü'minlere bir güçlük olmasın. Allah'ın buyruğu (her zaman) yerine getirilmiştir."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Allah'n kendisine takdir ettiği bir şeyi yerine getirmekte, Peygambere herhangi bir güçlük yoktur. Sizden önce geçenler arasında da Allah'ın yasası böyle idi. Allah'ın emri, olup bitmiş bir şeydir."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "(O peygamberler), Allah'ın mesajlarını duyururlar, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlardı. Hesap görücü olarak Allah yeter."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Muhammed, sizin erkeklerinizden birinin babası değil, falat Allah'ın Elçisi ve peygamberlerin hatemidir. Allah her şeyi bilendir."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Ey inananlar, Allah'ı çok anın."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Ve O'nu sabah akşam tesbih edin."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "O(Allah)dır ki, sizi karanlıklardan aydınlığa çıkarmak için üzerinize rahmet eder, melekleri de (size acıyıp mağfiret dilerler. Allah) inananlara karşı çok esirgeyendir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Kendisine kavuştukları gün, selam ile karşılanırlar. (Allah) Onlara güzel bir mükafat hazırlamıştır."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Ey peygamber, biz seni şahid, müjdeci ve uyarıcı olarak gönderdik."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Ve izniyle, Allah'a da'vetçi ve aydınlatıcı bir lamba olarak (gönderdik)."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Mü'minlere, Allah'tan büyük bir lutuf bulunduğunu müjdele!"
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Kafirlere ve münafıklara ita'at etme. Onların eziyetlerine aldırma, Allah'a dayan; vekil (koruyucu) olarak Allah yeter."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Ey inananlar, inanan kadınları nikahlayıp da henüz onlara dokunmadan boşarsanız, onların üzerinde sayacağınız bir iddet hakkınız yoktur. Hemen müt'alarını verin (biraz geçimlik verip memnun edin) ve onları güzellike serbest bırakın."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Ey peygamber, biz, ücretlerini (mehirlerini) verdiğin eşlerini; Allah'ın sana ganimet olarak verdiğ(i savaş esir)lerinden elinin altında bulunan(cariye)leri; amcanın, halalarının, dayının ve teyzelerinin seninle beraber göç eden kızlarını sana helal kıldık. Bir de kendisini (mehirsiz olarak) peygambere hibe eden ve peygamberin de kendisini almak dilediği inanmış kadını, diğer mü'minlere değil, sırf sana mahsus olmak üzere (helal kıldık). Biz, eşleri ve ellerinin altında bulunan(cariye)leri hakkında mü'minlere yapmalarını gerekli kıldığımız şeyi bil(dir)dik. (onların bu hususta ne yapması lazım geldiğini de daha önce açıkladık) ki, sana bir zorluk olmasın, (sen bir sıkıntıya, güç bir duruma düşmeyesin). Allah çok bağışlayan, çok esirgeyendir."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Onlardan dilediğini geri bırakır, dilediğini yanına alırsın. (Geçici olarak) Ayrıldıklarından (tekrar birleşmeyi) arzu ettiğine (dönmekte) senin üzerine bir günah yoktur. Onların gözlerinin aydınlanıp tasalanmamalarına ve hepsinin, senin verdiklerine razı olmalarına en elverişli olan budur. Allah sizin kalblerinizde olanı bilir. Allah bilendir, halimdir (birden öfkeye kapılıp ceza vermez)."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Bundan sonra artık sana (başka) kadınlar(la evlenmek), güzellikleri çok hoşuna giden kadınlar olsa da, bunları başka eşlerle değiştirmek helal değildir. Yalnız elinin altında bulunan(cariye)ler bunun dışındadır. Allah, her şeyi gözetleyicidir."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Ey inananlar, (rastgele) Peygamber'in evlerine girmeyin. Ancak yemek için size izin verilir de girerseniz (erkenden gelip) yemeğin pişmesini beklemeyin. Çağrıldığınız zaman girin; yemeği yeyince dağılın, söze dalmayın. Çünkü bu (davranışınız) Peygamberi incitiyor, fakat o, (size bunu söylemekten) utanıyordu. Ama Allah, gerçek(i söylemek)ten utanmaz. Onlardan (yani peygamberin hanımlarından) bir şey istediğiniz zaman perde arkasından isteyin. Bu, hem sizin kalbleriniz, hem de onların kalbleri için daha temizdir. Sizin, Allah'ın Elçisini incitmeniz ve kendisinden sonra onun eşlerini nikahlamanız asla olamaz. Çünkü bu, Allah katında büyük(bir günah)tır."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Bir şeyi açığa vursanız da, yahut onu gizleseniz de (fark etmez), Allah her şeyi gayet iyi bilmektedir."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Onlara (yani Peygamberin hanımlarına) ne babaları, ne oğulları, ne kardeşleri, ne kardeşlerinin oğulları, ne kızkardeşlerinin oğulları, ne kadınları ve ne de ellerinin altında bulunan(köle)leri hakkında bir günah yoktur, (bunlara karşı örtünmeleri gerekmez. Ey Peygamberin hanımları) Allah'tan korkun; şüphesiz Allah, her şeyi görmektedir."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Allah'ı ve melekleri, Peygambere salat etmekte(onun şerefini gözetmeğe, şanını yüceltmeğe özen göstermekte)dir. Ey inananlar, siz de ona salat edin, (onun şanını yüceltmeğe özen gösterin); içtenlikle selam edin (ona esenlik dileyin)."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Allah'ı ve Elçisini incitenler var ya, işte Allah onlara dünyada ve ahirette la'net etmiş ve onlar için alçaltıcı bir azab hazırlamıştır."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Mü'min erkekleri ve mü'min kadınları yapmadıkları bir şeyle (suçlayıp) incitenler bir iftira ve açık bir günah yüklenmişlerdir."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Ey Peygamber, eşlerine, kızlarına ve inananların kadınlarına söyle: (Bir ihtiyaç için dışarı çıktıkları zaman) örtülerini üstlerine salsınlar; onların tanınıp incitilmemesi için en elverişli olan budur. Allah çok bağışlayan, çok esirgeyendir."
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Andolsun, iki yüzlüler, kalblerinde hastalık bulunanlar, şehirde kötü haberler yayanlar (bu yaptıklarından) vazgeçmezlerse seni onların üstüne süreriz (onlarla savaşmanı ve onları şehirden sürüp çıkarmanı sana emrederiz); sonra orada, senin yanında ancak az bir zaman kalabilirler."
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "La'netlenirler; nerede rastlansalar yakalanıp; öldürülürler."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Allah'ın önceden geçen(millet)ler arasında (uygulanan) yasası budur. (Peygamberlere karşı iki yüzlülük edenler öldürülürler). Allah'ın yasasını değiştirme(ğe imkan) bulamazsın."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "İnsanlar sana O sa'atten soruyorlar. De ki: \"Onun bilgisi Allah'ın yanındadır.\" Ne bilirsin belki o sa'at yakın olur?"
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Allah kafirlere la'net etmiş ve onlar için çılgın bir ateş hazırlamıştır."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Orada ebedi olarak kalacaklar; (kendilerini koruyacak) bir dost ve yardımcı bulamayacaklardır."
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "Yüzleri ateşin içinde çevrildiği gün: \"Eyvah bize! Keşke Allah'a ita'at etseydik, Elçiye ita'at etseydik!\" derler."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Ve dediler ki: \"Rabbimiz, biz beylerimize ve büyüklerimize uyduk da bizi yoldan saptırdılar.\""
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Rabbimiz, onlara iki kat azab ver ve onlara büyük bir la'net eyle!"
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Ey inananlar, şu kimseler gibi olmayın ki, Musa'ya eziyet ettiler de Allah onu onların dediklerinden beraat ettirdi; o, Allah yanında vecih (gözde, itibarlı bir kul) idi."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Ey inananlar, Allah'tan korkun ve doğru söz söyleyin."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Ki (Allah) işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resulüne ita'at ederse, büyük bir başarıya ermiş olur."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Biz emaneti, göklere, yere ve dağlara sunduk; onu yüklenmekten kaçındılar, on(un sorumluluğun)dan korktular; onu insan yüklendi; (fakat onun ağır sorumluluğunu tam kavrayamadı) doğrusu o, çok zalim, çok cahildir."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "(Allah bu emaneti insana vermiştir) Ki iki yüzlü erkeklere ve iki yüzlü kadınlara, ortak koşan erkeklere ve ortak koşan kadınlara azab etsin; inanan erkekleri ve inanan kadınları da bağışlasın. Allah çok bağışlayan, çok esirgeyendir."
-    }
-  ]
+  "ahzab": {
+    "surahNumber": "33",
+    "surahNameTr": "Ahzâb Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ey peygamber, Allah'tan kork; kafirlere ve münafıklara ita'at etme. Şüphesiz Allah bilendir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Rabbinden sana vahyedilene uy; muhakkak ki Allah yaptıklarınızı haber almaktadır."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Allah'a dayan; vekil olarak Allah yeter."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Allah, bir adamın (göğüs) boşluğunda iki kalb yaratmadı ve zıhar yaptığınız (sen bana, annemin sırtı gibisin dediğiniz) eşlerinizi, sizin anneleriniz yapmadı; evlatlıklarınızı da sizin öz oğullarınız kılmadı. Bunlar sizin ağızlarınıza gelen sözlerinizdir. Allah gerçeği söyler ve O, doğru yola iletir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Onları babalarının adına bağlayarak çağırın; bu, Allah yanında daha adaletlidir. Eğer babalarını bilmiyorsanız, onlar sizin din kardeşleriniz ve dostlarınızdır. Yanılarak yaptığınızda size bir günah yok, fakat kalblerinizin bile bile yaptığında günah vardır. Allah çok bağışlayan, çok esirgeyendir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Peygamber, mü'minlere canlarından ileridir. Onun eşleri de onların anneleridir. Rahim sahipleri (anne tarafından akrabalar) da Allah'ın Kitabında birbirlerine öteki mü'minlerden ve Muhacirlerden daha yakındırlar. Ancak dostlarınıza bir iyilik yapmanız (bir vasiyyet etmeniz) hariç (yaptığınız o vasiyyet yerine getirilir). Bunlar Kitapta yazılmıştır."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Biz peygamberlerden, (verdiğimiz elçilik görevini yapmak ve hak dine da'vet etmek hususunda) kuvvetle ahidlerini almıştık, senden, Nuh'dan, İbrahim'den, Musa'dan ve Meryem oğlu Îsa'dan, (evet) onlardan sapasağlam söz almıştık."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "(Böyle yaptık) Ki (Allah), o doğrulara doğruluklarından sorsun. Kafirlere de acı bir azab hazırlamıştır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ey inananlar, Allah'ın size olan ni'metini hatırlayın, hani bir zaman size ordular gelmişti de biz onların üzerine bir rüzgar ve sizin görmediğiniz ordular göndermiştik. Allah, yaptıklarınızı görmekteydi."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Hani onlar üstünüzden ve alt tarafınızdan gelmişlerdi, gözler (şaşkınlıktan ötürü) kaymış, yürekler (korkudan) hançerelere dayanmıştı. Allah hakında türlü zanlarda bulunuyordunuz."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "İşte orada mü'minler denenmiş, şiddetli bir sarsıntı ile sarsılmışlardı."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Münafıklar ve kalblerinde hastalık bulunan kimseler: \"Allah ve Resulü bize sadece boş vaadlerde bulundu.\" diyordu."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Onlardan bir grup da demişti ki: \"Ey Yesrib (Medine) halkı, artık size duracak yer yok, (haydi durmayın, evlerinize) dönün (Yahut: Artık bu dinde durmanız doğru değil, dönün)\". Onlardan bir topluluk da. \"Evlerimiz (sağlam değil), açıktır\" diyerek peygamberden izin istiyordu. Oysa onlar(ın evleri) açık değildi. Sadece kaçmak istiyorlardı."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Eğer (Medine'nin) her yanından onların üzerine giril(ip saldırıl)saydı da kendilerinden (halka) baskı ve işkence yapmaları istenseydi bunu yaparlardı; bunu yapmakta fazla gecikmezlerdi."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Oysa arkalarına dön(üp kaç)mayacaklarına dair Allah'a söz vermişlerdi. Allah'a verilen sözden sorumlu idiler."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "De ki: \"Eğer ölümden veya öldürülmekten kaçıyorsanız, kaçmak size fayda vermez. Kaçsanız bile pek az bir zaman yaşatılırsınız (sonunda yine ölürsünüz).\""
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "De ki: \"Allah size kötülük istese veya size rahmet dilese, sizi O'ndan kim korur? (Allah'ın azabından sizi kim kurtarır, O'nun rahmetine kim engel olur?) Kendilerine Allah'tan başka ne bir dost ne de bir yardımcı bulurlar."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Allah içinizden (savaştan) alıkoyanları ve kardeşlerine: \"Bize gelin!\" diyenleri biliyor. Onlar savaşa pek az gelirler."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "(Geldikleri zaman da) Size karşı cimriler olarak (gelirler). Ama korkulu bir durum olunca onların, üstüne ölüm baygınlığı çökmüş insan gibi, gözleri dönerek sana baktıklarını görürsün. Korku gid(ip de sıra ganimetleri paylaşmağa gel)ince mala düşkünlük göstererek sizi sivri dillerle incitirler. Onlar, (içtenlikle) inanmamışlar, bu yüzden Allah onların işlerini boşa çıkarmıştır. Bu, Allah'a göre kolaydır."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "(Korkaklıklarından ötürü düşman) Orduların(ın Medine'den) gitmediklerini sanıyorlardı. Eğer o ordular (ikinci kez) gelseler, bunlar çölde bedevi Araplar arasında bulunmayı, sizin haberlerinizi (başınıza gelecek olayları) oradan sorup öğrenmeyi arzu ederlerdi. İçinizde bulunsalardı dahi pek az dövüşürlerdi."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Andolsun Allah'ın Elçisinde sizin için Allah'a ve ahiret gününe kavuşmaya inanan ve Allah'ı çok anan kimseler için, (uyulacak) en güzel bir örnek vardır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Mü'minler (düşman) orduları(nı) gördükleri zaman (korkmadılar): \"Bu Allah'ın ve Resulünün, bize va'dettiği(zafer)dir. Allah ve Resulü doğru söylemiştir.\" dediler. Ve bu, onların sadece imanlarını ve teslimiyetlerini artırdı."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Mü'minlerden öyle erkekler var ki, Allah'a verdikleri sözde durdular. Onlardan kimi adağını yerine getirdi, (şehid oluncaya kadar çarpışacaklarını adamışlardı, çarpıştılar ve şehid düştüler), kimi de (şehidlik) beklemektedir; sözlerini asla değiştirmemişlerdir."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ki Allah doğruları, doğruluklarıyle mükafatladırsın, iki yüzlülere de dilerse azabetsin; yahut tevbelerini kabul buyursun. Şüphesiz Allah çok bağışlayandır, çok esirgeyendir."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Allah, inkar edenleri öfkeleriyle geri çevirdi; hiçbir hayra eremediler. Allah savaşta (rüzgar ve meleklerin yardımıyle) mü'minlere yetti. Allah güçlüdür, üstündür."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Kitap ehlinden onlara yardım eden(Kurayza yahudi)lerini de kalelerinden indirdi ve kalblerine korku düşürdü. (Onlardan) Bir kısmını öldürüyordunuz, bir kısmını da esir alıyordunuz."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Onların topraklarını, evlerini, mallarını ve henüz ayak basmadığınız bir toprağı size miras verdi. Allah, her şeye kadirdir."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ey peygamber! Eşlerine söyle: \"Eğer siz, dünya hayatını ve süsünü istiyorsanız, gelin size müt'a (boşanma bedeli) vereyim ve sizi güzellikle salayım.\""
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Eğer siz, Allah'ı, Eçisini ve ahiret yurdunu istiyorsanız, (biliniz ki) Allah, sizden güzel hareket edenlere büyük bir mükafat hazırlamıştır."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Ey peygamber kadınları! Sizden kim açık bir fuhuş (edepsizlik) yaparsa onun için azab iki kat yapılır. Bu, Allah'a göre kolaydır."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Fakat sizden kim Allah'a ve Resulüne ita'ate devam eder ve yararlı iş yaparsa ona da mükafatını iki kez veririz ve onun için bol bir rızık hazırlamışızdır."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Ey peygamber kadınları, siz, kadınlardan herhangi biri gibi değilsiniz. Eğer (Allah'ın buyruğuna karşı gelmekten) korunuyorsanız, sözü yumuşak (kıvrak) bir eda ile söylemeyin ki, kalbinde hastalık bulunan kimse tamah etmesin; güzel, (kuşkudan uzak bir biçimde) söz söyleyin."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Evlerinizde oturun, ilk cahiliye(çağı kadınları)nın açılıp kırıtması gibi açılıp kırıtmayın. Namazı kılın, zekatı verin, Allah'a ve Resulüne ita'at edin. Ey Ehl-i Beyt (ey peygamberin ev halkı), Allah sizden, kiri gidermek ve sizi tertemiz yapmak istiyor."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Evlerinizde okunan Allah ayetlerini ve hikmeti hatırlayın. Şüphesiz Allah latiftir, haber alandır."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Müslüman erkekler ve müslüman kadınlar, mü'min erkekler ve mü'min kadınlar, ta'ate devam eden erkekler ve ta'ate devam eden kadınlar, doğru erkekler ve doğru kadınlar; sabreden erkekler ve sabreden kadınlar, (Allah'a) saygılı erkekler ve saygılı kadınlar, sadaka veren erkekler ve sadaka veren kadınlar, oruç tutan erkekler ve oruç tutan kadınlar, ırzlarını koruyan erkekler ve (ırzlarını) koruyan kadınlar, Allah'ı çok zikreden erkekler ve zikreden kadınlar; (İşte) Allah bunlar için bağış ve büyük bir mükafat hazırlamıştır."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Allah ve Resulü, bir işte hüküm verdiği zaman, artık inanmış bir erkek ve kadının, o işi kendi isteklerine göre seçme hakkı yoktur. Kim Allah'a ve Resulüne karşı gelirse, apaçık bir sapıklığa düşmüş olur."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Allah'ın ni'met verdiği; senin de kendisine ni'met ver(ip hürriyete kavuştur)duğun kimseye: \"Eşini yanında tut, Allah'tan kork\" diyordun, fakat Allah'ın açığa vuracağı şeyi içinde gizliyordun, insanlardan çekiniyordun; oysa asıl çekinmene layık olan, Allah idi. Zeyd, o kadından ilişiğini kesince biz onu sana nikahladık ki (bundan böyle) evlatlıkları, kadınlarıyle ilişkilerini kestikleri zaman o kadınlarla evlenmek hususunda mü'minlere bir güçlük olmasın. Allah'ın buyruğu (her zaman) yerine getirilmiştir."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Allah'n kendisine takdir ettiği bir şeyi yerine getirmekte, Peygambere herhangi bir güçlük yoktur. Sizden önce geçenler arasında da Allah'ın yasası böyle idi. Allah'ın emri, olup bitmiş bir şeydir."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "(O peygamberler), Allah'ın mesajlarını duyururlar, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlardı. Hesap görücü olarak Allah yeter."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Muhammed, sizin erkeklerinizden birinin babası değil, falat Allah'ın Elçisi ve peygamberlerin hatemidir. Allah her şeyi bilendir."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Ey inananlar, Allah'ı çok anın."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Ve O'nu sabah akşam tesbih edin."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "O(Allah)dır ki, sizi karanlıklardan aydınlığa çıkarmak için üzerinize rahmet eder, melekleri de (size acıyıp mağfiret dilerler. Allah) inananlara karşı çok esirgeyendir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Kendisine kavuştukları gün, selam ile karşılanırlar. (Allah) Onlara güzel bir mükafat hazırlamıştır."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Ey peygamber, biz seni şahid, müjdeci ve uyarıcı olarak gönderdik."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Ve izniyle, Allah'a da'vetçi ve aydınlatıcı bir lamba olarak (gönderdik)."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Mü'minlere, Allah'tan büyük bir lutuf bulunduğunu müjdele!"
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Kafirlere ve münafıklara ita'at etme. Onların eziyetlerine aldırma, Allah'a dayan; vekil (koruyucu) olarak Allah yeter."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Ey inananlar, inanan kadınları nikahlayıp da henüz onlara dokunmadan boşarsanız, onların üzerinde sayacağınız bir iddet hakkınız yoktur. Hemen müt'alarını verin (biraz geçimlik verip memnun edin) ve onları güzellike serbest bırakın."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Ey peygamber, biz, ücretlerini (mehirlerini) verdiğin eşlerini; Allah'ın sana ganimet olarak verdiğ(i savaş esir)lerinden elinin altında bulunan(cariye)leri; amcanın, halalarının, dayının ve teyzelerinin seninle beraber göç eden kızlarını sana helal kıldık. Bir de kendisini (mehirsiz olarak) peygambere hibe eden ve peygamberin de kendisini almak dilediği inanmış kadını, diğer mü'minlere değil, sırf sana mahsus olmak üzere (helal kıldık). Biz, eşleri ve ellerinin altında bulunan(cariye)leri hakkında mü'minlere yapmalarını gerekli kıldığımız şeyi bil(dir)dik. (onların bu hususta ne yapması lazım geldiğini de daha önce açıkladık) ki, sana bir zorluk olmasın, (sen bir sıkıntıya, güç bir duruma düşmeyesin). Allah çok bağışlayan, çok esirgeyendir."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Onlardan dilediğini geri bırakır, dilediğini yanına alırsın. (Geçici olarak) Ayrıldıklarından (tekrar birleşmeyi) arzu ettiğine (dönmekte) senin üzerine bir günah yoktur. Onların gözlerinin aydınlanıp tasalanmamalarına ve hepsinin, senin verdiklerine razı olmalarına en elverişli olan budur. Allah sizin kalblerinizde olanı bilir. Allah bilendir, halimdir (birden öfkeye kapılıp ceza vermez)."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Bundan sonra artık sana (başka) kadınlar(la evlenmek), güzellikleri çok hoşuna giden kadınlar olsa da, bunları başka eşlerle değiştirmek helal değildir. Yalnız elinin altında bulunan(cariye)ler bunun dışındadır. Allah, her şeyi gözetleyicidir."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Ey inananlar, (rastgele) Peygamber'in evlerine girmeyin. Ancak yemek için size izin verilir de girerseniz (erkenden gelip) yemeğin pişmesini beklemeyin. Çağrıldığınız zaman girin; yemeği yeyince dağılın, söze dalmayın. Çünkü bu (davranışınız) Peygamberi incitiyor, fakat o, (size bunu söylemekten) utanıyordu. Ama Allah, gerçek(i söylemek)ten utanmaz. Onlardan (yani peygamberin hanımlarından) bir şey istediğiniz zaman perde arkasından isteyin. Bu, hem sizin kalbleriniz, hem de onların kalbleri için daha temizdir. Sizin, Allah'ın Elçisini incitmeniz ve kendisinden sonra onun eşlerini nikahlamanız asla olamaz. Çünkü bu, Allah katında büyük(bir günah)tır."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Bir şeyi açığa vursanız da, yahut onu gizleseniz de (fark etmez), Allah her şeyi gayet iyi bilmektedir."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Onlara (yani Peygamberin hanımlarına) ne babaları, ne oğulları, ne kardeşleri, ne kardeşlerinin oğulları, ne kızkardeşlerinin oğulları, ne kadınları ve ne de ellerinin altında bulunan(köle)leri hakkında bir günah yoktur, (bunlara karşı örtünmeleri gerekmez. Ey Peygamberin hanımları) Allah'tan korkun; şüphesiz Allah, her şeyi görmektedir."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Allah'ı ve melekleri, Peygambere salat etmekte(onun şerefini gözetmeğe, şanını yüceltmeğe özen göstermekte)dir. Ey inananlar, siz de ona salat edin, (onun şanını yüceltmeğe özen gösterin); içtenlikle selam edin (ona esenlik dileyin)."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Allah'ı ve Elçisini incitenler var ya, işte Allah onlara dünyada ve ahirette la'net etmiş ve onlar için alçaltıcı bir azab hazırlamıştır."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Mü'min erkekleri ve mü'min kadınları yapmadıkları bir şeyle (suçlayıp) incitenler bir iftira ve açık bir günah yüklenmişlerdir."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Ey Peygamber, eşlerine, kızlarına ve inananların kadınlarına söyle: (Bir ihtiyaç için dışarı çıktıkları zaman) örtülerini üstlerine salsınlar; onların tanınıp incitilmemesi için en elverişli olan budur. Allah çok bağışlayan, çok esirgeyendir."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Andolsun, iki yüzlüler, kalblerinde hastalık bulunanlar, şehirde kötü haberler yayanlar (bu yaptıklarından) vazgeçmezlerse seni onların üstüne süreriz (onlarla savaşmanı ve onları şehirden sürüp çıkarmanı sana emrederiz); sonra orada, senin yanında ancak az bir zaman kalabilirler."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "La'netlenirler; nerede rastlansalar yakalanıp; öldürülürler."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Allah'ın önceden geçen(millet)ler arasında (uygulanan) yasası budur. (Peygamberlere karşı iki yüzlülük edenler öldürülürler). Allah'ın yasasını değiştirme(ğe imkan) bulamazsın."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "İnsanlar sana O sa'atten soruyorlar. De ki: \"Onun bilgisi Allah'ın yanındadır.\" Ne bilirsin belki o sa'at yakın olur?"
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Allah kafirlere la'net etmiş ve onlar için çılgın bir ateş hazırlamıştır."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Orada ebedi olarak kalacaklar; (kendilerini koruyacak) bir dost ve yardımcı bulamayacaklardır."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "Yüzleri ateşin içinde çevrildiği gün: \"Eyvah bize! Keşke Allah'a ita'at etseydik, Elçiye ita'at etseydik!\" derler."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Ve dediler ki: \"Rabbimiz, biz beylerimize ve büyüklerimize uyduk da bizi yoldan saptırdılar.\""
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Rabbimiz, onlara iki kat azab ver ve onlara büyük bir la'net eyle!"
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Ey inananlar, şu kimseler gibi olmayın ki, Musa'ya eziyet ettiler de Allah onu onların dediklerinden beraat ettirdi; o, Allah yanında vecih (gözde, itibarlı bir kul) idi."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Ey inananlar, Allah'tan korkun ve doğru söz söyleyin."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Ki (Allah) işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resulüne ita'at ederse, büyük bir başarıya ermiş olur."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Biz emaneti, göklere, yere ve dağlara sunduk; onu yüklenmekten kaçındılar, on(un sorumluluğun)dan korktular; onu insan yüklendi; (fakat onun ağır sorumluluğunu tam kavrayamadı) doğrusu o, çok zalim, çok cahildir."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "(Allah bu emaneti insana vermiştir) Ki iki yüzlü erkeklere ve iki yüzlü kadınlara, ortak koşan erkeklere ve ortak koşan kadınlara azab etsin; inanan erkekleri ve inanan kadınları da bağışlasın. Allah çok bağışlayan, çok esirgeyendir."
+      }
+    ]
+  }
 }

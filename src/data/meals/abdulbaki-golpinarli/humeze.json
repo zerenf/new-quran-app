@@ -1,42 +1,44 @@
 {
-  "surahNumber": "104",
-  "surahName": "Hümeze Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Bütün incedeninceye alay eden kovucuların vay hallerine."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Öylesine ki mal yığar ve onu sayardurur."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Sanır ki gerçekten de malı, onu ebedileştirir."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "İş öyle değil, andolsun ki o, kırıp döken, silip süpüren cehenneme atılır."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve ne bildirdi sana, o kırıp döken, silip süpüren cehennem nedir?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Allah'ın tutuşturulmuş bir ateşidir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Öylesine ateş ki yürekleri sarar, kaplar."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Şüphe yok ki üstlerine kapıları kapanmıştır."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Upuzun uzatılmış direklerle."
-    }
-  ]
+  "humeze": {
+    "surahNumber": "104",
+    "surahNameTr": "Hümeze Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Bütün incedeninceye alay eden kovucuların vay hallerine."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Öylesine ki mal yığar ve onu sayardurur."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Sanır ki gerçekten de malı, onu ebedileştirir."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "İş öyle değil, andolsun ki o, kırıp döken, silip süpüren cehenneme atılır."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve ne bildirdi sana, o kırıp döken, silip süpüren cehennem nedir?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Allah'ın tutuşturulmuş bir ateşidir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Öylesine ateş ki yürekleri sarar, kaplar."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Şüphe yok ki üstlerine kapıları kapanmıştır."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Upuzun uzatılmış direklerle."
+      }
+    ]
+  }
 }

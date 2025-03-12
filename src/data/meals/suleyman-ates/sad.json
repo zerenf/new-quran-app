@@ -1,358 +1,360 @@
 {
-  "surahNumber": "38",
-  "surahName": "Sâd Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Sad, (uyarıcı) ve şanlı Kur'an'a andolsun ki,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "İnkar edenler bir gurur ve ayrılık içindedirler."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Onlardan önce nice nesilleri helak ettik de feryad ettiler; fakat artık kurtuluş zamanı geçmişti."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Onlara kendilerinden bir uyarıcı (peygamber) gelmesine hayret ettiler de o kafirler dediler ki: \"Bu yalancı bir sihirbazdır.\""
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Tanrıları bir tek tanrı mı yaptı? Bu, cidden tuhaf bir şeydir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Onlardan bir grup fırladı: \"Yürüyün tanrılarınıza bağlı kalın. Çünkü bu, arzu edilen bir şeydir.\""
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Biz bu(nun söylediği)ni (babalarımızın bağlı olduğu) öteki dinde işitmedik. Bu uydurmadan başka bir şey değildir.!"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "O Zikr (uyarı, başka kimse kalmadı da) aramızdan ona mı indirildi? Doğrusu, onlar benim Zikr'imden yana şüphe içindedirler. Hayır, onlar henüz azabımı tadmadılar!.."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Yoksa daima üstün olan, çok lutufta bulunan Rabbinin rahmet hazineleri onların yanında mı?"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Yoksa göklerin, yerin ve ikisi arasında bulunanların mülkü onların mı? Öyleyse sebepler (vasıtalar) içinde yükselsinler (vasıtalara binip göklere çıksınlar da oradan alemi yönetsinler, vahyi de kendi isteklerine göre indirsinler)."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "(Onlar) Şurada bozguna uğratılacak derme çatma bir ordudur."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Onlardan önce de Nuh kavmi, Ad (kavmi) ve kazıklar sahibi (temelleri kazık gibi yere çakılmış, yüksek pramitler yaptıran) Fir'avn da yalanlamıştı."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Semud (kavmi), Lut kavmi ve Eyke halkı da (böyle yapmıştı). İşte onlar da (peygamberlere karşı birleşik) kabilelerdi."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Hepsi de elçileri yalanladılar, benim cezamı hak ettiler."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Bunlar(ın işi) de sadece geri dönmesi olmayan bir na'raya bakıyor."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "(Alay ederek) Dediler ki: \"Rabbimiz, bizim (azab) payımızı hesap gününden önce, hemen ver.\""
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Onların dediklerine sabret de güçlü kulumuz Davud'u an; çünkü o (bize) çok başvururdu."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Biz dağları onunla beraber (tesbih etmeleri için) boyun eğdirmiştik; akşam sabah onunla tesbih ederler (onun yaptığı tesbihle çınlarlar)dı."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Toplanıp gelen kuşları da (ona ram etmiştik). Hepsi onun nağmesine katılır (beraber tesbih ederler)di."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onun mülkünü güçlendirmiştik, kendisine hikmet (peygamberlik, yüksek bilgi, hakkı batıldan ayırma, davaları çözme) ve açık, güzel konuşma (yeteneği) vermiştik."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Sana davacıların haberi geldi mi? Hani odasının duvarına tırmanmışlardı,"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Davud'un yanına girmişlerdi de (Davud) onlardan korkmuştu: \"Korkma, dediler, biz iki davacıyız. Birimiz, ötekinin hakkına saldırdı. Şimdi sen aramızda hak ile hükmet, (adaletten ayrılıp bize) zulmetme. Bizi yolun ortasına (adalete) götür.\""
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Bu kardeşimin doksan dokuz koyunu var. Benimse bir tek koyunum var. Böyle iken Onu da bana ver\" dedi ve konuşmada bana ağır bastı (onunla baş edemedim.)\""
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "(Davud) dedi ki: \"And olsun (o) senin, koyununu kendi koyunlarına katmayı istemekle sana zulmetmiştir. Zaten (mallarını birbirine) karıştıran(ortak)ların çoğu birbirine zulmederler. Yalnız inanıp iyi işler yapanlar bunun dışındadır ki, onlar da ne kadar azdır!\" Davud, (bu hükümle) kendisini denediğimizi (kendisine bir bela vereceğimizi) sandı da Rabbinden mağfiret diledi, eğilerek secdeye kapandı ve tevbe edip (bize) döndü."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Biz de ondan bunu affettik. Yanımızda onun bir yakınlığı ve güzel bir geleceği vardır."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ey Davud, biz seni yeryüzünde (senden öncekilerin yerine) hükümdar yaptık. İnsanlar arasında adaletle hükmet; keyf(in)e uyma, sonra seni Allah'ın yolundan saptırır. Allah'ın yolundan sapanlar ise, hesap gününü unuttuklarından dolayı, çetin azaba uğrayacaklardır."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Göğü, yeri ve ikisi arasındakileri boş yere yaratmadık (bunlar bir tesadüf eseri değildir) bu, inkar edenlerin zannıdır, (onlar kainatın boş bir tesadüf eseri olduğunu söylerler). Ateşten vay hallerine o nankörlerin!"
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Yoksa biz, inanıp iyi işler yapanları, yeryüzünde bozgunculuk yapanlar gibi mi tutacağız? Yoksa korunanları yoldan çıkanlar gibi mi tutacağız?"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Sana (bu) mübarek Kitabı indirdik ki ayetlerini düşünsünler ve sağduyu sahipleri öğüt alsınlar."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Biz Davud'a Süleyman'ı armağan ettik, (Süleyman) ne güzel kuldu! Hep Allah'a başvururdu."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Akşam üstü kendisine safin (görkemli) hızlı koşan (saf kan Arap) atları gösterilmişti."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Ben, dedi, mal sevgisini, Rabbimi anmaktan (ötürü) tercih ettim. Nihayet bu atlar perde ile gizlendi (koşup dağın arkasına düşmekle gözden kayboldu)."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Onları bana getirin (dedi), bacaklarını ve boyunlarını okşamağa başladı."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Andolsun Süleyman'ı denedik: Tahtının üstüne bir ceset bıraktık, sonra (bize) yöneldi."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Rabbim, dedi, beni affet, bana, benden sonra hiç kimseye nasib olmayan bir mülk (hükümdarlık) ver. Çünkü Sensin o çok lutfeden, Sen!\""
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Biz, rüzgarı ona boyun eğdirdik. Onun buyruğuyla, onun istediği yere tatlı tatlı eserdi."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Ve şeytanları; her bina ustasını ve dalgıcı,"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Ve zincirlerle birbirine bağlanmış başka (şeytan)ları."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Bu bizim ihsanımızdır. Artık dilediğine ver veya verme, hesapsızdır. (dedik)."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Onun için, bizim yanımızda bir yakınlık ve güzel bir gelecek de vardır."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Kulumuz Eyyub'u da an: (O) Rabbine \"Şeytan, bana bir yorgunluk ve azab dokundurdu\" diye seslenmişti."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Ayağını (yere) vur, işte yıkanacak ve içilecek serin (bir su), (dedik). \t(And it was said unto him): Strike the ground with thy foot. This (spring) is a cool bath and a refreshing drink."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Ona bizden bir rahmet ve sağduyu sahiplerine bir ibret olarak ailesini ve onlarla beraber bir eşini daha armağan ettik."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "(Dedik ki): \"Eline bir demet sap al, onunla vur da yeminini bozma.\" Gerçekten biz onu sabreden (bir kul) bulmuştuk. Ne güzel kuldu, o daima (bize) başvururdu."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Kuvvetli ve basiretli kullarımız İbrahim'i, İshak'ı ve Ya'kub'u da an."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Biz onları ahiret yurdunu düşünme özelliğiyle temizleyip, kendimize halis (kul) yaptık."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Onlar bizim yanımızda seçkinlerden, hayırlılardandır."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "İsma'il'i, Elyesa'ı, Zülkifil'i de an. Hepsi de iyilerdendir."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Bu, bir hatırlamadır. Korunanlar için güzel bir gelecek vardır:"
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Kapıları kendilerine açılmış Adn cennetleri."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Orada (koltuklara) yaslanarak bir çok meyva ve içki isterler."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Yanlarında da bakışlarını yalnız (kocalarına) diken (kendileriyle) yaşıt dilberler vardır."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "İşte, hesap günü için size söz verilen budur!"
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Doğrusu bizim bu rızkımızın bitip tükenmesi yoktur!"
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Bu böyledir; fakat azgınlara da en kötü bir gelecek vardır:"
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Cehennem! Oraya girerler. Ne kötü bir döşektir o!"
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "İşte onu tadsınlar: Kaynar ve kokuşmuş sudur!"
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Ve daha başka çeşit çeşit (azab) vardır."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "İşte şunlar da sizinle beraber (cehenneme) girecek olanlardır: \"Onlara merhaba yok, (yerleri geniş olmasın, rahat yüzü görmesinler)! Onlar ateşe gireceklerdir.\""
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "(Uyanlar, uyulanlara) Dediler ki: \"Hayır, asıl size merhaba yok, (asıl siz rahat yüzü görmeyin), siz bunu bizim önümüze getirdiniz. Ne kötü durak (bu)!\""
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "(Ve hepsi birbiri aleyhine du'a ederek): \"Rabbimiz, bunu bizim önümüze kim getirdiyse onun ateşteki azabını bir kat daha artır!\" dediler."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Bize ne oldu ki, (dünyada) kötülerden saydığımız adamları (burada) görmüyoruz? dediler."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Hani onlarla alay ederdik. Yoksa gözler(imiz) mi onlardan kaydı, (onları gözden mi kaçırdık)?"
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Bu, mutlaka gerçektir, ateş halkının tartışmasıdır (bunun olacağından asla şüphe yoktur)."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "De ki: \"Ben ancak bir uyarıcıyım. Tek ve (her şeyi) kahreden Allah'tan başka tanrı yoktur.\""
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "O, göklerin, yerin ve ikisi arasındakilerin Rabbidir, daima üstündür, çok bağışlayandır."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "De ki: \"O, büyük bir haberdir.\""
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "(Ama gafletinizden dolayı) Siz ondan yüz çeviriyorsunuz."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Yüce topluluk tartışırlarken (aralarında) neler geçtiği hakkında bir bilgim yoktu."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Ben ancak apaçık bir uyarıcı olduğum için (bu bilgi) bana vahyediliyor."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Rabbin meleklere demişti ki: \"Ben çamurdan bir insan yaratacağım.\""
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Onu biçimlendirip ona ruhumdan üflediğim zaman derhal ona secdeye kapanın!"
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Meleklerin hepsi tüm olarak secde ettiler."
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Yalnız İblis etmedi, büyüklük tasladı ve kafirlerden oldu."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "(Rabbin ona) Dedi ki: \"Ey İblis, iki elimle yarattığıma secde etmekten seni alıkoyan nedir? Büyüklük mü tasladın, yoksa yücelerden mi oldun?\""
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Dedi: \"Ben ondan iyiyim. Beni ateşten, onu çamurdan yarattın.\""
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Buyurdu ki: \"Haydi çık oradan, sen kovuldun!\""
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "Ta ceza gününe kadar lanetim üzerinedir!"
-    },
-    {
-      "ayahNumber": "79",
-      "ayahText": "Rabbim, dedi, öyleyse yeniden dirilecekleri güne kadar bana süre ver."
-    },
-    {
-      "ayahNumber": "80",
-      "ayahText": "Buyurdu: \"Haydi sen süre verilenlerdensin.\""
-    },
-    {
-      "ayahNumber": "81",
-      "ayahText": "O belli vaktin gününe kadar. \tUntil the day of the time appointed."
-    },
-    {
-      "ayahNumber": "82",
-      "ayahText": "(İblis) Dedi: \"Senin izzet ve şerefine and olsun ki, onların tümünü azdıracağım.\""
-    },
-    {
-      "ayahNumber": "83",
-      "ayahText": "Yalnız onlardan ihlaslı kulların(a dokunmayacağım)."
-    },
-    {
-      "ayahNumber": "84",
-      "ayahText": "Buyurdu ki: \"Gerçektir (sen benim halis kullarımı kandıramazsın), ve ben gerçek olarak diyorum ki:"
-    },
-    {
-      "ayahNumber": "85",
-      "ayahText": "Senden ve onlar içinde sana uyan kimselerden (gelenler ile) cehennemi dolduracağım!"
-    },
-    {
-      "ayahNumber": "86",
-      "ayahText": "De ki: \"Ben sizden buna karşı bir ücret istemiyorum. Ve ben yapmacık yapanlardan, (uydurma şeylerle peygamberlik taslayanlardan) değilim.\""
-    },
-    {
-      "ayahNumber": "87",
-      "ayahText": "O (Kur'an), ancak bütün alemlere öğüttür."
-    },
-    {
-      "ayahNumber": "88",
-      "ayahText": "Bir süre sonra \"Onun haberi(nin doğruluğu)nu gayet iyi bileceksiniz!\""
-    }
-  ]
+  "sad": {
+    "surahNumber": "38",
+    "surahNameTr": "Sâd Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Sad, (uyarıcı) ve şanlı Kur'an'a andolsun ki,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnkar edenler bir gurur ve ayrılık içindedirler."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onlardan önce nice nesilleri helak ettik de feryad ettiler; fakat artık kurtuluş zamanı geçmişti."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onlara kendilerinden bir uyarıcı (peygamber) gelmesine hayret ettiler de o kafirler dediler ki: \"Bu yalancı bir sihirbazdır.\""
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Tanrıları bir tek tanrı mı yaptı? Bu, cidden tuhaf bir şeydir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Onlardan bir grup fırladı: \"Yürüyün tanrılarınıza bağlı kalın. Çünkü bu, arzu edilen bir şeydir.\""
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Biz bu(nun söylediği)ni (babalarımızın bağlı olduğu) öteki dinde işitmedik. Bu uydurmadan başka bir şey değildir.!"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "O Zikr (uyarı, başka kimse kalmadı da) aramızdan ona mı indirildi? Doğrusu, onlar benim Zikr'imden yana şüphe içindedirler. Hayır, onlar henüz azabımı tadmadılar!.."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Yoksa daima üstün olan, çok lutufta bulunan Rabbinin rahmet hazineleri onların yanında mı?"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Yoksa göklerin, yerin ve ikisi arasında bulunanların mülkü onların mı? Öyleyse sebepler (vasıtalar) içinde yükselsinler (vasıtalara binip göklere çıksınlar da oradan alemi yönetsinler, vahyi de kendi isteklerine göre indirsinler)."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "(Onlar) Şurada bozguna uğratılacak derme çatma bir ordudur."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Onlardan önce de Nuh kavmi, Ad (kavmi) ve kazıklar sahibi (temelleri kazık gibi yere çakılmış, yüksek pramitler yaptıran) Fir'avn da yalanlamıştı."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Semud (kavmi), Lut kavmi ve Eyke halkı da (böyle yapmıştı). İşte onlar da (peygamberlere karşı birleşik) kabilelerdi."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Hepsi de elçileri yalanladılar, benim cezamı hak ettiler."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Bunlar(ın işi) de sadece geri dönmesi olmayan bir na'raya bakıyor."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "(Alay ederek) Dediler ki: \"Rabbimiz, bizim (azab) payımızı hesap gününden önce, hemen ver.\""
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Onların dediklerine sabret de güçlü kulumuz Davud'u an; çünkü o (bize) çok başvururdu."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Biz dağları onunla beraber (tesbih etmeleri için) boyun eğdirmiştik; akşam sabah onunla tesbih ederler (onun yaptığı tesbihle çınlarlar)dı."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Toplanıp gelen kuşları da (ona ram etmiştik). Hepsi onun nağmesine katılır (beraber tesbih ederler)di."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onun mülkünü güçlendirmiştik, kendisine hikmet (peygamberlik, yüksek bilgi, hakkı batıldan ayırma, davaları çözme) ve açık, güzel konuşma (yeteneği) vermiştik."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Sana davacıların haberi geldi mi? Hani odasının duvarına tırmanmışlardı,"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Davud'un yanına girmişlerdi de (Davud) onlardan korkmuştu: \"Korkma, dediler, biz iki davacıyız. Birimiz, ötekinin hakkına saldırdı. Şimdi sen aramızda hak ile hükmet, (adaletten ayrılıp bize) zulmetme. Bizi yolun ortasına (adalete) götür.\""
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Bu kardeşimin doksan dokuz koyunu var. Benimse bir tek koyunum var. Böyle iken Onu da bana ver\" dedi ve konuşmada bana ağır bastı (onunla baş edemedim.)\""
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "(Davud) dedi ki: \"And olsun (o) senin, koyununu kendi koyunlarına katmayı istemekle sana zulmetmiştir. Zaten (mallarını birbirine) karıştıran(ortak)ların çoğu birbirine zulmederler. Yalnız inanıp iyi işler yapanlar bunun dışındadır ki, onlar da ne kadar azdır!\" Davud, (bu hükümle) kendisini denediğimizi (kendisine bir bela vereceğimizi) sandı da Rabbinden mağfiret diledi, eğilerek secdeye kapandı ve tevbe edip (bize) döndü."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Biz de ondan bunu affettik. Yanımızda onun bir yakınlığı ve güzel bir geleceği vardır."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ey Davud, biz seni yeryüzünde (senden öncekilerin yerine) hükümdar yaptık. İnsanlar arasında adaletle hükmet; keyf(in)e uyma, sonra seni Allah'ın yolundan saptırır. Allah'ın yolundan sapanlar ise, hesap gününü unuttuklarından dolayı, çetin azaba uğrayacaklardır."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Göğü, yeri ve ikisi arasındakileri boş yere yaratmadık (bunlar bir tesadüf eseri değildir) bu, inkar edenlerin zannıdır, (onlar kainatın boş bir tesadüf eseri olduğunu söylerler). Ateşten vay hallerine o nankörlerin!"
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Yoksa biz, inanıp iyi işler yapanları, yeryüzünde bozgunculuk yapanlar gibi mi tutacağız? Yoksa korunanları yoldan çıkanlar gibi mi tutacağız?"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Sana (bu) mübarek Kitabı indirdik ki ayetlerini düşünsünler ve sağduyu sahipleri öğüt alsınlar."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Biz Davud'a Süleyman'ı armağan ettik, (Süleyman) ne güzel kuldu! Hep Allah'a başvururdu."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Akşam üstü kendisine safin (görkemli) hızlı koşan (saf kan Arap) atları gösterilmişti."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Ben, dedi, mal sevgisini, Rabbimi anmaktan (ötürü) tercih ettim. Nihayet bu atlar perde ile gizlendi (koşup dağın arkasına düşmekle gözden kayboldu)."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Onları bana getirin (dedi), bacaklarını ve boyunlarını okşamağa başladı."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Andolsun Süleyman'ı denedik: Tahtının üstüne bir ceset bıraktık, sonra (bize) yöneldi."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Rabbim, dedi, beni affet, bana, benden sonra hiç kimseye nasib olmayan bir mülk (hükümdarlık) ver. Çünkü Sensin o çok lutfeden, Sen!\""
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Biz, rüzgarı ona boyun eğdirdik. Onun buyruğuyla, onun istediği yere tatlı tatlı eserdi."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Ve şeytanları; her bina ustasını ve dalgıcı,"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Ve zincirlerle birbirine bağlanmış başka (şeytan)ları."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Bu bizim ihsanımızdır. Artık dilediğine ver veya verme, hesapsızdır. (dedik)."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Onun için, bizim yanımızda bir yakınlık ve güzel bir gelecek de vardır."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Kulumuz Eyyub'u da an: (O) Rabbine \"Şeytan, bana bir yorgunluk ve azab dokundurdu\" diye seslenmişti."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Ayağını (yere) vur, işte yıkanacak ve içilecek serin (bir su), (dedik). \t(And it was said unto him): Strike the ground with thy foot. This (spring) is a cool bath and a refreshing drink."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Ona bizden bir rahmet ve sağduyu sahiplerine bir ibret olarak ailesini ve onlarla beraber bir eşini daha armağan ettik."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "(Dedik ki): \"Eline bir demet sap al, onunla vur da yeminini bozma.\" Gerçekten biz onu sabreden (bir kul) bulmuştuk. Ne güzel kuldu, o daima (bize) başvururdu."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Kuvvetli ve basiretli kullarımız İbrahim'i, İshak'ı ve Ya'kub'u da an."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Biz onları ahiret yurdunu düşünme özelliğiyle temizleyip, kendimize halis (kul) yaptık."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Onlar bizim yanımızda seçkinlerden, hayırlılardandır."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "İsma'il'i, Elyesa'ı, Zülkifil'i de an. Hepsi de iyilerdendir."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Bu, bir hatırlamadır. Korunanlar için güzel bir gelecek vardır:"
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Kapıları kendilerine açılmış Adn cennetleri."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Orada (koltuklara) yaslanarak bir çok meyva ve içki isterler."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Yanlarında da bakışlarını yalnız (kocalarına) diken (kendileriyle) yaşıt dilberler vardır."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "İşte, hesap günü için size söz verilen budur!"
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Doğrusu bizim bu rızkımızın bitip tükenmesi yoktur!"
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Bu böyledir; fakat azgınlara da en kötü bir gelecek vardır:"
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Cehennem! Oraya girerler. Ne kötü bir döşektir o!"
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "İşte onu tadsınlar: Kaynar ve kokuşmuş sudur!"
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Ve daha başka çeşit çeşit (azab) vardır."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "İşte şunlar da sizinle beraber (cehenneme) girecek olanlardır: \"Onlara merhaba yok, (yerleri geniş olmasın, rahat yüzü görmesinler)! Onlar ateşe gireceklerdir.\""
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "(Uyanlar, uyulanlara) Dediler ki: \"Hayır, asıl size merhaba yok, (asıl siz rahat yüzü görmeyin), siz bunu bizim önümüze getirdiniz. Ne kötü durak (bu)!\""
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "(Ve hepsi birbiri aleyhine du'a ederek): \"Rabbimiz, bunu bizim önümüze kim getirdiyse onun ateşteki azabını bir kat daha artır!\" dediler."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Bize ne oldu ki, (dünyada) kötülerden saydığımız adamları (burada) görmüyoruz? dediler."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Hani onlarla alay ederdik. Yoksa gözler(imiz) mi onlardan kaydı, (onları gözden mi kaçırdık)?"
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Bu, mutlaka gerçektir, ateş halkının tartışmasıdır (bunun olacağından asla şüphe yoktur)."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "De ki: \"Ben ancak bir uyarıcıyım. Tek ve (her şeyi) kahreden Allah'tan başka tanrı yoktur.\""
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "O, göklerin, yerin ve ikisi arasındakilerin Rabbidir, daima üstündür, çok bağışlayandır."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "De ki: \"O, büyük bir haberdir.\""
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "(Ama gafletinizden dolayı) Siz ondan yüz çeviriyorsunuz."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Yüce topluluk tartışırlarken (aralarında) neler geçtiği hakkında bir bilgim yoktu."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Ben ancak apaçık bir uyarıcı olduğum için (bu bilgi) bana vahyediliyor."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Rabbin meleklere demişti ki: \"Ben çamurdan bir insan yaratacağım.\""
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Onu biçimlendirip ona ruhumdan üflediğim zaman derhal ona secdeye kapanın!"
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Meleklerin hepsi tüm olarak secde ettiler."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Yalnız İblis etmedi, büyüklük tasladı ve kafirlerden oldu."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "(Rabbin ona) Dedi ki: \"Ey İblis, iki elimle yarattığıma secde etmekten seni alıkoyan nedir? Büyüklük mü tasladın, yoksa yücelerden mi oldun?\""
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Dedi: \"Ben ondan iyiyim. Beni ateşten, onu çamurdan yarattın.\""
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Buyurdu ki: \"Haydi çık oradan, sen kovuldun!\""
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "Ta ceza gününe kadar lanetim üzerinedir!"
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "Rabbim, dedi, öyleyse yeniden dirilecekleri güne kadar bana süre ver."
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "Buyurdu: \"Haydi sen süre verilenlerdensin.\""
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "O belli vaktin gününe kadar. \tUntil the day of the time appointed."
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "(İblis) Dedi: \"Senin izzet ve şerefine and olsun ki, onların tümünü azdıracağım.\""
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "Yalnız onlardan ihlaslı kulların(a dokunmayacağım)."
+      },
+      {
+        "ayahNumber": "84",
+        "ayahText": "Buyurdu ki: \"Gerçektir (sen benim halis kullarımı kandıramazsın), ve ben gerçek olarak diyorum ki:"
+      },
+      {
+        "ayahNumber": "85",
+        "ayahText": "Senden ve onlar içinde sana uyan kimselerden (gelenler ile) cehennemi dolduracağım!"
+      },
+      {
+        "ayahNumber": "86",
+        "ayahText": "De ki: \"Ben sizden buna karşı bir ücret istemiyorum. Ve ben yapmacık yapanlardan, (uydurma şeylerle peygamberlik taslayanlardan) değilim.\""
+      },
+      {
+        "ayahNumber": "87",
+        "ayahText": "O (Kur'an), ancak bütün alemlere öğüttür."
+      },
+      {
+        "ayahNumber": "88",
+        "ayahText": "Bir süre sonra \"Onun haberi(nin doğruluğu)nu gayet iyi bileceksiniz!\""
+      }
+    ]
+  }
 }

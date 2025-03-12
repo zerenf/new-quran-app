@@ -1,398 +1,400 @@
 {
-  "surahNumber": "19",
-  "surahName": "Meryem Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kaf, He, Ye, Ayn, Sad."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "(Bu,) Rabbinin, kulu Zekeriya'ya rahmetinin zikridir."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Hani o, Rabbine gizlice seslendiği zaman;"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Demişti ki: \"Rabbim, şüphesiz benim kemiklerim gevşedi ve baş, yaşlılık aleviyle tutuştu; ben Sana dua etmekle mutsuz olmadım.\""
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "\"Doğrusu ben, arkamdan gelecek yakınlarım adına korkuya kapıldım, benim karım da bir kısır (kadın)dır. Artık bana Kendi Katından bir yardımcı armağan et.\""
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "\"Bana mirasçı olsun. Yakup oğullarına da mirasçı olsun. Rabbim, onu (kendisinden) razı olunan(lardan) kıl.\""
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "(Allah buyurdu:) \"Ey Zekeriya, şüphesiz Biz seni, adı Yahya olan bir çocukla müjdelemekteyiz; Biz bundan önce ona hiçbir adaş kılmamışız.\""
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Dedi ki: \"Rabbim, karım kısır (bir kadın) iken, benim nasıl oğlum olabilir? Ben de yaşlılığın son basamağındayım.\""
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "(Ona gelen melek:) \"İşte böyle\" dedi. \"Rabbin dedi ki: Bu Benim için kolaydır, daha önce sen hiçbir şey değil iken, seni yaratmıştım.\""
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Dedi ki: \"Rabbim, bana bir alamet (ayet) ver.\" Dedi ki: \"Senin alametin, sapasağlam iken, üç tam gece insanlarla konuşmamandır.\""
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Böylelikle (Zekeriya) mescidten kavminin karşısına çıkıp onlara (şu anlamları) işaret etti: \"Sabah akşam tesbih edin.\""
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "(Çocuğun doğup büyümesinden sonra ona dedik ki:) \"Ey Yahya, Kitabı kuvvetle tut.\" Daha çocuk iken ona hikmet verdik."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Katımız'dan ona bir sevgi duyarlılığı ve temizlik (de verdik). O, çok takva sahibi biriydi."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ana ve babasına itaatkardı ve isyan eden bir zorba değildi."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Ona selam olsun; doğduğu gün, öleceği gün ve diri olarak yeniden-kaldırılacağı gün de."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Kitap'ta Meryem'i de zikret. Hani o, ailesinden kopup doğu tarafında bir yere çekilmişti."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Sonra onlardan yana (kendini gizleyen) bir perde çekmişti. Böylece ona ruhumuz (Cibril'i) göndermiştik, o da, düzgün bir beşer kılığında görünmüştü."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Demişti ki: \"Gerçekten ben, senden Rahman (olan Allah)a sığınırım. Eğer takva sahibiysen (bana yaklaşma).\""
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Demişti ki: \"Ben, yalnızca Rabbinden (gelen) bir elçiyim; sana tertemiz bir erkek çocuk armağan etmek için (buradayım).\""
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "O: \"Benim nasıl bir erkek çocuğum olabilir? Bana hiçbir beşer dokunmamışken ve ben azgın utanmaz (bir kadın) değilken\" dedi."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "\"İşte böyle\" dedi. \"Rabbin, dedi ki: -Bu Benim için kolaydır. Onu insanlara bir ayet ve Bizden bir rahmet kılmak için (bu çocuk olacaktır).\" Ve iş de olup bitmişti."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Böylelikle ona gebe kaldı, sonra onunla ıssız bir yere çekildi."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Derken doğum sancısı onu bir hurma dalına sürükledi. Dedi ki: \"Keşke bundan önce ölseydim de, hafızalardan silinip unutuluverseydim.\""
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Altından (bir ses) ona seslendi: \"Hüzne kapılma, Rabbin senin alt (yan)ında bir ark kılmıştır.\""
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Hurma dalını kendine doğru salla, üzerine henüz oluşmuş-taze hurma dökülüversin.\""
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Artık, ye, iç, gözün aydın olsun. Eğer herhangi bir beşer görecek olursan, de ki: \"Ben Rahman (olan Allah)' a oruç adadım, bugün hiç kimseyle konuşmayacağım.\""
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Böylece onu taşıyarak kavmine geldi. Dediler ki: \"Ey Meryem, sen gerçekten şaşırtıcı bir şey yaptın.\""
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "\"Ey Harun'un kız kardeşi, senin baban kötü bir kişi değildi ve annen de azgın, utanmaz (bir kadın) değildi.\""
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Bunun üzerine ona (çocuğa) işaret etti. Dediler ki: \"Henüz beşikte olan bir çocukla biz nasıl konuşabiliriz?\""
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "(İsa) Dedi ki: \"Şüphesiz ben Allah'ın kuluyum. (Allah) Bana kitabı verdi ve beni peygamber kıldı.\""
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "\"Nerede olursam (olayım,) beni kutlu kıldı ve hayat sürdüğüm müddetçe, bana namazı ve zekatı vasiyet (emr) etti.\""
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "\"Anneme itati de. Ve beni mutsuz bir zorba kılmadı.\""
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "\"Selam üzerimedir; doğduğum gün, öleceğim gün ve diri olarak yeniden-kaldırılacağım gün de.\""
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "İşte Meryem oğlu İsa; hakkında kuşkuya düştükleri \"Hak Söz\"."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Allah'ın çocuk edinmesi olacak şey değil. O Yücedir. Bir işin olmasına karar verirse, ancak ona: \"Ol\" der, o da hemen oluverir."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Gerçek şu ki, Allah benim de Rabbim, sizin de Rabbinizdir. Öyleyse O'na kulluk edin. Dosdoğru yol budur."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "İçlerinden (birtakım) gruplar ayrılığa düştüler. Artık büyük bir günü görmekten dolayı, vay inkar edenlere."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Bize gelecekleri gün, neler işitecekler, neler görecekler. Ama bugün o zalimler apaçık bir sapıklık içindedirler."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "İş(in) hükme bağlanıp biteceği, hasret gününe karşı onları uyar; onlar bir gaflet içindedirler ve onlar inanmıyorlar."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Elbette, yeryüzünde ve onun üzerindekilere Biz varis olacağız ve onlar Bize döndürülecekler."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Kitap'ta İbrahim'i de zikret. Gerçekten o, doğruyu-söyleyen bir peygamberdi."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Hani babasına demişti: \"Babacığım, işitmeyen, görmeyen ve seni herhangi bir şeyden bağımsızlaştırmayan şeylere niye tapıyorsun?"
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "\"Babacığım, gerçek şu ki, bana, sana gelmeyen bir ilim geldi. Artık bana tabi ol, seni düzgün bir yola ulaştırayım.\""
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "\"Babacığım, şeytana kulluk etme, kuşkusuz şeytan, Rahman (olan Allah)a başkaldırandır.\""
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "\"Babacığım, gerçekten ben, sana Rahman tarafından bir azabın dokunacağından korkuyorum, o zaman şeytanın velisi olursun.\""
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "(Babası) Demişti ki: \"İbrahim, sen benim ilahlarımdan yüz mü çeviriyorsun? Eğer (bu tutumuna) bir son vermeyecek olursan, andolsun, seni taşa tutarım; uzun bir süre benden uzaklaş, (bir yerlere) git.\""
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "(İbrahim:) \"Selam üzerine olsun, senin için Rabbimden bağışlanma dileyeceğim, çünkü, O, bana pek lütufkardır\" dedi."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "\"Sizden ve Allah'tan başka taptıklarınızdan kopup-ayrılıyorum ve Rabbime dua ediyorum. Umulur ki, Rabbime dua etmekle mutsuz olmayacağım.\""
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Böylelikle, onlardan ve Allah'tan başka taptıklarından kopup-ayrılınca ona İshak'ı ve (oğlu) Yakup'u armağan ettik ve her birini peygamber kıldık."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Onlara rahmetimizden armağan(lar) bağışladık ve onlar için yüce bir doğruluk dili verdik."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Kitap'ta Musa'yı da zikret. Çünkü o, ihlasa erdirilmiş ve gönderilmiş (Resul) bir peygamberdi."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Ona, Tur'un sağ yanından seslendik ve onu (kendisiyle) gizlice söyleşmek için yakınlaştırdık."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Ona Rahmetimiz'den kardeşi Harun'u da bir peygamber olarak armağan ettik."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Kitap'ta İsmail'i de zikret. Çünkü o, va'dinde doğruydu ve gönderilmiş (Resul) bir peygamberdi."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Halkına, namazı ve zekatı emrediyordu ve o, Rabbi Katında kendisinden razı olunan (bir insan)dı."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "Kitap'ta İdris'i de zikret. Çünkü o, doğru olan bir peygamberdi."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Biz onu yüce bir mekan (makam)a yükseltmiştik."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "İşte bunlar; kendilerine Allah'ın nimet verdiği peygamberlerdendir; Adem'in soyundan, Nuh ile birlikte taşıdıklarımız (insan nesillerin)den, İbrahim ve İsrail (Yakup)in soyundan, doğru yola eriştirdiklerimizden ve seçtiklerimizdendirler. Onlara Rahman (olan Allah')ın ayetleri okunduğunda, ağlayarak secdeye kapanırlar."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Sonra onların arkasından öyle nesiller türedi ki, namaz (kılma duyarlılığın)ı kaybettiler ve şehvetlerine kapılıp-uydular. Böylece bunlar azgınlıklarının cezasıyla karşılaşacaklardır."
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Ancak tevbe eden, iman eden ve salih amellerde bulunanlar (onların dışındadır); işte bunlar, cennete girecekler ve hiçbir şeyle zulme uğratılmayacaklar."
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Adn cennetleri (onlarındır) ki, Rahman (olan Allah, onu) Kendi kullarına gaybtan vadetmiştir. Şüphesiz O'nun va'di yerine gelecektir."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Onda ‘boş bir söz’ işitmezler; sadece selam (ı işitirler). Sabah akşam, onların rızıkları orda (bulunmakta)dır."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "O cennet; Biz, kullarımızdan takva sahibi olanları (ona) varisçi kılacağız."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Biz (elçiler) ancak Rabbiniz emriyle ineriz. Önümüzde, ardımızda ve bunlar arasında olan herşey O'nundur. Senin Rabbin kesinlikle unutkan değildir."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Göklerin, yerin ve her ikisi arasındakilerin Rabbidir; şu halde O'na ibadet et ve O'na ibadette kararlı ol. Hiç O'nun adaşı olan birini biliyor musun?"
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "İnsan demektedir ki: \"Ben öldükten sonra mı, gerçekten diri olarak çıkarılacağım?\""
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "İnsan önceden, hiçbir şey değilken, gerçekten Bizim onu yaratmış bulunduğumuzu (hiç) düşünmüyor mu?"
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Andolsun Rabbine, Biz onları da, şeytanları da mutlaka haşredeceğiz, sonra onları cehennemin çevresinde diz üstü çökmüş olarak hazır bulunduracağız."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Sonra, her bir gruptan Rahman (olan Allah)a karşı azgınlık göstermek bakımından en şiddetli olanını ayıracağız."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Sonra Biz ona (cehenneme) girmeye kimlerin en çok uygun olduğunu daha iyi biliriz."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Sizden ona girmeyecek hiç kimse yoktur. Bu, Rabbinin kesin olarak üzerine aldığı bir karardır."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Sonra, takva sahiplerini kurtarırız ve zulmedenleri diz üstü çökmüş olarak bırakıveririz."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Onlara apaçık ayetlerimiz okunduğunda, o inkar edenler, iman edenlere derler ki: \"İki gruptan hangisi, makam bakımından daha iyi, topluluk bakımından daha güzeldir?\""
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Onlardan önce nice insan- nesillerini yıkıma uğrattık, onlar mal (giyim, kuşam ve tefriş) bakımından da, gösteriş bakımından da daha güzeldiler."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "De ki: \"Kim sapıklık içindeyse, Rahman (olan Allah), ona süre tanıdıkça tanır; kendilerine va'dedileni -ya azabı veya kıyamet saatini- gördükleri zaman artık kimin yeri (makam, mevki) daha kötü, kimin askeri- gücü daha zayıfmış, öğreneceklerdir."
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Allah, hidayet bulanlara hidayeti arttırır. Sürekli olan salih davranışlar, Rabbinin Katında sevap bakımından daha hayırlı, varılacak sonuç bakımından da daha hayırlıdır."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Ayetlerimizi inkar edip, bana: \"Elbette mal ve çocuklar verilecektir\" diyeni gördün mü?"
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "O, gayba mı tanık oldu, yoksa Rahman (olan Allah)ın Katında(n) bir ahid mi aldı?"
-    },
-    {
-      "ayahNumber": "79",
-      "ayahText": "Asla; demekte olduğunu yazacağız ve onun için azapta(n) da süre tanıdıkça tanıyacağız."
-    },
-    {
-      "ayahNumber": "80",
-      "ayahText": "Onun söylemekte olduğuna Biz mirasçı olacağız; o Bize, 'yapayalnız tek başına' gelecektir."
-    },
-    {
-      "ayahNumber": "81",
-      "ayahText": "Kendilerine güç (izzet) sağlasınlar diye, Allah'tan başka ilahlar edindiler."
-    },
-    {
-      "ayahNumber": "82",
-      "ayahText": "Hayır; (o yalancı ilahlar) onların tapınışlarını inkar edecekler ve onlara karşı çelişkiye düşecekler."
-    },
-    {
-      "ayahNumber": "83",
-      "ayahText": "Görmedin mi, Biz gerçekten şeytanları, kafirlerin üzerine gönderdik, onları tahrik edip kışkırtıyorlar."
-    },
-    {
-      "ayahNumber": "84",
-      "ayahText": "Onlara karşı acele davranma; Biz onlar için ancak saydıkça sayıyoruz."
-    },
-    {
-      "ayahNumber": "85",
-      "ayahText": "Takva sahiplerini bir heyet halinde Rahman (olan Allah'ın huzurun)a toplayacağımız gün,"
-    },
-    {
-      "ayahNumber": "86",
-      "ayahText": "Suçlu-günahkarları susamışlar olarak cehenneme süreceğiz."
-    },
-    {
-      "ayahNumber": "87",
-      "ayahText": "Rahmanın Katında ahid almışların dışında (onlar) şefaate malik olmayacaklardır."
-    },
-    {
-      "ayahNumber": "88",
-      "ayahText": "\"Rahman çocuk edinmiştir\" dediler."
-    },
-    {
-      "ayahNumber": "89",
-      "ayahText": "Andolsun, siz oldukça çirkin bir cesarette bulunup-geldiniz."
-    },
-    {
-      "ayahNumber": "90",
-      "ayahText": "Neredeyse bundan dolayı, gökler paramparça olacak, yer çatlayacak ve dağlar yıkılıp göçüverecekti."
-    },
-    {
-      "ayahNumber": "91",
-      "ayahText": "Rahman adına çocuk öne sürdüklerinden (ötürü bunlar olacaktı.)"
-    },
-    {
-      "ayahNumber": "92",
-      "ayahText": "Rahman (olan Allah)a çocuk edinmek yaraşmaz."
-    },
-    {
-      "ayahNumber": "93",
-      "ayahText": "Göklerde ve yerde olan (herkesin ve herşeyin) tümü Rahman (olan Allah)a, yalnızca kul olarak gelecektir."
-    },
-    {
-      "ayahNumber": "94",
-      "ayahText": "Andolsun, onların tümünü kuşatmış ve onları sayı olarak saymış bulunmaktadır."
-    },
-    {
-      "ayahNumber": "95",
-      "ayahText": "Ve onların hepsi, kıyamet günü O'na, 'yapayalnız, tek başlarına' geleceklerdir."
-    },
-    {
-      "ayahNumber": "96",
-      "ayahText": "İman edenler ve salih amellerde bulunanlar ise, Rahman (olan Allah), onlar için bir sevgi kılacaktır."
-    },
-    {
-      "ayahNumber": "97",
-      "ayahText": "Biz bunu (Kur'an'ı) senin dilinle kolaylaştırdık, takva sahiplerine müjde vermen ve direnen bir kavmi uyarıp-korkutman için."
-    },
-    {
-      "ayahNumber": "98",
-      "ayahText": "Biz, onlardan önce nice insan nesillerini yıkıma uğrattık; (şimdiyse) onlardan hiçbirini hissediyor veya onların fısıltılarını duyuyor musun?"
-    }
-  ]
+  "meryem": {
+    "surahNumber": "19",
+    "surahNameTr": "Meryem Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kaf, He, Ye, Ayn, Sad."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "(Bu,) Rabbinin, kulu Zekeriya'ya rahmetinin zikridir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Hani o, Rabbine gizlice seslendiği zaman;"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Demişti ki: \"Rabbim, şüphesiz benim kemiklerim gevşedi ve baş, yaşlılık aleviyle tutuştu; ben Sana dua etmekle mutsuz olmadım.\""
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "\"Doğrusu ben, arkamdan gelecek yakınlarım adına korkuya kapıldım, benim karım da bir kısır (kadın)dır. Artık bana Kendi Katından bir yardımcı armağan et.\""
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "\"Bana mirasçı olsun. Yakup oğullarına da mirasçı olsun. Rabbim, onu (kendisinden) razı olunan(lardan) kıl.\""
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "(Allah buyurdu:) \"Ey Zekeriya, şüphesiz Biz seni, adı Yahya olan bir çocukla müjdelemekteyiz; Biz bundan önce ona hiçbir adaş kılmamışız.\""
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Dedi ki: \"Rabbim, karım kısır (bir kadın) iken, benim nasıl oğlum olabilir? Ben de yaşlılığın son basamağındayım.\""
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "(Ona gelen melek:) \"İşte böyle\" dedi. \"Rabbin dedi ki: Bu Benim için kolaydır, daha önce sen hiçbir şey değil iken, seni yaratmıştım.\""
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Dedi ki: \"Rabbim, bana bir alamet (ayet) ver.\" Dedi ki: \"Senin alametin, sapasağlam iken, üç tam gece insanlarla konuşmamandır.\""
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Böylelikle (Zekeriya) mescidten kavminin karşısına çıkıp onlara (şu anlamları) işaret etti: \"Sabah akşam tesbih edin.\""
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "(Çocuğun doğup büyümesinden sonra ona dedik ki:) \"Ey Yahya, Kitabı kuvvetle tut.\" Daha çocuk iken ona hikmet verdik."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Katımız'dan ona bir sevgi duyarlılığı ve temizlik (de verdik). O, çok takva sahibi biriydi."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ana ve babasına itaatkardı ve isyan eden bir zorba değildi."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Ona selam olsun; doğduğu gün, öleceği gün ve diri olarak yeniden-kaldırılacağı gün de."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Kitap'ta Meryem'i de zikret. Hani o, ailesinden kopup doğu tarafında bir yere çekilmişti."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Sonra onlardan yana (kendini gizleyen) bir perde çekmişti. Böylece ona ruhumuz (Cibril'i) göndermiştik, o da, düzgün bir beşer kılığında görünmüştü."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Demişti ki: \"Gerçekten ben, senden Rahman (olan Allah)a sığınırım. Eğer takva sahibiysen (bana yaklaşma).\""
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Demişti ki: \"Ben, yalnızca Rabbinden (gelen) bir elçiyim; sana tertemiz bir erkek çocuk armağan etmek için (buradayım).\""
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "O: \"Benim nasıl bir erkek çocuğum olabilir? Bana hiçbir beşer dokunmamışken ve ben azgın utanmaz (bir kadın) değilken\" dedi."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "\"İşte böyle\" dedi. \"Rabbin, dedi ki: -Bu Benim için kolaydır. Onu insanlara bir ayet ve Bizden bir rahmet kılmak için (bu çocuk olacaktır).\" Ve iş de olup bitmişti."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Böylelikle ona gebe kaldı, sonra onunla ıssız bir yere çekildi."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Derken doğum sancısı onu bir hurma dalına sürükledi. Dedi ki: \"Keşke bundan önce ölseydim de, hafızalardan silinip unutuluverseydim.\""
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Altından (bir ses) ona seslendi: \"Hüzne kapılma, Rabbin senin alt (yan)ında bir ark kılmıştır.\""
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Hurma dalını kendine doğru salla, üzerine henüz oluşmuş-taze hurma dökülüversin.\""
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Artık, ye, iç, gözün aydın olsun. Eğer herhangi bir beşer görecek olursan, de ki: \"Ben Rahman (olan Allah)' a oruç adadım, bugün hiç kimseyle konuşmayacağım.\""
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Böylece onu taşıyarak kavmine geldi. Dediler ki: \"Ey Meryem, sen gerçekten şaşırtıcı bir şey yaptın.\""
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "\"Ey Harun'un kız kardeşi, senin baban kötü bir kişi değildi ve annen de azgın, utanmaz (bir kadın) değildi.\""
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Bunun üzerine ona (çocuğa) işaret etti. Dediler ki: \"Henüz beşikte olan bir çocukla biz nasıl konuşabiliriz?\""
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "(İsa) Dedi ki: \"Şüphesiz ben Allah'ın kuluyum. (Allah) Bana kitabı verdi ve beni peygamber kıldı.\""
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "\"Nerede olursam (olayım,) beni kutlu kıldı ve hayat sürdüğüm müddetçe, bana namazı ve zekatı vasiyet (emr) etti.\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "\"Anneme itati de. Ve beni mutsuz bir zorba kılmadı.\""
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "\"Selam üzerimedir; doğduğum gün, öleceğim gün ve diri olarak yeniden-kaldırılacağım gün de.\""
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "İşte Meryem oğlu İsa; hakkında kuşkuya düştükleri \"Hak Söz\"."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Allah'ın çocuk edinmesi olacak şey değil. O Yücedir. Bir işin olmasına karar verirse, ancak ona: \"Ol\" der, o da hemen oluverir."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Gerçek şu ki, Allah benim de Rabbim, sizin de Rabbinizdir. Öyleyse O'na kulluk edin. Dosdoğru yol budur."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "İçlerinden (birtakım) gruplar ayrılığa düştüler. Artık büyük bir günü görmekten dolayı, vay inkar edenlere."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Bize gelecekleri gün, neler işitecekler, neler görecekler. Ama bugün o zalimler apaçık bir sapıklık içindedirler."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "İş(in) hükme bağlanıp biteceği, hasret gününe karşı onları uyar; onlar bir gaflet içindedirler ve onlar inanmıyorlar."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Elbette, yeryüzünde ve onun üzerindekilere Biz varis olacağız ve onlar Bize döndürülecekler."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Kitap'ta İbrahim'i de zikret. Gerçekten o, doğruyu-söyleyen bir peygamberdi."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Hani babasına demişti: \"Babacığım, işitmeyen, görmeyen ve seni herhangi bir şeyden bağımsızlaştırmayan şeylere niye tapıyorsun?"
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "\"Babacığım, gerçek şu ki, bana, sana gelmeyen bir ilim geldi. Artık bana tabi ol, seni düzgün bir yola ulaştırayım.\""
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "\"Babacığım, şeytana kulluk etme, kuşkusuz şeytan, Rahman (olan Allah)a başkaldırandır.\""
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "\"Babacığım, gerçekten ben, sana Rahman tarafından bir azabın dokunacağından korkuyorum, o zaman şeytanın velisi olursun.\""
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "(Babası) Demişti ki: \"İbrahim, sen benim ilahlarımdan yüz mü çeviriyorsun? Eğer (bu tutumuna) bir son vermeyecek olursan, andolsun, seni taşa tutarım; uzun bir süre benden uzaklaş, (bir yerlere) git.\""
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "(İbrahim:) \"Selam üzerine olsun, senin için Rabbimden bağışlanma dileyeceğim, çünkü, O, bana pek lütufkardır\" dedi."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "\"Sizden ve Allah'tan başka taptıklarınızdan kopup-ayrılıyorum ve Rabbime dua ediyorum. Umulur ki, Rabbime dua etmekle mutsuz olmayacağım.\""
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Böylelikle, onlardan ve Allah'tan başka taptıklarından kopup-ayrılınca ona İshak'ı ve (oğlu) Yakup'u armağan ettik ve her birini peygamber kıldık."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Onlara rahmetimizden armağan(lar) bağışladık ve onlar için yüce bir doğruluk dili verdik."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Kitap'ta Musa'yı da zikret. Çünkü o, ihlasa erdirilmiş ve gönderilmiş (Resul) bir peygamberdi."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Ona, Tur'un sağ yanından seslendik ve onu (kendisiyle) gizlice söyleşmek için yakınlaştırdık."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Ona Rahmetimiz'den kardeşi Harun'u da bir peygamber olarak armağan ettik."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Kitap'ta İsmail'i de zikret. Çünkü o, va'dinde doğruydu ve gönderilmiş (Resul) bir peygamberdi."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Halkına, namazı ve zekatı emrediyordu ve o, Rabbi Katında kendisinden razı olunan (bir insan)dı."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "Kitap'ta İdris'i de zikret. Çünkü o, doğru olan bir peygamberdi."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Biz onu yüce bir mekan (makam)a yükseltmiştik."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "İşte bunlar; kendilerine Allah'ın nimet verdiği peygamberlerdendir; Adem'in soyundan, Nuh ile birlikte taşıdıklarımız (insan nesillerin)den, İbrahim ve İsrail (Yakup)in soyundan, doğru yola eriştirdiklerimizden ve seçtiklerimizdendirler. Onlara Rahman (olan Allah')ın ayetleri okunduğunda, ağlayarak secdeye kapanırlar."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Sonra onların arkasından öyle nesiller türedi ki, namaz (kılma duyarlılığın)ı kaybettiler ve şehvetlerine kapılıp-uydular. Böylece bunlar azgınlıklarının cezasıyla karşılaşacaklardır."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Ancak tevbe eden, iman eden ve salih amellerde bulunanlar (onların dışındadır); işte bunlar, cennete girecekler ve hiçbir şeyle zulme uğratılmayacaklar."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Adn cennetleri (onlarındır) ki, Rahman (olan Allah, onu) Kendi kullarına gaybtan vadetmiştir. Şüphesiz O'nun va'di yerine gelecektir."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Onda ‘boş bir söz’ işitmezler; sadece selam (ı işitirler). Sabah akşam, onların rızıkları orda (bulunmakta)dır."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "O cennet; Biz, kullarımızdan takva sahibi olanları (ona) varisçi kılacağız."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Biz (elçiler) ancak Rabbiniz emriyle ineriz. Önümüzde, ardımızda ve bunlar arasında olan herşey O'nundur. Senin Rabbin kesinlikle unutkan değildir."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Göklerin, yerin ve her ikisi arasındakilerin Rabbidir; şu halde O'na ibadet et ve O'na ibadette kararlı ol. Hiç O'nun adaşı olan birini biliyor musun?"
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "İnsan demektedir ki: \"Ben öldükten sonra mı, gerçekten diri olarak çıkarılacağım?\""
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "İnsan önceden, hiçbir şey değilken, gerçekten Bizim onu yaratmış bulunduğumuzu (hiç) düşünmüyor mu?"
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Andolsun Rabbine, Biz onları da, şeytanları da mutlaka haşredeceğiz, sonra onları cehennemin çevresinde diz üstü çökmüş olarak hazır bulunduracağız."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Sonra, her bir gruptan Rahman (olan Allah)a karşı azgınlık göstermek bakımından en şiddetli olanını ayıracağız."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Sonra Biz ona (cehenneme) girmeye kimlerin en çok uygun olduğunu daha iyi biliriz."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Sizden ona girmeyecek hiç kimse yoktur. Bu, Rabbinin kesin olarak üzerine aldığı bir karardır."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Sonra, takva sahiplerini kurtarırız ve zulmedenleri diz üstü çökmüş olarak bırakıveririz."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Onlara apaçık ayetlerimiz okunduğunda, o inkar edenler, iman edenlere derler ki: \"İki gruptan hangisi, makam bakımından daha iyi, topluluk bakımından daha güzeldir?\""
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Onlardan önce nice insan- nesillerini yıkıma uğrattık, onlar mal (giyim, kuşam ve tefriş) bakımından da, gösteriş bakımından da daha güzeldiler."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "De ki: \"Kim sapıklık içindeyse, Rahman (olan Allah), ona süre tanıdıkça tanır; kendilerine va'dedileni -ya azabı veya kıyamet saatini- gördükleri zaman artık kimin yeri (makam, mevki) daha kötü, kimin askeri- gücü daha zayıfmış, öğreneceklerdir."
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Allah, hidayet bulanlara hidayeti arttırır. Sürekli olan salih davranışlar, Rabbinin Katında sevap bakımından daha hayırlı, varılacak sonuç bakımından da daha hayırlıdır."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Ayetlerimizi inkar edip, bana: \"Elbette mal ve çocuklar verilecektir\" diyeni gördün mü?"
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "O, gayba mı tanık oldu, yoksa Rahman (olan Allah)ın Katında(n) bir ahid mi aldı?"
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "Asla; demekte olduğunu yazacağız ve onun için azapta(n) da süre tanıdıkça tanıyacağız."
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "Onun söylemekte olduğuna Biz mirasçı olacağız; o Bize, 'yapayalnız tek başına' gelecektir."
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "Kendilerine güç (izzet) sağlasınlar diye, Allah'tan başka ilahlar edindiler."
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "Hayır; (o yalancı ilahlar) onların tapınışlarını inkar edecekler ve onlara karşı çelişkiye düşecekler."
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "Görmedin mi, Biz gerçekten şeytanları, kafirlerin üzerine gönderdik, onları tahrik edip kışkırtıyorlar."
+      },
+      {
+        "ayahNumber": "84",
+        "ayahText": "Onlara karşı acele davranma; Biz onlar için ancak saydıkça sayıyoruz."
+      },
+      {
+        "ayahNumber": "85",
+        "ayahText": "Takva sahiplerini bir heyet halinde Rahman (olan Allah'ın huzurun)a toplayacağımız gün,"
+      },
+      {
+        "ayahNumber": "86",
+        "ayahText": "Suçlu-günahkarları susamışlar olarak cehenneme süreceğiz."
+      },
+      {
+        "ayahNumber": "87",
+        "ayahText": "Rahmanın Katında ahid almışların dışında (onlar) şefaate malik olmayacaklardır."
+      },
+      {
+        "ayahNumber": "88",
+        "ayahText": "\"Rahman çocuk edinmiştir\" dediler."
+      },
+      {
+        "ayahNumber": "89",
+        "ayahText": "Andolsun, siz oldukça çirkin bir cesarette bulunup-geldiniz."
+      },
+      {
+        "ayahNumber": "90",
+        "ayahText": "Neredeyse bundan dolayı, gökler paramparça olacak, yer çatlayacak ve dağlar yıkılıp göçüverecekti."
+      },
+      {
+        "ayahNumber": "91",
+        "ayahText": "Rahman adına çocuk öne sürdüklerinden (ötürü bunlar olacaktı.)"
+      },
+      {
+        "ayahNumber": "92",
+        "ayahText": "Rahman (olan Allah)a çocuk edinmek yaraşmaz."
+      },
+      {
+        "ayahNumber": "93",
+        "ayahText": "Göklerde ve yerde olan (herkesin ve herşeyin) tümü Rahman (olan Allah)a, yalnızca kul olarak gelecektir."
+      },
+      {
+        "ayahNumber": "94",
+        "ayahText": "Andolsun, onların tümünü kuşatmış ve onları sayı olarak saymış bulunmaktadır."
+      },
+      {
+        "ayahNumber": "95",
+        "ayahText": "Ve onların hepsi, kıyamet günü O'na, 'yapayalnız, tek başlarına' geleceklerdir."
+      },
+      {
+        "ayahNumber": "96",
+        "ayahText": "İman edenler ve salih amellerde bulunanlar ise, Rahman (olan Allah), onlar için bir sevgi kılacaktır."
+      },
+      {
+        "ayahNumber": "97",
+        "ayahText": "Biz bunu (Kur'an'ı) senin dilinle kolaylaştırdık, takva sahiplerine müjde vermen ve direnen bir kavmi uyarıp-korkutman için."
+      },
+      {
+        "ayahNumber": "98",
+        "ayahText": "Biz, onlardan önce nice insan nesillerini yıkıma uğrattık; (şimdiyse) onlardan hiçbirini hissediyor veya onların fısıltılarını duyuyor musun?"
+      }
+    ]
+  }
 }

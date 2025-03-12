@@ -1,110 +1,112 @@
 {
-  "surahNumber": "88",
-  "surahName": "Ğâşiye Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "(Şiddet ve dehşetiyle her şeyi) Sarıp kaplayacak olan(o felaket)in haberi sana geldi mi?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Yüzler var ki o gün öne düşüktür,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Çalışır, yorulur."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Kızgın ateşe girerler."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Kendilerine kaynamış bir gözeden (su) içirilir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Onlar için kuru dikenden başka yiyecek de yoktur."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "O da ne semirtir, ne de açlığı giderir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Yüzler de var ki o gün ni'met içinde mutlu,"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "İşinden memnun,"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Yüksek bir bahçededir."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Orada boş söz işitmezler."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Orada akan bir kaynak vardır."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Orada yükseltilmiş tahtlar,"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Konulmuş kadehler,"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Dizilmiş yastıklar,"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Serilmiş halılar vardır."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Bakmıyorlar mı develere, nasıl yaratılmış?"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Göğe, nasıl yükseltilmiş?"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Dağlara, nasıl dikilmiş?"
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Yere, nasıl yayılıp döşenmiş?"
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Öğüt ver, çünkü sen ancak öğüt verensin."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Onların üzerinde zorlayıcı değilsin."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ancak kim yüz çevirir ve inanmazsa,"
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Allah ona en büyük azabı eder,"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Dönüşleri Bizedir."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Sonra onların hesabını görmek Bize düşer."
-    }
-  ]
+  "gasiye": {
+    "surahNumber": "88",
+    "surahNameTr": "Ğâşiye Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "(Şiddet ve dehşetiyle her şeyi) Sarıp kaplayacak olan(o felaket)in haberi sana geldi mi?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Yüzler var ki o gün öne düşüktür,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Çalışır, yorulur."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Kızgın ateşe girerler."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Kendilerine kaynamış bir gözeden (su) içirilir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Onlar için kuru dikenden başka yiyecek de yoktur."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "O da ne semirtir, ne de açlığı giderir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Yüzler de var ki o gün ni'met içinde mutlu,"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "İşinden memnun,"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Yüksek bir bahçededir."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Orada boş söz işitmezler."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Orada akan bir kaynak vardır."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Orada yükseltilmiş tahtlar,"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Konulmuş kadehler,"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Dizilmiş yastıklar,"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Serilmiş halılar vardır."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Bakmıyorlar mı develere, nasıl yaratılmış?"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Göğe, nasıl yükseltilmiş?"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Dağlara, nasıl dikilmiş?"
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Yere, nasıl yayılıp döşenmiş?"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Öğüt ver, çünkü sen ancak öğüt verensin."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Onların üzerinde zorlayıcı değilsin."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ancak kim yüz çevirir ve inanmazsa,"
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Allah ona en büyük azabı eder,"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Dönüşleri Bizedir."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Sonra onların hesabını görmek Bize düşer."
+      }
+    ]
+  }
 }

@@ -1,450 +1,452 @@
 {
-  "surahNumber": "12",
-  "surahName": "Yûsuf Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Elif, Lam, Ra. Bunlar, apaçık Kitab'ın ayetleridir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Gerçekten Biz, akıl erdirirsiniz diye, onu Arapça bir Kur'an olarak indirdik."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Biz bu Kur'an'ı sana vahyetmemizle, en güzel kıssaları gerçek bir haber (kıssa) olarak sana aktarıyoruz, oysa sen, daha önce, bundan haberi olmayanlardandın."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Hani Yusuf babasına: \"Babacığım, gerçekten ben (rüyamda) on bir yıldız, Güneş'i ve Ay'ı gördüm; bana secde etmektelerken gördüm\" demişti."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "(Babası) Demişti ki: \"Oğlum, rüyanı kardeşlerine anlatma, yoksa sana bir tuzak kurarlar. Çünkü şeytan, insan için apaçık bir düşmandır.\""
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "\"Böylece Rabbin seni seçkin kılacak, sözlerin yorumundan (kaynaklanan bir bilgiyi) sana öğretecek ve daha önce ataların İbrahim ve İshak'a (nimetini) tamamladığı gibi senin ve Yakub ailesinin üzerindeki nimetini tamamlayacaktır. Elbette Rabbin, bilendir, hüküm ve hikmet sahibidir.\""
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Andolsun, Yusuf ve kardeşlerinde soranlar için ayetler (ibretler) vardır."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Onlar şöyle demişti: \"Yusuf ve kardeşi babamıza bizden daha sevgilidir; oysa ki biz, birbirini pekiştiren bir topluluğuz. Gerçekte babamız, açıkça bir şaşkınlık içindedir.\""
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "\"Öldürün Yusuf'u veya onu bir yere atıp-bırakın ki babanızın yüzü yalnızca size (dönük) kalsın. Ondan sonra da salih bir topluluk olursunuz.\""
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "İçlerinden bir sözcü dedi ki: \"Eğer (mutlaka bir şey) yapacaksanız, öldürmeyin Yusuf'u, onu kuyunun derinliklerine bırakıverin de bir yolcu kafilesi alsın.\""
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "(Bu karara vardıktan sonra) \"Ey Babamız,\" dediler. \"Sana ne oluyor, Yusuf'a karşı bize güvenmiyorsun? Oysa gerçekte biz, onun iyiliğini isteyenleriz.\""
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "\"Sen onu yarın bizimle gönder, gönlünce gezsin, oynasın. Elbette biz onu koruyup-gözetiriz.\""
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Dedi ki: \"Sizin onu götürmeniz gerçekten beni üzer ve siz ondan habersiz iken onu kurdun yemesinden korkuyorum.\""
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Dediler ki: \"Andolsun, biz, birbirini kollayan bir topluluk iken, kurt onu yerse, bu durumda şüphesiz kayba uğrayan (aciz) kimseler oluruz.\""
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Nitekim onu götürdükleri ve kuyunun derinliklerine atmaya topluca davrandıkları zaman, Biz ona (şöyle) vahyettik: \"Andolsun, sen onlara kendileri, farkında değilken bu yaptıklarını haber vereceksin.\""
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Akşam üstü babalarına ağlar vaziyette geldiler."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Dediler ki: \"Ey Babamız, gerçek şu ki, biz gittik, yarışıyorduk. Yusuf'u da yiyeceklerimizin (veya eşyamızın) yanında bırakmıştık. Fakat onu kurt yemiş. Ne var ki biz doğruyu söylesek bile sen bize inanacak değilsin.\""
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Ve üzerine yalandan kan (sürülmüş) olan gömleğini getirdiler. \"Hayır\" dedi. Nefsiniz, sizi yanıltıp (böyle) bir işe sürüklemiş. Bundan sonra (bana düşen) güzel bir sabırdır. Sizin bu düzüp-uydurduklarınıza karşı (Kendisi'nden) yardım istenecek olan Allah'tır.\""
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Bir yolcu-kafilesi geldi, sucularını (kuyuya su almak için) gönderdiler. O da kovasını sarkıttı. \"Hey müjde... Bu bir çocuk.\" dedi. Ve onu (kuyudan çıkarıp) 'ticaret konusu bir mal' olarak sakladılar. Oysa Allah, yapmakta olduklarını bilendi."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onu ucuz bir fiyata, sayısı belli (birkaç) dirheme sattılar. Onu pek önemsemediler."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Onu satın alan bir Mısırlı (aziz,) karısına: \"Onun yerini üstün tut (ona güzel bak), umulur ki bize bir yararı dokunur ya da onu evlat ediniriz\" dedi. Böylelikle Biz, Yusuf'u yeryüzünde (Mısır'da) yerleşik kıldık. Ona sözlerin yorumundan (olan bir bilgiyi) öğrettik. Allah, emrinde galib olandır, ancak insanların çoğu bilmezler."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Erginlik çağına erişince, kendisine hüküm ve ilim verdik. İşte Biz, iyilik yapanları böyle ödüllendiririz."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Evinde kalmakta olduğu kadın, ondan murad almak istedi ve kapıları sımsıkı kapatarak: \"İsteklerim senin içindir, gelsene\" dedi. (Yusuf) Dedi ki: \"Allah'a sığınırım. Çünkü o benim Efendimdir, yerimi güzel tutmuştur. Gerçek şu ki, zalimler kurtuluşa ermez.\""
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Andolsun kadın onu arzulamıştı, -eğer Rabbinin (zinayı yasaklayan) kesin kanıt (burhan)ını görmeseydi- o da (Yusuf da) onu arzulamıştı. Böylelikle Biz ondan kötülüğü ve fuhşu geri çevirmek için (ona delil gönderdik). Çünkü o, muhlis kullarımızdandı."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Kapıya doğru ikisi de koştular. Kadın onun gömleğini arkadan çekip yırttı. (Tam) Kapının yanında kadının efendisiyle karşılaştılar. Kadın dedi ki: \"Ailene kötülük isteyenin, zindana atılmaktan veya acı bir azaptan başka cezası ne olabilir?\""
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "(Yusuf) Dedi ki: \"Onun kendisi benden murad almak istedi.\" Kadının yakınlarından bir şahid şahitlik etti: \"Eğer onun gömleği ön taraftan yırtılmışsa bu durumda kadın doğruyu söylemiştir, kendisi ise yalan söyleyenlerdendir."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Yok eğer onun gömleği arkadan çekilip-yırtılmışsa, bu durumda kadın yalan söylemiştir ve kendisi doğruyu söyleyenlerdendir.\""
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Onun gömleğinin arkadan çekilip-yırtıldığını gördüğü zaman (kocası): \"Doğrusu, bu sizin düzeninizden (biri)dir. Gerçekten sizin düzeniniz büyüktür\" dedi."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "\"Yusuf, sen bundan yüz çevir. Sen de (kadın) günahın dolayısıyla bağışlanma dile. Doğrusu sen günahkarlardan oldun.\""
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Şehirde (birtakım) kadınlar: \"Aziz (Vezir)'in karısı kendi uşağının nefsinden murad almak istiyormuş. Öyle ki sevgi onun bağrına sinmiş. Biz doğrusu onu açıkça bir sapıklık içinde görüyoruz.\" dedi."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "(Kadın) Onların düzenlerini işitince, onlara (bir davetçi) yolladı, oturup dayanacakları yerler hazırladı ve her birinin eline (önlerindeki meyveleri soymaları için) bıçak verdi. (Yusuf'a da:) \"Çık, onlara (görün)\" dedi. Böylece onlar onu (olağanüstü güzellikte) görünce (insanüstü bir varlıkmış gibi gözlerinde) büyüttüler, (şaşkınlıklarından) ellerini kestiler ve: \"Allah'ı tenzih ederiz; bu bir beşer değildir. Bu, ancak üstün bir melektir\" dediler."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Kadın dedi ki: \"Beni kendisiyle kınadığınız işte budur. Andolsun onun nefsinden ben murad istedim, o ise (kendini) korudu. Ve andolsun, eğer o kendisine emrettiğimi yapmayacak olursa, mutlaka zindana atılacak ve elbette küçük düşürülenlerden olacak.\""
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "(Yusuf) Dedi ki: \"Rabbim, zindan, bunların beni kendisine çağırdıkları şeyden bana daha sevimlidir. Kurdukları düzeni benden uzaklaştırmazsan, onlara (korkarım) eğilim gösterir, (böylece) cahillerden olurum.\""
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Böylece Rabbi, duasını kabul etti ve onların hileli düzenlerini kendisinden uzaklaştırdı. Çünkü O, işitendir, bilendir."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Sonra onlarda (Yusuf'un iffetine ilişkin) delilleri görmelerinin ardından, mutlaka onu belli bir vakte kadar zindana atmak (görüşü)ağır bastı."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Onunla birlikte iki genç de zindana girmişti. Biri: \"Ben (rüyamda) kendimi şarap sıkıyorken gördüm.\" dedi. Öbürü: \"Ben de kendimi başımın üstünde ekmek taşıyorken gördüm; kuş da ondan yemekteydi\" dedi. \"Bunun yorumundan bize haber ver. Doğrusu biz seni, iyilik yapanlardan görmekteyiz.\""
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Dedi ki: \"Size rızıklanacağınız bir yemek gelecek olsa, ben mutlaka size daha gelmeden önce onun ne olduğunu haber veririm. Bu, Rabbimin bana öğrettiklerindendir. Doğrusu ben, Allah'a iman etmeyen, ahireti de tanımayanların ta kendileri olan bir topluluğun dinini terk ettim.\""
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "\"Atalarım İbrahim'in, İshak'ın ve Yakub'un dinine uydum. Allah'a hiçbir şeyle şirk koşmamız bizim için olacak şey değil. Bu, bize ve insanlara Allah'ın lütuf ve ihsanındandır, ancak insanların çoğu şükretmezler.\""
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "\"Ey zindan arkadaşlarım, birbirinden ayrı (bir sürü) Rabler mi daha hayırlıdır, yoksa kahhar (kahredici) olan bir tek Allah mı?\""
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "\"Sizin Allah'tan başka taptıklarınız, Allah'ın kendileri hakkında hiçbir delil indirmediği, sizin ve atalarınızın ad olarak adlandırdıklarınızdan başkası değildir. Hüküm, yalnızca Allah'ındır. O, Kendisi'nden başkasına kulluk etmemenizi emretmiştir. Dosdoğru olan din işte budur, ancak insanların çoğu bilmezler.\""
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "\"Ey zindan arkadaşlarım, ikinizden biri efendisine şarap içirecek, diğeri ise asılacak, kuş onun başından yiyecek. İşte hakkında fetva istemekte olduğunuz iş (artık) olup bitmiştir.\""
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "İkisinden kurtulacağını sandığı kişiye dedi ki: \"Efendinin katında beni hatırla.\" Fakat şeytan, efendisine hatırlatmayı ona unutturdu, böylece daha nice yıllar (Yusuf) zindanda kaldı."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Hükümdar: \"Ben (rüyamda) yedi besili inek görüyorum, onları yedi zayıf inek yiyor; bir de yedi yeşil başak ve diğerleri ise kupkuru. Ey önde gelen (kahin-bilginler,) eğer rüya yorumluyorsanız benim bu rüyamı çözüverin\" dedi."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Dediler ki: \"(Bunlar) Karmakarışık düşlerdir. Biz böyle düşlerin yorumunu bilenler değiliz.\""
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "O iki kişiden kurtulmuş olanı, nice zaman sonra hatırladı ve: \"Ben bunun yorumunu size haber veririm, hemen beni (zindana) gönderin\" dedi."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "(Zindana gidip:) \"Yusuf, ey doğru (sözlü insan).. Yedi besili ineği yedi zayıf (ineğin) yediği ve yedi yeşil başakla diğerleri kuru olan (rüya) konusunda bize fetva ver. Umarım ki insanlara da (senin söylediklerinle) dönerim, belki onlar (bunun anlamını) öğrenmiş olurlar.\""
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Dedi ki: \"Siz yedi yıl, önceleri (ektiğiniz) gibi ekin ekin, yediğinizin az bir kısmı dışında (kalanını) biçtiklerinizi başağında bırakın.\""
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Sonra bunun arkasından (kuraklığı) zorlu yedi yıl gelecektir, sakladığınız az bir miktar dışında, daha önce biriktirdiğinizi yiyip bitirecektir.\""
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Sonra bunun arkasından bir yıl gelecektir ki, insanlar onda bol bol yağmura kavuşturulacak ve onda sıkıp-sağacaklar.\""
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Hükümdar dedi ki: \"Onu bana getirin.\" Ona elçi geldiğinde (Yusuf:) \"Efendine (Rabbine) dön de ona sor: \"Ellerini kesen o kadınların durumu neydi? Doğrusu benim Rabbim, onların hileli düzenlerini gerçekten bilendir.\""
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "(Hükümdar topladığı o kadınlara:) \"Yusuf'un nefsinden murad almak istediğinizde sizin durumunuz neydi?\" dedi. Onlar: \"Allah için, haşa\" dediler. \"Biz ondan hiçbir kötülük görmedik.\" Aziz (Vezir)in de karısı dedi ki: \"İşte şu anda gerçek orta yere çıktı; onun nefsinden ben murad almak istemiştim. O ise gerçekten doğruyu söyleyenlerdendir.\""
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "(Yusuf aracıya şunu söyledi:) \"Bu, (itiraf Vezirin) yokluğunda gerçekten kendisine ihanet etmediğimi ve gerçekten Allah'ın ihanet edenlerin hileli-düzenlerini başarıya ulaştırmadığını kendisinin de bilip öğrenmesi içindi.\""
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "\"(Yine de) Ben nefsimi temize çıkaramam. Çünkü gerçekten nefis, -Rabbimin kendisini esirgediği dışında- var gücüyle kötülüğü emredendir. Şüphesiz, benim Rabbim, bağışlayandır, esirgeyendir.\""
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Hükümdar dedi ki: \"Onu bana getirin, onu kendime bağlı kılayım.\" Onunla konuştuğunda da (şöyle) dedi: \"Sen bugün bizim yanımızda (artık) önemli bir yer sahibisin, güvenilir (bir danışman-yönetici)sin.\""
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "(Yusuf) Dedi ki: \"Beni (bu) yerin (ülkenin) hazineleri üzerinde (bir yönetici) kıl. Çünkü ben, (bunları iyi) bir koruyucuyum, (yönetim işlerini de) bilenim.\""
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "İşte böylece Biz yeryüzünde Yusuf'a güç ve imkan (iktidar) verdik. Öyle ki, orada (Mısır'da) dilediği yerde konakladı. Biz kime dilersek rahmetimizi nasib ederiz ve iyilik yapanların ecrini kayba uğratmayız."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Ahiretin karşılığı ise, iman edenler ve takvada bulunanlar için daha hayırlıdır."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "(Kuraklık başlayınca) Yusuf'un kardeşleri gelip yanına girdiler, onu tanımadıkları halde kendisi onları hemen tanıdı."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Onların erzak yüklerini hazırlayınca dedi ki: \"Bana babanızdan olan kardeşinizi getirin. Görmüyor musunuz, ben ölçüyü tam tutarım ve ben konukseverlerin en hayırlısıyım.\""
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "\"Eğer onu bana getirmeyecek olursanız, artık benim katımda sizin için bir ölçek (erzak) yoktur ve bana da yaklaşmayın.\""
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Dediler ki: \"Onu babasından istemeye çalışacağız ve herhalde biz bunu yapabileceğiz.\""
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Yardımcılarına dedi ki: \"Sermayelerini (erzak bedellerini) yüklerinin içine koyun. İhtimal ki ailelerine döndüklerinde bunun farkına varırlar da belki geri dönerler.\""
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Böylelikle babalarına döndükleri zaman, dediler ki: \"Ey babamız, ölçek bizden engellendi. Bu durumda kardeşimizi bizimle gönder de erzağı alalım. Onu mutlaka koruyacağız.\""
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Dedi ki: \"Daha önce kardeşi konusunda size güvendiğimden başka (bir şekilde) onun hakkında size güvenir miyim? Allah en hayırlı koruyucudur ve O, esirgeyenlerin esirgeyicisidir.\""
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Erzak yüklerini açıp da sermayelerinin kendilerine geri verilmiş olduğunu gördüklerinde, dediler ki: \"Ey Babamız, daha neyi arıyoruz, işte sermayemiz bize geri verilmiş; (bununla yine) ailemize erzak getiririz, kardeşimizi koruruz ve bir deve yükünü de ilave ederiz. Bu (aldığımız) az bir ölçektir.\""
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "\"Bana etrafınızın çepeçevre kuşatılması dışında, onu ne olursa olsun mutlaka bana getireceğinize dair Allah adına kesin bir söz verinceye kadar, onu sizinle asla gönderemem.\" dedi. Böylelikle ona kesin bir söz verince dedi ki: \"Allah, söylediklerimize vekildir.\""
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Ve dedi ki: \"Ey çocuklarım, tek bir kapıdan girmeyin, ayrı ayrı kapılardan girin. Ben size Allah'tan hiçbir şeyi sağlayamam (gideremem). Hüküm yalnızca Allah'ındır. Ben O'na tevekkül ettim. Tevekkül edenler de yalnızca O'na tevekkül etmelidirler.\""
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Babalarının kendilerine emrettiği yerden (Mısır'a) girdiklerinde, (bu,) -Yakub'un nefsindeki dileği açığa çıkarması dışında- onlara Allah'tan gelecek olan hiçbir şeyi (gidermeyi) sağlamadı. Gerçekten o, kendisine öğrettiğimiz için bir ilim sahibiydi. Ancak insanların çoğu bilmezler."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Yusuf'un yanına girdikleri zaman, o, kardeşini bağrına bastı; \"Ben\" dedi. \"Senin gerçekten kardeşinim. Artık onların yaptıklarına üzülme.\""
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Erzak yüklerini kendilerine hazırlayınca da, su kabını kardeşinin yükü içine bıraktı, sonra bir münadi (şöyle) seslendi: \"Ey kafile, sizler gerçekten hırsızsınız.\""
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Onlara doğru yönelerek: \"Neyi kaybettiniz?\" dediler."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Dediler ki: \"Hükümdarın su tasını kaybettik, kim onu (bulup) getirirse, (ona armağan olarak) bir deve yükü vardır. Ben de buna kefilim.\""
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "\"Allah adına, hayret\" dediler. \"Siz de bilmişsiniz ki, biz (bu) yere bozgunculuk çıkarmak amacıyla gelmedik ve biz hırsız değiliz.\""
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "\"Öyleyse\" dediler. \"Eğer yalan söylüyorsanız (bunun) cezası nedir?\""
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Dediler ki: \"Bunun cezası, (su tası) yükünde bulunanın kendisidir. İşte biz zulmedenleri böyle cezalandırırız.\""
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Böylece (Yusuf) kardeşinin kabından önce onların kablarını (yoklamaya) başladı, sonra onu kardeşinin kabından çıkardı. İşte Biz Yusuf için böyle bir plan düzenledik. (Yoksa) Hükümdarın dininde (yürürlükteki kanuna göre) kardeşini (yanında) alıkoyamazdı. Ancak Allah'ın dilemesi başka. Biz dilediğimizi derecelerle yükseltiriz. Ve her bilgi sahibinin üstünde daha iyi bir bilen vardır."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Dediler ki: \"Şayet çalmış bulunuyorsa, bundan önce onun kardeşi de çalmıştı.\" Yusuf bunu kendi içinde saklı tuttu ve bunu onlara açıklamadı (ve içinden): \"Siz daha kötü bir konumdasınız\" dedi. \"Sizin düzmekte olduklarınızı Allah daha iyi bilir.\""
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "Dediler ki: \"Ey Vezir, gerçek şu ki, bunun yaşlı (ve) büyük bir babası var; onun yerine bizden birisini alıkoy. Doğrusu biz, seni iyilik yapanlardan görmekteyiz.\""
-    },
-    {
-      "ayahNumber": "79",
-      "ayahText": "Dedi ki: \"Eşyamızı kendisinde bulduğumuzun dışında, birisini alıkoymamızdan Allah'a sığınırız. Yoksa bu durumda kuşkusuz biz zalim oluruz.\""
-    },
-    {
-      "ayahNumber": "80",
-      "ayahText": "Ondan umutlarını kestikleri zaman, (durumu) kendi aralarında görüşmek üzere bir yana çekildiler. Onların büyükleri dedi ki: \"Babanızın size karşı Allah adına kesin bir söz aldığını ve daha önce Yusuf konusunda yaptığımız aşırılığı (işlediğimiz suçu) bilmiyor musunuz? Artık (bundan böyle) ben, ya babam bana izin verinceye veya Allah bana ilişkin hüküm verinceye kadar (bu) yerden kesin olarak ayrılamam. O, hüküm verenlerin en hayırlısıdır.\""
-    },
-    {
-      "ayahNumber": "81",
-      "ayahText": "\"Dönün babanıza ve deyin ki: '-Ey babamız, senin oğlun gerçekten hırsızlık etti. Biz, bildiğimizden başkasına şahitlik etmedik. Biz gaybın kollayıcıları değiliz.\""
-    },
-    {
-      "ayahNumber": "82",
-      "ayahText": "\"İçinde (yaşamakta) olduğumuz şehre sor, hem kendisinde geldiğimiz kervana da. Biz gerçekten doğruyu söyleyenleriz.\""
-    },
-    {
-      "ayahNumber": "83",
-      "ayahText": "(Şehre dönüp durumu babalarına aktarınca o:) \"Hayır\" dedi. \"Nefsiniz sizi yanıltıp (böyle) bir işe sürüklemiş. Bundan sonra (bana düşen) güzel bir sabırdır. Umulur ki Allah (pek yakın bir gelecekte) onların tümünü bana getirir. Çünkü O, bilenin, hüküm ve hikmet sahibi olanın Kendisi'dir.\""
-    },
-    {
-      "ayahNumber": "84",
-      "ayahText": "Ve onlardan yüz(ünü) çevirdi ve: \"Ey Yusuf'a karşı (artan dayanılmaz) kahrım\" dedi ve gözleri üzüntüsünden (ağardıkça) ağardı. Ki yutkundukça yutkunuyordu.\""
-    },
-    {
-      "ayahNumber": "85",
-      "ayahText": "\"Allah adına, hayret\" dediler. \"Hala Yusuf'u anıp durmaktasın. Sonunda (ya kahrından) hastalanacaksın ya da helake uğrayanlardan olacaksın.\""
-    },
-    {
-      "ayahNumber": "86",
-      "ayahText": "Dedi ki: \"Ben, dayanılmaz kahrımı ve üzüntümü yalnızca Allah'a şikayet ediyorum. Ben Allah'tan (bir bilgi olarak) sizin bilmediğinizi de biliyorum.\""
-    },
-    {
-      "ayahNumber": "87",
-      "ayahText": "\"Oğullarım, gidin de Yusuf ile kardeşinden (duyarlı bir araştırmayla) bir haber getirin ve Allah'ın rahmetinden umut kesmeyin. Çünkü kafirler topluluğundan başkası Allah'ın rahmetinden umut kesmez.\""
-    },
-    {
-      "ayahNumber": "88",
-      "ayahText": "Böylece onun (Yusuf'un) huzuruna girdikleri zaman, dediler ki: \"Ey Vezir, bize ve ailemize şiddetli bir darlık dokundu; önemi olmayan bir sermaye ile geldik. Bize artık (yine) ölçeği tam olarak ver ve bize ilave bir bağışta bulun. Şüphesiz Allah, tasaddukta bulunanlara karşılığını verir.\""
-    },
-    {
-      "ayahNumber": "89",
-      "ayahText": "(Yusuf) Dedi ki: \"Sizler, cahiller iken Yusuf'a ve kardeşine neler yaptığınızı biliyor musunuz?\""
-    },
-    {
-      "ayahNumber": "90",
-      "ayahText": "\"Sen gerçekten Yusuf musun, sensin öyle mi?\" dediler. \"Ben Yusuf'um\" dedi. \"Ve bu da kardeşimdir. Doğrusu Allah bize lütufta bulundu. Gerçek şu ki, kim sakınır ve sabrederse, şüphesiz Allah, iyilikte bulunanların karşılığını boşa çıkarmaz.\""
-    },
-    {
-      "ayahNumber": "91",
-      "ayahText": "Dediler ki: \"Allah adına, hayret, Allah seni gerçekten bize karşı tercih edip-seçmiştir ve biz de gerçekten hataya düşenler idik.\""
-    },
-    {
-      "ayahNumber": "92",
-      "ayahText": "Dedi ki: \"Bugün size karşı sorgulama, kınama yoktur. Sizi Allah bağışlasın. O, merhametlilerin (en) merhametlisidir.\""
-    },
-    {
-      "ayahNumber": "93",
-      "ayahText": "\"Bu gömleğimle gidin de, babamın yüzüne sürün. Gözü (yine) görür hale gelir. Bütün ailenizi de bana getirin.\""
-    },
-    {
-      "ayahNumber": "94",
-      "ayahText": "Kafile (Mısır'dan) ayrılmaya başladığı zaman, babaları dedi ki: \"Eğer beni bunamış saymıyorsanız, inanın Yusuf'un kokusunu (burnumda tüter) buluyorum.\""
-    },
-    {
-      "ayahNumber": "95",
-      "ayahText": "\"Allah adına, hayret\" dediler. \"Sen hala geçmişteki yanlışlığındasın.\""
-    },
-    {
-      "ayahNumber": "96",
-      "ayahText": "Müjdeci gelip de onu (gömleği) onun yüzüne sürdüğü zaman, gözü görür olarak (sağlığına) dönüverdi. (Yakub) Dedi ki: \"Ben, size bilmediğinizi Allah'tan gerçekten biliyorum demedim mi?\""
-    },
-    {
-      "ayahNumber": "97",
-      "ayahText": "(Çocukları da:) \"Ey babamız, bizim için günahlarımızın bağışlanmasını dile. Biz gerçekten hataya düşenler idik\" dediler."
-    },
-    {
-      "ayahNumber": "98",
-      "ayahText": "\"İlerde sizin için Rabbimden bağışlanma dilerim. Çünkü O, bağışlayandır, esirgeyendir\" dedi."
-    },
-    {
-      "ayahNumber": "99",
-      "ayahText": "Böylece onlar (gelip) Yusuf'un yanına girdikleri zaman, anne ve babasını bağrına bastı ve dedi ki: \"Allah'ın dilemesiyle Mısır'a güvenlik içinde giriniz.\""
-    },
-    {
-      "ayahNumber": "100",
-      "ayahText": "Babasını ve annesini tahta çıkarıp oturttu; onun için secdeye kapandılar. Dedi ki: \"Ey Babam, bu, daha önceki rüyamın yorumudur. Doğrusu Rabbim onu gerçek kıldı. Bana iyilik etti, çünkü beni zindandan çıkardı. Şeytan benimle kardeşlerimin arasını açtıktan sonra, (O,) çölden sizi getirdi. Şüphesiz benim Rabbim, dilediğini pek ince düzenleyip tedbir edendi. Gerçekten bilen, hüküm ve hikmet sahibi O'dur.\""
-    },
-    {
-      "ayahNumber": "101",
-      "ayahText": "\"Rabbim, Sen bana mülkten (bir pay ve onu yönetme imkanını) verdin, sözlerin yorumundan (bir bilgi) öğrettin. Göklerin ve yerin Yaratıcısı, dünyada ve ahirette benim velim Sensin. Müslüman olarak benim hayatıma son ver ve beni salihlerin arasına kat.\""
-    },
-    {
-      "ayahNumber": "102",
-      "ayahText": "Bu, sana (ey Muhammed) vahyettiğimiz gayb haberlerindendir. Yoksa onlar, (Yusuf'un kardeşleri) o hileli-düzeni kurarlarken, yapacakları işe topluca karar verdikleri zaman sen yanlarında değildin."
-    },
-    {
-      "ayahNumber": "103",
-      "ayahText": "Sen şiddetle arzu etsen bile, insanların çoğu iman edecek değildir."
-    },
-    {
-      "ayahNumber": "104",
-      "ayahText": "Oysa ki sen buna karşı onlardan bir ücret de istemiyorsun. O, alemler için yalnızca bir 'öğüt ve hatırlatmadır.'"
-    },
-    {
-      "ayahNumber": "105",
-      "ayahText": "Göklerde ve yerde nice ayetler vardır ki, üzerinden geçerler de, ona sırtlarını dönüp giderler."
-    },
-    {
-      "ayahNumber": "106",
-      "ayahText": "Onların çoğu Allah'a iman etmezler de ancak şirk katıp-dururlar."
-    },
-    {
-      "ayahNumber": "107",
-      "ayahText": "Şimdi bunlar, kendilerine Allah'ın azabından kapsamlı bir bürümenin gelivermesinden veya onların hiç haberleri yokken kıyametin onlara apansız gelmesinden kendilerini güvende mi buldular?"
-    },
-    {
-      "ayahNumber": "108",
-      "ayahText": "De ki: \"Bu, benim yolumdur. Bir basiret üzere Allah'a davet ederim; ben ve bana uyanlar da. Ve Allah'ı tenzih ederim, ben müşriklerden değilim.\""
-    },
-    {
-      "ayahNumber": "109",
-      "ayahText": "Biz senden önce, şehirler halkına kendilerine vahyettiğimiz kimseler dışında (başkalarını elçi olarak) göndermedik. Hiç yeryüzünde dolaşmıyorlar mı, ki kendilerinden öncekilerin nasıl bir sona uğradıklarını görmüş olsunlar? Korkup-sakınanlar için ahiret yurdu elbette daha hayırlıdır. Siz yine de akıl erdirmeyecek misiniz?"
-    },
-    {
-      "ayahNumber": "110",
-      "ayahText": "Öyle ki elçiler, umutlarını kesip de, artık onların gerçekten yalanladıklarını sandıkları bir sırada onlara yardımımız gelmiştir; Biz kimi dilersek o kurtulmuştur. Suçlu-günahkarlar topluluğundan zorlu azabımız kesin olarak geri çevrilmeyecektir."
-    },
-    {
-      "ayahNumber": "111",
-      "ayahText": "Andolsun, onların kıssalarında temiz akıl sahipleri için ibretler vardır. (Bu Kur'an) düzüp uydurulacak bir söz değildir, ancak kendinden öncekilerin doğrulayıcısı, herşeyin 'çeşitli biçimlerde açıklaması' ve iman edecek bir topluluk için bir hidayet ve rahmettir."
-    }
-  ]
+  "yusuf": {
+    "surahNumber": "12",
+    "surahNameTr": "Yûsuf Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Elif, Lam, Ra. Bunlar, apaçık Kitab'ın ayetleridir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Gerçekten Biz, akıl erdirirsiniz diye, onu Arapça bir Kur'an olarak indirdik."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Biz bu Kur'an'ı sana vahyetmemizle, en güzel kıssaları gerçek bir haber (kıssa) olarak sana aktarıyoruz, oysa sen, daha önce, bundan haberi olmayanlardandın."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hani Yusuf babasına: \"Babacığım, gerçekten ben (rüyamda) on bir yıldız, Güneş'i ve Ay'ı gördüm; bana secde etmektelerken gördüm\" demişti."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "(Babası) Demişti ki: \"Oğlum, rüyanı kardeşlerine anlatma, yoksa sana bir tuzak kurarlar. Çünkü şeytan, insan için apaçık bir düşmandır.\""
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "\"Böylece Rabbin seni seçkin kılacak, sözlerin yorumundan (kaynaklanan bir bilgiyi) sana öğretecek ve daha önce ataların İbrahim ve İshak'a (nimetini) tamamladığı gibi senin ve Yakub ailesinin üzerindeki nimetini tamamlayacaktır. Elbette Rabbin, bilendir, hüküm ve hikmet sahibidir.\""
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Andolsun, Yusuf ve kardeşlerinde soranlar için ayetler (ibretler) vardır."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Onlar şöyle demişti: \"Yusuf ve kardeşi babamıza bizden daha sevgilidir; oysa ki biz, birbirini pekiştiren bir topluluğuz. Gerçekte babamız, açıkça bir şaşkınlık içindedir.\""
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "\"Öldürün Yusuf'u veya onu bir yere atıp-bırakın ki babanızın yüzü yalnızca size (dönük) kalsın. Ondan sonra da salih bir topluluk olursunuz.\""
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "İçlerinden bir sözcü dedi ki: \"Eğer (mutlaka bir şey) yapacaksanız, öldürmeyin Yusuf'u, onu kuyunun derinliklerine bırakıverin de bir yolcu kafilesi alsın.\""
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "(Bu karara vardıktan sonra) \"Ey Babamız,\" dediler. \"Sana ne oluyor, Yusuf'a karşı bize güvenmiyorsun? Oysa gerçekte biz, onun iyiliğini isteyenleriz.\""
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "\"Sen onu yarın bizimle gönder, gönlünce gezsin, oynasın. Elbette biz onu koruyup-gözetiriz.\""
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Dedi ki: \"Sizin onu götürmeniz gerçekten beni üzer ve siz ondan habersiz iken onu kurdun yemesinden korkuyorum.\""
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Dediler ki: \"Andolsun, biz, birbirini kollayan bir topluluk iken, kurt onu yerse, bu durumda şüphesiz kayba uğrayan (aciz) kimseler oluruz.\""
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Nitekim onu götürdükleri ve kuyunun derinliklerine atmaya topluca davrandıkları zaman, Biz ona (şöyle) vahyettik: \"Andolsun, sen onlara kendileri, farkında değilken bu yaptıklarını haber vereceksin.\""
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Akşam üstü babalarına ağlar vaziyette geldiler."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Dediler ki: \"Ey Babamız, gerçek şu ki, biz gittik, yarışıyorduk. Yusuf'u da yiyeceklerimizin (veya eşyamızın) yanında bırakmıştık. Fakat onu kurt yemiş. Ne var ki biz doğruyu söylesek bile sen bize inanacak değilsin.\""
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Ve üzerine yalandan kan (sürülmüş) olan gömleğini getirdiler. \"Hayır\" dedi. Nefsiniz, sizi yanıltıp (böyle) bir işe sürüklemiş. Bundan sonra (bana düşen) güzel bir sabırdır. Sizin bu düzüp-uydurduklarınıza karşı (Kendisi'nden) yardım istenecek olan Allah'tır.\""
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Bir yolcu-kafilesi geldi, sucularını (kuyuya su almak için) gönderdiler. O da kovasını sarkıttı. \"Hey müjde... Bu bir çocuk.\" dedi. Ve onu (kuyudan çıkarıp) 'ticaret konusu bir mal' olarak sakladılar. Oysa Allah, yapmakta olduklarını bilendi."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onu ucuz bir fiyata, sayısı belli (birkaç) dirheme sattılar. Onu pek önemsemediler."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Onu satın alan bir Mısırlı (aziz,) karısına: \"Onun yerini üstün tut (ona güzel bak), umulur ki bize bir yararı dokunur ya da onu evlat ediniriz\" dedi. Böylelikle Biz, Yusuf'u yeryüzünde (Mısır'da) yerleşik kıldık. Ona sözlerin yorumundan (olan bir bilgiyi) öğrettik. Allah, emrinde galib olandır, ancak insanların çoğu bilmezler."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Erginlik çağına erişince, kendisine hüküm ve ilim verdik. İşte Biz, iyilik yapanları böyle ödüllendiririz."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Evinde kalmakta olduğu kadın, ondan murad almak istedi ve kapıları sımsıkı kapatarak: \"İsteklerim senin içindir, gelsene\" dedi. (Yusuf) Dedi ki: \"Allah'a sığınırım. Çünkü o benim Efendimdir, yerimi güzel tutmuştur. Gerçek şu ki, zalimler kurtuluşa ermez.\""
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Andolsun kadın onu arzulamıştı, -eğer Rabbinin (zinayı yasaklayan) kesin kanıt (burhan)ını görmeseydi- o da (Yusuf da) onu arzulamıştı. Böylelikle Biz ondan kötülüğü ve fuhşu geri çevirmek için (ona delil gönderdik). Çünkü o, muhlis kullarımızdandı."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Kapıya doğru ikisi de koştular. Kadın onun gömleğini arkadan çekip yırttı. (Tam) Kapının yanında kadının efendisiyle karşılaştılar. Kadın dedi ki: \"Ailene kötülük isteyenin, zindana atılmaktan veya acı bir azaptan başka cezası ne olabilir?\""
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "(Yusuf) Dedi ki: \"Onun kendisi benden murad almak istedi.\" Kadının yakınlarından bir şahid şahitlik etti: \"Eğer onun gömleği ön taraftan yırtılmışsa bu durumda kadın doğruyu söylemiştir, kendisi ise yalan söyleyenlerdendir."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Yok eğer onun gömleği arkadan çekilip-yırtılmışsa, bu durumda kadın yalan söylemiştir ve kendisi doğruyu söyleyenlerdendir.\""
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Onun gömleğinin arkadan çekilip-yırtıldığını gördüğü zaman (kocası): \"Doğrusu, bu sizin düzeninizden (biri)dir. Gerçekten sizin düzeniniz büyüktür\" dedi."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "\"Yusuf, sen bundan yüz çevir. Sen de (kadın) günahın dolayısıyla bağışlanma dile. Doğrusu sen günahkarlardan oldun.\""
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Şehirde (birtakım) kadınlar: \"Aziz (Vezir)'in karısı kendi uşağının nefsinden murad almak istiyormuş. Öyle ki sevgi onun bağrına sinmiş. Biz doğrusu onu açıkça bir sapıklık içinde görüyoruz.\" dedi."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "(Kadın) Onların düzenlerini işitince, onlara (bir davetçi) yolladı, oturup dayanacakları yerler hazırladı ve her birinin eline (önlerindeki meyveleri soymaları için) bıçak verdi. (Yusuf'a da:) \"Çık, onlara (görün)\" dedi. Böylece onlar onu (olağanüstü güzellikte) görünce (insanüstü bir varlıkmış gibi gözlerinde) büyüttüler, (şaşkınlıklarından) ellerini kestiler ve: \"Allah'ı tenzih ederiz; bu bir beşer değildir. Bu, ancak üstün bir melektir\" dediler."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Kadın dedi ki: \"Beni kendisiyle kınadığınız işte budur. Andolsun onun nefsinden ben murad istedim, o ise (kendini) korudu. Ve andolsun, eğer o kendisine emrettiğimi yapmayacak olursa, mutlaka zindana atılacak ve elbette küçük düşürülenlerden olacak.\""
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "(Yusuf) Dedi ki: \"Rabbim, zindan, bunların beni kendisine çağırdıkları şeyden bana daha sevimlidir. Kurdukları düzeni benden uzaklaştırmazsan, onlara (korkarım) eğilim gösterir, (böylece) cahillerden olurum.\""
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Böylece Rabbi, duasını kabul etti ve onların hileli düzenlerini kendisinden uzaklaştırdı. Çünkü O, işitendir, bilendir."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Sonra onlarda (Yusuf'un iffetine ilişkin) delilleri görmelerinin ardından, mutlaka onu belli bir vakte kadar zindana atmak (görüşü)ağır bastı."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Onunla birlikte iki genç de zindana girmişti. Biri: \"Ben (rüyamda) kendimi şarap sıkıyorken gördüm.\" dedi. Öbürü: \"Ben de kendimi başımın üstünde ekmek taşıyorken gördüm; kuş da ondan yemekteydi\" dedi. \"Bunun yorumundan bize haber ver. Doğrusu biz seni, iyilik yapanlardan görmekteyiz.\""
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Dedi ki: \"Size rızıklanacağınız bir yemek gelecek olsa, ben mutlaka size daha gelmeden önce onun ne olduğunu haber veririm. Bu, Rabbimin bana öğrettiklerindendir. Doğrusu ben, Allah'a iman etmeyen, ahireti de tanımayanların ta kendileri olan bir topluluğun dinini terk ettim.\""
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "\"Atalarım İbrahim'in, İshak'ın ve Yakub'un dinine uydum. Allah'a hiçbir şeyle şirk koşmamız bizim için olacak şey değil. Bu, bize ve insanlara Allah'ın lütuf ve ihsanındandır, ancak insanların çoğu şükretmezler.\""
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "\"Ey zindan arkadaşlarım, birbirinden ayrı (bir sürü) Rabler mi daha hayırlıdır, yoksa kahhar (kahredici) olan bir tek Allah mı?\""
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "\"Sizin Allah'tan başka taptıklarınız, Allah'ın kendileri hakkında hiçbir delil indirmediği, sizin ve atalarınızın ad olarak adlandırdıklarınızdan başkası değildir. Hüküm, yalnızca Allah'ındır. O, Kendisi'nden başkasına kulluk etmemenizi emretmiştir. Dosdoğru olan din işte budur, ancak insanların çoğu bilmezler.\""
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "\"Ey zindan arkadaşlarım, ikinizden biri efendisine şarap içirecek, diğeri ise asılacak, kuş onun başından yiyecek. İşte hakkında fetva istemekte olduğunuz iş (artık) olup bitmiştir.\""
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "İkisinden kurtulacağını sandığı kişiye dedi ki: \"Efendinin katında beni hatırla.\" Fakat şeytan, efendisine hatırlatmayı ona unutturdu, böylece daha nice yıllar (Yusuf) zindanda kaldı."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Hükümdar: \"Ben (rüyamda) yedi besili inek görüyorum, onları yedi zayıf inek yiyor; bir de yedi yeşil başak ve diğerleri ise kupkuru. Ey önde gelen (kahin-bilginler,) eğer rüya yorumluyorsanız benim bu rüyamı çözüverin\" dedi."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Dediler ki: \"(Bunlar) Karmakarışık düşlerdir. Biz böyle düşlerin yorumunu bilenler değiliz.\""
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "O iki kişiden kurtulmuş olanı, nice zaman sonra hatırladı ve: \"Ben bunun yorumunu size haber veririm, hemen beni (zindana) gönderin\" dedi."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "(Zindana gidip:) \"Yusuf, ey doğru (sözlü insan).. Yedi besili ineği yedi zayıf (ineğin) yediği ve yedi yeşil başakla diğerleri kuru olan (rüya) konusunda bize fetva ver. Umarım ki insanlara da (senin söylediklerinle) dönerim, belki onlar (bunun anlamını) öğrenmiş olurlar.\""
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Dedi ki: \"Siz yedi yıl, önceleri (ektiğiniz) gibi ekin ekin, yediğinizin az bir kısmı dışında (kalanını) biçtiklerinizi başağında bırakın.\""
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Sonra bunun arkasından (kuraklığı) zorlu yedi yıl gelecektir, sakladığınız az bir miktar dışında, daha önce biriktirdiğinizi yiyip bitirecektir.\""
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Sonra bunun arkasından bir yıl gelecektir ki, insanlar onda bol bol yağmura kavuşturulacak ve onda sıkıp-sağacaklar.\""
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Hükümdar dedi ki: \"Onu bana getirin.\" Ona elçi geldiğinde (Yusuf:) \"Efendine (Rabbine) dön de ona sor: \"Ellerini kesen o kadınların durumu neydi? Doğrusu benim Rabbim, onların hileli düzenlerini gerçekten bilendir.\""
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "(Hükümdar topladığı o kadınlara:) \"Yusuf'un nefsinden murad almak istediğinizde sizin durumunuz neydi?\" dedi. Onlar: \"Allah için, haşa\" dediler. \"Biz ondan hiçbir kötülük görmedik.\" Aziz (Vezir)in de karısı dedi ki: \"İşte şu anda gerçek orta yere çıktı; onun nefsinden ben murad almak istemiştim. O ise gerçekten doğruyu söyleyenlerdendir.\""
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "(Yusuf aracıya şunu söyledi:) \"Bu, (itiraf Vezirin) yokluğunda gerçekten kendisine ihanet etmediğimi ve gerçekten Allah'ın ihanet edenlerin hileli-düzenlerini başarıya ulaştırmadığını kendisinin de bilip öğrenmesi içindi.\""
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "\"(Yine de) Ben nefsimi temize çıkaramam. Çünkü gerçekten nefis, -Rabbimin kendisini esirgediği dışında- var gücüyle kötülüğü emredendir. Şüphesiz, benim Rabbim, bağışlayandır, esirgeyendir.\""
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Hükümdar dedi ki: \"Onu bana getirin, onu kendime bağlı kılayım.\" Onunla konuştuğunda da (şöyle) dedi: \"Sen bugün bizim yanımızda (artık) önemli bir yer sahibisin, güvenilir (bir danışman-yönetici)sin.\""
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "(Yusuf) Dedi ki: \"Beni (bu) yerin (ülkenin) hazineleri üzerinde (bir yönetici) kıl. Çünkü ben, (bunları iyi) bir koruyucuyum, (yönetim işlerini de) bilenim.\""
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "İşte böylece Biz yeryüzünde Yusuf'a güç ve imkan (iktidar) verdik. Öyle ki, orada (Mısır'da) dilediği yerde konakladı. Biz kime dilersek rahmetimizi nasib ederiz ve iyilik yapanların ecrini kayba uğratmayız."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Ahiretin karşılığı ise, iman edenler ve takvada bulunanlar için daha hayırlıdır."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "(Kuraklık başlayınca) Yusuf'un kardeşleri gelip yanına girdiler, onu tanımadıkları halde kendisi onları hemen tanıdı."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Onların erzak yüklerini hazırlayınca dedi ki: \"Bana babanızdan olan kardeşinizi getirin. Görmüyor musunuz, ben ölçüyü tam tutarım ve ben konukseverlerin en hayırlısıyım.\""
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "\"Eğer onu bana getirmeyecek olursanız, artık benim katımda sizin için bir ölçek (erzak) yoktur ve bana da yaklaşmayın.\""
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Dediler ki: \"Onu babasından istemeye çalışacağız ve herhalde biz bunu yapabileceğiz.\""
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Yardımcılarına dedi ki: \"Sermayelerini (erzak bedellerini) yüklerinin içine koyun. İhtimal ki ailelerine döndüklerinde bunun farkına varırlar da belki geri dönerler.\""
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Böylelikle babalarına döndükleri zaman, dediler ki: \"Ey babamız, ölçek bizden engellendi. Bu durumda kardeşimizi bizimle gönder de erzağı alalım. Onu mutlaka koruyacağız.\""
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Dedi ki: \"Daha önce kardeşi konusunda size güvendiğimden başka (bir şekilde) onun hakkında size güvenir miyim? Allah en hayırlı koruyucudur ve O, esirgeyenlerin esirgeyicisidir.\""
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Erzak yüklerini açıp da sermayelerinin kendilerine geri verilmiş olduğunu gördüklerinde, dediler ki: \"Ey Babamız, daha neyi arıyoruz, işte sermayemiz bize geri verilmiş; (bununla yine) ailemize erzak getiririz, kardeşimizi koruruz ve bir deve yükünü de ilave ederiz. Bu (aldığımız) az bir ölçektir.\""
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "\"Bana etrafınızın çepeçevre kuşatılması dışında, onu ne olursa olsun mutlaka bana getireceğinize dair Allah adına kesin bir söz verinceye kadar, onu sizinle asla gönderemem.\" dedi. Böylelikle ona kesin bir söz verince dedi ki: \"Allah, söylediklerimize vekildir.\""
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Ve dedi ki: \"Ey çocuklarım, tek bir kapıdan girmeyin, ayrı ayrı kapılardan girin. Ben size Allah'tan hiçbir şeyi sağlayamam (gideremem). Hüküm yalnızca Allah'ındır. Ben O'na tevekkül ettim. Tevekkül edenler de yalnızca O'na tevekkül etmelidirler.\""
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Babalarının kendilerine emrettiği yerden (Mısır'a) girdiklerinde, (bu,) -Yakub'un nefsindeki dileği açığa çıkarması dışında- onlara Allah'tan gelecek olan hiçbir şeyi (gidermeyi) sağlamadı. Gerçekten o, kendisine öğrettiğimiz için bir ilim sahibiydi. Ancak insanların çoğu bilmezler."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Yusuf'un yanına girdikleri zaman, o, kardeşini bağrına bastı; \"Ben\" dedi. \"Senin gerçekten kardeşinim. Artık onların yaptıklarına üzülme.\""
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Erzak yüklerini kendilerine hazırlayınca da, su kabını kardeşinin yükü içine bıraktı, sonra bir münadi (şöyle) seslendi: \"Ey kafile, sizler gerçekten hırsızsınız.\""
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Onlara doğru yönelerek: \"Neyi kaybettiniz?\" dediler."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Dediler ki: \"Hükümdarın su tasını kaybettik, kim onu (bulup) getirirse, (ona armağan olarak) bir deve yükü vardır. Ben de buna kefilim.\""
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "\"Allah adına, hayret\" dediler. \"Siz de bilmişsiniz ki, biz (bu) yere bozgunculuk çıkarmak amacıyla gelmedik ve biz hırsız değiliz.\""
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "\"Öyleyse\" dediler. \"Eğer yalan söylüyorsanız (bunun) cezası nedir?\""
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Dediler ki: \"Bunun cezası, (su tası) yükünde bulunanın kendisidir. İşte biz zulmedenleri böyle cezalandırırız.\""
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Böylece (Yusuf) kardeşinin kabından önce onların kablarını (yoklamaya) başladı, sonra onu kardeşinin kabından çıkardı. İşte Biz Yusuf için böyle bir plan düzenledik. (Yoksa) Hükümdarın dininde (yürürlükteki kanuna göre) kardeşini (yanında) alıkoyamazdı. Ancak Allah'ın dilemesi başka. Biz dilediğimizi derecelerle yükseltiriz. Ve her bilgi sahibinin üstünde daha iyi bir bilen vardır."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Dediler ki: \"Şayet çalmış bulunuyorsa, bundan önce onun kardeşi de çalmıştı.\" Yusuf bunu kendi içinde saklı tuttu ve bunu onlara açıklamadı (ve içinden): \"Siz daha kötü bir konumdasınız\" dedi. \"Sizin düzmekte olduklarınızı Allah daha iyi bilir.\""
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "Dediler ki: \"Ey Vezir, gerçek şu ki, bunun yaşlı (ve) büyük bir babası var; onun yerine bizden birisini alıkoy. Doğrusu biz, seni iyilik yapanlardan görmekteyiz.\""
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "Dedi ki: \"Eşyamızı kendisinde bulduğumuzun dışında, birisini alıkoymamızdan Allah'a sığınırız. Yoksa bu durumda kuşkusuz biz zalim oluruz.\""
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "Ondan umutlarını kestikleri zaman, (durumu) kendi aralarında görüşmek üzere bir yana çekildiler. Onların büyükleri dedi ki: \"Babanızın size karşı Allah adına kesin bir söz aldığını ve daha önce Yusuf konusunda yaptığımız aşırılığı (işlediğimiz suçu) bilmiyor musunuz? Artık (bundan böyle) ben, ya babam bana izin verinceye veya Allah bana ilişkin hüküm verinceye kadar (bu) yerden kesin olarak ayrılamam. O, hüküm verenlerin en hayırlısıdır.\""
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "\"Dönün babanıza ve deyin ki: '-Ey babamız, senin oğlun gerçekten hırsızlık etti. Biz, bildiğimizden başkasına şahitlik etmedik. Biz gaybın kollayıcıları değiliz.\""
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "\"İçinde (yaşamakta) olduğumuz şehre sor, hem kendisinde geldiğimiz kervana da. Biz gerçekten doğruyu söyleyenleriz.\""
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "(Şehre dönüp durumu babalarına aktarınca o:) \"Hayır\" dedi. \"Nefsiniz sizi yanıltıp (böyle) bir işe sürüklemiş. Bundan sonra (bana düşen) güzel bir sabırdır. Umulur ki Allah (pek yakın bir gelecekte) onların tümünü bana getirir. Çünkü O, bilenin, hüküm ve hikmet sahibi olanın Kendisi'dir.\""
+      },
+      {
+        "ayahNumber": "84",
+        "ayahText": "Ve onlardan yüz(ünü) çevirdi ve: \"Ey Yusuf'a karşı (artan dayanılmaz) kahrım\" dedi ve gözleri üzüntüsünden (ağardıkça) ağardı. Ki yutkundukça yutkunuyordu.\""
+      },
+      {
+        "ayahNumber": "85",
+        "ayahText": "\"Allah adına, hayret\" dediler. \"Hala Yusuf'u anıp durmaktasın. Sonunda (ya kahrından) hastalanacaksın ya da helake uğrayanlardan olacaksın.\""
+      },
+      {
+        "ayahNumber": "86",
+        "ayahText": "Dedi ki: \"Ben, dayanılmaz kahrımı ve üzüntümü yalnızca Allah'a şikayet ediyorum. Ben Allah'tan (bir bilgi olarak) sizin bilmediğinizi de biliyorum.\""
+      },
+      {
+        "ayahNumber": "87",
+        "ayahText": "\"Oğullarım, gidin de Yusuf ile kardeşinden (duyarlı bir araştırmayla) bir haber getirin ve Allah'ın rahmetinden umut kesmeyin. Çünkü kafirler topluluğundan başkası Allah'ın rahmetinden umut kesmez.\""
+      },
+      {
+        "ayahNumber": "88",
+        "ayahText": "Böylece onun (Yusuf'un) huzuruna girdikleri zaman, dediler ki: \"Ey Vezir, bize ve ailemize şiddetli bir darlık dokundu; önemi olmayan bir sermaye ile geldik. Bize artık (yine) ölçeği tam olarak ver ve bize ilave bir bağışta bulun. Şüphesiz Allah, tasaddukta bulunanlara karşılığını verir.\""
+      },
+      {
+        "ayahNumber": "89",
+        "ayahText": "(Yusuf) Dedi ki: \"Sizler, cahiller iken Yusuf'a ve kardeşine neler yaptığınızı biliyor musunuz?\""
+      },
+      {
+        "ayahNumber": "90",
+        "ayahText": "\"Sen gerçekten Yusuf musun, sensin öyle mi?\" dediler. \"Ben Yusuf'um\" dedi. \"Ve bu da kardeşimdir. Doğrusu Allah bize lütufta bulundu. Gerçek şu ki, kim sakınır ve sabrederse, şüphesiz Allah, iyilikte bulunanların karşılığını boşa çıkarmaz.\""
+      },
+      {
+        "ayahNumber": "91",
+        "ayahText": "Dediler ki: \"Allah adına, hayret, Allah seni gerçekten bize karşı tercih edip-seçmiştir ve biz de gerçekten hataya düşenler idik.\""
+      },
+      {
+        "ayahNumber": "92",
+        "ayahText": "Dedi ki: \"Bugün size karşı sorgulama, kınama yoktur. Sizi Allah bağışlasın. O, merhametlilerin (en) merhametlisidir.\""
+      },
+      {
+        "ayahNumber": "93",
+        "ayahText": "\"Bu gömleğimle gidin de, babamın yüzüne sürün. Gözü (yine) görür hale gelir. Bütün ailenizi de bana getirin.\""
+      },
+      {
+        "ayahNumber": "94",
+        "ayahText": "Kafile (Mısır'dan) ayrılmaya başladığı zaman, babaları dedi ki: \"Eğer beni bunamış saymıyorsanız, inanın Yusuf'un kokusunu (burnumda tüter) buluyorum.\""
+      },
+      {
+        "ayahNumber": "95",
+        "ayahText": "\"Allah adına, hayret\" dediler. \"Sen hala geçmişteki yanlışlığındasın.\""
+      },
+      {
+        "ayahNumber": "96",
+        "ayahText": "Müjdeci gelip de onu (gömleği) onun yüzüne sürdüğü zaman, gözü görür olarak (sağlığına) dönüverdi. (Yakub) Dedi ki: \"Ben, size bilmediğinizi Allah'tan gerçekten biliyorum demedim mi?\""
+      },
+      {
+        "ayahNumber": "97",
+        "ayahText": "(Çocukları da:) \"Ey babamız, bizim için günahlarımızın bağışlanmasını dile. Biz gerçekten hataya düşenler idik\" dediler."
+      },
+      {
+        "ayahNumber": "98",
+        "ayahText": "\"İlerde sizin için Rabbimden bağışlanma dilerim. Çünkü O, bağışlayandır, esirgeyendir\" dedi."
+      },
+      {
+        "ayahNumber": "99",
+        "ayahText": "Böylece onlar (gelip) Yusuf'un yanına girdikleri zaman, anne ve babasını bağrına bastı ve dedi ki: \"Allah'ın dilemesiyle Mısır'a güvenlik içinde giriniz.\""
+      },
+      {
+        "ayahNumber": "100",
+        "ayahText": "Babasını ve annesini tahta çıkarıp oturttu; onun için secdeye kapandılar. Dedi ki: \"Ey Babam, bu, daha önceki rüyamın yorumudur. Doğrusu Rabbim onu gerçek kıldı. Bana iyilik etti, çünkü beni zindandan çıkardı. Şeytan benimle kardeşlerimin arasını açtıktan sonra, (O,) çölden sizi getirdi. Şüphesiz benim Rabbim, dilediğini pek ince düzenleyip tedbir edendi. Gerçekten bilen, hüküm ve hikmet sahibi O'dur.\""
+      },
+      {
+        "ayahNumber": "101",
+        "ayahText": "\"Rabbim, Sen bana mülkten (bir pay ve onu yönetme imkanını) verdin, sözlerin yorumundan (bir bilgi) öğrettin. Göklerin ve yerin Yaratıcısı, dünyada ve ahirette benim velim Sensin. Müslüman olarak benim hayatıma son ver ve beni salihlerin arasına kat.\""
+      },
+      {
+        "ayahNumber": "102",
+        "ayahText": "Bu, sana (ey Muhammed) vahyettiğimiz gayb haberlerindendir. Yoksa onlar, (Yusuf'un kardeşleri) o hileli-düzeni kurarlarken, yapacakları işe topluca karar verdikleri zaman sen yanlarında değildin."
+      },
+      {
+        "ayahNumber": "103",
+        "ayahText": "Sen şiddetle arzu etsen bile, insanların çoğu iman edecek değildir."
+      },
+      {
+        "ayahNumber": "104",
+        "ayahText": "Oysa ki sen buna karşı onlardan bir ücret de istemiyorsun. O, alemler için yalnızca bir 'öğüt ve hatırlatmadır.'"
+      },
+      {
+        "ayahNumber": "105",
+        "ayahText": "Göklerde ve yerde nice ayetler vardır ki, üzerinden geçerler de, ona sırtlarını dönüp giderler."
+      },
+      {
+        "ayahNumber": "106",
+        "ayahText": "Onların çoğu Allah'a iman etmezler de ancak şirk katıp-dururlar."
+      },
+      {
+        "ayahNumber": "107",
+        "ayahText": "Şimdi bunlar, kendilerine Allah'ın azabından kapsamlı bir bürümenin gelivermesinden veya onların hiç haberleri yokken kıyametin onlara apansız gelmesinden kendilerini güvende mi buldular?"
+      },
+      {
+        "ayahNumber": "108",
+        "ayahText": "De ki: \"Bu, benim yolumdur. Bir basiret üzere Allah'a davet ederim; ben ve bana uyanlar da. Ve Allah'ı tenzih ederim, ben müşriklerden değilim.\""
+      },
+      {
+        "ayahNumber": "109",
+        "ayahText": "Biz senden önce, şehirler halkına kendilerine vahyettiğimiz kimseler dışında (başkalarını elçi olarak) göndermedik. Hiç yeryüzünde dolaşmıyorlar mı, ki kendilerinden öncekilerin nasıl bir sona uğradıklarını görmüş olsunlar? Korkup-sakınanlar için ahiret yurdu elbette daha hayırlıdır. Siz yine de akıl erdirmeyecek misiniz?"
+      },
+      {
+        "ayahNumber": "110",
+        "ayahText": "Öyle ki elçiler, umutlarını kesip de, artık onların gerçekten yalanladıklarını sandıkları bir sırada onlara yardımımız gelmiştir; Biz kimi dilersek o kurtulmuştur. Suçlu-günahkarlar topluluğundan zorlu azabımız kesin olarak geri çevrilmeyecektir."
+      },
+      {
+        "ayahNumber": "111",
+        "ayahText": "Andolsun, onların kıssalarında temiz akıl sahipleri için ibretler vardır. (Bu Kur'an) düzüp uydurulacak bir söz değildir, ancak kendinden öncekilerin doğrulayıcısı, herşeyin 'çeşitli biçimlerde açıklaması' ve iman edecek bir topluluk için bir hidayet ve rahmettir."
+      }
+    ]
+  }
 }

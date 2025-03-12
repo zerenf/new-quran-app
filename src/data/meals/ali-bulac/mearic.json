@@ -1,182 +1,184 @@
 {
-  "surahNumber": "70",
-  "surahName": "Meâric Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "İstekte bulunan biri, (muhakkak) gerçekleşecek olan bir azabı istedi."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kafirler için olan bu (azabı) geri çevirecek yoktur."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "(Bu azap) Yüce makamlar sahibi olan Allah'tandır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Melekler ve Ruh (Cebrail), ona, süresi elli bin yıl olan bir günde çıkabilmektedir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Şu halde, güzel bir sabır (göstererek) sabret."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Çünkü, gerçekten onlar, bunu uzak görüyorlar."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Biz ise, onu pek yakın görüyoruz."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Gökyüzünün erimiş maden gibi olacağı gün;"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Dağlar da (etrafa uçuşmuş) rengarenk yün gibi olacak."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "(Böyle bir günde) Hiçbir yakın dost bir yakın dostu sormaz."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Onlar birbirlerine gösterilirler. Bir suçlu-günahkar, o günün azabına karşılık olmak üzere, oğullarını fidye olarak vermek ister;"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Kendi eşini ve kardeşini,"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve onu barındıran aşiretini de;"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Yeryüzünde bulunanların tümünü (verse de); sonra bir kurtulsa."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Hayır; (hiçbiri kabul edilmez). Doğrusu o (cehennem), cayır cayır yanmakta olan ateştir:"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Başın derisini kavurup-soyar."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Yüz çevirip arkasını döneni çağırır-durur."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "(Durmaksızın mal ve servet) Toplayıp bir yerde (üstüste) yığmakta olanı."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Gerçekten, insan, 'bencil ve haris' olarak yaratıldı."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Kendisine bir şer (kötülük) dokunduğu zaman feryadı basar."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Ona bir hayır dokunduğunda engelleyici olur (veya cimrilik eder)."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Ancak namaz kılanlar hariç;"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ki onlar, namazlarında süreklidirler."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ve onların mallarında belirli bir hak vardır:"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Yoksul ve yoksun olan(lar)için."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Onlar, din gününü tasdik etmektedirler."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Rablerinin azabına karşı (daimi) bir korku duymaktadırlar."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Şüphesiz Rablerinin azabından emin olunamaz."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ve onlar, ırzlarını (ferç) korurlar;"
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Ancak kendi eşleri ya da sağ ellerinin malik olduğu başka; çünkü onlar (bunlardan dolayı) kınanmazlar."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Fakat bunun ötesini arayanlar, artık onlar sınırı çiğneyenlerdir."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "(Bir de) Onlar, kendilerine verilen emanete ve verdikleri ahde (harfiyyen) riayet edenlerdir."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Şahidliklerinde dosdoğru davrananlardır."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Namazlarını (titizlikle) koruyanlardır."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "İşte onlar, cennetler içinde ağırlananlardır."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Şimdi inkar edenlere ne oluyor ki, boyunlarını sana uzatıp koşuyorlar."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Sağ yandan ve sol yandan bölükler halinde."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Onlardan her biri, nimetlerle donatılmış cennete gireceğini mi umuyor (tamah ediyor)?"
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Hayır; doğrusu Biz onları bildikleri şeyden yarattık."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Artık, doğuların ve batıların Rabbine yemin ederim; Biz gerçekten güç yetireniz;"
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Onların yerine kendilerinden daha hayırlılarına getirip-değiştirmeye. Üstelik Bizim önümüze geçilemez."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Şu halde sen, kendilerine vadedilen (azap) günlerine kavuşuncaya kadar onları bırak; dalıp-oynasınlar, oyalansınlar."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Kabirlerinden koşarcasına çıkarılacakları gün, sanki onlar dikili birşeye yönelmiş gibidirler."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Gözleri 'korkudan ve dehşetten düşük' yüzlerini de bir zillet kaplamış; işte bu, kendilerine vadedilmekte olan (kıyamet ve azap) günüdür."
-    }
-  ]
+  "mearic": {
+    "surahNumber": "70",
+    "surahNameTr": "Meâric Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "İstekte bulunan biri, (muhakkak) gerçekleşecek olan bir azabı istedi."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kafirler için olan bu (azabı) geri çevirecek yoktur."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "(Bu azap) Yüce makamlar sahibi olan Allah'tandır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Melekler ve Ruh (Cebrail), ona, süresi elli bin yıl olan bir günde çıkabilmektedir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Şu halde, güzel bir sabır (göstererek) sabret."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Çünkü, gerçekten onlar, bunu uzak görüyorlar."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Biz ise, onu pek yakın görüyoruz."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Gökyüzünün erimiş maden gibi olacağı gün;"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Dağlar da (etrafa uçuşmuş) rengarenk yün gibi olacak."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "(Böyle bir günde) Hiçbir yakın dost bir yakın dostu sormaz."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Onlar birbirlerine gösterilirler. Bir suçlu-günahkar, o günün azabına karşılık olmak üzere, oğullarını fidye olarak vermek ister;"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Kendi eşini ve kardeşini,"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve onu barındıran aşiretini de;"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Yeryüzünde bulunanların tümünü (verse de); sonra bir kurtulsa."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Hayır; (hiçbiri kabul edilmez). Doğrusu o (cehennem), cayır cayır yanmakta olan ateştir:"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Başın derisini kavurup-soyar."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Yüz çevirip arkasını döneni çağırır-durur."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "(Durmaksızın mal ve servet) Toplayıp bir yerde (üstüste) yığmakta olanı."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Gerçekten, insan, 'bencil ve haris' olarak yaratıldı."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Kendisine bir şer (kötülük) dokunduğu zaman feryadı basar."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Ona bir hayır dokunduğunda engelleyici olur (veya cimrilik eder)."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Ancak namaz kılanlar hariç;"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ki onlar, namazlarında süreklidirler."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ve onların mallarında belirli bir hak vardır:"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Yoksul ve yoksun olan(lar)için."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Onlar, din gününü tasdik etmektedirler."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Rablerinin azabına karşı (daimi) bir korku duymaktadırlar."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Şüphesiz Rablerinin azabından emin olunamaz."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ve onlar, ırzlarını (ferç) korurlar;"
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Ancak kendi eşleri ya da sağ ellerinin malik olduğu başka; çünkü onlar (bunlardan dolayı) kınanmazlar."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Fakat bunun ötesini arayanlar, artık onlar sınırı çiğneyenlerdir."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "(Bir de) Onlar, kendilerine verilen emanete ve verdikleri ahde (harfiyyen) riayet edenlerdir."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Şahidliklerinde dosdoğru davrananlardır."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Namazlarını (titizlikle) koruyanlardır."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "İşte onlar, cennetler içinde ağırlananlardır."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Şimdi inkar edenlere ne oluyor ki, boyunlarını sana uzatıp koşuyorlar."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Sağ yandan ve sol yandan bölükler halinde."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Onlardan her biri, nimetlerle donatılmış cennete gireceğini mi umuyor (tamah ediyor)?"
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Hayır; doğrusu Biz onları bildikleri şeyden yarattık."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Artık, doğuların ve batıların Rabbine yemin ederim; Biz gerçekten güç yetireniz;"
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Onların yerine kendilerinden daha hayırlılarına getirip-değiştirmeye. Üstelik Bizim önümüze geçilemez."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Şu halde sen, kendilerine vadedilen (azap) günlerine kavuşuncaya kadar onları bırak; dalıp-oynasınlar, oyalansınlar."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Kabirlerinden koşarcasına çıkarılacakları gün, sanki onlar dikili birşeye yönelmiş gibidirler."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Gözleri 'korkudan ve dehşetten düşük' yüzlerini de bir zillet kaplamış; işte bu, kendilerine vadedilmekte olan (kıyamet ve azap) günüdür."
+      }
+    ]
+  }
 }

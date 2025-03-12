@@ -14,11 +14,13 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 		setSelectedAyah,
 		fetchData,
 		result,
+		selectedMeal,
 	} = useQuranStore()
 	// console.log("surah.name:", surah.name)
 
 	const handleFetchSurah = () => {
-		fetchData(surah.name)
+		setSelectedSurah(surah.name)
+		fetchData(surah.name, selectedMeal)
 	}
 
 	// console.log("result:", result)
@@ -28,7 +30,7 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 		<div
 			className="bg-white flex items-center p-4 h-[70px] m-5 rounded-lg cursor-pointer border-2 border-white hover:border-2 hover:border-green transition duration-500"
 			onClick={() => {
-				setSelectedSurah(surah.name), toggleSidebar(), setSelectedAyah("")
+				handleFetchSurah(), setSelectedSurah(surah.name), toggleSidebar(), setSelectedAyah("")
 			}}
 		>
 			<div className="flex-shrink-0 w-9 h-9 bg-[#9AA6B2] rounded-full flex items-center justify-center text-white font-medium">

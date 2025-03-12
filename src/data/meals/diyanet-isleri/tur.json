@@ -1,202 +1,204 @@
 {
-  "surahNumber": "52",
-  "surahName": "Tûr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur;"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur;"
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "İnanan, soyları da inançta kendilerine uyan kimselere soylarını da katarız. Onların işlediklerinden hiçbir şey eksiltmeyiz. Herkes kazancına bağlıdır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Cennette olanlara diledikleri meyve ve etten bol bol veririz."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Orada kadeh tokuştururlar; fakat bunda ne bir saçmalama, ne de bir günaha girme vardır."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Sedefteki inciler gibi olan gençler yanlarında dolaşırlar."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Birbirlerine dönüp soruşurlar:"
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Öğüt ver; Rabbinin nimetiyle sen, ne kahinsin ne de delisin."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Yoksa senin için şöyle mi derler: \"Şairdir, zamanın onun aleyhine dönmesini gözlüyoruz.\""
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "De ki: \"Gözleyin, doğrusu ben de sizinle beraber gözlemekteyim.\""
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Bunu onlara akılları mı buyuruyor? Yoksa onlar azgın bir millet midirler?"
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Yahut: \"Onu kendi uydurdu\" diyorlar öyle mi? Hayır, inanmıyorlar."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Eğer iddialarında samimi iseler Kuran'ın benzeri bir söz meydana getirsinler."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Onlar, yaratan olmaksızın mı yaratıldılar yoksa yaratanlar kendileri midir?"
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Yoksa gökleri ve yeri kendileri mi yarattılar? Hayır, Allah'a kesin olarak inanmıyorlar."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Yoksa Rabbinin hazineleri onların yanında mıdır? Yoksa onlar mı işe hakimdirler?"
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Yoksa, üzerine çıkıp vahiy dinledikleri bir merdivenleri mi var? Öyleyse, dinleyenleri açık bir delil getirsin."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Demek kızlar Allah'ın, oğullar sizin öyle mi?"
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?"
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Veya, görülmeyeni bilmek kendilerine aittir de, onlar mı yazıyorlar?"
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Yoksa bir tuzak mı kurmak istiyorlar? Ama o tuzağa yakalanacak olanlar inkar edenlerdir."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Yoksa Allah'tan başka bir tanrıları mı vardır? Allah, onların ortak koşmalarından münezzehtir."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Gökten azap olarak düşen bir parça görseler: \"Bulut kümesidir\" derler."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Çarpılacakları güne erişmelerine kadar onları bırak."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "O gün, düzenleri kendilerine bir fayda vermez; yardım da görmezler."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Zulmedenlere, şüphesiz, bundan başka da azap vardır; fakat onların çoğu bilmezler."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Rabbinin hükmü yerine gelinceye kadar sabret; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;"
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et."
-    }
-  ]
+  "tur": {
+    "surahNumber": "52",
+    "surahNameTr": "Tûr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Tura, yayılmış ince deri üzerine satır satır dizilmiş Kitap'a, mamur bir ev olan Kabe'ye, yükseltilmiş tavan gibi göğe, kaynayacak denize and olsun ki, Rabbinin azabı hiç şüphesiz gelecektir. Onu savacak yoktur."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Göğün sarsıldıkça sarsılacağı, dağların yürüdükçe yürüyeceği gün; işte o gün, daldıkları yerde eğlenip oyalanarak kıyameti yalanlayanlara yazık olacak!"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur;"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Cehennem ateşine itildikçe itildikleri gün, onlara: \"İşte yalanlayıp durduğunuz ateş budur;"
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Bu bir büyü müdür, yoksa hala görmez misiniz? Girin oraya, sabretseniz de sabretmeseniz de artık birdir; ancak işlediklerinizin karşılığını görüyorsunuz\" denir."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Allah'a karşı gelmekten sakınanlar, şüphesiz, cennetlerde ve Rablerinin kendilerine verdikleriyle zevk duyarak nimetler içindedirler. Rableri onları cehennem azabından korumuştur."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Onlara şöyle denir: \"İşlediklerinizden ötürü, dizi dizi tahtlara yaslanarak afiyetle yiyin için.\" Onlara, ceylan gözlü eşler veririz."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "İnanan, soyları da inançta kendilerine uyan kimselere soylarını da katarız. Onların işlediklerinden hiçbir şey eksiltmeyiz. Herkes kazancına bağlıdır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Cennette olanlara diledikleri meyve ve etten bol bol veririz."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Orada kadeh tokuştururlar; fakat bunda ne bir saçmalama, ne de bir günaha girme vardır."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Sedefteki inciler gibi olan gençler yanlarında dolaşırlar."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Birbirlerine dönüp soruşurlar:"
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "\"Doğrusu bundan önce ailemizin yanında bile korku içindeydik; Allah lütfedip bizi kavurucu azabdan korudu; doğrusu bundan önce de O'na yalvarıyorduk; şüphesiz O, iyilik yapandır, acıyandır\" derler."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Öğüt ver; Rabbinin nimetiyle sen, ne kahinsin ne de delisin."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Yoksa senin için şöyle mi derler: \"Şairdir, zamanın onun aleyhine dönmesini gözlüyoruz.\""
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "De ki: \"Gözleyin, doğrusu ben de sizinle beraber gözlemekteyim.\""
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Bunu onlara akılları mı buyuruyor? Yoksa onlar azgın bir millet midirler?"
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Yahut: \"Onu kendi uydurdu\" diyorlar öyle mi? Hayır, inanmıyorlar."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Eğer iddialarında samimi iseler Kuran'ın benzeri bir söz meydana getirsinler."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Onlar, yaratan olmaksızın mı yaratıldılar yoksa yaratanlar kendileri midir?"
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Yoksa gökleri ve yeri kendileri mi yarattılar? Hayır, Allah'a kesin olarak inanmıyorlar."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Yoksa Rabbinin hazineleri onların yanında mıdır? Yoksa onlar mı işe hakimdirler?"
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Yoksa, üzerine çıkıp vahiy dinledikleri bir merdivenleri mi var? Öyleyse, dinleyenleri açık bir delil getirsin."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Demek kızlar Allah'ın, oğullar sizin öyle mi?"
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Yahut sen onlardan bir ücret istiyorsun da onlar ağır bir borç altında mı kalıyorlar?"
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Veya, görülmeyeni bilmek kendilerine aittir de, onlar mı yazıyorlar?"
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Yoksa bir tuzak mı kurmak istiyorlar? Ama o tuzağa yakalanacak olanlar inkar edenlerdir."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Yoksa Allah'tan başka bir tanrıları mı vardır? Allah, onların ortak koşmalarından münezzehtir."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Gökten azap olarak düşen bir parça görseler: \"Bulut kümesidir\" derler."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Çarpılacakları güne erişmelerine kadar onları bırak."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "O gün, düzenleri kendilerine bir fayda vermez; yardım da görmezler."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Zulmedenlere, şüphesiz, bundan başka da azap vardır; fakat onların çoğu bilmezler."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Rabbinin hükmü yerine gelinceye kadar sabret; doğrusu sen, Bizim nezaretimiz altındasın; kalkarken Rabbini överek tesbih et;"
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "Geceleyin ve yıldızlar kaybolurken de O'nu tesbih et."
+      }
+    ]
+  }
 }

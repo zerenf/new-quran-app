@@ -1,122 +1,124 @@
 {
-  "surahNumber": "81",
-  "surahName": "Tekvîr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Güneş dürülünce."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve yıldızlar kararınca."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve dağlar yürütülünce."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ve dişi develer bile başı boş bırakılınca."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve vahşi hayvanlar bile bir araya toplanınca."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ve denizler, coşup kabarınca."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve insanlar, haldeşleriyle birleşince."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Diridiri gömülen kıza sorulunca."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Hangi suç yüzünden öldürüldün diye."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve sahifeler dağılınca."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ve göğün perdesi kaldırılınca."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve cehennem alevlendirilince."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve cennet yaklaştırılınca."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Herkes bilir ne hazırladığını."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Artık andolsun dönüp kaybolan."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Doğup yürüyen ve burçlarına giren yıldızlara."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ve geçmeye başladığı çağda, geceye."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Ve ışıdığı çağda, sabaha."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Şüphe yok ki Kur'an, büyük bir elçinin sözüdür."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Kuvvetlidir, arş sahibinin katında kadri yüce."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "İtaat edilir, emniyetlidir de."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Sizinle konuşan, deli değildir."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Ve andolsun, onu, apaydın tanyerinde gördü."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Arkadaşınız, gizli şeyler hakkında da nekes değildir."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Ve Kur'an, taşlanmış Şeytan'ın sözü de değildir."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Artık nereye gidiyorsunuz öyleyse?"
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "O, bütün alemlere bir öğüttür ancak."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ve hele içinizden doğru hareket etmek isteyene."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Ve isteyemezsiniz, alemlerin Rabbi Allah istemedikçe."
-    }
-  ]
+  "tekvir": {
+    "surahNumber": "81",
+    "surahNameTr": "Tekvîr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Güneş dürülünce."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve yıldızlar kararınca."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve dağlar yürütülünce."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ve dişi develer bile başı boş bırakılınca."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve vahşi hayvanlar bile bir araya toplanınca."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ve denizler, coşup kabarınca."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve insanlar, haldeşleriyle birleşince."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Diridiri gömülen kıza sorulunca."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Hangi suç yüzünden öldürüldün diye."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve sahifeler dağılınca."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ve göğün perdesi kaldırılınca."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve cehennem alevlendirilince."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve cennet yaklaştırılınca."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Herkes bilir ne hazırladığını."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Artık andolsun dönüp kaybolan."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Doğup yürüyen ve burçlarına giren yıldızlara."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ve geçmeye başladığı çağda, geceye."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Ve ışıdığı çağda, sabaha."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Şüphe yok ki Kur'an, büyük bir elçinin sözüdür."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Kuvvetlidir, arş sahibinin katında kadri yüce."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "İtaat edilir, emniyetlidir de."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Sizinle konuşan, deli değildir."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Ve andolsun, onu, apaydın tanyerinde gördü."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Arkadaşınız, gizli şeyler hakkında da nekes değildir."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Ve Kur'an, taşlanmış Şeytan'ın sözü de değildir."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Artık nereye gidiyorsunuz öyleyse?"
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "O, bütün alemlere bir öğüttür ancak."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ve hele içinizden doğru hareket etmek isteyene."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Ve isteyemezsiniz, alemlerin Rabbi Allah istemedikçe."
+      }
+    ]
+  }
 }

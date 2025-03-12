@@ -1,50 +1,52 @@
 {
-  "surahNumber": "101",
-  "surahName": "Kâria Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "O şiddetli bir gürültüyle gelip çatacak, yürekleri koparacak felaket."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Nedir o şiddetli bir gürültüyle gelip çatacak, yürekleri kopacak felaket?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ve ne bildirdi sana, nedir o şiddetli bir gürültüyle gelip çatacak, yürekleri koparacak felaket?"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "O gün, insanlar, kendilerini ateşlere atan, dağılıp uçuşan pervanelere benzerler."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve dağlar, atılmış renkli pamuklara döner."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Artık kimin ki terazilerindeki tartısı ağır gelir."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "O, hoşnut, razı bir geçimdedir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve fakat kimin ki terazilerdeki tartısı hafif gelir."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Onun, ana kucağı gibi sığınacak yeri, ana yurdu, cehennem uçurumudur."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve ne bildirdi sana, nedir cehennem uçurumu?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "O, pek kızgın bir ateştir."
-    }
-  ]
+  "karia": {
+    "surahNumber": "101",
+    "surahNameTr": "Kâria Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "O şiddetli bir gürültüyle gelip çatacak, yürekleri koparacak felaket."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Nedir o şiddetli bir gürültüyle gelip çatacak, yürekleri kopacak felaket?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ve ne bildirdi sana, nedir o şiddetli bir gürültüyle gelip çatacak, yürekleri koparacak felaket?"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O gün, insanlar, kendilerini ateşlere atan, dağılıp uçuşan pervanelere benzerler."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve dağlar, atılmış renkli pamuklara döner."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Artık kimin ki terazilerindeki tartısı ağır gelir."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "O, hoşnut, razı bir geçimdedir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve fakat kimin ki terazilerdeki tartısı hafif gelir."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Onun, ana kucağı gibi sığınacak yeri, ana yurdu, cehennem uçurumudur."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve ne bildirdi sana, nedir cehennem uçurumu?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "O, pek kızgın bir ateştir."
+      }
+    ]
+  }
 }

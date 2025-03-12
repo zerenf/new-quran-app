@@ -1,34 +1,36 @@
 {
-  "surahNumber": "107",
-  "surahName": "Mâûn Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "era'eyte-lleẕî yükeẕẕibü biddîn."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "feẕâlike-lleẕî yedü``u-lyetîm."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "velâ yeḥuḍḍu `alâ ṭa`âmi-lmiskîn."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "feveylül lilmüṣallîn."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "elleẕîne hüm `an ṣalâtihim sâhûn."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "elleẕîne hüm yürâûn."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "veyemne`ûne-lmâ`ûn."
-    }
-  ]
+  "maun": {
+    "surahNumber": "107",
+    "surahNameTr": "Mâûn Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "era'eyte-lleẕî yükeẕẕibü biddîn."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "feẕâlike-lleẕî yedü``u-lyetîm."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "velâ yeḥuḍḍu `alâ ṭa`âmi-lmiskîn."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "feveylül lilmüṣallîn."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "elleẕîne hüm `an ṣalâtihim sâhûn."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "elleẕîne hüm yürâûn."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "veyemne`ûne-lmâ`ûn."
+      }
+    ]
+  }
 }

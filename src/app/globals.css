@@ -107,18 +107,23 @@ input {
 	width: 210px;
 }
 
+input:focus {
+	border-color: var(--color-primary); /* Odaklanınca yeşil sınır rengi */
+}
+
 .sidebar {
 	z-index: 9;
 }
 
 .filter {
-	margin-left: 75px;
+	margin-left: 30px;
+	margin-right: 8px;
 }
 
 .cards {
 	position: relative;
 	z-index: 1;
-	margin-left: 60px;
+	margin-left: 25px;
 }
 
 .custom-select-container {
@@ -143,6 +148,12 @@ input {
 	position: relative;
 }
 
+@media (max-width: 430px) {
+	.custom-select-box {
+		padding: 6px 12px;
+	}
+}
+
 .custom-select-box:hover {
 	border-color: var(--color-primary); /* Daha belirgin bir hover efekti */
 }
@@ -164,7 +175,7 @@ input {
 	margin-top: 4px;
 	max-height: 210px;
 	overflow-y: auto;
-	z-index: 100;
+	z-index: 2;
 }
 
 .custom-dropdown li {
@@ -173,8 +184,8 @@ input {
 	cursor: pointer;
 }
 
-.custom-dropdown li:hover {
-	background-color: #dbeafe;
+.custom-dropdown ul li:hover {
+	background-color: var(--color-primary) !important;
 }
 
 .custom-dropdown::-webkit-scrollbar {
@@ -212,7 +223,7 @@ input {
 }
 
 .ayah-input {
-	padding: 8px 8px;
+	padding: 8px 12px;
 	border: 1px solid #d1d5db;
 	border-radius: 6px;
 	box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
@@ -234,11 +245,29 @@ input {
 	/* box-shadow: 0 0 0 2px var(--color-green-dark); */
 }
 
+/* Tarayıcıdaki sayısal input oklarını gizler */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+	-webkit-appearance: none;
+	margin: 0;
+}
+
+/* Firefox tarayıcısı için */
+input[type="number"] {
+	-moz-appearance: textfield;
+}
+
 @media (min-width: 640px) {
 	/* sm: breakpoint */
 	.ayah-input {
 		padding: 8px 12px;
 		font-size: 16px;
+	}
+}
+
+@media (max-width: 430px) {
+	.ayah-input {
+		padding: 6px 12px;
 	}
 }
 
@@ -257,12 +286,6 @@ input {
 	border-top: 4px solid transparent; /* border-t-transparent yerine */
 	border-radius: 50%;
 	animation: spin 1s linear infinite;
-}
-
-@media (max-width: 991px) {
-	.spinner {
-		margin-left: 60px;
-	}
 }
 
 /* Spinner animasyonu */
@@ -318,26 +341,25 @@ input {
 	z-index: 99999;
 }
 
-/* Logo container */
 .logo-container {
 	position: absolute;
 	left: 10px;
-	top: 10px;
+	top: 50%;
+	transform: translateY(-50%);
 }
 
-/* Logo styling */
 .logo {
 	width: 40px;
 }
 
-/* Header title container */
 .header-title-container {
 	display: flex;
+	align-items: center;
 	justify-content: end;
 	width: 100%;
+	flex-wrap: wrap;
 }
 
-/* Heading styling */
 .header-text {
 	font-family: "Lateef", serif;
 	font-size: 26px;
@@ -346,8 +368,34 @@ input {
 	margin-right: 16px;
 }
 
+.header-text-meal {
+	margin-right: 10px;
+}
+
+@media (max-width: 1200px) {
+	.header-text-meal {
+		margin-left: 60px;
+		margin-right: 10px;
+	}
+}
+
+@media (max-width: 850px) {
+	.header-text-meal {
+		font-size: 14px;
+	}
+}
+
 @media (max-width: 430px) {
 	.header-text {
 		font-size: 20px;
+	}
+	.header-text-meal {
+		font-size: 12px;
+	}
+}
+
+@media (max-width: 350px) {
+	.header-text-meal {
+		font-size: 11px;
 	}
 }

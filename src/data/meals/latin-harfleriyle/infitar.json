@@ -1,82 +1,84 @@
 {
-  "surahNumber": "82",
-  "surahName": "İnfitâr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "iẕe-ssemâü-nfeṭarat."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "veiẕe-lkevâkibü-nteŝerat."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "veiẕe-lbiḥâru füccirat."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "veiẕe-lḳubûru bü`ŝirat."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "`alimet nefsüm mâ ḳaddemet veeḫḫarat."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "yâ eyyühe-l'insânü mâ garrake birabbike-lkerîm."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "elleẕî ḫaleḳake fesevvâke fe`adelek."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "fî eyyi ṣûratim mâ şâe rakkebek."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "kellâ bel tükeẕẕibûne biddîn."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "veinne `aleyküm leḥâfiżîn."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "kirâmen kâtibîn."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "ya`lemûne mâ tef`alûn."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "inne-l'ebrâra lefî ne`îm."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "veinne-lfüccâra lefî ceḥîm."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "yaṣlevnehâ yevme-ddîn."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "vemâ hüm `anhâ bigâibîn."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "vemâ edrâke mâ yevmü-ddîn."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "ŝümme mâ edrâke mâ yevmü-ddîn."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "yevme lâ temlikü nefsül linefsin şey'â. vel'emru yevmeiẕil lillâh."
-    }
-  ]
+  "infitar": {
+    "surahNumber": "82",
+    "surahNameTr": "İnfitâr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "iẕe-ssemâü-nfeṭarat."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "veiẕe-lkevâkibü-nteŝerat."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "veiẕe-lbiḥâru füccirat."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "veiẕe-lḳubûru bü`ŝirat."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "`alimet nefsüm mâ ḳaddemet veeḫḫarat."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "yâ eyyühe-l'insânü mâ garrake birabbike-lkerîm."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "elleẕî ḫaleḳake fesevvâke fe`adelek."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "fî eyyi ṣûratim mâ şâe rakkebek."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "kellâ bel tükeẕẕibûne biddîn."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "veinne `aleyküm leḥâfiżîn."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "kirâmen kâtibîn."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "ya`lemûne mâ tef`alûn."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "inne-l'ebrâra lefî ne`îm."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "veinne-lfüccâra lefî ceḥîm."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "yaṣlevnehâ yevme-ddîn."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "vemâ hüm `anhâ bigâibîn."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "vemâ edrâke mâ yevmü-ddîn."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "ŝümme mâ edrâke mâ yevmü-ddîn."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "yevme lâ temlikü nefsül linefsin şey'â. vel'emru yevmeiẕil lillâh."
+      }
+    ]
+  }
 }

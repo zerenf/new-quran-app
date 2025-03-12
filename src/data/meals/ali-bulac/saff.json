@@ -1,62 +1,64 @@
 {
-  "surahNumber": "61",
-  "surahName": "Saff Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Göklerde ve yerde olanların tümü Allah'ı tesbih etmiştir. O, üstün ve güçlüdür, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ey iman edenler, yapmayacağınız şeyi neden söylersiniz?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Yapmayacağınız şeyi söylemeniz, Allah Katında bir gazab (konusu olması) bakımından büyüdü (büyük bir suç teşkil etti)."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Şüphesiz Allah, Kendi yolunda, sanki birbirlerine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Hani Musa, kavmine demişti ki: \"Ey kavmim, gerçekten benim sizin için Allah'tan gönderilmiş bir elçi olduğumu bildiğiniz halde, niçin bana eziyet ediyorsunuz?\" İşte onlar eğrilip-sapınca Allah da onların kalplerini eğriltip saptırmış oldu. Allah, fasık bir kavmi hidayete erdirmez."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Hani Meryem oğlu İsa da: \"Ey İsrailoğulları, gerçekten ben, sizin için Allah'tan gönderilmiş bir elçiyim. Benden önceki Tevrat'ı doğrulayıcı ve benden sonra ismi \"Ahmed\" olan bir elçinin de müjdeleyicisiyim\" demişti. Fakat o, onlara apaçık belgelerle gelince: \"Bu, açıkça bir büyüdür\" dediler."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "İslam'a çağrıldığı halde, Allah'a karşı yalan uyduranlardan daha zalim kimdir? Allah, zalim bir kavmi hidayete erdirmez."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Onlar, Allah'ın nurunu ağızlarıyla söndürmek istiyorlar. Oysa Allah, Kendi nurunu tamamlayıcıdır; kafirler hoş görmese bile."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Elçilerini hidayet ve hak din üzere gönderen O'dur. Öyle ki onu (hak din olan İslam'ı) bütün dinlere karşı üstün kılacaktır; müşrikler hoş görmese bile."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ey iman edenler, sizi acı bir azaptan kurtaracak bir ticareti haber vereyim mi?"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Allah'a ve O'nun Resulü’ne iman edersiniz, mallarınızla ve canlarınızla Allah yolunda mücadele edersiniz. Bu, sizin için daha hayırlıdır; eğer bilirseniz."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "O da sizin günahlarınızı bağışlar, sizi altlarından ırmaklar akan cennetlere ve Adn cennetlerindeki güzel konaklara yerleştirir. İşte 'büyük mutluluk ve kurtuluş' budur."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve seveceğiniz bir başka (nimet) daha var: Allah'tan 'yardım ve zafer (nusret)' ve yakın bir fetih. Mü'minleri müjdele."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ey iman edenler, Allah'ın yardımcıları olun: Meryem oğlu İsa'nın havarilere: \"Allah'a (yönelirken) benim yardımcılarım kimlerdir?\" demesi gibi. Havariler de demişlerdi ki: \"Allah'ın yardımcıları bizleriz.\" Böylece İsrailoğulları'ndan bir topluluk iman etmiş, bir topluluk da inkar etmişti. Sonunda Biz iman edenleri düşmanlarına karşı destekledik, onlar da üstün geldiler."
-    }
-  ]
+  "saff": {
+    "surahNumber": "61",
+    "surahNameTr": "Saff Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Göklerde ve yerde olanların tümü Allah'ı tesbih etmiştir. O, üstün ve güçlüdür, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ey iman edenler, yapmayacağınız şeyi neden söylersiniz?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Yapmayacağınız şeyi söylemeniz, Allah Katında bir gazab (konusu olması) bakımından büyüdü (büyük bir suç teşkil etti)."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Şüphesiz Allah, Kendi yolunda, sanki birbirlerine kenetlenmiş bir bina gibi saf bağlayarak çarpışanları sever."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hani Musa, kavmine demişti ki: \"Ey kavmim, gerçekten benim sizin için Allah'tan gönderilmiş bir elçi olduğumu bildiğiniz halde, niçin bana eziyet ediyorsunuz?\" İşte onlar eğrilip-sapınca Allah da onların kalplerini eğriltip saptırmış oldu. Allah, fasık bir kavmi hidayete erdirmez."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Hani Meryem oğlu İsa da: \"Ey İsrailoğulları, gerçekten ben, sizin için Allah'tan gönderilmiş bir elçiyim. Benden önceki Tevrat'ı doğrulayıcı ve benden sonra ismi \"Ahmed\" olan bir elçinin de müjdeleyicisiyim\" demişti. Fakat o, onlara apaçık belgelerle gelince: \"Bu, açıkça bir büyüdür\" dediler."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "İslam'a çağrıldığı halde, Allah'a karşı yalan uyduranlardan daha zalim kimdir? Allah, zalim bir kavmi hidayete erdirmez."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Onlar, Allah'ın nurunu ağızlarıyla söndürmek istiyorlar. Oysa Allah, Kendi nurunu tamamlayıcıdır; kafirler hoş görmese bile."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Elçilerini hidayet ve hak din üzere gönderen O'dur. Öyle ki onu (hak din olan İslam'ı) bütün dinlere karşı üstün kılacaktır; müşrikler hoş görmese bile."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ey iman edenler, sizi acı bir azaptan kurtaracak bir ticareti haber vereyim mi?"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Allah'a ve O'nun Resulü’ne iman edersiniz, mallarınızla ve canlarınızla Allah yolunda mücadele edersiniz. Bu, sizin için daha hayırlıdır; eğer bilirseniz."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "O da sizin günahlarınızı bağışlar, sizi altlarından ırmaklar akan cennetlere ve Adn cennetlerindeki güzel konaklara yerleştirir. İşte 'büyük mutluluk ve kurtuluş' budur."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve seveceğiniz bir başka (nimet) daha var: Allah'tan 'yardım ve zafer (nusret)' ve yakın bir fetih. Mü'minleri müjdele."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ey iman edenler, Allah'ın yardımcıları olun: Meryem oğlu İsa'nın havarilere: \"Allah'a (yönelirken) benim yardımcılarım kimlerdir?\" demesi gibi. Havariler de demişlerdi ki: \"Allah'ın yardımcıları bizleriz.\" Böylece İsrailoğulları'ndan bir topluluk iman etmiş, bir topluluk da inkar etmişti. Sonunda Biz iman edenleri düşmanlarına karşı destekledik, onlar da üstün geldiler."
+      }
+    ]
+  }
 }

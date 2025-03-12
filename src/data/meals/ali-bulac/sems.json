@@ -1,66 +1,68 @@
 {
-  "surahNumber": "91",
-  "surahName": "Şems Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Güneş'e ve onun parıltısına andolsun,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Onu izlediği zaman Ay'a,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Onu (Güneş) parıldattığı zaman gündüze,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Onu sarıp-örttüğü zaman geceye,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Göğe ve onu bina edene,"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Yere ve onu yayıp döşeyene,"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Nefse ve ona 'bir düzen içinde biçim verene',"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sonra ona fücurunu (sınır tanımaz günah ve kötülüğünü) ve ondan sakınmayı ilham edene (andolsun)."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Onu arındırıp-temizleyen gerçekten felah bulmuştur."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve onu (isyanla, günahla, bozulmalarla) örtüp-saran da elbette yıkıma uğramıştır."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Semud (halkı) azgınlığı dolayısıyla yalanladı;"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "En 'zorlu bedbahtları' ayaklandığında,"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Allah'ın elçisi onlara dedi ki: \"Allah'ın (deneme için size gönderdiği) devesine ve onun su içme-sırasına dikkat edin.\""
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Fakat, onu yalanladılar, deveyi yere yıkıp öldürdüler. Rableri de günahları dolayısıyla 'onları yerle bir etti, kırıp geçirdi'; orasını da dümdüz etti."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "(Allah, asla) Bunun sonucundan korkmaz."
-    }
-  ]
+  "sems": {
+    "surahNumber": "91",
+    "surahNameTr": "Şems Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Güneş'e ve onun parıltısına andolsun,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onu izlediği zaman Ay'a,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Onu (Güneş) parıldattığı zaman gündüze,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Onu sarıp-örttüğü zaman geceye,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Göğe ve onu bina edene,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Yere ve onu yayıp döşeyene,"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Nefse ve ona 'bir düzen içinde biçim verene',"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sonra ona fücurunu (sınır tanımaz günah ve kötülüğünü) ve ondan sakınmayı ilham edene (andolsun)."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Onu arındırıp-temizleyen gerçekten felah bulmuştur."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve onu (isyanla, günahla, bozulmalarla) örtüp-saran da elbette yıkıma uğramıştır."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Semud (halkı) azgınlığı dolayısıyla yalanladı;"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "En 'zorlu bedbahtları' ayaklandığında,"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Allah'ın elçisi onlara dedi ki: \"Allah'ın (deneme için size gönderdiği) devesine ve onun su içme-sırasına dikkat edin.\""
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Fakat, onu yalanladılar, deveyi yere yıkıp öldürdüler. Rableri de günahları dolayısıyla 'onları yerle bir etti, kırıp geçirdi'; orasını da dümdüz etti."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "(Allah, asla) Bunun sonucundan korkmaz."
+      }
+    ]
+  }
 }

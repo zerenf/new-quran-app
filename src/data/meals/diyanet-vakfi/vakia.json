@@ -1,390 +1,392 @@
 {
-  "surahNumber": "56",
-  "surahName": "Vâkıa Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kıyamet koptuğu zaman,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ki onun oluşunu yalanlayacak hiçbir kimse yoktur;"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "O, alçaltıcı, yükselticidir."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Yer şiddetle sarsıldığı,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Dağlar parçalandığı,"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Dağılıp toz duman haline geldiği,"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve sizler de üç sınıf olduğunuz zaman,"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sağdakiler, ne mutlu o sağdakilere!"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Soldakiler, ne bahtsızdırlar onlar!"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "(Hayırda) önde olanlar, (ecirde de) öndedirler."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "İşte bunlar, (Allah'a) en yakın olanlardır,"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Naim cennetlerinde."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "(Onların) çoğu önceki ümmetlerden,"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Birazı da sonrakilerdendir."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Cevherlerle işlenmiş tahtlar üzerindedirler,"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Onların üzerlerinde karşılıklı olarak oturup yaslanırlar."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Çevrelerinde, (hizmet için) ölümsüz gençler dolaşır;"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Main çeşmesinden doldurulmuş testiler, ibrikler ve kadehlerle."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Bu şaraptan ne başları ağrıtılır, ne de akılları giderilir."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "(Onlara) beğendikleri meyveler,"
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Canlarının çektiği kuş etleri,"
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "İri gözlü huriler,"
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Saklı inciler gibi."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Yaptıklarına karşılık olarak (verilir)."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Orada boş bir söz ve günaha sokan bir laf işitmezler."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Söylenen, yalnızca \"selam, selam\" dır."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Sağdakiler, ne mutlu o sağdakilere!"
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Düzgün kiraz ağacı,"
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Meyveleri salkım salkım dizili muz ağaçları,"
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Uzamış gölgeler,"
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Çağlayarak akan sular,"
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Sayısız meyveler içindedirler;"
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Tükenmeyen ve yasaklanmayan."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Ve kabartılmış döşekler üstündedirler."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Gerçekten biz hurileri apayrı biçimde yeni yarattık."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Onları, bakireler kıldık."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Eşlerine düşkün ve yaşıt."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Bütün bunlar sağdakiler içindir.."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Bunların birçoğu önceki ümmetlerdendir."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Birçoğu da sonrakilerdendir."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Soldakiler; ne yazık o soldakilere!"
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "İçlerine işleyen bir ateş ve kaynar su içinde,"
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Kapkara dumandan bir gölge altındadırlar;"
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Serin ve hoş olmayan."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Çünkü onlar bundan önce varlık içinde sefahete dalmışlardı."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Büyük günahı işlemekte direnir dururlardı."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Ve diyorlardı ki: Biz öldükten, toprak ve kemik yığını haline geldikten sonra, biz mi bir daha diriltileceğiz?"
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Önceki atalarımız da mı?"
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "De ki: Hem öncekiler hem de sonrakiler,"
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "Belli bir günün belli vaktinde mutlaka toplanacaklardır!"
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Sonra siz ey sapıklar, yalancılar!"
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Elbette bir ağaçtan, zakkum ağacından yiyeceksiniz."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Karınlarınızı ondan dolduracaksınız."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "Üstüne de kaynar sudan içeceksiniz."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Susamış develerin suya saldırışı gibi içeceksiniz."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "İşte ceza gününde onlara sunulacak ziyafet budur!"
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Sizi biz yarattık. Tasdik etmeniz gerekmez mi?"
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Söyleyin öyleyse, (rahimlere) döktüğünüz meni nedir?"
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Onu siz mi yaratıyorsunuz yoksa yaratan biz miyiz?"
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Aranızda ölümü takdir eden biziz. Ve biz, önüne geçilebileceklerden değiliz."
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Böylece sizin yerinize benzerlerinizi getirelim ve sizi bilmediğiniz bir alemde tekrar var edelim diye (ölümü takdir ettik)."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Andolsun, ilk yaratılışı bildiniz. Düşünüp ibret almanız gerekmez mi?"
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Şimdi bana, ektiğinizi haber verin."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?"
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Dileseydik onu kuru bir çöp yapardık da şaşar kalırdınız."
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "\"Doğrusu borç altına girdik."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Daha doğrusu, biz yoksul kaldık\" (derdiniz)."
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Ya içtiğiniz suya ne dersiniz?"
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Buluttan onu siz mi indirdiniz, yoksa indiren biz miyiz?"
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Dileseydik onu tuzlu yapardık. Şükretmeniz gerekmez mi?"
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Söyleyin şimdi bana, tutuşturmakta olduğunuz ateşi,"
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Onun ağacını siz mi yarattınız, yoksa yaratan biz miyiz?"
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Biz onu bir ibret ve çölden gelip geçenlerin istifadesi için yarattık."
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Öyleyse ulu Rabbinin adını tesbih et."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Hayır! Yıldızların yerlerine yemin ederim ki,"
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Bilirseniz, gerçekten bu, büyük bir yemindir."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Şüphesiz bu, değerli bir Kur'an'dır,"
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "Korunmuş bir kitaptır."
-    },
-    {
-      "ayahNumber": "79",
-      "ayahText": "Ona ancak temizlenenler dokunabilir."
-    },
-    {
-      "ayahNumber": "80",
-      "ayahText": "O, alemlerin Rabbinden indirilmiştir."
-    },
-    {
-      "ayahNumber": "81",
-      "ayahText": "Şimdi siz, bu sözü mü küçümsüyorsunuz?"
-    },
-    {
-      "ayahNumber": "82",
-      "ayahText": "Allah'ın verdiği rızka karşı şükrü, onu yalanlamakla mı yerine getiriyorsunuz?"
-    },
-    {
-      "ayahNumber": "83",
-      "ayahText": "Hele can boğaza dayandığı zaman,"
-    },
-    {
-      "ayahNumber": "84",
-      "ayahText": "O vakit siz bakar durursunuz."
-    },
-    {
-      "ayahNumber": "85",
-      "ayahText": "(O anda) biz ona sizden daha yakınız, ama göremezsiniz."
-    },
-    {
-      "ayahNumber": "86",
-      "ayahText": "Madem ki ceza görmeyecekmişsiniz,"
-    },
-    {
-      "ayahNumber": "87",
-      "ayahText": "Onu (canı) geri çevirsenize, şayet iddianızda doğru iseniz!"
-    },
-    {
-      "ayahNumber": "88",
-      "ayahText": "Fakat (ölen kişi Allah'a) yakın olanlardan ise,"
-    },
-    {
-      "ayahNumber": "89",
-      "ayahText": "Ona rahatlık, güzel rızık ve Naim cenneti vardır."
-    },
-    {
-      "ayahNumber": "90",
-      "ayahText": "Eğer o sağdakilerden ise,"
-    },
-    {
-      "ayahNumber": "91",
-      "ayahText": "\"Ey sağdaki! Sana selam olsun!\""
-    },
-    {
-      "ayahNumber": "92",
-      "ayahText": "Ama yalanlayıcı sapıklardan ise,"
-    },
-    {
-      "ayahNumber": "93",
-      "ayahText": "İşte ona da kaynar sudan bir ziyafet vardır!"
-    },
-    {
-      "ayahNumber": "94",
-      "ayahText": "Ve (onun sonu) cehenneme atılmaktır."
-    },
-    {
-      "ayahNumber": "95",
-      "ayahText": "Şüphesiz ki bu, kesin gerçektir."
-    },
-    {
-      "ayahNumber": "96",
-      "ayahText": "Öyleyse ulu Rabbinin adını tenzih ile an."
-    }
-  ]
+  "vakia": {
+    "surahNumber": "56",
+    "surahNameTr": "Vâkıa Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kıyamet koptuğu zaman,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ki onun oluşunu yalanlayacak hiçbir kimse yoktur;"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "O, alçaltıcı, yükselticidir."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Yer şiddetle sarsıldığı,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Dağlar parçalandığı,"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Dağılıp toz duman haline geldiği,"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve sizler de üç sınıf olduğunuz zaman,"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sağdakiler, ne mutlu o sağdakilere!"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Soldakiler, ne bahtsızdırlar onlar!"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "(Hayırda) önde olanlar, (ecirde de) öndedirler."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "İşte bunlar, (Allah'a) en yakın olanlardır,"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Naim cennetlerinde."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "(Onların) çoğu önceki ümmetlerden,"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Birazı da sonrakilerdendir."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Cevherlerle işlenmiş tahtlar üzerindedirler,"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Onların üzerlerinde karşılıklı olarak oturup yaslanırlar."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Çevrelerinde, (hizmet için) ölümsüz gençler dolaşır;"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Main çeşmesinden doldurulmuş testiler, ibrikler ve kadehlerle."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Bu şaraptan ne başları ağrıtılır, ne de akılları giderilir."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "(Onlara) beğendikleri meyveler,"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Canlarının çektiği kuş etleri,"
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "İri gözlü huriler,"
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Saklı inciler gibi."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Yaptıklarına karşılık olarak (verilir)."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Orada boş bir söz ve günaha sokan bir laf işitmezler."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Söylenen, yalnızca \"selam, selam\" dır."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Sağdakiler, ne mutlu o sağdakilere!"
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Düzgün kiraz ağacı,"
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Meyveleri salkım salkım dizili muz ağaçları,"
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Uzamış gölgeler,"
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Çağlayarak akan sular,"
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Sayısız meyveler içindedirler;"
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Tükenmeyen ve yasaklanmayan."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Ve kabartılmış döşekler üstündedirler."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Gerçekten biz hurileri apayrı biçimde yeni yarattık."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Onları, bakireler kıldık."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Eşlerine düşkün ve yaşıt."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Bütün bunlar sağdakiler içindir.."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Bunların birçoğu önceki ümmetlerdendir."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Birçoğu da sonrakilerdendir."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Soldakiler; ne yazık o soldakilere!"
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "İçlerine işleyen bir ateş ve kaynar su içinde,"
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Kapkara dumandan bir gölge altındadırlar;"
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Serin ve hoş olmayan."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Çünkü onlar bundan önce varlık içinde sefahete dalmışlardı."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Büyük günahı işlemekte direnir dururlardı."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Ve diyorlardı ki: Biz öldükten, toprak ve kemik yığını haline geldikten sonra, biz mi bir daha diriltileceğiz?"
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Önceki atalarımız da mı?"
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "De ki: Hem öncekiler hem de sonrakiler,"
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "Belli bir günün belli vaktinde mutlaka toplanacaklardır!"
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Sonra siz ey sapıklar, yalancılar!"
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Elbette bir ağaçtan, zakkum ağacından yiyeceksiniz."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Karınlarınızı ondan dolduracaksınız."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "Üstüne de kaynar sudan içeceksiniz."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Susamış develerin suya saldırışı gibi içeceksiniz."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "İşte ceza gününde onlara sunulacak ziyafet budur!"
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Sizi biz yarattık. Tasdik etmeniz gerekmez mi?"
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Söyleyin öyleyse, (rahimlere) döktüğünüz meni nedir?"
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Onu siz mi yaratıyorsunuz yoksa yaratan biz miyiz?"
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Aranızda ölümü takdir eden biziz. Ve biz, önüne geçilebileceklerden değiliz."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Böylece sizin yerinize benzerlerinizi getirelim ve sizi bilmediğiniz bir alemde tekrar var edelim diye (ölümü takdir ettik)."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Andolsun, ilk yaratılışı bildiniz. Düşünüp ibret almanız gerekmez mi?"
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Şimdi bana, ektiğinizi haber verin."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?"
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Dileseydik onu kuru bir çöp yapardık da şaşar kalırdınız."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "\"Doğrusu borç altına girdik."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Daha doğrusu, biz yoksul kaldık\" (derdiniz)."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Ya içtiğiniz suya ne dersiniz?"
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Buluttan onu siz mi indirdiniz, yoksa indiren biz miyiz?"
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Dileseydik onu tuzlu yapardık. Şükretmeniz gerekmez mi?"
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Söyleyin şimdi bana, tutuşturmakta olduğunuz ateşi,"
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Onun ağacını siz mi yarattınız, yoksa yaratan biz miyiz?"
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Biz onu bir ibret ve çölden gelip geçenlerin istifadesi için yarattık."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Öyleyse ulu Rabbinin adını tesbih et."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Hayır! Yıldızların yerlerine yemin ederim ki,"
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Bilirseniz, gerçekten bu, büyük bir yemindir."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Şüphesiz bu, değerli bir Kur'an'dır,"
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "Korunmuş bir kitaptır."
+      },
+      {
+        "ayahNumber": "79",
+        "ayahText": "Ona ancak temizlenenler dokunabilir."
+      },
+      {
+        "ayahNumber": "80",
+        "ayahText": "O, alemlerin Rabbinden indirilmiştir."
+      },
+      {
+        "ayahNumber": "81",
+        "ayahText": "Şimdi siz, bu sözü mü küçümsüyorsunuz?"
+      },
+      {
+        "ayahNumber": "82",
+        "ayahText": "Allah'ın verdiği rızka karşı şükrü, onu yalanlamakla mı yerine getiriyorsunuz?"
+      },
+      {
+        "ayahNumber": "83",
+        "ayahText": "Hele can boğaza dayandığı zaman,"
+      },
+      {
+        "ayahNumber": "84",
+        "ayahText": "O vakit siz bakar durursunuz."
+      },
+      {
+        "ayahNumber": "85",
+        "ayahText": "(O anda) biz ona sizden daha yakınız, ama göremezsiniz."
+      },
+      {
+        "ayahNumber": "86",
+        "ayahText": "Madem ki ceza görmeyecekmişsiniz,"
+      },
+      {
+        "ayahNumber": "87",
+        "ayahText": "Onu (canı) geri çevirsenize, şayet iddianızda doğru iseniz!"
+      },
+      {
+        "ayahNumber": "88",
+        "ayahText": "Fakat (ölen kişi Allah'a) yakın olanlardan ise,"
+      },
+      {
+        "ayahNumber": "89",
+        "ayahText": "Ona rahatlık, güzel rızık ve Naim cenneti vardır."
+      },
+      {
+        "ayahNumber": "90",
+        "ayahText": "Eğer o sağdakilerden ise,"
+      },
+      {
+        "ayahNumber": "91",
+        "ayahText": "\"Ey sağdaki! Sana selam olsun!\""
+      },
+      {
+        "ayahNumber": "92",
+        "ayahText": "Ama yalanlayıcı sapıklardan ise,"
+      },
+      {
+        "ayahNumber": "93",
+        "ayahText": "İşte ona da kaynar sudan bir ziyafet vardır!"
+      },
+      {
+        "ayahNumber": "94",
+        "ayahText": "Ve (onun sonu) cehenneme atılmaktır."
+      },
+      {
+        "ayahNumber": "95",
+        "ayahText": "Şüphesiz ki bu, kesin gerçektir."
+      },
+      {
+        "ayahNumber": "96",
+        "ayahText": "Öyleyse ulu Rabbinin adını tenzih ile an."
+      }
+    ]
+  }
 }

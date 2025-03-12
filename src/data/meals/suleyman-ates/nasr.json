@@ -1,18 +1,20 @@
 {
-  "surahNumber": "110",
-  "surahName": "Nasr Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Allah'ın yardımı ve fetih geldiği,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve insanların dalga dalga Allah'ın dinine girdiklerini gördüğün zaman,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Rabbini överek tesbih et, O'ndan mağfiret dile. Çünkü O, tevbeyi kabul edendir."
-    }
-  ]
+  "nasr": {
+    "surahNumber": "110",
+    "surahNameTr": "Nasr Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Allah'ın yardımı ve fetih geldiği,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve insanların dalga dalga Allah'ın dinine girdiklerini gördüğün zaman,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Rabbini överek tesbih et, O'ndan mağfiret dile. Çünkü O, tevbeyi kabul edendir."
+      }
+    ]
+  }
 }

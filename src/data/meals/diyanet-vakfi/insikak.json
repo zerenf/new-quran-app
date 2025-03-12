@@ -1,106 +1,108 @@
 {
-  "surahNumber": "84",
-  "surahName": "İnşikâk Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Gök yarıldığı,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Rabbine kulak verip boyun eğecek hale getirildiği zaman,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Yer dümdüz edildiği,"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "İçinde bulunanları atıp boşaldığı,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ve Rabb'ini dinleyip O'na hakkıyla itaata mecbur kılındığı vakit (insanoğlu yaptıkları ile karşılaşır)."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Ey insan! Şüphe yok ki sen Rabbine karşı çaba üstüne çaba göstermektesin; sonunda O'na varacaksın."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Kimin kitabı sağından verilirse,"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Kolay bir hesapla hesaba çekilecek;"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve sevinçli olarak ailesine dönecektir."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Kimin de kitabı arkasından verilirse,"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Derhal yok olmayı isteyecek,"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve alevli ateşe girecektir."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "O hiçbir zaman Rabbine dönmeyeceğini sandı."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Oysa gerçekten Rabbi onu görüyordu."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Hayır! Şafağa, yemin ederim ki,"
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Geceye ve onda basan karanlığa,"
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Dolunay olmuş aya,"
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ki, siz elbette halden hale geçeceksiniz."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Böyleyken onlar acaba neden iman etmezler?"
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Onlar kendilerine Kur'an okununca secde de etmezler."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Aksine, kafirler yalanlıyorlar."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Halbuki Allah onların gizlediği şeyleri çok iyi bilir."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "(Resulüm!) Onlara acı azabı müjdele!"
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "İman edip salih amel işleyenler başkadır; onlar için arkası kesilmeyen bir mükafat vardır."
-    }
-  ]
+  "insikak": {
+    "surahNumber": "84",
+    "surahNameTr": "İnşikâk Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Gök yarıldığı,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Rabbine kulak verip boyun eğecek hale getirildiği zaman,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Yer dümdüz edildiği,"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "İçinde bulunanları atıp boşaldığı,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ve Rabb'ini dinleyip O'na hakkıyla itaata mecbur kılındığı vakit (insanoğlu yaptıkları ile karşılaşır)."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Ey insan! Şüphe yok ki sen Rabbine karşı çaba üstüne çaba göstermektesin; sonunda O'na varacaksın."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Kimin kitabı sağından verilirse,"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Kolay bir hesapla hesaba çekilecek;"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve sevinçli olarak ailesine dönecektir."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Kimin de kitabı arkasından verilirse,"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Derhal yok olmayı isteyecek,"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve alevli ateşe girecektir."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Zira o, (dünyada) ailesi içinde (mal-mülk sebebiyle) şımarmıştı."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "O hiçbir zaman Rabbine dönmeyeceğini sandı."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Oysa gerçekten Rabbi onu görüyordu."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Hayır! Şafağa, yemin ederim ki,"
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Geceye ve onda basan karanlığa,"
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Dolunay olmuş aya,"
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ki, siz elbette halden hale geçeceksiniz."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Böyleyken onlar acaba neden iman etmezler?"
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Onlar kendilerine Kur'an okununca secde de etmezler."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Aksine, kafirler yalanlıyorlar."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Halbuki Allah onların gizlediği şeyleri çok iyi bilir."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "(Resulüm!) Onlara acı azabı müjdele!"
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "İman edip salih amel işleyenler başkadır; onlar için arkası kesilmeyen bir mükafat vardır."
+      }
+    ]
+  }
 }

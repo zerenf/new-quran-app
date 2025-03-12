@@ -1,74 +1,76 @@
 {
-  "surahNumber": "86",
-  "surahName": "Târık Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Andolsun göğe ve geceleyin gelene."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Ve bilir misin nedir geceleyin gelen?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Parıl parıl parlıyan yıldız."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Hiçbir kimse yoktur ki onun bir gözetip koruyan memuru bulunmasın."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Artık insan, bir baksın neden yaratıldı?"
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Yaratıldı sıçrayarak akan bir sudan."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Belden çıkar ve kaburga kemiklerinin arasından."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Şüphe yok ki ölümden sonra tekrar onu hayata döndürmiye de gücü yeter."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "O gün, bütün gizli şeyler, meydana vurulur."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Artık onun ne bir gücü kalır, ne de ona yardım eden olur."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Andolsun yağmur yağdıran göğe."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Ve nebat bitirmek için çatlayıp yarılan yere."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Şüphe yok ki o, her şeyi ayırt eden kesin bir söz elbet."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ve o, şaka değil elbet."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Şüphe yok ki onlar, bir düzendir, kurup duruyorlar."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve ben de onlara karşı koyup duruyorum."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Artık mühlet ver kafirlere mühlet ver onlara az bir müddet."
-    }
-  ]
+  "tarik": {
+    "surahNumber": "86",
+    "surahNameTr": "Târık Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Andolsun göğe ve geceleyin gelene."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Ve bilir misin nedir geceleyin gelen?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Parıl parıl parlıyan yıldız."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hiçbir kimse yoktur ki onun bir gözetip koruyan memuru bulunmasın."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Artık insan, bir baksın neden yaratıldı?"
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Yaratıldı sıçrayarak akan bir sudan."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Belden çıkar ve kaburga kemiklerinin arasından."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Şüphe yok ki ölümden sonra tekrar onu hayata döndürmiye de gücü yeter."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "O gün, bütün gizli şeyler, meydana vurulur."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Artık onun ne bir gücü kalır, ne de ona yardım eden olur."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Andolsun yağmur yağdıran göğe."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Ve nebat bitirmek için çatlayıp yarılan yere."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Şüphe yok ki o, her şeyi ayırt eden kesin bir söz elbet."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ve o, şaka değil elbet."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Şüphe yok ki onlar, bir düzendir, kurup duruyorlar."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve ben de onlara karşı koyup duruyorum."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Artık mühlet ver kafirlere mühlet ver onlara az bir müddet."
+      }
+    ]
+  }
 }

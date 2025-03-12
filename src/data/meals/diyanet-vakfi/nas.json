@@ -1,30 +1,32 @@
 {
-  "surahNumber": "114",
-  "surahName": "Nâs Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "De ki: Sığınırım ben insanların Rabbine,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "İnsanların Melikine (mutlak sahip ve hakimine),"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "İnsanların İlahına."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "O sinsi vesvesenin şerrinden,"
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "O ki insanların göğüslerine (kötü düşünceler)fısıldar."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Gerek cinlerden, gerek insanlardan(olan bütün vesvesecilerin şerrinden Allah'a sığınırım!"
-    }
-  ]
+  "nas": {
+    "surahNumber": "114",
+    "surahNameTr": "Nâs Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "De ki: Sığınırım ben insanların Rabbine,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "İnsanların Melikine (mutlak sahip ve hakimine),"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "İnsanların İlahına."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O sinsi vesvesenin şerrinden,"
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "O ki insanların göğüslerine (kötü düşünceler)fısıldar."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Gerek cinlerden, gerek insanlardan(olan bütün vesvesecilerin şerrinden Allah'a sığınırım!"
+      }
+    ]
+  }
 }

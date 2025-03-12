@@ -1,26 +1,28 @@
 {
-  "surahNumber": "97",
-  "surahName": "Kadir Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Gerçek şu ki, Biz onu kadir gecesinde indirdik."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Kadir gecesinin ne olduğunu sana bildiren nedir?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Kadir gecesi, bin aydan daha hayırlıdır."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Melekler ve ruh, onda Rablerinin izniyle her bir iş için inerler."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Fecrin çıkışına kadar bir esenliktir (selamdır) o."
-    }
-  ]
+  "kadir": {
+    "surahNumber": "97",
+    "surahNameTr": "Kadir Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Gerçek şu ki, Biz onu kadir gecesinde indirdik."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Kadir gecesinin ne olduğunu sana bildiren nedir?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Kadir gecesi, bin aydan daha hayırlıdır."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Melekler ve ruh, onda Rablerinin izniyle her bir iş için inerler."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Fecrin çıkışına kadar bir esenliktir (selamdır) o."
+      }
+    ]
+  }
 }

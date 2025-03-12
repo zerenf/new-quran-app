@@ -1,318 +1,320 @@
 {
-  "surahNumber": "22",
-  "surahName": "Hac Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Ey insanlar, çekinin Rabbinizden, şüphe yok ki kıyametin sarsıntısı, pek büyük birşeydir."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Onu gördüğünüz gün, bütün emzikli kadınlar; çocuklarını bile unutup bırakır, her gebe kadın, çocuğunu düşürür ve insanları sarhoş görürsün, fakat sarhoş değildir onlar, ancak Allah'ın azabı pek çetindir."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "İnsanlardan öylesi de var ki bilgisi olmadığı halde Allah hakkında münakaşaya girişir ve her azgın Şeytanın peşine düşer."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Ezelden takdir edilmiştir, kim, onu sever, kim ona uyarsa şüphe yok ki o, azdırır onu ve alevalev yanan ateşin azabına sürükler."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Ey insanlar, ölümden sonra dirilme hakkında şüphedeyseniz bilin ki hiç şüphe yok, sizi topraktan yarattık biz, sonra bir katre sudan, sonra donmuş bir parça kandan, sonra yaratılışı tamamlanmış, tamamlanmamış bir et parçasından size apaçık gösterelim kudretimizi diye. Ve sizi, dilediğimiz muayyen bir zamana dek rahimlerde kararlaştırırız, sonra çocuk olarak çıkarırız sizi, sonra da ergenlik çağına getiririz ve sizden ölen olur, gene sizden, bilgisinden sonra hiçbir şey bilmez bir hale gelen ve ömrün en aşağılık devresine sürüklenen olur. Ve yeryüzünü kupkuru görürsün, fakat ona yağmur yağdırdığımız zaman harekete gelir, kabarır ve çeşitli, çifterçifter güzelim nebatlar bitirir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bu da, şüphe yok ki Allah'ın gerçek oluşundandır ve şüphe yok ki o, ölüyü de diriltir ve şüphe yok ki onun, her şeye gücü yeter."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve gerçekten de kıyamet gelmededir, şüphe yok onda ve gerçekten de Allah, kabirlerdekileri diriltecektir."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Ve insanlardan, bilgisi ve aydınlatıcı bir kitabı olmadığı halde Allah hakkında münakaşaya girişen var."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Halkı Allah yolundan saptırmak için kendi kendine ululanır durur. Ona, dünyada aşağılık bir durum var ve kıyamet günü de yakıp kavurucu azabı tattırırız ona."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Bu da senin, kendi ellerinle kendine hazırladığın şeydir ve şüphe yok ki Allah, alabildiğine zulmetmez kullarına."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Ve insanlardan, Allah'a kalbiyle değil de diliyle kulluk eden de var; ona bir hayır isabet ederse kalbi yatışır o hayır yüzünden, fakat bir sınamaya uğrarsa yüzü dönüverir; dünyada da ziyan eder, ahirette de; işte budur apaçık ziyan."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Allah'ı bırakır da kendisine ne bir zarar verebilen, ne bir fayda verebilen şeyi çağırır. Budur işte doğruluktan tamamıyla uzak bir sapıklık."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Zararı, faydasından daha yakın olanı çağırır; fakat ne de kötü yardımcıdır o, ne de kötü arkadaş."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Şüphe yok ki Allah, inanan ve iyi işlerde bulunanları, kıyılarından ırmaklar akan cennetlere sokar; şüphe yok ki Allah, dilediğini yapar."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Allah, peygambere dünyada da, ahirette de yardım etmeyecek sanan bilsin ki yardım edecektir, isterse tavana bir ip takıp assın kendini de ölsün ve baksın da görsün, bu yaptığı düzen, kızdığı şeyi ortadan kaldırır mı?"
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "İşte biz, apaçık ayetleri böyle indirdik ona ve şüphe yok ki Allah, dilediğini doğru yola sevk eder."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Şüphe yok ki inananlar ve Yahudi olanlar, Sabiiler, Nasraniler ve Mecusilerle bir de şirk koşan kişiler; şüphe yok ki Allah, kıyamet gününde onların aralarını ayırır; şüphe yok ki Allah, her şeye tanıktır."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Görmez misin, Allah, şüphe yok, öyle bir mabut ki ona secde eder ne varsa göklerde ve ne varsa yeryüzünde ve güneş, ay, yıldızlar, dağlar, ağaç, hayvanlar ve insanların çoğu ve çoğu da azabı hak etmiştir ve Allah, kimi hor kılarsa onu kutluluğa ulaştırıp ona lütuf ve ihsanda bulunan hiçbir kimse bulunamaz; şüphe yok ki Allah, dilediğini yapar."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Şu iki zümre, Rablerinin dini hakkında birbirleriyle çekişen iki düşmandır; kafir olanlara ateşten libaslar biçilmiştir, tepelerine de kaynar su dökülecek."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Ve bu suretle karınlarında ne varsa o da eritilecek, derileri de."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Onlara demirden çomaklar da var."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Ne zaman elemlerinden, oradan çıkmak isteseler gene oraya gönderilirler de tadın yakıp kavuran azabı denir."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Şüphe yok ki Allah, inanan ve iyi işlerde bulunanları, kıyılarından ırmaklar akan cennetlere koyar, orada altın bilezikler ve inciler takınıp bezenirler ve orada, elbiseleri de ipektir."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Ve onlar, sözün en temizini söylemeye irşat edilmişlerdir ve onlar hamde layık Tanrının yoluna irşad edilmişlerdir."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Kafir olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için ibadet yeri olarak halkettiğimiz ve orada yurt tutanla orayı ziyaret için gelen hakkında aynı hükümleri yürüttüğümüz Mescidi Haram'dan men edenlerse. Ve kim orada nehy edilmiş birşeyi zulmederek yapmak isterse ona elemli azabı tattırırız."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "An o zamanı ki hani biz İbrahim'e, bana hiçbir şeyi şerik tutma ve tavaf edenlere, namaz kılanlara, rüku edenlere, secde kılanlara tertemiz tut evimi diye Beyt'in yerini göstermiştik."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Ve insanları hacca davet et, uzakuzak, bütün yerlerden yaya olarak, yahut hayvana binerek gelsinler sana."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Gelsinler de kendilerine ait olan menfaatleri elde etsinler ve kendilerine rızık olarak verilen dört ayaklı hayvanları, muayyen günlerde Allah'ın adını anarak kessinler. Yiyin artık onlardan ve yokyoksul fakiri de doyurun."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Sonra ihramdayken yapılmayan şeyleri yapıp temizlensinler, adaklarını yerine getirsinler ve tavaf etsinler Beytalatıyk'ı."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "İşte budur hac ve Allah'ın, hürmeti emrettiği şeylere tazim eden kişiye bu hareketi, Rabbi katında hayırlıdır ve size, okunan şeyler müstesna, öküz, inek, koyun, deve helal edilmiştir, artık çekinin putlara tapma pisliğinden ve çekinin yalan sözden."
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Allah'ı bir tanıyıp ona şirk koşmaksızın ve kim, Allah'a şirk koşarsa sanki havadan düşmüştür de kuş kapmıştır onu, yahut da rüzgar almış, pek uzak bir yere sürüp atmıştır onu."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "İşte böyledir bu ve kim Allah dininin hükümlerini ulularsa şüphe yok ki bu hareket, yüreklerdeki çekinme duygusundandır."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Kurbanlık hayvanlarda, muayyen bir zamanadek faydalar var size, sonra varıp gidecekleri yer, BeytalAtıyk'tir."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Her ümmete kurban kesmeyi meşru kıldık davarlardan onlara rızık olarak verdiklerimizi keserlerken Allah'ın adını anmaları şartıyla ve bilin ki mabudunuz, bir mabuttur artık ona teslim olun ve müjdele itaat edip alçak gönüllü olanları."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Öyle kişilerdir onlar ki Allah anılınca yürekleri oynar korkudan ve uğradıkları müsibetlere katlanırlar, namaz kılmaya devam ederler ve kendilerini rızıklandırdığımız şeylerin bir kısmını harcarlar yoksullara."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Büyük develeri de Allah'ın size meşru kıldığı kurbanlık hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; siz şükredesiniz diye böylece onları da ram ettik size."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Onların ne etleri Allah'a ulaşır, ne kanları, fakat sizin çekinmenizdir ki ona ulaşır. Sizi doğru yola sevkettiğinden dolayı Allah'ı büyük bilmeniz için onları da ram etti size ve müjdele iyilik edenleri."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Şüphe yok ki Allah, inananlardan müşriklerin şerrini defedecek; şüphe yok ki Allah, hainlikte ileri giden nankörlerin hiçbirini sevmez."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Kendileriyle savaşa girişilenlere, zulme uğradıklarından dolayı savaşmaya izin verildi ve şüphe yok Allah'ın, onlara yardım etmeye gücü yeter elbette."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "O kişilerdir onlar ki ancak Rabbimiz Allah'tır dediklerinden dolayı haksız olarak yurtlarından çıkarıldılar ve eğer Allah, insanların bir kısmını bir kısmıyle defetmeseydi, içlerinde Allah adının çok anıldığı manastırlar da yıkılırdı, havralar da, kiliseler de, mescitler de ve Allah, kendisine yardım edene mutlaka yardım eder; şüphe yok ki Allah, kuvvetlidir, üstündür."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "O kişilerdir onlar ki onları yeryüzünde yerleştirdik mi namaz kılarlar, zekat verirler, iyiliği emrederler, kötülükten vazgeçirmeye çalışırlar ve bütün işlerin sonucu, Allah'a varır."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "Seni yalanlarlarsa onlardan önce gelip geçen Nuh, Âd ve Semud kavimleri de yalanlamışlardı."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Ve İbrahim kavmi de, Lut kavmi de."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "Ve Medyen ehli de yalanlamıştı ve Musa da yalanlanmıştı da onların azabını geciktirdim, bir mühlet verdim onlara da sonra helak ediverdim onları; nasılmış beni inkar etmek, nasıl da devletlerini felakete çevirmişim."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Nice şehirler var ki halkı zalim olduğundan helak ettik onları ve o şehirlerin tavanları, duvarlarına çökmüş, yerle bir olmuş, ıpıssız kalmış ve nice kuyular kuruttuk, nice yüce köşkler yıktık."
-    },
-    {
-      "ayahNumber": "46",
-      "ayahText": "Akıl ve tedbire sahip olacak akıl, duyup anlayacak kulak elde etmek için hiç de mi yeryüzünde gezip dolaşmazlar? Gerçekten de gözler kör olmaz ama gönüllerdeki can gözleri körleşir."
-    },
-    {
-      "ayahNumber": "47",
-      "ayahText": "Azabın, çabucak gelip çatmasını isterler senden ve Allah, vaadinden caymaz kesin olarak ve Rabbinin katında bir gün, sizin sayıp durduğunuz bin yıl gibidir."
-    },
-    {
-      "ayahNumber": "48",
-      "ayahText": "Ve nice şehir var ki halkı zalim olduğundan mühlet verdik onlara da sonra helak ediverdim ve dönüp gelecekleri yer de benim tapımdır."
-    },
-    {
-      "ayahNumber": "49",
-      "ayahText": "De ki: Ey insanlar, ben ancak size, apaçık bir korkutucuyum."
-    },
-    {
-      "ayahNumber": "50",
-      "ayahText": "İnanan ve iyi işlerde bulunanlaradır yarlıganmak ve güzel bir rızık."
-    },
-    {
-      "ayahNumber": "51",
-      "ayahText": "Delillerimize karşı gelmeye uğraşanlara gelince: Onlar, alevalev yanan cehennemin ehlidir."
-    },
-    {
-      "ayahNumber": "52",
-      "ayahText": "Ve senden önce, şeriat sahibi veya başkasının şeriatine uymuş hiçbir peygamber göndermedik ki o, bir şey dilediği zaman Şeytan, onun dileğine bir fitne katmaya uğraşmasın. Fakat Allah, Şeytan'ın katmak istediği şeyi bozar, sonra da ayetlerini sağlamlaştırır ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir."
-    },
-    {
-      "ayahNumber": "53",
-      "ayahText": "Bu da, Şeytan'ın katmak istediği şeyi, gönüllerinde hastalık olanlarla yürekleri katı bulunanlara bir sınama yapmak içindir ve şüphe yok ki zalimler, gerçekten pek uzak bir ayrılık içindedir."
-    },
-    {
-      "ayahNumber": "54",
-      "ayahText": "- Bir de bu suretle kendilerine bilgi verilenler, bilirler ki Kur'an, Rabbinden gelen bir gerçektir ve artık inanırlar ona, gönülleri, onunla tevazuya erişir ve şüphe yok ki Allah, inananları elbette doğru yola sevk eder."
-    },
-    {
-      "ayahNumber": "55",
-      "ayahText": "Kafir olanlarsa, kıyamet gelip çatmadıkça, yahut o kısır gün, onlara gelmedikçe onun hakkında şüphe etmekten kurtulamazlar."
-    },
-    {
-      "ayahNumber": "56",
-      "ayahText": "O gün, saltanat ve tasarruf, Allah'ındır, aralarını hükmeder o, inanıp iyi işlerde bulunanlar, nimetlerle dolu cennetlerdedir."
-    },
-    {
-      "ayahNumber": "57",
-      "ayahText": "Kafir olup delillerimizi yalanlayanlarsa, onlar içindir horlayan, aşağılatan azap."
-    },
-    {
-      "ayahNumber": "58",
-      "ayahText": "Allah yolunda yurtlarından göçenleri, sonra öldürülenleri, yahut ölenleri Allah, mutlaka güzel bir rızıkla rızıklandıracaktır ve şüphe yok ki Allah, elbette rızık verenlerin en hayırlısıdır."
-    },
-    {
-      "ayahNumber": "59",
-      "ayahText": "Mutlaka onları, hoşnut olacakları bir yere ithal edecektir ve şüphe yok ki Allah, her şeyi bilir ve azap etmede acele etmez."
-    },
-    {
-      "ayahNumber": "60",
-      "ayahText": "Böyledir bu ve kim bir cezaya uğrar da ceza edeni ona benzer bir surette cezalandırırsa, sonra da gene aleyhine taşkınlıkta bulunulursa Allah yardım eder ona; şüphe yok ki Allah, suçları bağışlar, örter."
-    },
-    {
-      "ayahNumber": "61",
-      "ayahText": "Böyledir bu, çünkü Allah, geceyi kısaltır, gecenin bir kısmını gündüz yapar, gündüzü kısaltır, bir kısmını gece yapar ve şüphe yok ki Allah, her şeyi duyar, görür."
-    },
-    {
-      "ayahNumber": "62",
-      "ayahText": "Böyledir bu, çünkü Allah, gerçektir ve şüphe yok ki ondan başka neyi çağırırlarsa boştur, aslı yoktur ve şüphe yok ki Allah, pek yücedir, pek büyük."
-    },
-    {
-      "ayahNumber": "63",
-      "ayahText": "Görmez misin, şüphe yok ki Allah, gökten yağmur yağdırır da yeryüzü yemyeşil olur; şüphe yok ki Allah, lütuf ve ihsan sahibidir, her şeyden haberdardır."
-    },
-    {
-      "ayahNumber": "64",
-      "ayahText": "Onundur ne varsa göklerde ve ne varsa yeryüzünde ve şüphe yok ki Allah, müstağnidir her şeyden ve odur hamde layık."
-    },
-    {
-      "ayahNumber": "65",
-      "ayahText": "Görmez misin, şüphe yok ki Allah, ram etmiştir size yeryüzünde ne varsa ve emriyle denizde akıp giden gemiyi ve izni olmadıkça gökyüzünü yeryüzüne yıkmaz da tutar; şüphe yok ki Allah, insanları pek esirger ve rahimdir."
-    },
-    {
-      "ayahNumber": "66",
-      "ayahText": "Öyle bir mabuttur ki sizi diriltti, sonra öldürür, sonra gene diriltir, fakat şüphe yok ki insan, pek nankördür."
-    },
-    {
-      "ayahNumber": "67",
-      "ayahText": "Ve her ümmete bir din verdik, o dine göre ibadette bulunurlar, artık seninle her hususta çekişmeye kalkışmasınlar ve Rabbinin yoluna çağır, şüphe yok ki sen, doğru yolu bulmuşsun."
-    },
-    {
-      "ayahNumber": "68",
-      "ayahText": "Seninle mücadele ederlerse artık Allah de, ne yaptığınızı bilir."
-    },
-    {
-      "ayahNumber": "69",
-      "ayahText": "Allah, kıyamet günü, ne hususta aykırılığa düştüyseniz, aranızda hükmeder sizin."
-    },
-    {
-      "ayahNumber": "70",
-      "ayahText": "Bilmez misin ki Allah, gerçekten de bilir ne varsa göklerde ve ne varsa yeryüzünde; şüphe yok ki bu, bir kitapta tespit edilmiştir; şüphe yok ki bu, Allah'a pek kolaydır."
-    },
-    {
-      "ayahNumber": "71",
-      "ayahText": "Ve bu hususta kendilerinin bir delilleri olmadığı ve bir bilgiye sahip bulunmadıkları halde Allah'ı bırakırlar da başka şeylere kulluk ederler ve zalimlere hiçbir yardımcı yoktur."
-    },
-    {
-      "ayahNumber": "72",
-      "ayahText": "Onlara apaçık ayetlerimizi okudun mu yüzlerinde inkar alametleri belirir, görüp tanırsın sen de; neredeyse ayetlerimizi onlara okuyanlara saldırıverecekler. De ki: Bundan daha şer, daha da beter bir şey haber vereyim mi size: Ateş. Allah, kafir olanlara vaadetmiştir onu ve orası, dönüp gidilecek ne de kötü yer."
-    },
-    {
-      "ayahNumber": "73",
-      "ayahText": "Ey insanlar, bir örnek getirilmede, dinleyin onu: Allah'ı bırakıp da taptığınız putlar yok mu, onlar, bir sineği bile yaratamazlar kesin olarak, hatta hepsi bir araya gelse bile ve sinek, onlardan bir şey kapıp gitse onu da tekrar geri alamazlar ondan; isteyen de acizdir, istenen de."
-    },
-    {
-      "ayahNumber": "74",
-      "ayahText": "Onlar, Allah'ın büyüklüğünü hakkıyla bilemediler; şüphe yok ki Allah, kuvvet sahibidir, üstündür."
-    },
-    {
-      "ayahNumber": "75",
-      "ayahText": "Allah, meleklerden ve insanlardan peygamberler seçmiştir; şüphe yok ki Allah, duyar, görür."
-    },
-    {
-      "ayahNumber": "76",
-      "ayahText": "Bilir ne varsa önlerinde ve ne varsa artlarında ve bütün işler, dönüp Allah'a varır."
-    },
-    {
-      "ayahNumber": "77",
-      "ayahText": "Ey inananlar, rüku edin, secde edin, kulluk edin Rabbinize ve hayır işleyin de kurtulun, erin muradınıza."
-    },
-    {
-      "ayahNumber": "78",
-      "ayahText": "Ve Allah için hakkıyla savaşın. O seçti sizi ve dinde bir güçlük vermedi size; babanız İbrahim'in dini. O mabuttur daha önce ve bu Kur'an'da size Müslüman adını takan, Peygamber, size tanık olsun, siz de insanlara tanıklık edin diye. Artık namaz kılın, zekat verin ve sarılın Allah'a, odur dostunuz; ne de güzel dosttur, ne de güzel yardımcı."
-    }
-  ]
+  "hac": {
+    "surahNumber": "22",
+    "surahNameTr": "Hac Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Ey insanlar, çekinin Rabbinizden, şüphe yok ki kıyametin sarsıntısı, pek büyük birşeydir."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onu gördüğünüz gün, bütün emzikli kadınlar; çocuklarını bile unutup bırakır, her gebe kadın, çocuğunu düşürür ve insanları sarhoş görürsün, fakat sarhoş değildir onlar, ancak Allah'ın azabı pek çetindir."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "İnsanlardan öylesi de var ki bilgisi olmadığı halde Allah hakkında münakaşaya girişir ve her azgın Şeytanın peşine düşer."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Ezelden takdir edilmiştir, kim, onu sever, kim ona uyarsa şüphe yok ki o, azdırır onu ve alevalev yanan ateşin azabına sürükler."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Ey insanlar, ölümden sonra dirilme hakkında şüphedeyseniz bilin ki hiç şüphe yok, sizi topraktan yarattık biz, sonra bir katre sudan, sonra donmuş bir parça kandan, sonra yaratılışı tamamlanmış, tamamlanmamış bir et parçasından size apaçık gösterelim kudretimizi diye. Ve sizi, dilediğimiz muayyen bir zamana dek rahimlerde kararlaştırırız, sonra çocuk olarak çıkarırız sizi, sonra da ergenlik çağına getiririz ve sizden ölen olur, gene sizden, bilgisinden sonra hiçbir şey bilmez bir hale gelen ve ömrün en aşağılık devresine sürüklenen olur. Ve yeryüzünü kupkuru görürsün, fakat ona yağmur yağdırdığımız zaman harekete gelir, kabarır ve çeşitli, çifterçifter güzelim nebatlar bitirir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bu da, şüphe yok ki Allah'ın gerçek oluşundandır ve şüphe yok ki o, ölüyü de diriltir ve şüphe yok ki onun, her şeye gücü yeter."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve gerçekten de kıyamet gelmededir, şüphe yok onda ve gerçekten de Allah, kabirlerdekileri diriltecektir."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Ve insanlardan, bilgisi ve aydınlatıcı bir kitabı olmadığı halde Allah hakkında münakaşaya girişen var."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Halkı Allah yolundan saptırmak için kendi kendine ululanır durur. Ona, dünyada aşağılık bir durum var ve kıyamet günü de yakıp kavurucu azabı tattırırız ona."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Bu da senin, kendi ellerinle kendine hazırladığın şeydir ve şüphe yok ki Allah, alabildiğine zulmetmez kullarına."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Ve insanlardan, Allah'a kalbiyle değil de diliyle kulluk eden de var; ona bir hayır isabet ederse kalbi yatışır o hayır yüzünden, fakat bir sınamaya uğrarsa yüzü dönüverir; dünyada da ziyan eder, ahirette de; işte budur apaçık ziyan."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Allah'ı bırakır da kendisine ne bir zarar verebilen, ne bir fayda verebilen şeyi çağırır. Budur işte doğruluktan tamamıyla uzak bir sapıklık."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Zararı, faydasından daha yakın olanı çağırır; fakat ne de kötü yardımcıdır o, ne de kötü arkadaş."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Şüphe yok ki Allah, inanan ve iyi işlerde bulunanları, kıyılarından ırmaklar akan cennetlere sokar; şüphe yok ki Allah, dilediğini yapar."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Allah, peygambere dünyada da, ahirette de yardım etmeyecek sanan bilsin ki yardım edecektir, isterse tavana bir ip takıp assın kendini de ölsün ve baksın da görsün, bu yaptığı düzen, kızdığı şeyi ortadan kaldırır mı?"
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "İşte biz, apaçık ayetleri böyle indirdik ona ve şüphe yok ki Allah, dilediğini doğru yola sevk eder."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Şüphe yok ki inananlar ve Yahudi olanlar, Sabiiler, Nasraniler ve Mecusilerle bir de şirk koşan kişiler; şüphe yok ki Allah, kıyamet gününde onların aralarını ayırır; şüphe yok ki Allah, her şeye tanıktır."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Görmez misin, Allah, şüphe yok, öyle bir mabut ki ona secde eder ne varsa göklerde ve ne varsa yeryüzünde ve güneş, ay, yıldızlar, dağlar, ağaç, hayvanlar ve insanların çoğu ve çoğu da azabı hak etmiştir ve Allah, kimi hor kılarsa onu kutluluğa ulaştırıp ona lütuf ve ihsanda bulunan hiçbir kimse bulunamaz; şüphe yok ki Allah, dilediğini yapar."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Şu iki zümre, Rablerinin dini hakkında birbirleriyle çekişen iki düşmandır; kafir olanlara ateşten libaslar biçilmiştir, tepelerine de kaynar su dökülecek."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Ve bu suretle karınlarında ne varsa o da eritilecek, derileri de."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Onlara demirden çomaklar da var."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Ne zaman elemlerinden, oradan çıkmak isteseler gene oraya gönderilirler de tadın yakıp kavuran azabı denir."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Şüphe yok ki Allah, inanan ve iyi işlerde bulunanları, kıyılarından ırmaklar akan cennetlere koyar, orada altın bilezikler ve inciler takınıp bezenirler ve orada, elbiseleri de ipektir."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Ve onlar, sözün en temizini söylemeye irşat edilmişlerdir ve onlar hamde layık Tanrının yoluna irşad edilmişlerdir."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Kafir olanlar ve halkı Allah'ın yolundan çıkaranlar ve insanlar için ibadet yeri olarak halkettiğimiz ve orada yurt tutanla orayı ziyaret için gelen hakkında aynı hükümleri yürüttüğümüz Mescidi Haram'dan men edenlerse. Ve kim orada nehy edilmiş birşeyi zulmederek yapmak isterse ona elemli azabı tattırırız."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "An o zamanı ki hani biz İbrahim'e, bana hiçbir şeyi şerik tutma ve tavaf edenlere, namaz kılanlara, rüku edenlere, secde kılanlara tertemiz tut evimi diye Beyt'in yerini göstermiştik."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Ve insanları hacca davet et, uzakuzak, bütün yerlerden yaya olarak, yahut hayvana binerek gelsinler sana."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Gelsinler de kendilerine ait olan menfaatleri elde etsinler ve kendilerine rızık olarak verilen dört ayaklı hayvanları, muayyen günlerde Allah'ın adını anarak kessinler. Yiyin artık onlardan ve yokyoksul fakiri de doyurun."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Sonra ihramdayken yapılmayan şeyleri yapıp temizlensinler, adaklarını yerine getirsinler ve tavaf etsinler Beytalatıyk'ı."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "İşte budur hac ve Allah'ın, hürmeti emrettiği şeylere tazim eden kişiye bu hareketi, Rabbi katında hayırlıdır ve size, okunan şeyler müstesna, öküz, inek, koyun, deve helal edilmiştir, artık çekinin putlara tapma pisliğinden ve çekinin yalan sözden."
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Allah'ı bir tanıyıp ona şirk koşmaksızın ve kim, Allah'a şirk koşarsa sanki havadan düşmüştür de kuş kapmıştır onu, yahut da rüzgar almış, pek uzak bir yere sürüp atmıştır onu."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "İşte böyledir bu ve kim Allah dininin hükümlerini ulularsa şüphe yok ki bu hareket, yüreklerdeki çekinme duygusundandır."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Kurbanlık hayvanlarda, muayyen bir zamanadek faydalar var size, sonra varıp gidecekleri yer, BeytalAtıyk'tir."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Her ümmete kurban kesmeyi meşru kıldık davarlardan onlara rızık olarak verdiklerimizi keserlerken Allah'ın adını anmaları şartıyla ve bilin ki mabudunuz, bir mabuttur artık ona teslim olun ve müjdele itaat edip alçak gönüllü olanları."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Öyle kişilerdir onlar ki Allah anılınca yürekleri oynar korkudan ve uğradıkları müsibetlere katlanırlar, namaz kılmaya devam ederler ve kendilerini rızıklandırdığımız şeylerin bir kısmını harcarlar yoksullara."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Büyük develeri de Allah'ın size meşru kıldığı kurbanlık hayvanlar olarak yarattık, onlarda hayır ve menfaat var size. Artık onlar, ayaktayken onları boğazlayın ve Allah'ın adını anın, yanüstü düştükleri zaman da hem siz yiyin ondan, hem de yoksulluğunu bildirip isteyen ve gizleyip istemeyen yoksulları doyurun; siz şükredesiniz diye böylece onları da ram ettik size."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Onların ne etleri Allah'a ulaşır, ne kanları, fakat sizin çekinmenizdir ki ona ulaşır. Sizi doğru yola sevkettiğinden dolayı Allah'ı büyük bilmeniz için onları da ram etti size ve müjdele iyilik edenleri."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Şüphe yok ki Allah, inananlardan müşriklerin şerrini defedecek; şüphe yok ki Allah, hainlikte ileri giden nankörlerin hiçbirini sevmez."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Kendileriyle savaşa girişilenlere, zulme uğradıklarından dolayı savaşmaya izin verildi ve şüphe yok Allah'ın, onlara yardım etmeye gücü yeter elbette."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "O kişilerdir onlar ki ancak Rabbimiz Allah'tır dediklerinden dolayı haksız olarak yurtlarından çıkarıldılar ve eğer Allah, insanların bir kısmını bir kısmıyle defetmeseydi, içlerinde Allah adının çok anıldığı manastırlar da yıkılırdı, havralar da, kiliseler de, mescitler de ve Allah, kendisine yardım edene mutlaka yardım eder; şüphe yok ki Allah, kuvvetlidir, üstündür."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "O kişilerdir onlar ki onları yeryüzünde yerleştirdik mi namaz kılarlar, zekat verirler, iyiliği emrederler, kötülükten vazgeçirmeye çalışırlar ve bütün işlerin sonucu, Allah'a varır."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "Seni yalanlarlarsa onlardan önce gelip geçen Nuh, Âd ve Semud kavimleri de yalanlamışlardı."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Ve İbrahim kavmi de, Lut kavmi de."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "Ve Medyen ehli de yalanlamıştı ve Musa da yalanlanmıştı da onların azabını geciktirdim, bir mühlet verdim onlara da sonra helak ediverdim onları; nasılmış beni inkar etmek, nasıl da devletlerini felakete çevirmişim."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Nice şehirler var ki halkı zalim olduğundan helak ettik onları ve o şehirlerin tavanları, duvarlarına çökmüş, yerle bir olmuş, ıpıssız kalmış ve nice kuyular kuruttuk, nice yüce köşkler yıktık."
+      },
+      {
+        "ayahNumber": "46",
+        "ayahText": "Akıl ve tedbire sahip olacak akıl, duyup anlayacak kulak elde etmek için hiç de mi yeryüzünde gezip dolaşmazlar? Gerçekten de gözler kör olmaz ama gönüllerdeki can gözleri körleşir."
+      },
+      {
+        "ayahNumber": "47",
+        "ayahText": "Azabın, çabucak gelip çatmasını isterler senden ve Allah, vaadinden caymaz kesin olarak ve Rabbinin katında bir gün, sizin sayıp durduğunuz bin yıl gibidir."
+      },
+      {
+        "ayahNumber": "48",
+        "ayahText": "Ve nice şehir var ki halkı zalim olduğundan mühlet verdik onlara da sonra helak ediverdim ve dönüp gelecekleri yer de benim tapımdır."
+      },
+      {
+        "ayahNumber": "49",
+        "ayahText": "De ki: Ey insanlar, ben ancak size, apaçık bir korkutucuyum."
+      },
+      {
+        "ayahNumber": "50",
+        "ayahText": "İnanan ve iyi işlerde bulunanlaradır yarlıganmak ve güzel bir rızık."
+      },
+      {
+        "ayahNumber": "51",
+        "ayahText": "Delillerimize karşı gelmeye uğraşanlara gelince: Onlar, alevalev yanan cehennemin ehlidir."
+      },
+      {
+        "ayahNumber": "52",
+        "ayahText": "Ve senden önce, şeriat sahibi veya başkasının şeriatine uymuş hiçbir peygamber göndermedik ki o, bir şey dilediği zaman Şeytan, onun dileğine bir fitne katmaya uğraşmasın. Fakat Allah, Şeytan'ın katmak istediği şeyi bozar, sonra da ayetlerini sağlamlaştırır ve Allah, her şeyi bilir, hüküm ve hikmet sahibidir."
+      },
+      {
+        "ayahNumber": "53",
+        "ayahText": "Bu da, Şeytan'ın katmak istediği şeyi, gönüllerinde hastalık olanlarla yürekleri katı bulunanlara bir sınama yapmak içindir ve şüphe yok ki zalimler, gerçekten pek uzak bir ayrılık içindedir."
+      },
+      {
+        "ayahNumber": "54",
+        "ayahText": "- Bir de bu suretle kendilerine bilgi verilenler, bilirler ki Kur'an, Rabbinden gelen bir gerçektir ve artık inanırlar ona, gönülleri, onunla tevazuya erişir ve şüphe yok ki Allah, inananları elbette doğru yola sevk eder."
+      },
+      {
+        "ayahNumber": "55",
+        "ayahText": "Kafir olanlarsa, kıyamet gelip çatmadıkça, yahut o kısır gün, onlara gelmedikçe onun hakkında şüphe etmekten kurtulamazlar."
+      },
+      {
+        "ayahNumber": "56",
+        "ayahText": "O gün, saltanat ve tasarruf, Allah'ındır, aralarını hükmeder o, inanıp iyi işlerde bulunanlar, nimetlerle dolu cennetlerdedir."
+      },
+      {
+        "ayahNumber": "57",
+        "ayahText": "Kafir olup delillerimizi yalanlayanlarsa, onlar içindir horlayan, aşağılatan azap."
+      },
+      {
+        "ayahNumber": "58",
+        "ayahText": "Allah yolunda yurtlarından göçenleri, sonra öldürülenleri, yahut ölenleri Allah, mutlaka güzel bir rızıkla rızıklandıracaktır ve şüphe yok ki Allah, elbette rızık verenlerin en hayırlısıdır."
+      },
+      {
+        "ayahNumber": "59",
+        "ayahText": "Mutlaka onları, hoşnut olacakları bir yere ithal edecektir ve şüphe yok ki Allah, her şeyi bilir ve azap etmede acele etmez."
+      },
+      {
+        "ayahNumber": "60",
+        "ayahText": "Böyledir bu ve kim bir cezaya uğrar da ceza edeni ona benzer bir surette cezalandırırsa, sonra da gene aleyhine taşkınlıkta bulunulursa Allah yardım eder ona; şüphe yok ki Allah, suçları bağışlar, örter."
+      },
+      {
+        "ayahNumber": "61",
+        "ayahText": "Böyledir bu, çünkü Allah, geceyi kısaltır, gecenin bir kısmını gündüz yapar, gündüzü kısaltır, bir kısmını gece yapar ve şüphe yok ki Allah, her şeyi duyar, görür."
+      },
+      {
+        "ayahNumber": "62",
+        "ayahText": "Böyledir bu, çünkü Allah, gerçektir ve şüphe yok ki ondan başka neyi çağırırlarsa boştur, aslı yoktur ve şüphe yok ki Allah, pek yücedir, pek büyük."
+      },
+      {
+        "ayahNumber": "63",
+        "ayahText": "Görmez misin, şüphe yok ki Allah, gökten yağmur yağdırır da yeryüzü yemyeşil olur; şüphe yok ki Allah, lütuf ve ihsan sahibidir, her şeyden haberdardır."
+      },
+      {
+        "ayahNumber": "64",
+        "ayahText": "Onundur ne varsa göklerde ve ne varsa yeryüzünde ve şüphe yok ki Allah, müstağnidir her şeyden ve odur hamde layık."
+      },
+      {
+        "ayahNumber": "65",
+        "ayahText": "Görmez misin, şüphe yok ki Allah, ram etmiştir size yeryüzünde ne varsa ve emriyle denizde akıp giden gemiyi ve izni olmadıkça gökyüzünü yeryüzüne yıkmaz da tutar; şüphe yok ki Allah, insanları pek esirger ve rahimdir."
+      },
+      {
+        "ayahNumber": "66",
+        "ayahText": "Öyle bir mabuttur ki sizi diriltti, sonra öldürür, sonra gene diriltir, fakat şüphe yok ki insan, pek nankördür."
+      },
+      {
+        "ayahNumber": "67",
+        "ayahText": "Ve her ümmete bir din verdik, o dine göre ibadette bulunurlar, artık seninle her hususta çekişmeye kalkışmasınlar ve Rabbinin yoluna çağır, şüphe yok ki sen, doğru yolu bulmuşsun."
+      },
+      {
+        "ayahNumber": "68",
+        "ayahText": "Seninle mücadele ederlerse artık Allah de, ne yaptığınızı bilir."
+      },
+      {
+        "ayahNumber": "69",
+        "ayahText": "Allah, kıyamet günü, ne hususta aykırılığa düştüyseniz, aranızda hükmeder sizin."
+      },
+      {
+        "ayahNumber": "70",
+        "ayahText": "Bilmez misin ki Allah, gerçekten de bilir ne varsa göklerde ve ne varsa yeryüzünde; şüphe yok ki bu, bir kitapta tespit edilmiştir; şüphe yok ki bu, Allah'a pek kolaydır."
+      },
+      {
+        "ayahNumber": "71",
+        "ayahText": "Ve bu hususta kendilerinin bir delilleri olmadığı ve bir bilgiye sahip bulunmadıkları halde Allah'ı bırakırlar da başka şeylere kulluk ederler ve zalimlere hiçbir yardımcı yoktur."
+      },
+      {
+        "ayahNumber": "72",
+        "ayahText": "Onlara apaçık ayetlerimizi okudun mu yüzlerinde inkar alametleri belirir, görüp tanırsın sen de; neredeyse ayetlerimizi onlara okuyanlara saldırıverecekler. De ki: Bundan daha şer, daha da beter bir şey haber vereyim mi size: Ateş. Allah, kafir olanlara vaadetmiştir onu ve orası, dönüp gidilecek ne de kötü yer."
+      },
+      {
+        "ayahNumber": "73",
+        "ayahText": "Ey insanlar, bir örnek getirilmede, dinleyin onu: Allah'ı bırakıp da taptığınız putlar yok mu, onlar, bir sineği bile yaratamazlar kesin olarak, hatta hepsi bir araya gelse bile ve sinek, onlardan bir şey kapıp gitse onu da tekrar geri alamazlar ondan; isteyen de acizdir, istenen de."
+      },
+      {
+        "ayahNumber": "74",
+        "ayahText": "Onlar, Allah'ın büyüklüğünü hakkıyla bilemediler; şüphe yok ki Allah, kuvvet sahibidir, üstündür."
+      },
+      {
+        "ayahNumber": "75",
+        "ayahText": "Allah, meleklerden ve insanlardan peygamberler seçmiştir; şüphe yok ki Allah, duyar, görür."
+      },
+      {
+        "ayahNumber": "76",
+        "ayahText": "Bilir ne varsa önlerinde ve ne varsa artlarında ve bütün işler, dönüp Allah'a varır."
+      },
+      {
+        "ayahNumber": "77",
+        "ayahText": "Ey inananlar, rüku edin, secde edin, kulluk edin Rabbinize ve hayır işleyin de kurtulun, erin muradınıza."
+      },
+      {
+        "ayahNumber": "78",
+        "ayahText": "Ve Allah için hakkıyla savaşın. O seçti sizi ve dinde bir güçlük vermedi size; babanız İbrahim'in dini. O mabuttur daha önce ve bu Kur'an'da size Müslüman adını takan, Peygamber, size tanık olsun, siz de insanlara tanıklık edin diye. Artık namaz kılın, zekat verin ve sarılın Allah'a, odur dostunuz; ne de güzel dosttur, ne de güzel yardımcı."
+      }
+    ]
+  }
 }

@@ -1,166 +1,168 @@
 {
-  "surahNumber": "78",
-  "surahName": "Nebe' Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Neyi soruşturuyorlar?"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?"
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Hayır; şüphesiz görüp bileceklerdir."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Yine hayır; elbette görüp bileceklerdir."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?"
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?"
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Sizi çift çift yarattık;"
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Uykunuzu dinlenme vakti kıldık;"
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Geceyi bir örtü yaptık;"
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Gündüzü geçimi sağlama vakti kıldık;"
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Üstünüze yedi kat sağlam gök bina ettik;"
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Parlak ışık veren güneşi varettik;"
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Doğrusu, hüküm gününün vakti elbette tesbit edilmiştir."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Sura üfürüldüğü gün hepiniz bölük bölük gelirsiniz."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Gökler kapı kapı açılacaktır."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Dağlar yürütülüp serap olacaktır."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Orada çağlar boyunca (nice devirler) kalacaklardır."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Çünkü onlar, hesaba çekileceklerini sanmazlardı."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Ayetlerimizi hep yalan sayıp dururlardı."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Biz de herşeyi yazıp saymışızdır."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "Şöyle deriz: \"Artık tadınız, bundan böyle size azabdan başka bir şey artırmayız.\""
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Orada boş ve yalan söz işitmezler."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir."
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "O, göklerin, yerin ve ikisi arasında olanların Rabbidir. O, önünde kimsenin konuşmayacağı Rahman olan Allah'tır."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Cebrail ve meleklerin dizi dizi durdukları gün, Rahman olan Allah'ın izni olmadan kimse konuşamayacaktır. Konuştuğu zaman da doğruyu söyleyecektir."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "İşte gerçek gün budur. Dileyen kimse, Rabbine götürecek bir yol benimser."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve inkarcı da: \"Keşke toprak olaydım\" der."
-    }
-  ]
+  "nebe": {
+    "surahNumber": "78",
+    "surahNameTr": "Nebe' Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Neyi soruşturuyorlar?"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Üzerinde anlaşmazlığa düştükleri, büyük bir olay olan tekrar dirilme haberini mi?"
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Hayır; şüphesiz görüp bileceklerdir."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Yine hayır; elbette görüp bileceklerdir."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?"
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Biz yeryüzünü bir beşik, dağları da onun için birer direk kılmadık mı?"
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Sizi çift çift yarattık;"
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Uykunuzu dinlenme vakti kıldık;"
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Geceyi bir örtü yaptık;"
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Gündüzü geçimi sağlama vakti kıldık;"
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Üstünüze yedi kat sağlam gök bina ettik;"
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Parlak ışık veren güneşi varettik;"
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Taneler, bitkiler, ağaçları sarmaş dolaş bahçeler yetiştirmek için, yoğunlaşmış bulutlardan bol yağmur yağdırdık."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Doğrusu, hüküm gününün vakti elbette tesbit edilmiştir."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Sura üfürüldüğü gün hepiniz bölük bölük gelirsiniz."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Gökler kapı kapı açılacaktır."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Dağlar yürütülüp serap olacaktır."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Cehennem, yalnız azgınları bekleyen yerdir. Dönecekleri yer orasıdır."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Orada çağlar boyunca (nice devirler) kalacaklardır."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Orada ne serinlik ne de içilecek bir şey tatmazlar; sadece kaynar su ve irin...."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Çünkü onlar, hesaba çekileceklerini sanmazlardı."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Ayetlerimizi hep yalan sayıp dururlardı."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Biz de herşeyi yazıp saymışızdır."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "Şöyle deriz: \"Artık tadınız, bundan böyle size azabdan başka bir şey artırmayız.\""
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Doğrusu, Allah'a karşı gelmekten sakınanlara kurtuluş, bahçeler, bağlar, yaşıtlar ve dolu kadehler vardır."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Orada boş ve yalan söz işitmezler."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Bunlar Rabbinin katından, hesabları karşılığı verilenlerdir."
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "O, göklerin, yerin ve ikisi arasında olanların Rabbidir. O, önünde kimsenin konuşmayacağı Rahman olan Allah'tır."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Cebrail ve meleklerin dizi dizi durdukları gün, Rahman olan Allah'ın izni olmadan kimse konuşamayacaktır. Konuştuğu zaman da doğruyu söyleyecektir."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "İşte gerçek gün budur. Dileyen kimse, Rabbine götürecek bir yol benimser."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Sizi, yakın gelecekteki bir azabla uyardık; o gün kişi elleriyle sunduğuna bakar ve inkarcı da: \"Keşke toprak olaydım\" der."
+      }
+    ]
+  }
 }

@@ -1,22 +1,24 @@
 {
-  "surahNumber": "106",
-  "surahName": "Kureyş Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kureyşi alıştırdığı için,"
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Onları kış ve yaz yolculuğuna alıştırdığı için,"
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Bu Ev(Ka'be'n)in Rabbine kulluk etsinler."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "O ki onları yedirip açlıktan kurtardı ve onları korkudan güvene kavuşturdu."
-    }
-  ]
+  "kureys": {
+    "surahNumber": "106",
+    "surahNameTr": "Kureyş Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kureyşi alıştırdığı için,"
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Onları kış ve yaz yolculuğuna alıştırdığı için,"
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Bu Ev(Ka'be'n)in Rabbine kulluk etsinler."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "O ki onları yedirip açlıktan kurtardı ve onları korkudan güvene kavuşturdu."
+      }
+    ]
+  }
 }

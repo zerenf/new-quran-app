@@ -1,186 +1,188 @@
 {
-  "surahNumber": "50",
-  "surahName": "Kâf Suresi",
-  "ayats": [
-    {
-      "ayahNumber": "1",
-      "ayahText": "Kaaf, andolsun büyük ve şerefli Kur'an'a."
-    },
-    {
-      "ayahNumber": "2",
-      "ayahText": "Hayır, onlar, içlerinden bir korkutucunun gelmesine şaşıp kaldılar da kafirler, gerçekten de dediler, bu şaşılacak bir şey."
-    },
-    {
-      "ayahNumber": "3",
-      "ayahText": "Ölüp bir yığın toprak olduktan sonra mı? Bu, pek uzak, pek olmayacak bir dönüş."
-    },
-    {
-      "ayahNumber": "4",
-      "ayahText": "Gerçekten de yeryüzü, onlardan neyi eksiltir, biliriz biz ve katımızdadır her şeyi koruyan ve zapteden kitap."
-    },
-    {
-      "ayahNumber": "5",
-      "ayahText": "Hayır, gerçek olan Kur'an, onlara gelince yalanladılar da şimdi darmadağın bir işe daldılar."
-    },
-    {
-      "ayahNumber": "6",
-      "ayahText": "Bakmazlar mı üstlerindeki göğe? Nasıl kurduk onu ve bezedik ve bir yarığı, yırtığı da yok."
-    },
-    {
-      "ayahNumber": "7",
-      "ayahText": "Ve yeryüzünü nasıl yaydık ve oraya metin dağlar koyduk ve orada, gözler, gönüller açan güzelim nebatları çifterçiftter bitirdik."
-    },
-    {
-      "ayahNumber": "8",
-      "ayahText": "Mabuduna dönen her kulun, can gözünü açmak ve ona, ibret ve öğüt vermek için."
-    },
-    {
-      "ayahNumber": "9",
-      "ayahText": "Ve gökten de kutlu bir yağmur yağdırmadayız da o sayede bağlar, bahçeler ve biçilecek taneler, yeşertip bitirmedeyiz."
-    },
-    {
-      "ayahNumber": "10",
-      "ayahText": "Ve hurma ağaçları ki boy atıp uzar ve meyveleri, birbirine bitişmiş, adeta istiflenmiştir."
-    },
-    {
-      "ayahNumber": "11",
-      "ayahText": "Kullara rızık olarak ve o yağmurla ölü şehri diriltiriz, işte kabirden çıkış da böyledir."
-    },
-    {
-      "ayahNumber": "12",
-      "ayahText": "Onlardan önce Nuh kavmi ve Ashabı Ress ve Semud kavmi de yalanlamışlardı."
-    },
-    {
-      "ayahNumber": "13",
-      "ayahText": "Ve Âd ve Firavun kavimleri ve Lut'un kardeşleri."
-    },
-    {
-      "ayahNumber": "14",
-      "ayahText": "Ve Ashabı Eyke ve Tubba' kavmi; hepsi de peygamberleri yalanlamışlardı da helak olmayı hak ettiler."
-    },
-    {
-      "ayahNumber": "15",
-      "ayahText": "İlk yaratışta aciz mi kaldık ki? Hayır; ama onlar, yeni bir yaratışta şüphe içindeler."
-    },
-    {
-      "ayahNumber": "16",
-      "ayahText": "Ve andolsun ki biz insanı yarattık ve nefsi, onu ne gibi vesveselere düşürür, biliriz ve biz, ona, şah damarından daha yakınız."
-    },
-    {
-      "ayahNumber": "17",
-      "ayahText": "Ne söyler, ne yaparsa yazan iki melek var, biri sağda oturmuş, biri solda."
-    },
-    {
-      "ayahNumber": "18",
-      "ayahText": "Hiçbir söz söylemez ki yanında, onu zapteden, gözetip kollayan biri bulunmasın."
-    },
-    {
-      "ayahNumber": "19",
-      "ayahText": "Ölüm baygınlığı, gerçek olarak gelip çattı mı buydu işte denir, senin kaçıp durduğun."
-    },
-    {
-      "ayahNumber": "20",
-      "ayahText": "Ve üfürülür su'ra, işte bu gündür azap günü."
-    },
-    {
-      "ayahNumber": "21",
-      "ayahText": "Ve herkes, yanında bir sürüp götüren ve bir tanık olarak gelir."
-    },
-    {
-      "ayahNumber": "22",
-      "ayahText": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün."
-    },
-    {
-      "ayahNumber": "23",
-      "ayahText": "Arkadaşı olan melek, der ki: İşte, ne yaptıysa hepsi bende, hepsi hazır."
-    },
-    {
-      "ayahNumber": "24",
-      "ayahText": "Artık atın cehenneme adamakıllı kafir olan ve gerçeğe karşı inat eden herkesi."
-    },
-    {
-      "ayahNumber": "25",
-      "ayahText": "Hayrı tamamıyla meneden zalim şüpheciyi."
-    },
-    {
-      "ayahNumber": "26",
-      "ayahText": "Ki Allah'la beraber bir başka mabut da kabul etmiştir, atın artık onu çetin azaba."
-    },
-    {
-      "ayahNumber": "27",
-      "ayahText": "Arkadaşı, Rabbimiz der, onu, taşkınlığa ben sevketmedim ve fakat o, pek uzak bir sapıklık içindeydi."
-    },
-    {
-      "ayahNumber": "28",
-      "ayahText": "Der ki: Huzurumda çekişmeyin ve ben, önceden azap edeceğimi bildirmiştim size."
-    },
-    {
-      "ayahNumber": "29",
-      "ayahText": "Katımda söz değiştirilemez ve ben, kullara zulmetmem."
-    },
-    {
-      "ayahNumber": "30",
-      "ayahText": "O gün deriz cehenneme: Doldun mu? Ve der ki: Daha yok mu?"
-    },
-    {
-      "ayahNumber": "31",
-      "ayahText": "Ve yaklaştırılır cennet, çekinenlere ve onlardan uzak değildir."
-    },
-    {
-      "ayahNumber": "32",
-      "ayahText": "İşte denecek, size, mabuduna tövbe eden, emri, iyideniyiye koruyan herkese vaadedilen bu."
-    },
-    {
-      "ayahNumber": "33",
-      "ayahText": "Görmediği halde rahmandan korkan ve ona yönelmiş bir yürekle gelen kişiye vaadedilen bu."
-    },
-    {
-      "ayahNumber": "34",
-      "ayahText": "Esenlikle girin oraya; bugün, ebedilik günü."
-    },
-    {
-      "ayahNumber": "35",
-      "ayahText": "Onlaradır ne dilerlerse orada ve katımızda daha da fazlası var."
-    },
-    {
-      "ayahNumber": "36",
-      "ayahText": "Ve nice nesiller helak ettik onlardan önce; onlar, bunlardan daha çokluktu, daha güçlü kuvvetliydi, derken şehirleri delikdeşik etmişlerdi, her tarafı ellerine geçirmişlerdi, fakat bir kaçacak yer mi var?"
-    },
-    {
-      "ayahNumber": "37",
-      "ayahText": "Şüphe yok ki bunda, gönlü olana, yahut görerek kulak verene ibret ve öğüt var elbet."
-    },
-    {
-      "ayahNumber": "38",
-      "ayahText": "Ve andolsun ki biz, gökleri ve yeryüzünü altı günde yarattık ve bir yorgunluk gelmedi bize."
-    },
-    {
-      "ayahNumber": "39",
-      "ayahText": "Artık sabret ne derlerse ve Rabbine ham ederek onu tenzih et güneş doğmadan önce ve batmadan önce."
-    },
-    {
-      "ayahNumber": "40",
-      "ayahText": "Ve geceleyin ve secdelerden sonra."
-    },
-    {
-      "ayahNumber": "41",
-      "ayahText": "Ve dinle o nida edenin, yakın bir yerden bağıracağı gün, sesini."
-    },
-    {
-      "ayahNumber": "42",
-      "ayahText": "O gün, o bağrışı, gerçek olarak işitecekler; işte o gündür kabirlerden çıkış günü."
-    },
-    {
-      "ayahNumber": "43",
-      "ayahText": "Şüphe yok ki biz diriltiriz ve biz öldürürüz ve dönülüp gelinecek tapı, bizim tapımızdır."
-    },
-    {
-      "ayahNumber": "44",
-      "ayahText": "O gün yarılır yeryüzü de çıkarlar oradan ve hızlıhızlı koşarlar; bu toplayış, bize pek kolaydır."
-    },
-    {
-      "ayahNumber": "45",
-      "ayahText": "Biz daha iyi biliriz ne dediklerini ve senin, onlara, dilediğini yapacak bir kudretin yok, artık, azaptan korkana Kur'an'la öğüt ver."
-    }
-  ]
+  "kaf": {
+    "surahNumber": "50",
+    "surahNameTr": "Kâf Suresi",
+    "ayats": [
+      {
+        "ayahNumber": "1",
+        "ayahText": "Kaaf, andolsun büyük ve şerefli Kur'an'a."
+      },
+      {
+        "ayahNumber": "2",
+        "ayahText": "Hayır, onlar, içlerinden bir korkutucunun gelmesine şaşıp kaldılar da kafirler, gerçekten de dediler, bu şaşılacak bir şey."
+      },
+      {
+        "ayahNumber": "3",
+        "ayahText": "Ölüp bir yığın toprak olduktan sonra mı? Bu, pek uzak, pek olmayacak bir dönüş."
+      },
+      {
+        "ayahNumber": "4",
+        "ayahText": "Gerçekten de yeryüzü, onlardan neyi eksiltir, biliriz biz ve katımızdadır her şeyi koruyan ve zapteden kitap."
+      },
+      {
+        "ayahNumber": "5",
+        "ayahText": "Hayır, gerçek olan Kur'an, onlara gelince yalanladılar da şimdi darmadağın bir işe daldılar."
+      },
+      {
+        "ayahNumber": "6",
+        "ayahText": "Bakmazlar mı üstlerindeki göğe? Nasıl kurduk onu ve bezedik ve bir yarığı, yırtığı da yok."
+      },
+      {
+        "ayahNumber": "7",
+        "ayahText": "Ve yeryüzünü nasıl yaydık ve oraya metin dağlar koyduk ve orada, gözler, gönüller açan güzelim nebatları çifterçiftter bitirdik."
+      },
+      {
+        "ayahNumber": "8",
+        "ayahText": "Mabuduna dönen her kulun, can gözünü açmak ve ona, ibret ve öğüt vermek için."
+      },
+      {
+        "ayahNumber": "9",
+        "ayahText": "Ve gökten de kutlu bir yağmur yağdırmadayız da o sayede bağlar, bahçeler ve biçilecek taneler, yeşertip bitirmedeyiz."
+      },
+      {
+        "ayahNumber": "10",
+        "ayahText": "Ve hurma ağaçları ki boy atıp uzar ve meyveleri, birbirine bitişmiş, adeta istiflenmiştir."
+      },
+      {
+        "ayahNumber": "11",
+        "ayahText": "Kullara rızık olarak ve o yağmurla ölü şehri diriltiriz, işte kabirden çıkış da böyledir."
+      },
+      {
+        "ayahNumber": "12",
+        "ayahText": "Onlardan önce Nuh kavmi ve Ashabı Ress ve Semud kavmi de yalanlamışlardı."
+      },
+      {
+        "ayahNumber": "13",
+        "ayahText": "Ve Âd ve Firavun kavimleri ve Lut'un kardeşleri."
+      },
+      {
+        "ayahNumber": "14",
+        "ayahText": "Ve Ashabı Eyke ve Tubba' kavmi; hepsi de peygamberleri yalanlamışlardı da helak olmayı hak ettiler."
+      },
+      {
+        "ayahNumber": "15",
+        "ayahText": "İlk yaratışta aciz mi kaldık ki? Hayır; ama onlar, yeni bir yaratışta şüphe içindeler."
+      },
+      {
+        "ayahNumber": "16",
+        "ayahText": "Ve andolsun ki biz insanı yarattık ve nefsi, onu ne gibi vesveselere düşürür, biliriz ve biz, ona, şah damarından daha yakınız."
+      },
+      {
+        "ayahNumber": "17",
+        "ayahText": "Ne söyler, ne yaparsa yazan iki melek var, biri sağda oturmuş, biri solda."
+      },
+      {
+        "ayahNumber": "18",
+        "ayahText": "Hiçbir söz söylemez ki yanında, onu zapteden, gözetip kollayan biri bulunmasın."
+      },
+      {
+        "ayahNumber": "19",
+        "ayahText": "Ölüm baygınlığı, gerçek olarak gelip çattı mı buydu işte denir, senin kaçıp durduğun."
+      },
+      {
+        "ayahNumber": "20",
+        "ayahText": "Ve üfürülür su'ra, işte bu gündür azap günü."
+      },
+      {
+        "ayahNumber": "21",
+        "ayahText": "Ve herkes, yanında bir sürüp götüren ve bir tanık olarak gelir."
+      },
+      {
+        "ayahNumber": "22",
+        "ayahText": "Andolsun ki gafletteydin bundan, derken perdeyi kaldırdık gözünden, artık gözün keskin bugün."
+      },
+      {
+        "ayahNumber": "23",
+        "ayahText": "Arkadaşı olan melek, der ki: İşte, ne yaptıysa hepsi bende, hepsi hazır."
+      },
+      {
+        "ayahNumber": "24",
+        "ayahText": "Artık atın cehenneme adamakıllı kafir olan ve gerçeğe karşı inat eden herkesi."
+      },
+      {
+        "ayahNumber": "25",
+        "ayahText": "Hayrı tamamıyla meneden zalim şüpheciyi."
+      },
+      {
+        "ayahNumber": "26",
+        "ayahText": "Ki Allah'la beraber bir başka mabut da kabul etmiştir, atın artık onu çetin azaba."
+      },
+      {
+        "ayahNumber": "27",
+        "ayahText": "Arkadaşı, Rabbimiz der, onu, taşkınlığa ben sevketmedim ve fakat o, pek uzak bir sapıklık içindeydi."
+      },
+      {
+        "ayahNumber": "28",
+        "ayahText": "Der ki: Huzurumda çekişmeyin ve ben, önceden azap edeceğimi bildirmiştim size."
+      },
+      {
+        "ayahNumber": "29",
+        "ayahText": "Katımda söz değiştirilemez ve ben, kullara zulmetmem."
+      },
+      {
+        "ayahNumber": "30",
+        "ayahText": "O gün deriz cehenneme: Doldun mu? Ve der ki: Daha yok mu?"
+      },
+      {
+        "ayahNumber": "31",
+        "ayahText": "Ve yaklaştırılır cennet, çekinenlere ve onlardan uzak değildir."
+      },
+      {
+        "ayahNumber": "32",
+        "ayahText": "İşte denecek, size, mabuduna tövbe eden, emri, iyideniyiye koruyan herkese vaadedilen bu."
+      },
+      {
+        "ayahNumber": "33",
+        "ayahText": "Görmediği halde rahmandan korkan ve ona yönelmiş bir yürekle gelen kişiye vaadedilen bu."
+      },
+      {
+        "ayahNumber": "34",
+        "ayahText": "Esenlikle girin oraya; bugün, ebedilik günü."
+      },
+      {
+        "ayahNumber": "35",
+        "ayahText": "Onlaradır ne dilerlerse orada ve katımızda daha da fazlası var."
+      },
+      {
+        "ayahNumber": "36",
+        "ayahText": "Ve nice nesiller helak ettik onlardan önce; onlar, bunlardan daha çokluktu, daha güçlü kuvvetliydi, derken şehirleri delikdeşik etmişlerdi, her tarafı ellerine geçirmişlerdi, fakat bir kaçacak yer mi var?"
+      },
+      {
+        "ayahNumber": "37",
+        "ayahText": "Şüphe yok ki bunda, gönlü olana, yahut görerek kulak verene ibret ve öğüt var elbet."
+      },
+      {
+        "ayahNumber": "38",
+        "ayahText": "Ve andolsun ki biz, gökleri ve yeryüzünü altı günde yarattık ve bir yorgunluk gelmedi bize."
+      },
+      {
+        "ayahNumber": "39",
+        "ayahText": "Artık sabret ne derlerse ve Rabbine ham ederek onu tenzih et güneş doğmadan önce ve batmadan önce."
+      },
+      {
+        "ayahNumber": "40",
+        "ayahText": "Ve geceleyin ve secdelerden sonra."
+      },
+      {
+        "ayahNumber": "41",
+        "ayahText": "Ve dinle o nida edenin, yakın bir yerden bağıracağı gün, sesini."
+      },
+      {
+        "ayahNumber": "42",
+        "ayahText": "O gün, o bağrışı, gerçek olarak işitecekler; işte o gündür kabirlerden çıkış günü."
+      },
+      {
+        "ayahNumber": "43",
+        "ayahText": "Şüphe yok ki biz diriltiriz ve biz öldürürüz ve dönülüp gelinecek tapı, bizim tapımızdır."
+      },
+      {
+        "ayahNumber": "44",
+        "ayahText": "O gün yarılır yeryüzü de çıkarlar oradan ve hızlıhızlı koşarlar; bu toplayış, bize pek kolaydır."
+      },
+      {
+        "ayahNumber": "45",
+        "ayahText": "Biz daha iyi biliriz ne dediklerini ve senin, onlara, dilediğini yapacak bir kudretin yok, artık, azaptan korkana Kur'an'la öğüt ver."
+      }
+    ]
+  }
 }
