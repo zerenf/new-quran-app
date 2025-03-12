@@ -12,10 +12,10 @@ const CustomSelect = ({ handleSearch, isMeal, options, selected, setSelected, pl
 	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery.toLowerCase()))
 
 	const searchFunc = async (option) => {
-		// if (isMeal) {
-		// 	setSelectedMeal(option)
-		// 	handleSearch()
-		// }
+		if (isMeal) {
+			setSelectedMeal(option)
+			handleSearch()
+		}
 		console.log("selectedMeal:", selectedMeal)
 		console.log("option:", option)
 		handleSearch()
