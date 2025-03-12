@@ -15,15 +15,7 @@ const useQuranStore = create((set, get) => ({
 	loading: false,
 	searchResult: [],
 
-	mealsOwners: [
-		"Ali Bulaç",
-		"Abdulbakî Gölpınarlı",
-		"Diyanet İşleri",
-		"Diyanet Vakfı",
-		"Elmalılı Hamdi Yazır",
-		"Suat Yıldırım",
-		"Süleyman Ateş",
-	],
+	mealsOwners: ["Ali Bulaç", "Abdulbakî Gölpınarlı", "Diyanet İşleri", "Diyanet Vakfı", "Elmalılı Hamdi Yazır", "Süleyman Ateş"],
 	setSelectedMeal: (selectedMeal) => {
 		set({ selectedMeal, mealOwner: selectedMeal })
 	},

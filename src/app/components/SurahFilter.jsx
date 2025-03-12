@@ -300,11 +300,13 @@ export default function SurahFilter({ isSidebarOpen }) {
 			<div className="flex justify-center my-10">
 				<div className="mt-4 w-full max-w-2xl ml-[35px]">
 					{filteredAyats.length > 0 && (
-						<div className="mx-2">
+						<div className="mx-2 text-[14px]">
 							<span style={{ fontWeight: 900 }}> {searchedTerm} </span>
 							kelimesi
+							<span style={{ borderBottom: "1px solid #ccc" }}> {selectedMeal} mealine göre</span>
 							<span style={{ fontWeight: 900 }}> {selectedSurah ? selectedSurah : "Kur'an'da"}</span>
-							{selectedSurah && " suresinde"}
+							{selectedSurah && " suresinin"}
+							{selectedSurah && " suresinin"}
 							<span style={{ fontWeight: 900 }}> {filteredAyats.length} </span>
 							yerde geçmektedir.
 						</div>
