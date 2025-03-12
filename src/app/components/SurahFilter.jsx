@@ -226,7 +226,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		setSearchResult([])
 		setSearchTerm("")
 		setSelectedSurah("")
-		setSelectedAyah("")
+		setAyah("")
 		setSearchedTerm("")
 		setResult([])
 	}
