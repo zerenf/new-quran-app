@@ -299,8 +299,6 @@ export default function SurahFilter({ isSidebarOpen }) {
 			{error && <p className="text-red-500 text-center mt-2">{error}</p>}
 			{errorMessage && <p className="text-red-500 text-center mt-2">{errorMessage}</p>}
 
-			{loading && <Spinner isSidebarOpen={isSidebarOpen} />}
-
 			<div className="flex justify-center my-10">
 				<div className="mt-4 w-full max-w-2xl ml-[35px]">
 					{filteredAyats.length > 0 && (
@@ -335,6 +333,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 						))}
 				</div>
 			</div>
+
+			{loading && <Spinner isSidebarOpen={isSidebarOpen} />}
 
 			{!loading && result && !error && (
 				<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>
