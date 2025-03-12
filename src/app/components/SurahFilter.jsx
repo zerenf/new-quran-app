@@ -183,6 +183,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 			await fetchAllData()
 			setSearchLoading(false)
+			setSearchStarted(true)
 
 			return
 		}
@@ -222,6 +223,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 	// const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
 	// console.log("currentAyah:", currentAyah)
 	// console.log("selectedAyah:", selectedAyah)
+	console.log("selectedMeal:", selectedMeal)
 
 	return (
 		<>
@@ -246,6 +248,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 									setSelected={setSelectedMeal}
 									setSearchLoading={setSearchLoading}
 									placeholder="Opsiyonel"
+									setSearchTerm={setSearchTerm}
+									handleSearch={handleSearch}
 								/>
 							</div>
 
@@ -314,7 +318,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 					{searchLoading && <p className="text-gray-500"></p>}
 					{!searchLoading && searchedTerm && searchStarted && filteredAyats.length === 0 && (
-						<p className="text-gray-500 text-center">Aradığınız kelimeye uygun ayet bulunamadı.</p>
+						<p className="text-gray-500 text-center">Aradığınız kelimeyi içeren ayet bulunamadı.</p>
 					)}
 
 					{!searchLoading &&

@@ -1,9 +1,12 @@
 import { useState } from "react"
+import useQuranStore from "../stores/useQuranStore"
 
-const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz" }) => {
+const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholder = "Seçiniz", setSearchTerm }) => {
 	const [isOpen, setIsOpen] = useState(false)
 	const [searchQuery, setSearchQuery] = useState("")
-	const [inputFocused, setInputFocused] = useState(false) // Odak durumu için state
+	const [inputFocused, setInputFocused] = useState(false)
+
+	const { setSearchResult, setSelectedMeal } = useQuranStore()
 
 	// Arama terimine göre filtreleme
 	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery.toLowerCase()))
@@ -14,7 +17,7 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 				className="custom-select-box"
 				onClick={() => {
 					setIsOpen(!isOpen)
-					setSearchQuery("") // Dropdown açıldığında arama terimini temizle
+					setSearchQuery("")
 				}}
 			>
 				<span style={{ color: "#B4B4B8", fontSize: 16 }}>{selected || placeholder}</span>
@@ -56,6 +59,7 @@ const CustomSelect = ({ options, selected, setSelected, placeholder = "Seçiniz"
 									onClick={() => {
 										setSelected(option)
 										setIsOpen(false)
+										handleSearch()
 									}}
 									style={{
 										backgroundColor: selected === option ? "#f0f0f0" : "white",
