@@ -152,7 +152,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		"Nâs",
 	]
 
-	const copyToClipboard = (text, ayahNumber) => {
+	const copyToClipboard = (text, key) => {
 		if (navigator.clipboard) {
 			navigator.clipboard.writeText(text).catch((err) => console.error("Clipboard API error:", err))
 		} else {
@@ -168,8 +168,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 			document.body.removeChild(textArea)
 		}
 
-		setClicked((prev) => ({ ...prev, [ayahNumber]: true }))
-		setTimeout(() => setClicked((prev) => ({ ...prev, [ayahNumber]: false })), 2000)
+		setClicked((prev) => ({ ...prev, [key]: true }))
+		setTimeout(() => setClicked((prev) => ({ ...prev, [key]: false })), 2000)
 	}
 
 	const handleSearch = async () => {
