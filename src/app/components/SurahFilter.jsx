@@ -229,7 +229,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 	return (
 		<>
-			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-[170px]`}>
+			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-[130px]`}>
 				<div className="w-auto p-4 bg-white rounded-lg shadow-md filter">
 					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-600 mb-1 ">Detaylı Meal Arama</h2>
 
