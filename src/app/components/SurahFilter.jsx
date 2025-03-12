@@ -6,6 +6,7 @@ import CustomSelect from "./CustomSelect"
 import Spinner from "./Spinner"
 import WordCard from "./WordCard"
 import { PiArrowFatLineLeftLight, PiArrowFatLineRightLight } from "react-icons/pi"
+import { MdOutlineReplayCircleFilled } from "react-icons/md"
 
 export default function SurahFilter({ isSidebarOpen }) {
 	const [clicked, setClicked] = useState({})
@@ -28,11 +29,13 @@ export default function SurahFilter({ isSidebarOpen }) {
 		setSelectedAyah,
 		setSelectedMeal,
 		result,
+		setResult,
 		mealOwner,
 		loading,
 		searchResult,
 		fetchAllData,
 		mealsOwners,
+		setSearchResult,
 	} = useQuranStore()
 
 	const surahNames = [
@@ -219,6 +222,16 @@ export default function SurahFilter({ isSidebarOpen }) {
 		}
 	}
 
+	const handleRemove = () => {
+		setSearchResult([])
+		setSearchTerm("")
+		setSelectedSurah("")
+		setSearchedTerm("")
+		setResult([])
+	}
+
+	console.log(searchResult)
+
 	// console.log("result?.arabic?.arabicResult:", result?.arabic?.arabicResult)
 	// console.log("result?.arabic?.arabicResult?.[selectedAyah - 1]:", result?.arabic?.arabicResult?.[selectedAyah - 1])
 
@@ -301,6 +314,14 @@ export default function SurahFilter({ isSidebarOpen }) {
 									Ara
 								</button>
 							</div>
+
+							{(selectedSurah || searchedTerm) && (
+								<div className="mt-[11px]">
+									<button className="p-[4px] border cursor-pointer bg-red-700 hover:bg-red-600 text-white rounded" onClick={handleRemove}>
+										<MdOutlineReplayCircleFilled fontSize={32} />
+									</button>
+								</div>
+							)}
 						</div>
 					</div>
 				</div>
@@ -309,7 +330,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 			{error && <p className="text-red-500 text-center mt-2">{error}</p>}
 			{errorMessage && <p className="text-red-500 text-center mt-2">{errorMessage}</p>}
 
-			<div className="flex justify-center my-10">
+			<div className="flex justify-center mt-3">
 				<div className="mt-4 w-full max-w-2xl ml-[35px]">
 					{filteredAyats.length > 0 && (
 						<div className="mx-2 text-[14px]">
