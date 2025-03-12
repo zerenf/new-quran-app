@@ -20,7 +20,7 @@ const SurahSidebar = ({ toggleSidebar }) => {
 		{ number: 16, name: "Nahl", totalNumber: "128", originType: "Mekki" },
 		{ number: 17, name: "İsrâ", totalNumber: "111", originType: "Mekki" },
 		{ number: 18, name: "Kehf", totalNumber: "110", originType: "Mekki" },
-		{ number: 19, name: "Meryem", totalNumber: "98", originType: "Meryem" },
+		{ number: 19, name: "Meryem", totalNumber: "98", originType: "Mekki" },
 		{ number: 20, name: "Tâ-Hâ", totalNumber: "135", originType: "Mekki" },
 		{ number: 21, name: "Enbiyâ", totalNumber: "112", originType: "Mekki" },
 		{ number: 22, name: "Hac", totalNumber: "78", originType: "Medeni" },
