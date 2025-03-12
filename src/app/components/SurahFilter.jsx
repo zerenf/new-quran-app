@@ -195,8 +195,8 @@ export default function SurahFilter({ isSidebarOpen }) {
 
 	let filteredAyats
 
-	if (searchResult.ayats) {
-		filteredAyats = searchResult.ayats.filter((ayah) => ayah.ayahText.includes(searchedTerm)).map((ayah) => ({ ...ayah }))
+	if (searchResult?.ayats) {
+		filteredAyats = searchResult?.ayats?.filter((ayah) => ayah.ayahText.includes(searchedTerm)).map((ayah) => ({ ...ayah }))
 	} else {
 		filteredAyats = Object.values(searchResult)
 			.flatMap((surah) => surah.ayats)
@@ -227,7 +227,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 		<>
 			<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} mt-40`}>
 				<div className="w-auto p-4 bg-white rounded-lg shadow-md filter">
-					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-800 mb-1 ">Detaylı Meal Arama</h2>
+					<h2 className="text-xl sm:text-xl font-semibold text-center text-gray-600 mb-1 ">Detaylı Meal Arama</h2>
 
 					<div className="filter-container">
 						<div className="content">
@@ -256,6 +256,11 @@ export default function SurahFilter({ isSidebarOpen }) {
 									className="ayah-input"
 									value={ayah}
 									onChange={(e) => setAyah(e.target.value)}
+									onKeyDown={(e) => {
+										if (!/[0-9]/.test(e.key) && e.key !== "Backspace" && e.key !== "ArrowLeft" && e.key !== "ArrowRight") {
+											e.preventDefault()
+										}
+									}}
 									placeholder="İsteğe bağlı..."
 									min={1}
 									max={result?.arabic?.arabicResult.length}
@@ -306,9 +311,10 @@ export default function SurahFilter({ isSidebarOpen }) {
 					)}
 
 					{searchLoading && <p className="text-gray-500"></p>}
-					{!searchLoading && searchTerm && searchStarted && filteredAyats.length === 0 && (
+					{!searchLoading && searchedTerm && searchStarted && filteredAyats.length === 0 && (
 						<p className="text-gray-500 text-center">Aradığınız kelimeye uygun ayet bulunamadı.</p>
 					)}
+
 					{!searchLoading &&
 						filteredAyats.length > 0 &&
 						filteredAyats.map((ayah, index) => (
@@ -327,17 +333,16 @@ export default function SurahFilter({ isSidebarOpen }) {
 			{!loading && result && !error && (
 				<div className={`flex ${isSidebarOpen ? "justify-end" : "justify-center"} ${isSidebarOpen ? "mr-20" : ""} cards`}>
 					<div className="mb-10">
-						{selectedAyah && selectedAyah <= result?.arabic?.arabicResult.length && (
+						{selectedAyah && selectedAyah <= result?.arabic?.arabicResult?.length && (
 							<div className="flex justify-center">
 								<div className={`w-full max-w-2xl mr-6 text-end`}>
-									{/* Geri butonu sadece ilk ayette değilse göster */}
 									{selectedAyah > 1 && (
 										<button className="border p-1 cursor-pointer" onClick={handlePreviousAyah}>
 											<PiArrowFatLineLeftLight />
 										</button>
 									)}
 									{/* İleri butonu sadece son ayette değilse göster */}
-									{selectedAyah < result?.arabic?.arabicResult.length && (
+									{selectedAyah < result?.arabic?.arabicResult?.length && (
 										<button className="border p-1 cursor-pointer ml-2" onClick={handleNextAyah}>
 											<PiArrowFatLineRightLight />
 										</button>
@@ -345,8 +350,36 @@ export default function SurahFilter({ isSidebarOpen }) {
 								</div>
 							</div>
 						)}
-
 						{selectedAyah ? (
+							selectedAyah <= result?.arabic?.arabicResult?.length ? (
+								<AyahCard
+									ayah={result.arabic.arabicResult[selectedAyah - 1]}
+									meal={result.meal.turkishResult[selectedAyah - 1]}
+									surahNumber={result.arabic.surahNumber}
+									surahName={result.arabic.surahNameTr}
+									copyToClipboard={copyToClipboard}
+									clicked={clicked}
+									mealOwner={mealOwner}
+								/>
+							) : (
+								<p>Geçersiz ayet numarası.</p>
+							)
+						) : !searchedTerm ? ( // Eğer searchTerm yoksa çalışsın
+							result?.arabic?.arabicResult?.map((ayah, index) => (
+								<AyahCard
+									key={ayah.ayahNumber}
+									ayah={ayah}
+									meal={result.meal.turkishResult[index]}
+									surahNumber={result.arabic.surahNumber}
+									surahName={result.arabic.surahNameTr}
+									copyToClipboard={copyToClipboard}
+									clicked={clicked}
+									mealOwner={mealOwner}
+								/>
+							))
+						) : null}
+
+						{/* {selectedAyah ? (
 							selectedAyah <= result?.arabic?.arabicResult?.length ? (
 								<AyahCard
 									ayah={result.arabic.arabicResult[selectedAyah - 1]}
@@ -373,7 +406,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 									mealOwner={mealOwner}
 								/>
 							))
-						)}
+						)} */}
 					</div>
 				</div>
 			)}
