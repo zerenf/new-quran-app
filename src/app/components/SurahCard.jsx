@@ -23,8 +23,8 @@ const SurahCard = ({ surah, toggleSidebar }) => {
 		fetchData(surah.name, selectedMeal)
 	}
 
-	console.log("result:", result)
-	console.log("selectedSurah:", selectedSurah)
+	// console.log("result:", result)
+	// console.log("selectedSurah:", selectedSurah)
 
 	return (
 		<div

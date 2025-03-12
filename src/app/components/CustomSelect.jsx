@@ -6,10 +6,16 @@ const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholde
 	const [searchQuery, setSearchQuery] = useState("")
 	const [inputFocused, setInputFocused] = useState(false)
 
-	const { setSearchResult, setSelectedMeal } = useQuranStore()
+	const { setSearchResult, setSelectedMeal, selectedMeal } = useQuranStore()
 
 	// Arama terimine göre filtreleme
 	const filteredOptions = options.filter((option) => option.toLowerCase().includes(searchQuery.toLowerCase()))
+
+	const searchFunc = async (option) => {
+		setSelectedMeal(option)
+		console.log("selectedMeal:", selectedMeal)
+		handleSearch()
+	}
 
 	return (
 		<div className="custom-select-container">
@@ -57,9 +63,9 @@ const CustomSelect = ({ handleSearch, options, selected, setSelected, placeholde
 								<li
 									key={index}
 									onClick={() => {
-										setSelected(option)
+										searchFunc(option)
+										// setSelectedMeal(option)
 										setIsOpen(false)
-										handleSearch()
 									}}
 									style={{
 										backgroundColor: selected === option ? "#f0f0f0" : "white",

@@ -140,7 +140,7 @@ const useQuranStore = create((set, get) => ({
 			const { data } = await axios.get(url)
 			if (data.success) {
 				setSearchResult(data.data)
-				console.log("data.data:", data.data)
+				// console.log("data.data:", data.data)
 				setError(null)
 			} else {
 				setError(data.error)

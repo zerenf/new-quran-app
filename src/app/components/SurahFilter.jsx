@@ -223,7 +223,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 	// const currentAyah = result?.arabic?.arabicResult?.[selectedAyah - 1]
 	// console.log("currentAyah:", currentAyah)
 	// console.log("selectedAyah:", selectedAyah)
-	console.log("selectedMeal:", selectedMeal)
+	// console.log("selectedMeal:", selectedMeal)
 
 	return (
 		<>
@@ -245,7 +245,7 @@ export default function SurahFilter({ isSidebarOpen }) {
 								<CustomSelect
 									options={mealsOwners}
 									selected={selectedMeal}
-									setSelected={setSelectedMeal}
+									// setSelected={setSelectedMeal}
 									setSearchLoading={setSearchLoading}
 									placeholder="Opsiyonel"
 									setSearchTerm={setSearchTerm}
